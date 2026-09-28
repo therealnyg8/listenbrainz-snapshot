@@ -1,0 +1,38 @@
+name: Refresh ListenBrainz snapshot
+on:
+  schedule:
+    - cron: '23 9 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - snapshot.py
+      - test_snapshot.py
+      - .github/workflows/snapshot.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: listenbrainz-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Run regression tests
+        run: python3 -m unittest -v
+      - name: Fetch public listens
+        run: python3 snapshot.py
+      - name: Commit refreshed snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add therealnyg8.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh public ListenBrainz snapshot"
+            git push
+          fi
