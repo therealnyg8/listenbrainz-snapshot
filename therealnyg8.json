@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-09-28T01:10:35Z",
+  "generated_at_utc": "2026-09-28T17:43:16Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-06-30T01:10:35Z",
-    "through_utc": "2026-09-28T01:10:35Z",
+    "from_utc": "2026-06-30T17:43:16Z",
+    "through_utc": "2026-09-28T17:43:16Z",
     "complete": true,
     "pages_fetched": 1,
     "max_pages": 10,
-    "raw_listen_count": 917,
-    "deduplicated_listen_count": 856,
-    "duplicates_removed": 61,
+    "raw_listen_count": 923,
+    "deduplicated_listen_count": 859,
+    "duplicates_removed": 64,
     "oldest_listen_utc": "2026-06-30T17:45:05Z",
-    "newest_listen_utc": "2026-09-27T23:08:27Z"
+    "newest_listen_utc": "2026-09-28T12:55:47Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,9 +28,9 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 86,
-      "unique_artists": 22,
-      "unique_albums": 23,
+      "listen_count": 89,
+      "unique_artists": 23,
+      "unique_albums": 25,
       "listens_without_album": 0,
       "artists": [
         {
@@ -56,6 +56,10 @@
         {
           "artist": "Hank Mobley",
           "listen_count": 6
+        },
+        {
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+          "listen_count": 3
         },
         {
           "artist": "מיכאל סוויסה וסלימפים",
@@ -173,6 +177,13 @@
           "last_listened_at_utc": "2026-09-22T12:44:22Z"
         },
         {
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+          "album": "Compassion",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-09-28T12:55:47Z"
+        },
+        {
           "artist": "Ahmad Jamal",
           "album": "Ahmad's Blues",
           "listen_count": 1,
@@ -278,6 +289,13 @@
           "last_listened_at_utc": "2026-09-27T22:34:44Z"
         },
         {
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+          "album": "Uneasy",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-28T12:46:53Z"
+        },
+        {
           "artist": "Yellow Magic Orchestra",
           "album": "Solid State Survivor",
           "listen_count": 1,
@@ -287,9 +305,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 553,
-      "unique_artists": 77,
-      "unique_albums": 99,
+      "listen_count": 556,
+      "unique_artists": 78,
+      "unique_albums": 101,
       "listens_without_album": 0,
       "artists": [
         {
@@ -414,6 +432,10 @@
         },
         {
           "artist": "Miles Davis",
+          "listen_count": 3
+        },
+        {
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
           "listen_count": 3
         },
         {
@@ -946,6 +968,13 @@
           "last_listened_at_utc": "2026-09-05T22:22:21Z"
         },
         {
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+          "album": "Compassion",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-09-28T12:55:47Z"
+        },
+        {
           "artist": "ברי סחרוף",
           "album": "נגיעות",
           "listen_count": 2,
@@ -1219,6 +1248,13 @@
           "last_listened_at_utc": "2026-09-18T22:37:59Z"
         },
         {
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+          "album": "Uneasy",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-28T12:46:53Z"
+        },
+        {
           "artist": "Will Vinson Gilad Hekselman Antonio Sánchez",
           "album": "Trio Grande: Urban Myth",
           "listen_count": 1,
@@ -1298,9 +1334,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 856,
-      "unique_artists": 130,
-      "unique_albums": 178,
+      "listen_count": 859,
+      "unique_artists": 131,
+      "unique_albums": 180,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1481,6 +1517,10 @@
         },
         {
           "artist": "Oasis",
+          "listen_count": 3
+        },
+        {
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
           "listen_count": 3
         },
         {
@@ -2358,6 +2398,13 @@
           "last_listened_at_utc": "2026-07-26T23:57:00Z"
         },
         {
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+          "album": "Compassion",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-09-28T12:55:47Z"
+        },
+        {
           "artist": "ברי סחרוף",
           "album": "נגיעות",
           "listen_count": 2,
@@ -2995,6 +3042,13 @@
           "last_listened_at_utc": "2026-07-26T22:58:06Z"
         },
         {
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+          "album": "Uneasy",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-28T12:46:53Z"
+        },
+        {
           "artist": "Will Vinson Gilad Hekselman Antonio Sánchez",
           "album": "Trio Grande: Urban Myth",
           "listen_count": 1,
@@ -3075,6 +3129,69 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1790600147,
+      "listened_at_utc": "2026-09-28T12:55:47Z",
+      "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+      "track": "Arch",
+      "album": "Compassion",
+      "musicbrainz": {
+        "artist_mbids": [
+          "ba2ff5ad-b5a4-499b-aac1-b31fd093112b",
+          "9960b51b-f542-419a-b77f-418432a71f96",
+          "25bb66e5-5010-44de-ac1f-7c431e124eeb"
+        ],
+        "recording_mbid": "05280881-5bcc-48b2-bc5c-21d1edf65fa0",
+        "release_mbid": "91c121a9-944a-4bd0-8084-b4b55ec1da88",
+        "release_group_mbid": "dd41ca0b-2ecf-432c-8867-62e50e2bcf34"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790599905,
+      "listened_at_utc": "2026-09-28T12:51:45Z",
+      "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+      "track": "Compassion",
+      "album": "Compassion",
+      "musicbrainz": {
+        "artist_mbids": [
+          "ba2ff5ad-b5a4-499b-aac1-b31fd093112b",
+          "9960b51b-f542-419a-b77f-418432a71f96",
+          "25bb66e5-5010-44de-ac1f-7c431e124eeb"
+        ],
+        "recording_mbid": "bd45a9db-ebba-40bc-bcbb-c84c80745b43",
+        "release_mbid": "91c121a9-944a-4bd0-8084-b4b55ec1da88",
+        "release_group_mbid": "dd41ca0b-2ecf-432c-8867-62e50e2bcf34"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790599613,
+      "listened_at_utc": "2026-09-28T12:46:53Z",
+      "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+      "track": "Children Of Flint",
+      "album": "Uneasy",
+      "musicbrainz": {
+        "artist_mbids": [
+          "ba2ff5ad-b5a4-499b-aac1-b31fd093112b",
+          "9960b51b-f542-419a-b77f-418432a71f96",
+          "25bb66e5-5010-44de-ac1f-7c431e124eeb"
+        ],
+        "recording_mbid": "f3fae488-33da-4a59-a710-325a33e34289",
+        "release_mbid": "d6f3d458-81af-42dd-b7ab-554faeb95999",
+        "release_group_mbid": "b72e71e8-6a11-4434-b3c9-24188e775d2e"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1790550507,
       "listened_at_utc": "2026-09-27T23:08:27Z",
