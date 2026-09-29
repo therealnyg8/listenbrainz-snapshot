@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-09-28T17:43:16Z",
+  "generated_at_utc": "2026-09-29T15:59:38Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-06-30T17:43:16Z",
-    "through_utc": "2026-09-28T17:43:16Z",
+    "from_utc": "2026-07-01T15:59:38Z",
+    "through_utc": "2026-09-29T15:59:38Z",
     "complete": true,
     "pages_fetched": 1,
     "max_pages": 10,
-    "raw_listen_count": 923,
-    "deduplicated_listen_count": 859,
-    "duplicates_removed": 64,
-    "oldest_listen_utc": "2026-06-30T17:45:05Z",
-    "newest_listen_utc": "2026-09-28T12:55:47Z"
+    "raw_listen_count": 914,
+    "deduplicated_listen_count": 846,
+    "duplicates_removed": 68,
+    "oldest_listen_utc": "2026-07-01T19:52:42Z",
+    "newest_listen_utc": "2026-09-29T12:43:49Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -62,11 +62,15 @@
           "listen_count": 3
         },
         {
-          "artist": "מיכאל סוויסה וסלימפים",
-          "listen_count": 3
+          "artist": "Ahmad Jamal",
+          "listen_count": 2
         },
         {
-          "artist": "Ahmad Jamal",
+          "artist": "Cornelius",
+          "listen_count": 2
+        },
+        {
+          "artist": "שב״ק ס׳",
           "listen_count": 2
         },
         {
@@ -83,10 +87,6 @@
         },
         {
           "artist": "Eric Dolphy",
-          "listen_count": 1
-        },
-        {
-          "artist": "Ezra Collective",
           "listen_count": 1
         },
         {
@@ -170,11 +170,11 @@
           "last_listened_at_utc": "2026-09-27T23:08:27Z"
         },
         {
-          "artist": "מיכאל סוויסה וסלימפים",
-          "album": "עזים על עצים",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-22T12:44:22Z"
+          "artist": "Cornelius",
+          "album": "REFRACTIONS",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-29T12:36:48Z"
         },
         {
           "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
@@ -182,6 +182,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-09-28T12:55:47Z"
+        },
+        {
+          "artist": "שב״ק ס׳",
+          "album": "שבק ס",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-09-29T12:43:49Z"
         },
         {
           "artist": "Ahmad Jamal",
@@ -224,13 +231,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-27T22:14:28Z"
-        },
-        {
-          "artist": "Ezra Collective",
-          "album": "Here Because of Hope",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-21T18:15:32Z"
         },
         {
           "artist": "Gonzalo Rubalcaba, Ron Carter & Jack DeJohnette",
@@ -305,9 +305,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 556,
-      "unique_artists": 78,
-      "unique_albums": 101,
+      "listen_count": 560,
+      "unique_artists": 79,
+      "unique_albums": 102,
       "listens_without_album": 0,
       "artists": [
         {
@@ -407,6 +407,10 @@
           "listen_count": 5
         },
         {
+          "artist": "שב״ק ס׳",
+          "listen_count": 5
+        },
+        {
           "artist": "NuNu",
           "listen_count": 4
         },
@@ -447,15 +451,15 @@
           "listen_count": 3
         },
         {
-          "artist": "שב״ק ס׳",
-          "listen_count": 3
-        },
-        {
           "artist": "Ahmad Jamal",
           "listen_count": 2
         },
         {
           "artist": "Bill Evans Trio",
+          "listen_count": 2
+        },
+        {
+          "artist": "Cornelius",
           "listen_count": 2
         },
         {
@@ -856,6 +860,13 @@
           "last_listened_at_utc": "2026-09-18T22:17:54Z"
         },
         {
+          "artist": "שב״ק ס׳",
+          "album": "שבק ס",
+          "listen_count": 5,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-09-29T12:43:49Z"
+        },
+        {
           "artist": "NuNu",
           "album": "הגנוז",
           "listen_count": 4,
@@ -947,18 +958,18 @@
           "last_listened_at_utc": "2026-09-22T12:44:22Z"
         },
         {
-          "artist": "שב״ק ס׳",
-          "album": "שבק ס",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-06T22:31:36Z"
-        },
-        {
           "artist": "Bill Evans & Jim Hall",
           "album": "Intermodulation",
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-09-07T18:37:47Z"
+        },
+        {
+          "artist": "Cornelius",
+          "album": "REFRACTIONS",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-29T12:36:48Z"
         },
         {
           "artist": "Cory Wong & Joshua Redman",
@@ -1334,9 +1345,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 859,
-      "unique_artists": 131,
-      "unique_albums": 180,
+      "listen_count": 846,
+      "unique_artists": 132,
+      "unique_albums": 181,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1345,7 +1356,7 @@
         },
         {
           "artist": "Julian Lage",
-          "listen_count": 86
+          "listen_count": 70
         },
         {
           "artist": "רביד פלוטניק",
@@ -1396,12 +1407,12 @@
           "listen_count": 16
         },
         {
-          "artist": "Bill Evans & Jim Hall",
+          "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
           "listen_count": 15
         },
         {
-          "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
-          "listen_count": 15
+          "artist": "Bill Evans & Jim Hall",
+          "listen_count": 14
         },
         {
           "artist": "Bill Evans Trio",
@@ -1484,6 +1495,10 @@
           "listen_count": 5
         },
         {
+          "artist": "שב״ק ס׳",
+          "listen_count": 5
+        },
+        {
           "artist": "Isao Suzuki Sextet",
           "listen_count": 4
         },
@@ -1532,10 +1547,6 @@
           "listen_count": 3
         },
         {
-          "artist": "שב״ק ס׳",
-          "listen_count": 3
-        },
-        {
           "artist": "Ahmad Jamal",
           "listen_count": 2
         },
@@ -1557,6 +1568,10 @@
         },
         {
           "artist": "Charles Lloyd",
+          "listen_count": 2
+        },
+        {
+          "artist": "Cornelius",
           "listen_count": 2
         },
         {
@@ -1875,7 +1890,7 @@
         {
           "artist": "Julian Lage",
           "album": "Scenes from Above",
-          "listen_count": 39,
+          "listen_count": 35,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-07-24T19:49:01Z"
         },
@@ -1936,13 +1951,6 @@
           "last_listened_at_utc": "2026-09-11T19:57:55Z"
         },
         {
-          "artist": "Julian Lage",
-          "album": "Speak To Me",
-          "listen_count": 18,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-09-16T23:11:55Z"
-        },
-        {
           "artist": "טונה",
           "album": "קיסריה אנפלאגד 2022",
           "listen_count": 18,
@@ -1999,18 +2007,18 @@
           "last_listened_at_utc": "2026-09-07T22:52:31Z"
         },
         {
-          "artist": "Bill Evans & Jim Hall",
-          "album": "Undercurrent",
-          "listen_count": 13,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-07T22:40:29Z"
-        },
-        {
           "artist": "Richard & Linda Thompson",
           "album": "I Want To See The Bright Lights Tonight",
           "listen_count": 13,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-09-26T21:06:07Z"
+        },
+        {
+          "artist": "Bill Evans & Jim Hall",
+          "album": "Undercurrent",
+          "listen_count": 12,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-09-07T22:40:29Z"
         },
         {
           "artist": "Bob Dylan",
@@ -2160,6 +2168,13 @@
           "last_listened_at_utc": "2026-09-27T23:08:27Z"
         },
         {
+          "artist": "Julian Lage",
+          "album": "Speak To Me",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-09-16T23:11:55Z"
+        },
+        {
           "artist": "Shabak Samech",
           "album": "כנען 2000",
           "listen_count": 6,
@@ -2207,6 +2222,13 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-07-12T22:26:11Z"
+        },
+        {
+          "artist": "שב״ק ס׳",
+          "album": "שבק ס",
+          "listen_count": 5,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-09-29T12:43:49Z"
         },
         {
           "artist": "Isao Suzuki Sextet",
@@ -2300,13 +2322,6 @@
           "last_listened_at_utc": "2026-09-22T12:44:22Z"
         },
         {
-          "artist": "שב״ק ס׳",
-          "album": "שבק ס",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-06T22:31:36Z"
-        },
-        {
           "artist": "Bill Evans & Jim Hall",
           "album": "Intermodulation",
           "listen_count": 2,
@@ -2347,6 +2362,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-07-26T23:33:53Z"
+        },
+        {
+          "artist": "Cornelius",
+          "album": "REFRACTIONS",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-29T12:36:48Z"
         },
         {
           "artist": "Cory Wong & Joshua Redman",
@@ -3129,6 +3151,82 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1790685829,
+      "listened_at_utc": "2026-09-29T12:43:49Z",
+      "artist": "שב״ק ס׳",
+      "track": "המדינה בלהבות",
+      "album": "שבק ס",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5efcb54f-be7f-4596-999c-a5eeb7e6dded"
+        ],
+        "recording_mbid": "62bd74a8-5d77-4df1-8f6c-667cfbd81ca4",
+        "release_mbid": "e0b8327e-9f81-44c8-a999-f03b08602068",
+        "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790685614,
+      "listened_at_utc": "2026-09-29T12:40:14Z",
+      "artist": "שב״ק ס׳",
+      "track": "אימפריה",
+      "album": "שבק ס",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5efcb54f-be7f-4596-999c-a5eeb7e6dded"
+        ],
+        "recording_mbid": "56b71408-1065-4865-9038-2bf40a2e0045",
+        "release_mbid": "e0b8327e-9f81-44c8-a999-f03b08602068",
+        "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790685408,
+      "listened_at_utc": "2026-09-29T12:36:48Z",
+      "artist": "Cornelius",
+      "track": "Refractions",
+      "album": "REFRACTIONS",
+      "musicbrainz": {
+        "artist_mbids": [
+          "df765d93-621c-437f-99fe-fda9e135f89a"
+        ],
+        "recording_mbid": "101cc5bb-cf6d-4064-8142-1058edab84bb",
+        "release_mbid": "6c3346c0-c16d-4951-b943-e8fe39cfff37",
+        "release_group_mbid": "f61e4b5a-c61b-4138-b562-0f3d20fbd1d2"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790685341,
+      "listened_at_utc": "2026-09-29T12:35:41Z",
+      "artist": "Cornelius",
+      "track": "Refractions",
+      "album": "REFRACTIONS",
+      "musicbrainz": {
+        "artist_mbids": [
+          "df765d93-621c-437f-99fe-fda9e135f89a"
+        ],
+        "recording_mbid": "101cc5bb-cf6d-4064-8142-1058edab84bb",
+        "release_mbid": "6c3346c0-c16d-4951-b943-e8fe39cfff37",
+        "release_group_mbid": "f61e4b5a-c61b-4138-b562-0f3d20fbd1d2"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1790600147,
       "listened_at_utc": "2026-09-28T12:55:47Z",
@@ -17528,325 +17626,6 @@
         "recording_mbid": "0ce8c3fb-1439-4827-a967-fc90fd5d410f",
         "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
         "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782919573,
-      "listened_at_utc": "2026-07-01T15:26:13Z",
-      "artist": "Julian Lage",
-      "track": "Havens",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "50b95f0c-f9ec-4c8f-a5f5-e9f1a95c9db1",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782919262,
-      "listened_at_utc": "2026-07-01T15:21:02Z",
-      "artist": "Julian Lage",
-      "track": "Talking Drum",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "62ff54ed-1f44-4c51-9733-df462b56ae80",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782918975,
-      "listened_at_utc": "2026-07-01T15:16:15Z",
-      "artist": "Julian Lage",
-      "track": "Red Elm",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "6d7c3754-94f0-432e-83a9-3cc509ef7abd",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782918726,
-      "listened_at_utc": "2026-07-01T15:12:06Z",
-      "artist": "Julian Lage",
-      "track": "Opal",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "22f76943-da55-41d1-b3ed-0aac28a2dfb8",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782918471,
-      "listened_at_utc": "2026-07-01T15:07:51Z",
-      "artist": "Julian Lage",
-      "track": "Nothing Happens Here",
-      "album": "Speak To Me",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "50db07a3-e57a-404d-979f-63242d81ebe7",
-        "release_mbid": "ad5e8247-7dbf-4699-a279-3be42f29b0d6",
-        "release_group_mbid": "c2faac6d-85ca-4d6b-9b34-514065aa5772"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782918195,
-      "listened_at_utc": "2026-07-01T15:03:15Z",
-      "artist": "Julian Lage",
-      "track": "76",
-      "album": "Speak To Me",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "0cdb5aed-75a5-4f68-b4f7-01770150fd67",
-        "release_mbid": "ad5e8247-7dbf-4699-a279-3be42f29b0d6",
-        "release_group_mbid": "c2faac6d-85ca-4d6b-9b34-514065aa5772"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782917887,
-      "listened_at_utc": "2026-07-01T14:58:07Z",
-      "artist": "Julian Lage",
-      "track": "As It Were",
-      "album": "Speak To Me",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "632239b9-0bae-41ed-b7db-9707a3e615f7",
-        "release_mbid": "ad5e8247-7dbf-4699-a279-3be42f29b0d6",
-        "release_group_mbid": "c2faac6d-85ca-4d6b-9b34-514065aa5772"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782917622,
-      "listened_at_utc": "2026-07-01T14:53:42Z",
-      "artist": "Julian Lage",
-      "track": "Tiburon",
-      "album": "Speak To Me",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "83a4a803-85d7-4e9c-9598-31e903346e47",
-        "release_mbid": "ad5e8247-7dbf-4699-a279-3be42f29b0d6",
-        "release_group_mbid": "c2faac6d-85ca-4d6b-9b34-514065aa5772"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782917355,
-      "listened_at_utc": "2026-07-01T14:49:15Z",
-      "artist": "Julian Lage",
-      "track": "Vanishing Points",
-      "album": "Speak To Me",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "e8c7e43d-231b-412d-972d-9fda1029cfbc",
-        "release_mbid": "ad5e8247-7dbf-4699-a279-3be42f29b0d6",
-        "release_group_mbid": "c2faac6d-85ca-4d6b-9b34-514065aa5772"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782860930,
-      "listened_at_utc": "2026-06-30T23:08:50Z",
-      "artist": "Bill Evans & Jim Hall",
-      "track": "My Funny Valentine",
-      "album": "Undercurrent",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8247a3f2-3a8e-4256-b322-6c57b03a4e36",
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "73149634-1b0e-433b-b355-35b448484116",
-        "release_mbid": "84e6d5c6-e851-4516-903b-7fcc98a9ee00",
-        "release_group_mbid": "cf24f192-7cfc-3413-a80d-390b523dfbca"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782844322,
-      "listened_at_utc": "2026-06-30T18:32:02Z",
-      "artist": "Julian Lage",
-      "track": "Two And One",
-      "album": "Speak To Me",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "b0240df1-514c-4bce-88aa-5d09708eeb47",
-        "release_mbid": "ad5e8247-7dbf-4699-a279-3be42f29b0d6",
-        "release_group_mbid": "c2faac6d-85ca-4d6b-9b34-514065aa5772"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782844062,
-      "listened_at_utc": "2026-06-30T18:27:42Z",
-      "artist": "Julian Lage",
-      "track": "Speak To Me",
-      "album": "Speak To Me",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "4ebe1579-18a3-4205-a18e-92c7e10ad645",
-        "release_mbid": "ad5e8247-7dbf-4699-a279-3be42f29b0d6",
-        "release_group_mbid": "c2faac6d-85ca-4d6b-9b34-514065aa5772"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782843747,
-      "listened_at_utc": "2026-06-30T18:22:27Z",
-      "artist": "Julian Lage",
-      "track": "South Mountain",
-      "album": "Speak To Me",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "d5834aab-8755-4ee9-8adc-ff6e6292f9f5",
-        "release_mbid": "ad5e8247-7dbf-4699-a279-3be42f29b0d6",
-        "release_group_mbid": "c2faac6d-85ca-4d6b-9b34-514065aa5772"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782843386,
-      "listened_at_utc": "2026-06-30T18:16:26Z",
-      "artist": "Julian Lage",
-      "track": "Myself Around You",
-      "album": "Speak To Me",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "b66f9228-903e-4f8a-92fe-1084ba59b59c",
-        "release_mbid": "ad5e8247-7dbf-4699-a279-3be42f29b0d6",
-        "release_group_mbid": "c2faac6d-85ca-4d6b-9b34-514065aa5772"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782842013,
-      "listened_at_utc": "2026-06-30T17:53:33Z",
-      "artist": "Julian Lage",
-      "track": "Omission",
-      "album": "Speak To Me",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "05269087-15d0-499d-a147-4220f27606c1",
-        "release_mbid": "ad5e8247-7dbf-4699-a279-3be42f29b0d6",
-        "release_group_mbid": "c2faac6d-85ca-4d6b-9b34-514065aa5772"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782841647,
-      "listened_at_utc": "2026-06-30T17:47:27Z",
-      "artist": "Julian Lage",
-      "track": "Northern Shuffle",
-      "album": "Speak To Me",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "566be335-c37e-4ddf-a9a4-e5db19b3fbd9",
-        "release_mbid": "ad5e8247-7dbf-4699-a279-3be42f29b0d6",
-        "release_group_mbid": "c2faac6d-85ca-4d6b-9b34-514065aa5772"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782841505,
-      "listened_at_utc": "2026-06-30T17:45:05Z",
-      "artist": "Julian Lage",
-      "track": "Hymnal",
-      "album": "Speak To Me",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "c4cbfa4b-d341-4f7b-99b5-2fb201616c53",
-        "release_mbid": "ad5e8247-7dbf-4699-a279-3be42f29b0d6",
-        "release_group_mbid": "c2faac6d-85ca-4d6b-9b34-514065aa5772"
       },
       "submission_clients": [
         "ListenBrainz lastfm importer v2"
