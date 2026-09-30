@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-09-29T15:59:38Z",
+  "generated_at_utc": "2026-09-30T15:58:45Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-01T15:59:38Z",
-    "through_utc": "2026-09-29T15:59:38Z",
+    "from_utc": "2026-07-02T15:58:45Z",
+    "through_utc": "2026-09-30T15:58:45Z",
     "complete": true,
     "pages_fetched": 1,
     "max_pages": 10,
-    "raw_listen_count": 914,
-    "deduplicated_listen_count": 846,
-    "duplicates_removed": 68,
-    "oldest_listen_utc": "2026-07-01T19:52:42Z",
-    "newest_listen_utc": "2026-09-29T12:43:49Z"
+    "raw_listen_count": 977,
+    "deduplicated_listen_count": 869,
+    "duplicates_removed": 108,
+    "oldest_listen_utc": "2026-07-05T19:04:46Z",
+    "newest_listen_utc": "2026-09-30T12:43:53Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,9 +28,9 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 89,
-      "unique_artists": 23,
-      "unique_albums": 25,
+      "listen_count": 129,
+      "unique_artists": 29,
+      "unique_albums": 31,
       "listens_without_album": 0,
       "artists": [
         {
@@ -38,7 +38,15 @@
           "listen_count": 21
         },
         {
+          "artist": "青葉市子",
+          "listen_count": 14
+        },
+        {
           "artist": "Richard & Linda Thompson",
+          "listen_count": 13
+        },
+        {
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
           "listen_count": 13
         },
         {
@@ -58,11 +66,23 @@
           "listen_count": 6
         },
         {
-          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+          "artist": "The Fred Hersch Trio",
+          "listen_count": 5
+        },
+        {
+          "artist": "Tord Gustavsen Trio",
+          "listen_count": 5
+        },
+        {
+          "artist": "טונה",
           "listen_count": 3
         },
         {
           "artist": "Ahmad Jamal",
+          "listen_count": 2
+        },
+        {
+          "artist": "Avishai Cohen Trio",
           "listen_count": 2
         },
         {
@@ -118,6 +138,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Smerz",
+          "listen_count": 1
+        },
+        {
           "artist": "The Ahmad Jamal Trio",
           "listen_count": 1
         },
@@ -135,11 +159,25 @@
           "last_listened_at_utc": "2026-09-27T21:34:44Z"
         },
         {
+          "artist": "青葉市子",
+          "album": "Windswept Adan",
+          "listen_count": 14,
+          "unique_tracks": 14,
+          "last_listened_at_utc": "2026-09-29T22:48:47Z"
+        },
+        {
           "artist": "Richard & Linda Thompson",
           "album": "I Want To See The Bright Lights Tonight",
           "listen_count": 13,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-09-26T21:06:07Z"
+        },
+        {
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+          "album": "Compassion",
+          "listen_count": 12,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-09-29T19:43:36Z"
         },
         {
           "artist": "Haruomi Hosono",
@@ -170,18 +208,39 @@
           "last_listened_at_utc": "2026-09-27T23:08:27Z"
         },
         {
+          "artist": "The Fred Hersch Trio",
+          "album": "Sunday Night at the Vanguard",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-09-29T20:47:09Z"
+        },
+        {
+          "artist": "Tord Gustavsen Trio",
+          "album": "The Ground",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-09-29T20:16:34Z"
+        },
+        {
+          "artist": "טונה",
+          "album": "מזרח פרוע",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-09-30T12:43:53Z"
+        },
+        {
+          "artist": "Avishai Cohen Trio",
+          "album": "Gently Disturbed",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-09-29T23:01:28Z"
+        },
+        {
           "artist": "Cornelius",
           "album": "REFRACTIONS",
           "listen_count": 2,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-29T12:36:48Z"
-        },
-        {
-          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
-          "album": "Compassion",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-09-28T12:55:47Z"
         },
         {
           "artist": "שב״ק ס׳",
@@ -282,6 +341,13 @@
           "last_listened_at_utc": "2026-09-27T22:29:46Z"
         },
         {
+          "artist": "Smerz",
+          "album": "Big city life EDITS",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-29T22:54:57Z"
+        },
+        {
           "artist": "The Ahmad Jamal Trio",
           "album": "The Complete Ahmad Jamal Trio Argo Sessions 1956-62",
           "listen_count": 1,
@@ -305,14 +371,14 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 560,
-      "unique_artists": 79,
-      "unique_albums": 102,
+      "listen_count": 600,
+      "unique_artists": 84,
+      "unique_albums": 107,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "טונה",
-          "listen_count": 126
+          "listen_count": 129
         },
         {
           "artist": "רביד פלוטניק",
@@ -347,11 +413,19 @@
           "listen_count": 16
         },
         {
+          "artist": "青葉市子",
+          "listen_count": 14
+        },
+        {
           "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
           "listen_count": 13
         },
         {
           "artist": "Richard & Linda Thompson",
+          "listen_count": 13
+        },
+        {
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
           "listen_count": 13
         },
         {
@@ -407,6 +481,14 @@
           "listen_count": 5
         },
         {
+          "artist": "The Fred Hersch Trio",
+          "listen_count": 5
+        },
+        {
+          "artist": "Tord Gustavsen Trio",
+          "listen_count": 5
+        },
+        {
           "artist": "שב״ק ס׳",
           "listen_count": 5
         },
@@ -439,10 +521,6 @@
           "listen_count": 3
         },
         {
-          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
-          "listen_count": 3
-        },
-        {
           "artist": "כהן@מושון",
           "listen_count": 3
         },
@@ -452,6 +530,10 @@
         },
         {
           "artist": "Ahmad Jamal",
+          "listen_count": 2
+        },
+        {
+          "artist": "Avishai Cohen Trio",
           "listen_count": 2
         },
         {
@@ -579,6 +661,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Smerz",
+          "listen_count": 1
+        },
+        {
           "artist": "Sting",
           "listen_count": 1
         },
@@ -631,9 +717,9 @@
         {
           "artist": "טונה",
           "album": "מזרח פרוע",
-          "listen_count": 44,
+          "listen_count": 47,
           "unique_tracks": 13,
-          "last_listened_at_utc": "2026-09-13T17:03:56Z"
+          "last_listened_at_utc": "2026-09-30T12:43:53Z"
         },
         {
           "artist": "Mac DeMarco",
@@ -706,6 +792,13 @@
           "last_listened_at_utc": "2026-09-16T20:41:32Z"
         },
         {
+          "artist": "青葉市子",
+          "album": "Windswept Adan",
+          "listen_count": 14,
+          "unique_tracks": 14,
+          "last_listened_at_utc": "2026-09-29T22:48:47Z"
+        },
+        {
           "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
           "album": "Pacific",
           "listen_count": 13,
@@ -725,6 +818,13 @@
           "listen_count": 12,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-09-13T14:39:12Z"
+        },
+        {
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+          "album": "Compassion",
+          "listen_count": 12,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-09-29T19:43:36Z"
         },
         {
           "artist": "עדן דרסו",
@@ -860,6 +960,20 @@
           "last_listened_at_utc": "2026-09-18T22:17:54Z"
         },
         {
+          "artist": "The Fred Hersch Trio",
+          "album": "Sunday Night at the Vanguard",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-09-29T20:47:09Z"
+        },
+        {
+          "artist": "Tord Gustavsen Trio",
+          "album": "The Ground",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-09-29T20:16:34Z"
+        },
+        {
           "artist": "שב״ק ס׳",
           "album": "שבק ס",
           "listen_count": 5,
@@ -958,6 +1072,13 @@
           "last_listened_at_utc": "2026-09-22T12:44:22Z"
         },
         {
+          "artist": "Avishai Cohen Trio",
+          "album": "Gently Disturbed",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-09-29T23:01:28Z"
+        },
+        {
           "artist": "Bill Evans & Jim Hall",
           "album": "Intermodulation",
           "listen_count": 2,
@@ -977,13 +1098,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-09-05T22:22:21Z"
-        },
-        {
-          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
-          "album": "Compassion",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-09-28T12:55:47Z"
         },
         {
           "artist": "ברי סחרוף",
@@ -1238,6 +1352,13 @@
           "last_listened_at_utc": "2026-09-13T14:57:54Z"
         },
         {
+          "artist": "Smerz",
+          "album": "Big city life EDITS",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-29T22:54:57Z"
+        },
+        {
           "artist": "Sting",
           "album": "The Dream Of The Blue Turtles",
           "listen_count": 1,
@@ -1345,18 +1466,18 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 846,
-      "unique_artists": 132,
-      "unique_albums": 181,
+      "listen_count": 869,
+      "unique_artists": 137,
+      "unique_albums": 185,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "טונה",
-          "listen_count": 126
+          "listen_count": 129
         },
         {
           "artist": "Julian Lage",
-          "listen_count": 70
+          "listen_count": 55
         },
         {
           "artist": "רביד פלוטניק",
@@ -1411,7 +1532,7 @@
           "listen_count": 15
         },
         {
-          "artist": "Bill Evans & Jim Hall",
+          "artist": "青葉市子",
           "listen_count": 14
         },
         {
@@ -1421,6 +1542,14 @@
         {
           "artist": "Richard & Linda Thompson",
           "listen_count": 13
+        },
+        {
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+          "listen_count": 13
+        },
+        {
+          "artist": "Bill Evans & Jim Hall",
+          "listen_count": 12
         },
         {
           "artist": "Isao Suzuki Trio / quartet",
@@ -1491,7 +1620,15 @@
           "listen_count": 5
         },
         {
+          "artist": "The Fred Hersch Trio",
+          "listen_count": 5
+        },
+        {
           "artist": "The Jim Hall Trio",
+          "listen_count": 5
+        },
+        {
+          "artist": "Tord Gustavsen Trio",
           "listen_count": 5
         },
         {
@@ -1535,10 +1672,6 @@
           "listen_count": 3
         },
         {
-          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
-          "listen_count": 3
-        },
-        {
           "artist": "כהן@מושון",
           "listen_count": 3
         },
@@ -1548,6 +1681,10 @@
         },
         {
           "artist": "Ahmad Jamal",
+          "listen_count": 2
+        },
+        {
+          "artist": "Avishai Cohen Trio",
           "listen_count": 2
         },
         {
@@ -1791,6 +1928,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Smerz",
+          "listen_count": 1
+        },
+        {
           "artist": "Sonny Stitt",
           "listen_count": 1
         },
@@ -1883,16 +2024,9 @@
         {
           "artist": "טונה",
           "album": "מזרח פרוע",
-          "listen_count": 44,
+          "listen_count": 47,
           "unique_tracks": 13,
-          "last_listened_at_utc": "2026-09-13T17:03:56Z"
-        },
-        {
-          "artist": "Julian Lage",
-          "album": "Scenes from Above",
-          "listen_count": 35,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-07-24T19:49:01Z"
+          "last_listened_at_utc": "2026-09-30T12:43:53Z"
         },
         {
           "artist": "Mac DeMarco",
@@ -1907,6 +2041,13 @@
           "listen_count": 31,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-09-25T20:34:25Z"
+        },
+        {
+          "artist": "Julian Lage",
+          "album": "Scenes from Above",
+          "listen_count": 31,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-07-24T19:49:01Z"
         },
         {
           "artist": "נצ׳י נצ׳",
@@ -2007,18 +2148,18 @@
           "last_listened_at_utc": "2026-09-07T22:52:31Z"
         },
         {
+          "artist": "青葉市子",
+          "album": "Windswept Adan",
+          "listen_count": 14,
+          "unique_tracks": 14,
+          "last_listened_at_utc": "2026-09-29T22:48:47Z"
+        },
+        {
           "artist": "Richard & Linda Thompson",
           "album": "I Want To See The Bright Lights Tonight",
           "listen_count": 13,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-09-26T21:06:07Z"
-        },
-        {
-          "artist": "Bill Evans & Jim Hall",
-          "album": "Undercurrent",
-          "listen_count": 12,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-07T22:40:29Z"
         },
         {
           "artist": "Bob Dylan",
@@ -2035,11 +2176,11 @@
           "last_listened_at_utc": "2026-09-05T20:40:45Z"
         },
         {
-          "artist": "Julian Lage",
-          "album": "Squint",
-          "listen_count": 11,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-07-01T20:59:28Z"
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+          "album": "Compassion",
+          "listen_count": 12,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-09-29T19:43:36Z"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -2068,6 +2209,13 @@
           "listen_count": 10,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-07-26T16:57:01Z"
+        },
+        {
+          "artist": "Bill Evans & Jim Hall",
+          "album": "Undercurrent",
+          "listen_count": 10,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-09-07T22:40:29Z"
         },
         {
           "artist": "Bob Dylan",
@@ -2217,11 +2365,25 @@
           "last_listened_at_utc": "2026-07-25T13:30:27Z"
         },
         {
+          "artist": "The Fred Hersch Trio",
+          "album": "Sunday Night at the Vanguard",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-09-29T20:47:09Z"
+        },
+        {
           "artist": "The Jim Hall Trio",
           "album": "Jazz Guitar",
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-07-12T22:26:11Z"
+        },
+        {
+          "artist": "Tord Gustavsen Trio",
+          "album": "The Ground",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-09-29T20:16:34Z"
         },
         {
           "artist": "שב״ק ס׳",
@@ -2322,6 +2484,13 @@
           "last_listened_at_utc": "2026-09-22T12:44:22Z"
         },
         {
+          "artist": "Avishai Cohen Trio",
+          "album": "Gently Disturbed",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-09-29T23:01:28Z"
+        },
+        {
           "artist": "Bill Evans & Jim Hall",
           "album": "Intermodulation",
           "listen_count": 2,
@@ -2418,13 +2587,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-07-26T23:57:00Z"
-        },
-        {
-          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
-          "album": "Compassion",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-09-28T12:55:47Z"
         },
         {
           "artist": "ברי סחרוף",
@@ -2931,6 +3093,13 @@
           "last_listened_at_utc": "2026-09-13T14:57:54Z"
         },
         {
+          "artist": "Smerz",
+          "album": "Big city life EDITS",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-29T22:54:57Z"
+        },
+        {
           "artist": "Sonny Rollins",
           "album": "Jazz Must Haves",
           "listen_count": 1,
@@ -3151,6 +3320,781 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1790772233,
+      "listened_at_utc": "2026-09-30T12:43:53Z",
+      "artist": "טונה",
+      "track": "יודעת לסובב",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "ccd8a710-6f36-4e50-addd-5f64d63bbb27",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790772030,
+      "listened_at_utc": "2026-09-30T12:40:30Z",
+      "artist": "טונה",
+      "track": "שובו של מרדכי",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398",
+          "efb391b6-85a5-45d8-a11a-980aeefeb1ce",
+          "01a0e070-c304-49ff-b1c6-62ba3d11e592"
+        ],
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "recording_mbid": "4b4caac8-b65d-4fe5-8035-23bb3a542a76",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790771748,
+      "listened_at_utc": "2026-09-30T12:35:48Z",
+      "artist": "טונה",
+      "track": "כל הכוכבים",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "83e76432-8835-4d62-b0b9-121e2cee01be",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790722888,
+      "listened_at_utc": "2026-09-29T23:01:28Z",
+      "artist": "Avishai Cohen Trio",
+      "track": "Chutzpan",
+      "album": "Gently Disturbed",
+      "musicbrainz": {
+        "artist_mbids": [
+          "05da8a7c-676d-4d8a-a514-e25ee526a98f"
+        ],
+        "recording_mbid": "6f37f1be-bb46-47f3-81ec-8583a0ac6259",
+        "release_mbid": "c4f4d960-cb05-493f-bb79-8cde4a6f6852",
+        "release_group_mbid": "0c622136-257d-411f-ab9e-314541108f98"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790722713,
+      "listened_at_utc": "2026-09-29T22:58:33Z",
+      "artist": "Avishai Cohen Trio",
+      "track": "Seattle",
+      "album": "Gently Disturbed",
+      "musicbrainz": {
+        "artist_mbids": [
+          "05da8a7c-676d-4d8a-a514-e25ee526a98f"
+        ],
+        "recording_mbid": "5732b66a-1ffb-4a82-8f81-6bbf4562a773",
+        "release_mbid": "49fb9e66-158c-4e1e-915c-c9c7f3eb966b",
+        "release_group_mbid": "68001e0a-a670-4973-b77e-6e95df7eb9a7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790722497,
+      "listened_at_utc": "2026-09-29T22:54:57Z",
+      "artist": "Smerz",
+      "track": "You got time and I got money (VVTZJ EDIT)",
+      "album": "Big city life EDITS",
+      "musicbrainz": {
+        "artist_mbids": [
+          "4b913922-5cc8-4d9a-bbd8-19d7f9fa0cd5",
+          "d786f59b-1836-4ddb-8393-ab753edbe984"
+        ],
+        "release_mbid": "82f8019b-52fc-47f0-a3a1-1d9531921c39",
+        "recording_mbid": "d8fb012a-f86a-4cb6-9c2a-2f8067076b1b",
+        "release_group_mbid": "e030d5d6-da5d-4802-88c7-5425921cfaa8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790722127,
+      "listened_at_utc": "2026-09-29T22:48:47Z",
+      "artist": "青葉市子",
+      "track": "Adan no Shima no Tanjyosai",
+      "album": "Windswept Adan",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705"
+        ],
+        "release_mbid": "49b46f8d-9f79-43e3-aed7-4e01c5c11878"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790721903,
+      "listened_at_utc": "2026-09-29T22:45:03Z",
+      "artist": "青葉市子",
+      "track": "ohayashi",
+      "album": "Windswept Adan",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705"
+        ],
+        "recording_mbid": "a5201cb7-7aa2-4dd8-9027-66f40059b7e7",
+        "release_mbid": "24393b25-c9bd-42a7-b7fa-dd81f9b2074c",
+        "release_group_mbid": "21869386-169d-4f43-ae44-972e49f89ed1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790721617,
+      "listened_at_utc": "2026-09-29T22:40:17Z",
+      "artist": "青葉市子",
+      "track": "Dawn in the Adan",
+      "album": "Windswept Adan",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705"
+        ],
+        "recording_mbid": "58a216a0-d2a0-45cd-8dd0-a6f864caf64a",
+        "release_mbid": "24393b25-c9bd-42a7-b7fa-dd81f9b2074c",
+        "release_group_mbid": "21869386-169d-4f43-ae44-972e49f89ed1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790721438,
+      "listened_at_utc": "2026-09-29T22:37:18Z",
+      "artist": "青葉市子",
+      "track": "Hagupit",
+      "album": "Windswept Adan",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705"
+        ],
+        "recording_mbid": "a3866bde-5460-4ab7-9e4f-04b5b4b5b6eb",
+        "release_mbid": "24393b25-c9bd-42a7-b7fa-dd81f9b2074c",
+        "release_group_mbid": "21869386-169d-4f43-ae44-972e49f89ed1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790721210,
+      "listened_at_utc": "2026-09-29T22:33:30Z",
+      "artist": "青葉市子",
+      "track": "Red Silence",
+      "album": "Windswept Adan",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705"
+        ],
+        "release_mbid": "49b46f8d-9f79-43e3-aed7-4e01c5c11878"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790721098,
+      "listened_at_utc": "2026-09-29T22:31:38Z",
+      "artist": "青葉市子",
+      "track": "chinuhaji",
+      "album": "Windswept Adan",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705"
+        ],
+        "recording_mbid": "1e8e5d44-c4ba-44e8-9c11-6a06836a286a",
+        "release_mbid": "24393b25-c9bd-42a7-b7fa-dd81f9b2074c",
+        "release_group_mbid": "21869386-169d-4f43-ae44-972e49f89ed1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790720861,
+      "listened_at_utc": "2026-09-29T22:27:41Z",
+      "artist": "青葉市子",
+      "track": "Sagu Palm's Song",
+      "album": "Windswept Adan",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705"
+        ],
+        "recording_mbid": "66837d4f-95b9-4a54-b358-dda9c9b8007e",
+        "release_mbid": "24393b25-c9bd-42a7-b7fa-dd81f9b2074c",
+        "release_group_mbid": "21869386-169d-4f43-ae44-972e49f89ed1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790720773,
+      "listened_at_utc": "2026-09-29T22:26:13Z",
+      "artist": "青葉市子",
+      "track": "Kirinakijima",
+      "album": "Windswept Adan",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705"
+        ],
+        "release_mbid": "49b46f8d-9f79-43e3-aed7-4e01c5c11878"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790720601,
+      "listened_at_utc": "2026-09-29T22:23:21Z",
+      "artist": "青葉市子",
+      "track": "Parfum d'étoiles",
+      "album": "Windswept Adan",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705"
+        ],
+        "recording_mbid": "44d560bf-2026-43dd-b09d-7960b81253a3",
+        "release_mbid": "24393b25-c9bd-42a7-b7fa-dd81f9b2074c",
+        "release_group_mbid": "21869386-169d-4f43-ae44-972e49f89ed1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790720404,
+      "listened_at_utc": "2026-09-29T22:20:04Z",
+      "artist": "青葉市子",
+      "track": "Easter Lily",
+      "album": "Windswept Adan",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705"
+        ],
+        "recording_mbid": "fe68b05e-4c12-469f-ad71-28221d2205b7",
+        "release_mbid": "24393b25-c9bd-42a7-b7fa-dd81f9b2074c",
+        "release_group_mbid": "21869386-169d-4f43-ae44-972e49f89ed1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790720286,
+      "listened_at_utc": "2026-09-29T22:18:06Z",
+      "artist": "青葉市子",
+      "track": "Horo",
+      "album": "Windswept Adan",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705"
+        ],
+        "release_mbid": "49b46f8d-9f79-43e3-aed7-4e01c5c11878"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790720016,
+      "listened_at_utc": "2026-09-29T22:13:36Z",
+      "artist": "青葉市子",
+      "track": "Porcelain",
+      "album": "Windswept Adan",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705"
+        ],
+        "recording_mbid": "23890b95-6535-426c-a617-bc41788fd7e6",
+        "release_mbid": "24393b25-c9bd-42a7-b7fa-dd81f9b2074c",
+        "release_group_mbid": "21869386-169d-4f43-ae44-972e49f89ed1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790719788,
+      "listened_at_utc": "2026-09-29T22:09:48Z",
+      "artist": "青葉市子",
+      "track": "Pilgrimage",
+      "album": "Windswept Adan",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705"
+        ],
+        "recording_mbid": "63b1fcaf-eab0-4b18-8b01-f5b4d56d7271",
+        "release_mbid": "24393b25-c9bd-42a7-b7fa-dd81f9b2074c",
+        "release_group_mbid": "21869386-169d-4f43-ae44-972e49f89ed1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790719493,
+      "listened_at_utc": "2026-09-29T22:04:53Z",
+      "artist": "青葉市子",
+      "track": "Prologue",
+      "album": "Windswept Adan",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705"
+        ],
+        "recording_mbid": "51a2b063-abb0-43a9-ae63-4c8664b08a6b",
+        "release_mbid": "24393b25-c9bd-42a7-b7fa-dd81f9b2074c",
+        "release_group_mbid": "21869386-169d-4f43-ae44-972e49f89ed1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790714829,
+      "listened_at_utc": "2026-09-29T20:47:09Z",
+      "artist": "The Fred Hersch Trio",
+      "track": "Blackwing Palomino",
+      "album": "Sunday Night at the Vanguard",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b98a0736-05b4-47f6-8add-efcc89f6f1c8"
+        ],
+        "recording_mbid": "1071a96a-bdc6-4d6d-bf68-2355a8f9e561",
+        "release_mbid": "a6f88797-a026-4b2f-90f3-707e2827e146",
+        "release_group_mbid": "eb0450be-e288-42b0-9a6b-3269c452b59b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790714517,
+      "listened_at_utc": "2026-09-29T20:41:57Z",
+      "artist": "The Fred Hersch Trio",
+      "track": "Calligram",
+      "album": "Sunday Night at the Vanguard",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b98a0736-05b4-47f6-8add-efcc89f6f1c8"
+        ],
+        "recording_mbid": "b94f32c0-6d2d-4e59-a72a-0fc07dbd0023",
+        "release_mbid": "a6f88797-a026-4b2f-90f3-707e2827e146",
+        "release_group_mbid": "eb0450be-e288-42b0-9a6b-3269c452b59b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790714203,
+      "listened_at_utc": "2026-09-29T20:36:43Z",
+      "artist": "The Fred Hersch Trio",
+      "track": "The Optimum Thing",
+      "album": "Sunday Night at the Vanguard",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b98a0736-05b4-47f6-8add-efcc89f6f1c8"
+        ],
+        "recording_mbid": "71e320fb-6c20-4862-8a6e-a2d058735af1",
+        "release_mbid": "a6f88797-a026-4b2f-90f3-707e2827e146",
+        "release_group_mbid": "eb0450be-e288-42b0-9a6b-3269c452b59b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790713685,
+      "listened_at_utc": "2026-09-29T20:28:05Z",
+      "artist": "The Fred Hersch Trio",
+      "track": "Serpentine",
+      "album": "Sunday Night at the Vanguard",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b98a0736-05b4-47f6-8add-efcc89f6f1c8"
+        ],
+        "recording_mbid": "84ac15c1-8c28-4604-8185-e7bafe86f816",
+        "release_mbid": "a6f88797-a026-4b2f-90f3-707e2827e146",
+        "release_group_mbid": "eb0450be-e288-42b0-9a6b-3269c452b59b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790713236,
+      "listened_at_utc": "2026-09-29T20:20:36Z",
+      "artist": "The Fred Hersch Trio",
+      "track": "A Cockeyed Optimist",
+      "album": "Sunday Night at the Vanguard",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b98a0736-05b4-47f6-8add-efcc89f6f1c8"
+        ],
+        "recording_mbid": "1ac998a3-dae1-4d59-bc0b-2c42a0633c63",
+        "release_mbid": "a6f88797-a026-4b2f-90f3-707e2827e146",
+        "release_group_mbid": "eb0450be-e288-42b0-9a6b-3269c452b59b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790712994,
+      "listened_at_utc": "2026-09-29T20:16:34Z",
+      "artist": "Tord Gustavsen Trio",
+      "track": "Colours Of Mercy",
+      "album": "The Ground",
+      "musicbrainz": {
+        "artist_mbids": [
+          "02811c5c-3cfc-4354-a116-8a254581ef6e"
+        ],
+        "recording_mbid": "386b05d6-1cc7-4b7e-bbaa-8f06103296d8",
+        "release_mbid": "3093d151-57f4-4e84-b244-eb9203634044",
+        "release_group_mbid": "058e1d29-0926-3be4-a4ac-f05681446231"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790712290,
+      "listened_at_utc": "2026-09-29T20:04:50Z",
+      "artist": "Tord Gustavsen Trio",
+      "track": "Curtains Aside",
+      "album": "The Ground",
+      "musicbrainz": {
+        "artist_mbids": [
+          "02811c5c-3cfc-4354-a116-8a254581ef6e"
+        ],
+        "recording_mbid": "8d131019-b7ec-47eb-b85a-80d457ba1557",
+        "release_mbid": "3093d151-57f4-4e84-b244-eb9203634044",
+        "release_group_mbid": "058e1d29-0926-3be4-a4ac-f05681446231"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790711993,
+      "listened_at_utc": "2026-09-29T19:59:53Z",
+      "artist": "Tord Gustavsen Trio",
+      "track": "Twins",
+      "album": "The Ground",
+      "musicbrainz": {
+        "artist_mbids": [
+          "02811c5c-3cfc-4354-a116-8a254581ef6e"
+        ],
+        "recording_mbid": "82c34fc0-6439-49c0-99fc-179b4a3b5ed7",
+        "release_mbid": "3093d151-57f4-4e84-b244-eb9203634044",
+        "release_group_mbid": "058e1d29-0926-3be4-a4ac-f05681446231"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790711735,
+      "listened_at_utc": "2026-09-29T19:55:35Z",
+      "artist": "Tord Gustavsen Trio",
+      "track": "Being There",
+      "album": "The Ground",
+      "musicbrainz": {
+        "artist_mbids": [
+          "02811c5c-3cfc-4354-a116-8a254581ef6e"
+        ],
+        "recording_mbid": "1e2351ba-239f-4ad2-a64d-3e571ef1a2c5",
+        "release_mbid": "3093d151-57f4-4e84-b244-eb9203634044",
+        "release_group_mbid": "058e1d29-0926-3be4-a4ac-f05681446231"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790711402,
+      "listened_at_utc": "2026-09-29T19:50:02Z",
+      "artist": "Tord Gustavsen Trio",
+      "track": "Tears Transforming",
+      "album": "The Ground",
+      "musicbrainz": {
+        "artist_mbids": [
+          "02811c5c-3cfc-4354-a116-8a254581ef6e"
+        ],
+        "recording_mbid": "24eeab83-33f0-4769-bbd9-092bf643c457",
+        "release_mbid": "3093d151-57f4-4e84-b244-eb9203634044",
+        "release_group_mbid": "058e1d29-0926-3be4-a4ac-f05681446231"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790711016,
+      "listened_at_utc": "2026-09-29T19:43:36Z",
+      "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+      "track": "Ghostrumental",
+      "album": "Compassion",
+      "musicbrainz": {
+        "artist_mbids": [
+          "ba2ff5ad-b5a4-499b-aac1-b31fd093112b",
+          "9960b51b-f542-419a-b77f-418432a71f96",
+          "25bb66e5-5010-44de-ac1f-7c431e124eeb"
+        ],
+        "recording_mbid": "1ee29cdd-7d38-4df0-84a8-bf40dc91aa97",
+        "release_mbid": "91c121a9-944a-4bd0-8084-b4b55ec1da88",
+        "release_group_mbid": "dd41ca0b-2ecf-432c-8867-62e50e2bcf34"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790710672,
+      "listened_at_utc": "2026-09-29T19:37:52Z",
+      "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+      "track": "Where I Am",
+      "album": "Compassion",
+      "musicbrainz": {
+        "artist_mbids": [
+          "ba2ff5ad-b5a4-499b-aac1-b31fd093112b",
+          "9960b51b-f542-419a-b77f-418432a71f96",
+          "25bb66e5-5010-44de-ac1f-7c431e124eeb"
+        ],
+        "recording_mbid": "d3bb8421-3d81-4ba1-a6c4-b68b1a647c31",
+        "release_mbid": "91c121a9-944a-4bd0-8084-b4b55ec1da88",
+        "release_group_mbid": "dd41ca0b-2ecf-432c-8867-62e50e2bcf34"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790710519,
+      "listened_at_utc": "2026-09-29T19:35:19Z",
+      "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+      "track": "Nonaah",
+      "album": "Compassion",
+      "musicbrainz": {
+        "artist_mbids": [
+          "ba2ff5ad-b5a4-499b-aac1-b31fd093112b",
+          "9960b51b-f542-419a-b77f-418432a71f96",
+          "25bb66e5-5010-44de-ac1f-7c431e124eeb"
+        ],
+        "recording_mbid": "571c1c6a-9697-45ff-b43f-cda77a135a31",
+        "release_mbid": "91c121a9-944a-4bd0-8084-b4b55ec1da88",
+        "release_group_mbid": "dd41ca0b-2ecf-432c-8867-62e50e2bcf34"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790710129,
+      "listened_at_utc": "2026-09-29T19:28:49Z",
+      "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+      "track": "Panegyric",
+      "album": "Compassion",
+      "musicbrainz": {
+        "artist_mbids": [
+          "ba2ff5ad-b5a4-499b-aac1-b31fd093112b",
+          "9960b51b-f542-419a-b77f-418432a71f96",
+          "25bb66e5-5010-44de-ac1f-7c431e124eeb"
+        ],
+        "recording_mbid": "ecea8e27-7b7d-4162-ab71-7384d6462ebd",
+        "release_mbid": "91c121a9-944a-4bd0-8084-b4b55ec1da88",
+        "release_group_mbid": "dd41ca0b-2ecf-432c-8867-62e50e2bcf34"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790709710,
+      "listened_at_utc": "2026-09-29T19:21:50Z",
+      "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+      "track": "Tempest",
+      "album": "Compassion",
+      "musicbrainz": {
+        "artist_mbids": [
+          "ba2ff5ad-b5a4-499b-aac1-b31fd093112b",
+          "9960b51b-f542-419a-b77f-418432a71f96",
+          "25bb66e5-5010-44de-ac1f-7c431e124eeb"
+        ],
+        "recording_mbid": "823bd7ab-09e6-4dcf-b169-9dde2b4f9a78",
+        "release_mbid": "91c121a9-944a-4bd0-8084-b4b55ec1da88",
+        "release_group_mbid": "dd41ca0b-2ecf-432c-8867-62e50e2bcf34"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790709487,
+      "listened_at_utc": "2026-09-29T19:18:07Z",
+      "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+      "track": "Prelude: Orison",
+      "album": "Compassion",
+      "musicbrainz": {
+        "artist_mbids": [
+          "ba2ff5ad-b5a4-499b-aac1-b31fd093112b",
+          "9960b51b-f542-419a-b77f-418432a71f96",
+          "25bb66e5-5010-44de-ac1f-7c431e124eeb"
+        ],
+        "recording_mbid": "1784c23e-f990-4d64-8da8-7c56b7f8b11f",
+        "release_mbid": "91c121a9-944a-4bd0-8084-b4b55ec1da88",
+        "release_group_mbid": "dd41ca0b-2ecf-432c-8867-62e50e2bcf34"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790709210,
+      "listened_at_utc": "2026-09-29T19:13:30Z",
+      "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+      "track": "Maelstrom",
+      "album": "Compassion",
+      "musicbrainz": {
+        "artist_mbids": [
+          "ba2ff5ad-b5a4-499b-aac1-b31fd093112b",
+          "9960b51b-f542-419a-b77f-418432a71f96",
+          "25bb66e5-5010-44de-ac1f-7c431e124eeb"
+        ],
+        "recording_mbid": "34cc3051-2a12-45d2-a167-6668c8350ff7",
+        "release_mbid": "91c121a9-944a-4bd0-8084-b4b55ec1da88",
+        "release_group_mbid": "dd41ca0b-2ecf-432c-8867-62e50e2bcf34"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790708737,
+      "listened_at_utc": "2026-09-29T19:05:37Z",
+      "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+      "track": "Overjoyed",
+      "album": "Compassion",
+      "musicbrainz": {
+        "artist_mbids": [
+          "ba2ff5ad-b5a4-499b-aac1-b31fd093112b",
+          "9960b51b-f542-419a-b77f-418432a71f96",
+          "25bb66e5-5010-44de-ac1f-7c431e124eeb"
+        ],
+        "recording_mbid": "f8238c5c-9f1c-4fe1-a0ff-50fbd9c92011",
+        "release_mbid": "91c121a9-944a-4bd0-8084-b4b55ec1da88",
+        "release_group_mbid": "dd41ca0b-2ecf-432c-8867-62e50e2bcf34"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790708363,
+      "listened_at_utc": "2026-09-29T18:59:23Z",
+      "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+      "track": "Arch",
+      "album": "Compassion",
+      "musicbrainz": {
+        "artist_mbids": [
+          "ba2ff5ad-b5a4-499b-aac1-b31fd093112b",
+          "9960b51b-f542-419a-b77f-418432a71f96",
+          "25bb66e5-5010-44de-ac1f-7c431e124eeb"
+        ],
+        "recording_mbid": "05280881-5bcc-48b2-bc5c-21d1edf65fa0",
+        "release_mbid": "91c121a9-944a-4bd0-8084-b4b55ec1da88",
+        "release_group_mbid": "dd41ca0b-2ecf-432c-8867-62e50e2bcf34"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790708073,
+      "listened_at_utc": "2026-09-29T18:54:33Z",
+      "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+      "track": "Compassion",
+      "album": "Compassion",
+      "musicbrainz": {
+        "artist_mbids": [
+          "ba2ff5ad-b5a4-499b-aac1-b31fd093112b",
+          "9960b51b-f542-419a-b77f-418432a71f96",
+          "25bb66e5-5010-44de-ac1f-7c431e124eeb"
+        ],
+        "recording_mbid": "bd45a9db-ebba-40bc-bcbb-c84c80745b43",
+        "release_mbid": "91c121a9-944a-4bd0-8084-b4b55ec1da88",
+        "release_group_mbid": "dd41ca0b-2ecf-432c-8867-62e50e2bcf34"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1790685829,
       "listened_at_utc": "2026-09-29T12:43:49Z",
@@ -17304,326 +18248,6 @@
           "80341f8d-808e-4b2e-a029-661b224577dd"
         ],
         "recording_mbid": "22f76943-da55-41d1-b3ed-0aac28a2dfb8",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782940103,
-      "listened_at_utc": "2026-07-01T21:08:23Z",
-      "artist": "Bill Evans & Jim Hall",
-      "track": "I Hear A Rhapsody",
-      "album": "Undercurrent",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8247a3f2-3a8e-4256-b322-6c57b03a4e36",
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "12028da3-566d-44de-8a62-a9f42c34ef95",
-        "release_mbid": "84e6d5c6-e851-4516-903b-7fcc98a9ee00",
-        "release_group_mbid": "cf24f192-7cfc-3413-a80d-390b523dfbca"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782939779,
-      "listened_at_utc": "2026-07-01T21:02:59Z",
-      "artist": "Bill Evans & Jim Hall",
-      "track": "My Funny Valentine",
-      "album": "Undercurrent",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8247a3f2-3a8e-4256-b322-6c57b03a4e36",
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "73149634-1b0e-433b-b355-35b448484116",
-        "release_mbid": "84e6d5c6-e851-4516-903b-7fcc98a9ee00",
-        "release_group_mbid": "cf24f192-7cfc-3413-a80d-390b523dfbca"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782939568,
-      "listened_at_utc": "2026-07-01T20:59:28Z",
-      "artist": "Julian Lage",
-      "track": "Call Of The Canyon",
-      "album": "Squint",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "b4742302-d28f-4a01-b7cd-a272294e2eb6",
-        "release_mbid": "d2ab77be-6a57-4461-9d91-40b3b22c55d9",
-        "release_group_mbid": "c99753bc-7a3e-470d-976b-6b5e205cff49"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782939310,
-      "listened_at_utc": "2026-07-01T20:55:10Z",
-      "artist": "Julian Lage",
-      "track": "Twilight Surfer",
-      "album": "Squint",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "1e685feb-76b1-4af3-becb-472d0178945a",
-        "release_mbid": "d2ab77be-6a57-4461-9d91-40b3b22c55d9",
-        "release_group_mbid": "c99753bc-7a3e-470d-976b-6b5e205cff49"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782939099,
-      "listened_at_utc": "2026-07-01T20:51:39Z",
-      "artist": "Julian Lage",
-      "track": "Short Form",
-      "album": "Squint",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "66da6368-2476-4234-a568-bb99193fa66f",
-        "release_mbid": "d2ab77be-6a57-4461-9d91-40b3b22c55d9",
-        "release_group_mbid": "c99753bc-7a3e-470d-976b-6b5e205cff49"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782938685,
-      "listened_at_utc": "2026-07-01T20:44:45Z",
-      "artist": "Julian Lage",
-      "track": "Quiet Like A Fuse",
-      "album": "Squint",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "6d53eec0-031e-468a-8427-4561aa5d9514",
-        "release_mbid": "d2ab77be-6a57-4461-9d91-40b3b22c55d9",
-        "release_group_mbid": "c99753bc-7a3e-470d-976b-6b5e205cff49"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782938490,
-      "listened_at_utc": "2026-07-01T20:41:30Z",
-      "artist": "Julian Lage",
-      "track": "Day and Age",
-      "album": "Squint",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "a7cd1519-4d43-4df0-b9ac-dd397bbcedca",
-        "release_mbid": "094bc8ef-36a5-45fb-b75b-377806ac6632",
-        "release_group_mbid": "ef97254f-22ea-4cf7-a896-0004f6a5df05"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782938250,
-      "listened_at_utc": "2026-07-01T20:37:30Z",
-      "artist": "Julian Lage",
-      "track": "Familiar Flower",
-      "album": "Squint",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "5f943d07-6b6d-408e-9c8d-78388fd5c09f",
-        "release_mbid": "d2ab77be-6a57-4461-9d91-40b3b22c55d9",
-        "release_group_mbid": "c99753bc-7a3e-470d-976b-6b5e205cff49"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782937922,
-      "listened_at_utc": "2026-07-01T20:32:02Z",
-      "artist": "Julian Lage",
-      "track": "Emily",
-      "album": "Squint",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "16b87b82-1fb6-4ea7-b1d5-e017c5b0dfd3",
-        "release_mbid": "d2ab77be-6a57-4461-9d91-40b3b22c55d9",
-        "release_group_mbid": "c99753bc-7a3e-470d-976b-6b5e205cff49"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782937646,
-      "listened_at_utc": "2026-07-01T20:27:26Z",
-      "artist": "Julian Lage",
-      "track": "Saint Rose",
-      "album": "Squint",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "9e5bc952-cc1f-4bbe-af65-6819ee6725cb",
-        "release_mbid": "d2ab77be-6a57-4461-9d91-40b3b22c55d9",
-        "release_group_mbid": "c99753bc-7a3e-470d-976b-6b5e205cff49"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782937376,
-      "listened_at_utc": "2026-07-01T20:22:56Z",
-      "artist": "Julian Lage",
-      "track": "Squint",
-      "album": "Squint",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "838f2ab8-863d-4f8f-96e3-92a72f31010d",
-        "release_mbid": "d2ab77be-6a57-4461-9d91-40b3b22c55d9",
-        "release_group_mbid": "c99753bc-7a3e-470d-976b-6b5e205cff49"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782937171,
-      "listened_at_utc": "2026-07-01T20:19:31Z",
-      "artist": "Julian Lage",
-      "track": "Boo's Blues",
-      "album": "Squint",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "22f5e202-73a9-4575-83a9-573e7b7dfb62",
-        "release_mbid": "d2ab77be-6a57-4461-9d91-40b3b22c55d9",
-        "release_group_mbid": "c99753bc-7a3e-470d-976b-6b5e205cff49"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782937024,
-      "listened_at_utc": "2026-07-01T20:17:04Z",
-      "artist": "Julian Lage",
-      "track": "Etude",
-      "album": "Squint",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "f12cc901-ba08-42c9-bc61-01b07c900677",
-        "release_mbid": "d2ab77be-6a57-4461-9d91-40b3b22c55d9",
-        "release_group_mbid": "c99753bc-7a3e-470d-976b-6b5e205cff49"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782936781,
-      "listened_at_utc": "2026-07-01T20:13:01Z",
-      "artist": "Julian Lage",
-      "track": "Something More",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "72300428-dbad-42c1-8bce-b5d48d49906a",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782936517,
-      "listened_at_utc": "2026-07-01T20:08:37Z",
-      "artist": "Julian Lage",
-      "track": "Storyville",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "595a682c-25df-4afd-afae-540bf3321aa8",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782936007,
-      "listened_at_utc": "2026-07-01T20:00:07Z",
-      "artist": "Julian Lage",
-      "track": "Solid Air",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "1e3742bb-2de7-48a4-ba36-3358f46c0d26",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1782935562,
-      "listened_at_utc": "2026-07-01T19:52:42Z",
-      "artist": "Julian Lage",
-      "track": "Night Shade",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "0ce8c3fb-1439-4827-a967-fc90fd5d410f",
         "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
         "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
       },
