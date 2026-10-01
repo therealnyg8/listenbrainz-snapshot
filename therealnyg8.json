@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-09-30T15:58:45Z",
+  "generated_at_utc": "2026-10-01T16:32:02Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-02T15:58:45Z",
-    "through_utc": "2026-09-30T15:58:45Z",
+    "from_utc": "2026-07-03T16:32:02Z",
+    "through_utc": "2026-10-01T16:32:02Z",
     "complete": true,
-    "pages_fetched": 1,
+    "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 977,
-    "deduplicated_listen_count": 869,
-    "duplicates_removed": 108,
+    "raw_listen_count": 1001,
+    "deduplicated_listen_count": 881,
+    "duplicates_removed": 120,
     "oldest_listen_utc": "2026-07-05T19:04:46Z",
-    "newest_listen_utc": "2026-09-30T12:43:53Z"
+    "newest_listen_utc": "2026-09-30T22:25:34Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,9 +28,9 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 129,
-      "unique_artists": 29,
-      "unique_albums": 31,
+      "listen_count": 141,
+      "unique_artists": 31,
+      "unique_albums": 34,
       "listens_without_album": 0,
       "artists": [
         {
@@ -54,6 +54,10 @@
           "listen_count": 10
         },
         {
+          "artist": "Hermanos Gutiérrez",
+          "listen_count": 10
+        },
+        {
           "artist": "Mac DeMarco",
           "listen_count": 9
         },
@@ -74,6 +78,10 @@
           "listen_count": 5
         },
         {
+          "artist": "Cornelius",
+          "listen_count": 3
+        },
+        {
           "artist": "טונה",
           "listen_count": 3
         },
@@ -83,10 +91,6 @@
         },
         {
           "artist": "Avishai Cohen Trio",
-          "listen_count": 2
-        },
-        {
-          "artist": "Cornelius",
           "listen_count": 2
         },
         {
@@ -138,6 +142,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Pearl & The Oysters",
+          "listen_count": 1
+        },
+        {
           "artist": "Smerz",
           "listen_count": 1
         },
@@ -185,6 +193,13 @@
           "listen_count": 10,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-09-25T20:34:25Z"
+        },
+        {
+          "artist": "Hermanos Gutiérrez",
+          "album": "Los Ojos Del Cóndor",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-09-30T22:18:29Z"
         },
         {
           "artist": "Mac DeMarco",
@@ -278,6 +293,13 @@
           "last_listened_at_utc": "2026-09-27T22:00:26Z"
         },
         {
+          "artist": "Cornelius",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-30T22:20:56Z"
+        },
+        {
           "artist": "Crosby, Stills & Nash",
           "album": "Replay",
           "listen_count": 1,
@@ -341,6 +363,13 @@
           "last_listened_at_utc": "2026-09-27T22:29:46Z"
         },
         {
+          "artist": "Pearl & The Oysters",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-30T22:25:34Z"
+        },
+        {
           "artist": "Smerz",
           "album": "Big city life EDITS",
           "listen_count": 1,
@@ -371,9 +400,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 600,
-      "unique_artists": 84,
-      "unique_albums": 107,
+      "listen_count": 612,
+      "unique_artists": 86,
+      "unique_albums": 110,
       "listens_without_album": 0,
       "artists": [
         {
@@ -435,6 +464,10 @@
         {
           "artist": "עדן דרסו",
           "listen_count": 11
+        },
+        {
+          "artist": "Hermanos Gutiérrez",
+          "listen_count": 10
         },
         {
           "artist": "Gilad Hekselman",
@@ -509,6 +542,10 @@
           "listen_count": 3
         },
         {
+          "artist": "Cornelius",
+          "listen_count": 3
+        },
+        {
           "artist": "Julian Lage",
           "listen_count": 3
         },
@@ -538,10 +575,6 @@
         },
         {
           "artist": "Bill Evans Trio",
-          "listen_count": 2
-        },
-        {
-          "artist": "Cornelius",
           "listen_count": 2
         },
         {
@@ -646,6 +679,10 @@
         },
         {
           "artist": "Oscar Peterson meets Roy Hargrove and Ralph Moore with Niels‐Henning Ørsted Pedersen and Lewis Nash",
+          "listen_count": 1
+        },
+        {
+          "artist": "Pearl & The Oysters",
           "listen_count": 1
         },
         {
@@ -846,6 +883,13 @@
           "listen_count": 10,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-09-20T21:13:34Z"
+        },
+        {
+          "artist": "Hermanos Gutiérrez",
+          "album": "Los Ojos Del Cóndor",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-09-30T22:18:29Z"
         },
         {
           "artist": "Bob Dylan",
@@ -1177,6 +1221,13 @@
           "last_listened_at_utc": "2026-09-27T22:00:26Z"
         },
         {
+          "artist": "Cornelius",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-30T22:20:56Z"
+        },
+        {
           "artist": "Crosby, Stills & Nash",
           "album": "Replay",
           "listen_count": 1,
@@ -1315,6 +1366,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-27T22:29:46Z"
+        },
+        {
+          "artist": "Pearl & The Oysters",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-30T22:25:34Z"
         },
         {
           "artist": "Peter Gabriel",
@@ -1466,9 +1524,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 869,
-      "unique_artists": 137,
-      "unique_albums": 185,
+      "listen_count": 881,
+      "unique_artists": 139,
+      "unique_albums": 188,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1568,6 +1626,10 @@
           "listen_count": 10
         },
         {
+          "artist": "Hermanos Gutiérrez",
+          "listen_count": 10
+        },
+        {
           "artist": "Gilad Hekselman",
           "listen_count": 9
         },
@@ -1660,6 +1722,10 @@
           "listen_count": 3
         },
         {
+          "artist": "Cornelius",
+          "listen_count": 3
+        },
+        {
           "artist": "John Coltrane",
           "listen_count": 3
         },
@@ -1705,10 +1771,6 @@
         },
         {
           "artist": "Charles Lloyd",
-          "listen_count": 2
-        },
-        {
-          "artist": "Cornelius",
           "listen_count": 2
         },
         {
@@ -1901,6 +1963,10 @@
         },
         {
           "artist": "Paul McCartney",
+          "listen_count": 1
+        },
+        {
+          "artist": "Pearl & The Oysters",
           "listen_count": 1
         },
         {
@@ -2223,6 +2289,13 @@
           "listen_count": 10,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-09-20T21:13:34Z"
+        },
+        {
+          "artist": "Hermanos Gutiérrez",
+          "album": "Los Ojos Del Cóndor",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-09-30T22:18:29Z"
         },
         {
           "artist": "Kenny Burrell",
@@ -2757,6 +2830,13 @@
           "last_listened_at_utc": "2026-07-26T22:43:11Z"
         },
         {
+          "artist": "Cornelius",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-30T22:20:56Z"
+        },
+        {
           "artist": "Crosby, Stills & Nash",
           "album": "Replay",
           "listen_count": 1,
@@ -3035,6 +3115,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-07-11T19:34:20Z"
+        },
+        {
+          "artist": "Pearl & The Oysters",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-30T22:25:34Z"
         },
         {
           "artist": "Peter Gabriel",
@@ -3320,6 +3407,234 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1790807134,
+      "listened_at_utc": "2026-09-30T22:25:34Z",
+      "artist": "Pearl & The Oysters",
+      "track": "Koi Wa Momoiro",
+      "album": "Hosono House Revisited",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5cecd808-74ea-468c-97d3-cef0fa2f4910"
+        ],
+        "recording_mbid": "7c5488e9-f863-42f2-a5a2-6decd13de230",
+        "release_mbid": "6c4c1322-9150-4071-8a93-de22ae0a5949",
+        "release_group_mbid": "3253a680-8d55-40b0-8d47-2be50ac5d9cf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790806856,
+      "listened_at_utc": "2026-09-30T22:20:56Z",
+      "artist": "Cornelius",
+      "track": "Bara To Yaju",
+      "album": "Hosono House Revisited",
+      "musicbrainz": {
+        "artist_mbids": [
+          "df765d93-621c-437f-99fe-fda9e135f89a"
+        ],
+        "recording_mbid": "aa2ca63c-7aa3-4acd-85a4-73994570894e",
+        "release_mbid": "6c4c1322-9150-4071-8a93-de22ae0a5949",
+        "release_group_mbid": "3253a680-8d55-40b0-8d47-2be50ac5d9cf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790806709,
+      "listened_at_utc": "2026-09-30T22:18:29Z",
+      "artist": "Hermanos Gutiérrez",
+      "track": "Dios De La Paz",
+      "album": "Los Ojos Del Cóndor",
+      "musicbrainz": {
+        "artist_mbids": [
+          "82b922a4-410d-4b89-ac2e-c0d1f00136cd"
+        ],
+        "recording_mbid": "8daac329-3604-47ff-abae-e999a91f6ba5",
+        "release_mbid": "1ddf7af2-067d-4913-8397-3d14592e4b1e",
+        "release_group_mbid": "5df27fb0-451d-4ef8-b3cc-a1af82c33e90"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790806498,
+      "listened_at_utc": "2026-09-30T22:14:58Z",
+      "artist": "Hermanos Gutiérrez",
+      "track": "Los Andes",
+      "album": "Los Ojos Del Cóndor",
+      "musicbrainz": {
+        "artist_mbids": [
+          "82b922a4-410d-4b89-ac2e-c0d1f00136cd"
+        ],
+        "recording_mbid": "892d7e47-780c-4cd8-a973-3918923c1dfd",
+        "release_mbid": "1ddf7af2-067d-4913-8397-3d14592e4b1e",
+        "release_group_mbid": "5df27fb0-451d-4ef8-b3cc-a1af82c33e90"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790806307,
+      "listened_at_utc": "2026-09-30T22:11:47Z",
+      "artist": "Hermanos Gutiérrez",
+      "track": "Waway",
+      "album": "Los Ojos Del Cóndor",
+      "musicbrainz": {
+        "artist_mbids": [
+          "82b922a4-410d-4b89-ac2e-c0d1f00136cd"
+        ],
+        "recording_mbid": "c3176563-4e1f-4af6-bea1-021e5dcc579a",
+        "release_mbid": "1ddf7af2-067d-4913-8397-3d14592e4b1e",
+        "release_group_mbid": "5df27fb0-451d-4ef8-b3cc-a1af82c33e90"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790806080,
+      "listened_at_utc": "2026-09-30T22:08:00Z",
+      "artist": "Hermanos Gutiérrez",
+      "track": "Tren Macho",
+      "album": "Los Ojos Del Cóndor",
+      "musicbrainz": {
+        "artist_mbids": [
+          "82b922a4-410d-4b89-ac2e-c0d1f00136cd"
+        ],
+        "recording_mbid": "b96a644c-00e0-45b5-a98b-ad56895529d3",
+        "release_mbid": "1ddf7af2-067d-4913-8397-3d14592e4b1e",
+        "release_group_mbid": "5df27fb0-451d-4ef8-b3cc-a1af82c33e90"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790805881,
+      "listened_at_utc": "2026-09-30T22:04:41Z",
+      "artist": "Hermanos Gutiérrez",
+      "track": "La Danza Del Viento",
+      "album": "Los Ojos Del Cóndor",
+      "musicbrainz": {
+        "artist_mbids": [
+          "82b922a4-410d-4b89-ac2e-c0d1f00136cd"
+        ],
+        "recording_mbid": "df24122a-1ced-48b5-9f72-05d60cc804b5",
+        "release_mbid": "1ddf7af2-067d-4913-8397-3d14592e4b1e",
+        "release_group_mbid": "5df27fb0-451d-4ef8-b3cc-a1af82c33e90"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790805733,
+      "listened_at_utc": "2026-09-30T22:02:13Z",
+      "artist": "Hermanos Gutiérrez",
+      "track": "Yanantin",
+      "album": "Los Ojos Del Cóndor",
+      "musicbrainz": {
+        "artist_mbids": [
+          "82b922a4-410d-4b89-ac2e-c0d1f00136cd"
+        ],
+        "recording_mbid": "987e86bb-aec3-4b40-a9b5-cb4aac862fc8",
+        "release_mbid": "1ddf7af2-067d-4913-8397-3d14592e4b1e",
+        "release_group_mbid": "5df27fb0-451d-4ef8-b3cc-a1af82c33e90"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790805558,
+      "listened_at_utc": "2026-09-30T21:59:18Z",
+      "artist": "Hermanos Gutiérrez",
+      "track": "Ciudad Inca",
+      "album": "Los Ojos Del Cóndor",
+      "musicbrainz": {
+        "artist_mbids": [
+          "82b922a4-410d-4b89-ac2e-c0d1f00136cd"
+        ],
+        "recording_mbid": "3efc3197-367d-4a2e-8a27-2df2d54fef94",
+        "release_mbid": "1ddf7af2-067d-4913-8397-3d14592e4b1e",
+        "release_group_mbid": "5df27fb0-451d-4ef8-b3cc-a1af82c33e90"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790805363,
+      "listened_at_utc": "2026-09-30T21:56:03Z",
+      "artist": "Hermanos Gutiérrez",
+      "track": "Alma Mia",
+      "album": "Los Ojos Del Cóndor",
+      "musicbrainz": {
+        "artist_mbids": [
+          "82b922a4-410d-4b89-ac2e-c0d1f00136cd"
+        ],
+        "recording_mbid": "f7c6fe72-cb31-4c33-8751-912bf4b28e79",
+        "release_mbid": "1ddf7af2-067d-4913-8397-3d14592e4b1e",
+        "release_group_mbid": "5df27fb0-451d-4ef8-b3cc-a1af82c33e90"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790805151,
+      "listened_at_utc": "2026-09-30T21:52:31Z",
+      "artist": "Hermanos Gutiérrez",
+      "track": "Los Ojos Del Cóndor",
+      "album": "Los Ojos Del Cóndor",
+      "musicbrainz": {
+        "artist_mbids": [
+          "82b922a4-410d-4b89-ac2e-c0d1f00136cd"
+        ],
+        "recording_mbid": "7789d83c-ba18-4a0f-b0d2-c810c0699b90",
+        "release_mbid": "1ddf7af2-067d-4913-8397-3d14592e4b1e",
+        "release_group_mbid": "5df27fb0-451d-4ef8-b3cc-a1af82c33e90"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790804956,
+      "listened_at_utc": "2026-09-30T21:49:16Z",
+      "artist": "Hermanos Gutiérrez",
+      "track": "Canto Andino",
+      "album": "Los Ojos Del Cóndor",
+      "musicbrainz": {
+        "artist_mbids": [
+          "82b922a4-410d-4b89-ac2e-c0d1f00136cd"
+        ],
+        "recording_mbid": "75e6ff0d-e466-4cb6-ab3f-7476add26f45",
+        "release_mbid": "1ddf7af2-067d-4913-8397-3d14592e4b1e",
+        "release_group_mbid": "5df27fb0-451d-4ef8-b3cc-a1af82c33e90"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1790772233,
       "listened_at_utc": "2026-09-30T12:43:53Z",
