@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-01T16:32:02Z",
+  "generated_at_utc": "2026-10-02T15:52:42Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-03T16:32:02Z",
-    "through_utc": "2026-10-01T16:32:02Z",
+    "from_utc": "2026-07-04T15:52:42Z",
+    "through_utc": "2026-10-02T15:52:42Z",
     "complete": true,
     "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 1001,
-    "deduplicated_listen_count": 881,
-    "duplicates_removed": 120,
+    "raw_listen_count": 1009,
+    "deduplicated_listen_count": 885,
+    "duplicates_removed": 124,
     "oldest_listen_utc": "2026-07-05T19:04:46Z",
-    "newest_listen_utc": "2026-09-30T22:25:34Z"
+    "newest_listen_utc": "2026-10-02T12:42:01Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,9 +28,9 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 141,
-      "unique_artists": 31,
-      "unique_albums": 34,
+      "listen_count": 145,
+      "unique_artists": 32,
+      "unique_albums": 35,
       "listens_without_album": 0,
       "artists": [
         {
@@ -78,11 +78,15 @@
           "listen_count": 5
         },
         {
-          "artist": "Cornelius",
+          "artist": "טונה",
+          "listen_count": 4
+        },
+        {
+          "artist": "Bullion",
           "listen_count": 3
         },
         {
-          "artist": "טונה",
+          "artist": "Cornelius",
           "listen_count": 3
         },
         {
@@ -239,9 +243,16 @@
         {
           "artist": "טונה",
           "album": "מזרח פרוע",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-02T12:33:49Z"
+        },
+        {
+          "artist": "Bullion",
+          "album": "Nearly",
           "listen_count": 3,
           "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-30T12:43:53Z"
+          "last_listened_at_utc": "2026-10-02T12:42:01Z"
         },
         {
           "artist": "Avishai Cohen Trio",
@@ -400,22 +411,22 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 612,
-      "unique_artists": 86,
+      "listen_count": 565,
+      "unique_artists": 87,
       "unique_albums": 110,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "טונה",
-          "listen_count": 129
-        },
-        {
-          "artist": "רביד פלוטניק",
-          "listen_count": 45
+          "listen_count": 99
         },
         {
           "artist": "Haruomi Hosono",
           "listen_count": 42
+        },
+        {
+          "artist": "רביד פלוטניק",
+          "listen_count": 33
         },
         {
           "artist": "Mac DeMarco",
@@ -460,10 +471,6 @@
         {
           "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
           "listen_count": 12
-        },
-        {
-          "artist": "עדן דרסו",
-          "listen_count": 11
         },
         {
           "artist": "Hermanos Gutiérrez",
@@ -538,6 +545,10 @@
           "listen_count": 4
         },
         {
+          "artist": "Bullion",
+          "listen_count": 3
+        },
+        {
           "artist": "Cameron Winter",
           "listen_count": 3
         },
@@ -563,6 +574,10 @@
         },
         {
           "artist": "מיכאל סוויסה וסלימפים",
+          "listen_count": 3
+        },
+        {
+          "artist": "עדן דרסו",
           "listen_count": 3
         },
         {
@@ -754,9 +769,9 @@
         {
           "artist": "טונה",
           "album": "מזרח פרוע",
-          "listen_count": 47,
+          "listen_count": 37,
           "unique_tracks": 13,
-          "last_listened_at_utc": "2026-09-30T12:43:53Z"
+          "last_listened_at_utc": "2026-10-02T12:33:49Z"
         },
         {
           "artist": "Mac DeMarco",
@@ -781,13 +796,6 @@
         },
         {
           "artist": "טונה",
-          "album": "רובים ותלתלים",
-          "listen_count": 23,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-13T15:27:19Z"
-        },
-        {
-          "artist": "טונה",
           "album": "ועכשיו לחלק האינטרגלקטי",
           "listen_count": 22,
           "unique_tracks": 13,
@@ -803,16 +811,9 @@
         {
           "artist": "רביד פלוטניק",
           "album": "הדרך לשביל הזהב",
-          "listen_count": 21,
+          "listen_count": 19,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-09-14T23:42:36Z"
-        },
-        {
-          "artist": "טונה",
-          "album": "ראפ מטורף",
-          "listen_count": 19,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-09-11T19:57:55Z"
         },
         {
           "artist": "טונה",
@@ -827,6 +828,13 @@
           "listen_count": 14,
           "unique_tracks": 14,
           "last_listened_at_utc": "2026-09-16T20:41:32Z"
+        },
+        {
+          "artist": "טונה",
+          "album": "רובים ותלתלים",
+          "listen_count": 14,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-09-13T15:27:19Z"
         },
         {
           "artist": "青葉市子",
@@ -862,13 +870,6 @@
           "listen_count": 12,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-09-29T19:43:36Z"
-        },
-        {
-          "artist": "עדן דרסו",
-          "album": "משולש קדוש",
-          "listen_count": 11,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-09-02T21:19:57Z"
         },
         {
           "artist": "רביד פלוטניק",
@@ -913,13 +914,6 @@
           "last_listened_at_utc": "2026-09-07T22:52:31Z"
         },
         {
-          "artist": "רביד פלוטניק",
-          "album": "Toch Kedey Tnu'a",
-          "listen_count": 9,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-09-01T21:54:18Z"
-        },
-        {
           "artist": "John Coltrane Quartet",
           "album": "Ballads",
           "listen_count": 8,
@@ -939,6 +933,13 @@
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-09-26T20:14:19Z"
+        },
+        {
+          "artist": "טונה",
+          "album": "ראפ מטורף",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-09-11T19:57:55Z"
         },
         {
           "artist": "מוקי",
@@ -1046,11 +1047,11 @@
           "last_listened_at_utc": "2026-09-17T12:35:54Z"
         },
         {
-          "artist": "רביד פלוטניק",
-          "album": "Ve'Achshav La'Helek Ha'Omanuti",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-09-17T20:04:19Z"
+          "artist": "Bullion",
+          "album": "Nearly",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-02T12:42:01Z"
         },
         {
           "artist": "Cameron Winter",
@@ -1114,6 +1115,20 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-09-22T12:44:22Z"
+        },
+        {
+          "artist": "עדן דרסו",
+          "album": "משולש קדוש",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-09-02T21:19:57Z"
+        },
+        {
+          "artist": "רביד פלוטניק",
+          "album": "Ve'Achshav La'Helek Ha'Omanuti",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-09-17T20:04:19Z"
         },
         {
           "artist": "Avishai Cohen Trio",
@@ -1524,14 +1539,14 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 881,
-      "unique_artists": 139,
-      "unique_albums": 188,
+      "listen_count": 885,
+      "unique_artists": 140,
+      "unique_albums": 189,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "טונה",
-          "listen_count": 129
+          "listen_count": 130
         },
         {
           "artist": "Julian Lage",
@@ -1716,6 +1731,10 @@
         {
           "artist": "ג'יגה ג'וס",
           "listen_count": 4
+        },
+        {
+          "artist": "Bullion",
+          "listen_count": 3
         },
         {
           "artist": "Cameron Winter",
@@ -2090,9 +2109,9 @@
         {
           "artist": "טונה",
           "album": "מזרח פרוע",
-          "listen_count": 47,
+          "listen_count": 48,
           "unique_tracks": 13,
-          "last_listened_at_utc": "2026-09-30T12:43:53Z"
+          "last_listened_at_utc": "2026-10-02T12:33:49Z"
         },
         {
           "artist": "Mac DeMarco",
@@ -2506,6 +2525,13 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-09-17T20:04:19Z"
+        },
+        {
+          "artist": "Bullion",
+          "album": "Nearly",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-02T12:42:01Z"
         },
         {
           "artist": "Cameron Winter",
@@ -3407,6 +3433,81 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1790944921,
+      "listened_at_utc": "2026-10-02T12:42:01Z",
+      "artist": "Bullion",
+      "track": "Francis Ford",
+      "album": "Nearly",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9b2a1ef4-0e6b-4ddd-99fc-cdf223dccb08",
+          "91c842a9-a82c-44c0-a332-f1827a59c753"
+        ],
+        "release_mbid": "29aa6af3-7546-478d-a82c-839c95d0caaf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790944733,
+      "listened_at_utc": "2026-10-02T12:38:53Z",
+      "artist": "Bullion",
+      "track": "Roo",
+      "album": "Nearly",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9b2a1ef4-0e6b-4ddd-99fc-cdf223dccb08"
+        ],
+        "recording_mbid": "a82f829c-499b-4b5a-8a1d-9f3559926227",
+        "release_mbid": "29aa6af3-7546-478d-a82c-839c95d0caaf",
+        "release_group_mbid": "cc79b7e4-944a-43d5-bb7c-7994a182fb1a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790944550,
+      "listened_at_utc": "2026-10-02T12:35:50Z",
+      "artist": "Bullion",
+      "track": "Very Few Inspirations",
+      "album": "Nearly",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9b2a1ef4-0e6b-4ddd-99fc-cdf223dccb08"
+        ],
+        "recording_mbid": "1bbd4cdb-bf78-464d-ad7d-474061754bbd",
+        "release_mbid": "29aa6af3-7546-478d-a82c-839c95d0caaf",
+        "release_group_mbid": "cc79b7e4-944a-43d5-bb7c-7994a182fb1a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790944429,
+      "listened_at_utc": "2026-10-02T12:33:49Z",
+      "artist": "טונה",
+      "track": "היי בייב",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "6a86dabd-e4de-43dc-bb07-66f878f2dace",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1790807134,
       "listened_at_utc": "2026-09-30T22:25:34Z",
