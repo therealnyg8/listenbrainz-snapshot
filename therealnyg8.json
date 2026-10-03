@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-02T15:52:42Z",
+  "generated_at_utc": "2026-10-03T14:20:34Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-04T15:52:42Z",
-    "through_utc": "2026-10-02T15:52:42Z",
+    "from_utc": "2026-07-05T14:20:34Z",
+    "through_utc": "2026-10-03T14:20:34Z",
     "complete": true,
     "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 1009,
-    "deduplicated_listen_count": 885,
-    "duplicates_removed": 124,
+    "raw_listen_count": 1069,
+    "deduplicated_listen_count": 915,
+    "duplicates_removed": 154,
     "oldest_listen_utc": "2026-07-05T19:04:46Z",
-    "newest_listen_utc": "2026-10-02T12:42:01Z"
+    "newest_listen_utc": "2026-10-03T12:37:08Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,9 +28,9 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 145,
-      "unique_artists": 32,
-      "unique_albums": 35,
+      "listen_count": 154,
+      "unique_artists": 39,
+      "unique_albums": 42,
       "listens_without_album": 0,
       "artists": [
         {
@@ -50,16 +50,16 @@
           "listen_count": 13
         },
         {
-          "artist": "Haruomi Hosono",
-          "listen_count": 10
+          "artist": "Bullion",
+          "listen_count": 11
         },
         {
           "artist": "Hermanos Gutiérrez",
           "listen_count": 10
         },
         {
-          "artist": "Mac DeMarco",
-          "listen_count": 9
+          "artist": "Nils Frahm",
+          "listen_count": 10
         },
         {
           "artist": "Songs: Ohia",
@@ -82,10 +82,6 @@
           "listen_count": 4
         },
         {
-          "artist": "Bullion",
-          "listen_count": 3
-        },
-        {
           "artist": "Cornelius",
           "listen_count": 3
         },
@@ -95,6 +91,14 @@
         },
         {
           "artist": "Avishai Cohen Trio",
+          "listen_count": 2
+        },
+        {
+          "artist": "Pearl & The Oysters",
+          "listen_count": 2
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
           "listen_count": 2
         },
         {
@@ -122,11 +126,19 @@
           "listen_count": 1
         },
         {
-          "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
+          "artist": "James Blake",
+          "listen_count": 1
+        },
+        {
+          "artist": "Jerry Paper",
           "listen_count": 1
         },
         {
           "artist": "Joe Henderson",
+          "listen_count": 1
+        },
+        {
+          "artist": "John Carroll Kirby, Mizuhara Sisters",
           "listen_count": 1
         },
         {
@@ -138,6 +150,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Mac DeMarco",
+          "listen_count": 1
+        },
+        {
           "artist": "McCoy Tyner",
           "listen_count": 1
         },
@@ -146,7 +162,7 @@
           "listen_count": 1
         },
         {
-          "artist": "Pearl & The Oysters",
+          "artist": "SE SO NEON",
           "listen_count": 1
         },
         {
@@ -158,7 +174,19 @@
           "listen_count": 1
         },
         {
-          "artist": "Yellow Magic Orchestra",
+          "artist": "kukuku",
+          "listen_count": 1
+        },
+        {
+          "artist": "mei ehara",
+          "listen_count": 1
+        },
+        {
+          "artist": "原神玲",
+          "listen_count": 1
+        },
+        {
+          "artist": "安部勇磨",
           "listen_count": 1
         }
       ],
@@ -192,11 +220,11 @@
           "last_listened_at_utc": "2026-09-29T19:43:36Z"
         },
         {
-          "artist": "Haruomi Hosono",
-          "album": "Yours Sincerely",
-          "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-09-25T20:34:25Z"
+          "artist": "Bullion",
+          "album": "Nearly",
+          "listen_count": 11,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-03T12:08:00Z"
         },
         {
           "artist": "Hermanos Gutiérrez",
@@ -206,11 +234,11 @@
           "last_listened_at_utc": "2026-09-30T22:18:29Z"
         },
         {
-          "artist": "Mac DeMarco",
-          "album": "Seaplane Dog",
-          "listen_count": 9,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-09-25T21:06:10Z"
+          "artist": "Nils Frahm",
+          "album": "All Melody",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-10-02T19:31:45Z"
         },
         {
           "artist": "Songs: Ohia",
@@ -248,13 +276,6 @@
           "last_listened_at_utc": "2026-10-02T12:33:49Z"
         },
         {
-          "artist": "Bullion",
-          "album": "Nearly",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-02T12:42:01Z"
-        },
-        {
           "artist": "Avishai Cohen Trio",
           "album": "Gently Disturbed",
           "listen_count": 2,
@@ -267,6 +288,20 @@
           "listen_count": 2,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-29T12:36:48Z"
+        },
+        {
+          "artist": "Pearl & The Oysters",
+          "album": "Hosono House Revisited",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:10:39Z"
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Midnight Sugar",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-02T20:41:14Z"
         },
         {
           "artist": "שב״ק ס׳",
@@ -332,11 +367,18 @@
           "last_listened_at_utc": "2026-09-27T22:22:54Z"
         },
         {
-          "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
-          "album": "Pacific",
+          "artist": "James Blake",
+          "album": "Overgrown",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-25T20:37:14Z"
+          "last_listened_at_utc": "2026-10-02T22:14:19Z"
+        },
+        {
+          "artist": "Jerry Paper",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:22:42Z"
         },
         {
           "artist": "Joe Henderson",
@@ -344,6 +386,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-27T21:55:29Z"
+        },
+        {
+          "artist": "John Carroll Kirby, Mizuhara Sisters",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:20:14Z"
         },
         {
           "artist": "Lee Konitz, Brad Mehldau, Charlie Haden & Paul Motian",
@@ -360,6 +409,13 @@
           "last_listened_at_utc": "2026-09-26T21:21:33Z"
         },
         {
+          "artist": "Mac DeMarco",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:34:17Z"
+        },
+        {
           "artist": "McCoy Tyner",
           "album": "The Real McCoy (2012 Remastered)",
           "listen_count": 1,
@@ -374,11 +430,11 @@
           "last_listened_at_utc": "2026-09-27T22:29:46Z"
         },
         {
-          "artist": "Pearl & The Oysters",
+          "artist": "SE SO NEON",
           "album": "Hosono House Revisited",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-30T22:25:34Z"
+          "last_listened_at_utc": "2026-10-03T12:27:17Z"
         },
         {
           "artist": "Smerz",
@@ -402,39 +458,56 @@
           "last_listened_at_utc": "2026-09-28T12:46:53Z"
         },
         {
-          "artist": "Yellow Magic Orchestra",
-          "album": "Solid State Survivor",
+          "artist": "kukuku",
+          "album": "Hosono House Revisited",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-25T20:41:21Z"
+          "last_listened_at_utc": "2026-10-03T12:37:08Z"
+        },
+        {
+          "artist": "mei ehara",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:13:31Z"
+        },
+        {
+          "artist": "原神玲",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:16:54Z"
+        },
+        {
+          "artist": "安部勇磨",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:30:12Z"
         }
       ]
     },
     "last_30_days": {
-      "listen_count": 565,
-      "unique_artists": 87,
-      "unique_albums": 110,
+      "listen_count": 581,
+      "unique_artists": 95,
+      "unique_albums": 119,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "טונה",
-          "listen_count": 99
+          "listen_count": 98
         },
         {
           "artist": "Haruomi Hosono",
           "listen_count": 42
         },
         {
-          "artist": "רביד פלוטניק",
+          "artist": "Mac DeMarco",
           "listen_count": 33
         },
         {
-          "artist": "Mac DeMarco",
-          "listen_count": 32
-        },
-        {
-          "artist": "נצ׳י נצ׳",
-          "listen_count": 26
+          "artist": "רביד פלוטניק",
+          "listen_count": 33
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -445,12 +518,16 @@
           "listen_count": 20
         },
         {
-          "artist": "Sagol 59",
-          "listen_count": 17
+          "artist": "נצ׳י נצ׳",
+          "listen_count": 19
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
-          "listen_count": 16
+          "listen_count": 18
+        },
+        {
+          "artist": "Sagol 59",
+          "listen_count": 17
         },
         {
           "artist": "青葉市子",
@@ -473,7 +550,15 @@
           "listen_count": 12
         },
         {
+          "artist": "Bullion",
+          "listen_count": 11
+        },
+        {
           "artist": "Hermanos Gutiérrez",
+          "listen_count": 10
+        },
+        {
+          "artist": "Nils Frahm",
           "listen_count": 10
         },
         {
@@ -541,14 +626,6 @@
           "listen_count": 4
         },
         {
-          "artist": "ג'יגה ג'וס",
-          "listen_count": 4
-        },
-        {
-          "artist": "Bullion",
-          "listen_count": 3
-        },
-        {
           "artist": "Cameron Winter",
           "listen_count": 3
         },
@@ -577,10 +654,6 @@
           "listen_count": 3
         },
         {
-          "artist": "עדן דרסו",
-          "listen_count": 3
-        },
-        {
           "artist": "Ahmad Jamal",
           "listen_count": 2
         },
@@ -594,6 +667,10 @@
         },
         {
           "artist": "Cory Wong & Joshua Redman",
+          "listen_count": 2
+        },
+        {
+          "artist": "Pearl & The Oysters",
           "listen_count": 2
         },
         {
@@ -653,7 +730,15 @@
           "listen_count": 1
         },
         {
+          "artist": "James Blake",
+          "listen_count": 1
+        },
+        {
           "artist": "Jeff Beck",
+          "listen_count": 1
+        },
+        {
+          "artist": "Jerry Paper",
           "listen_count": 1
         },
         {
@@ -662,6 +747,10 @@
         },
         {
           "artist": "Joe Henderson",
+          "listen_count": 1
+        },
+        {
+          "artist": "John Carroll Kirby, Mizuhara Sisters",
           "listen_count": 1
         },
         {
@@ -697,11 +786,11 @@
           "listen_count": 1
         },
         {
-          "artist": "Pearl & The Oysters",
+          "artist": "Peter Gabriel",
           "listen_count": 1
         },
         {
-          "artist": "Peter Gabriel",
+          "artist": "SE SO NEON",
           "listen_count": 1
         },
         {
@@ -741,11 +830,23 @@
           "listen_count": 1
         },
         {
+          "artist": "kukuku",
+          "listen_count": 1
+        },
+        {
+          "artist": "mei ehara",
+          "listen_count": 1
+        },
+        {
           "artist": "אביב גדג׳",
           "listen_count": 1
         },
         {
           "artist": "ברי סחרוף ודודו טסה",
+          "listen_count": 1
+        },
+        {
+          "artist": "ג'יגה ג'וס",
           "listen_count": 1
         },
         {
@@ -763,13 +864,21 @@
         {
           "artist": "פלד",
           "listen_count": 1
+        },
+        {
+          "artist": "原神玲",
+          "listen_count": 1
+        },
+        {
+          "artist": "安部勇磨",
+          "listen_count": 1
         }
       ],
       "albums": [
         {
           "artist": "טונה",
           "album": "מזרח פרוע",
-          "listen_count": 37,
+          "listen_count": 36,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-02T12:33:49Z"
         },
@@ -786,13 +895,6 @@
           "listen_count": 31,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-09-25T20:34:25Z"
-        },
-        {
-          "artist": "נצ׳י נצ׳",
-          "album": "שפל וגאות",
-          "listen_count": 24,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-09-16T12:42:46Z"
         },
         {
           "artist": "טונה",
@@ -821,6 +923,13 @@
           "listen_count": 18,
           "unique_tracks": 18,
           "last_listened_at_utc": "2026-09-09T00:52:41Z"
+        },
+        {
+          "artist": "נצ׳י נצ׳",
+          "album": "שפל וגאות",
+          "listen_count": 17,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-09-16T12:42:46Z"
         },
         {
           "artist": "Sagol 59",
@@ -872,6 +981,13 @@
           "last_listened_at_utc": "2026-09-29T19:43:36Z"
         },
         {
+          "artist": "Bullion",
+          "album": "Nearly",
+          "listen_count": 11,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-03T12:08:00Z"
+        },
+        {
           "artist": "רביד פלוטניק",
           "album": "תוך כדי תנועה",
           "listen_count": 11,
@@ -891,6 +1007,13 @@
           "listen_count": 10,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-09-30T22:18:29Z"
+        },
+        {
+          "artist": "Nils Frahm",
+          "album": "All Melody",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-10-02T19:31:45Z"
         },
         {
           "artist": "Bob Dylan",
@@ -970,6 +1093,13 @@
           "last_listened_at_utc": "2026-09-17T21:23:12Z"
         },
         {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Midnight Sugar",
+          "listen_count": 6,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-02T20:41:14Z"
+        },
+        {
           "artist": "אורי שוחט",
           "album": "שוחטודה",
           "listen_count": 6,
@@ -1031,27 +1161,6 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-09-03T23:41:11Z"
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Midnight Sugar",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-09-05T19:21:21Z"
-        },
-        {
-          "artist": "ג'יגה ג'וס",
-          "album": "מיץ למקס",
-          "listen_count": 4,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-17T12:35:54Z"
-        },
-        {
-          "artist": "Bullion",
-          "album": "Nearly",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-02T12:42:01Z"
         },
         {
           "artist": "Cameron Winter",
@@ -1117,13 +1226,6 @@
           "last_listened_at_utc": "2026-09-22T12:44:22Z"
         },
         {
-          "artist": "עדן דרסו",
-          "album": "משולש קדוש",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-02T21:19:57Z"
-        },
-        {
           "artist": "רביד פלוטניק",
           "album": "Ve'Achshav La'Helek Ha'Omanuti",
           "listen_count": 3,
@@ -1157,6 +1259,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-09-05T22:22:21Z"
+        },
+        {
+          "artist": "Pearl & The Oysters",
+          "album": "Hosono House Revisited",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:10:39Z"
         },
         {
           "artist": "ברי סחרוף",
@@ -1299,11 +1408,25 @@
           "last_listened_at_utc": "2026-09-20T22:13:59Z"
         },
         {
+          "artist": "James Blake",
+          "album": "Overgrown",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-02T22:14:19Z"
+        },
+        {
           "artist": "Jeff Beck",
           "album": "Blow by Blow",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-20T22:19:53Z"
+        },
+        {
+          "artist": "Jerry Paper",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:22:42Z"
         },
         {
           "artist": "Jimmy Smith",
@@ -1318,6 +1441,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-27T21:55:29Z"
+        },
+        {
+          "artist": "John Carroll Kirby, Mizuhara Sisters",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:20:14Z"
         },
         {
           "artist": "John Mellencamp",
@@ -1339,6 +1469,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-26T21:21:33Z"
+        },
+        {
+          "artist": "Mac DeMarco",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:34:17Z"
         },
         {
           "artist": "Mark Turner",
@@ -1383,13 +1520,6 @@
           "last_listened_at_utc": "2026-09-27T22:29:46Z"
         },
         {
-          "artist": "Pearl & The Oysters",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-30T22:25:34Z"
-        },
-        {
           "artist": "Peter Gabriel",
           "album": "Peter Gabriel 3: Melt (Remastered Version)",
           "listen_count": 1,
@@ -1409,6 +1539,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-07T23:09:02Z"
+        },
+        {
+          "artist": "SE SO NEON",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:27:17Z"
         },
         {
           "artist": "Santana",
@@ -1481,6 +1618,20 @@
           "last_listened_at_utc": "2026-09-25T20:41:21Z"
         },
         {
+          "artist": "kukuku",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:37:08Z"
+        },
+        {
+          "artist": "mei ehara",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:13:31Z"
+        },
+        {
           "artist": "אביב גדג׳",
           "album": "עולם מופלא איפה אתה",
           "listen_count": 1,
@@ -1493,6 +1644,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-13T19:45:57Z"
+        },
+        {
+          "artist": "ג'יגה ג'וס",
+          "album": "מיץ למקס",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-17T12:35:54Z"
         },
         {
           "artist": "ג׳ימבו ג׳יי",
@@ -1535,13 +1693,27 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-08T20:02:48Z"
+        },
+        {
+          "artist": "原神玲",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:16:54Z"
+        },
+        {
+          "artist": "安部勇磨",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:30:12Z"
         }
       ]
     },
     "last_90_days": {
-      "listen_count": 885,
-      "unique_artists": 140,
-      "unique_albums": 189,
+      "listen_count": 915,
+      "unique_artists": 149,
+      "unique_albums": 199,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1561,16 +1733,16 @@
           "listen_count": 42
         },
         {
+          "artist": "Mac DeMarco",
+          "listen_count": 33
+        },
+        {
           "artist": "Bob Dylan",
           "listen_count": 32
         },
         {
-          "artist": "Mac DeMarco",
-          "listen_count": 32
-        },
-        {
           "artist": "Tsuyoshi Yamamoto Trio",
-          "listen_count": 26
+          "listen_count": 28
         },
         {
           "artist": "נצ׳י נצ׳",
@@ -1629,6 +1801,10 @@
           "listen_count": 12
         },
         {
+          "artist": "Bullion",
+          "listen_count": 11
+        },
+        {
           "artist": "Kenny Burrell",
           "listen_count": 11
         },
@@ -1642,6 +1818,10 @@
         },
         {
           "artist": "Hermanos Gutiérrez",
+          "listen_count": 10
+        },
+        {
+          "artist": "Nils Frahm",
           "listen_count": 10
         },
         {
@@ -1733,10 +1913,6 @@
           "listen_count": 4
         },
         {
-          "artist": "Bullion",
-          "listen_count": 3
-        },
-        {
           "artist": "Cameron Winter",
           "listen_count": 3
         },
@@ -1806,6 +1982,10 @@
         },
         {
           "artist": "Oscar Peterson meets Roy Hargrove and Ralph Moore with Niels‐Henning Ørsted Pedersen and Lewis Nash",
+          "listen_count": 2
+        },
+        {
+          "artist": "Pearl & The Oysters",
           "listen_count": 2
         },
         {
@@ -1909,7 +2089,15 @@
           "listen_count": 1
         },
         {
+          "artist": "James Blake",
+          "listen_count": 1
+        },
+        {
           "artist": "Jeff Beck",
+          "listen_count": 1
+        },
+        {
+          "artist": "Jerry Paper",
           "listen_count": 1
         },
         {
@@ -1918,6 +2106,10 @@
         },
         {
           "artist": "Joe Henderson",
+          "listen_count": 1
+        },
+        {
+          "artist": "John Carroll Kirby, Mizuhara Sisters",
           "listen_count": 1
         },
         {
@@ -1985,10 +2177,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Pearl & The Oysters",
-          "listen_count": 1
-        },
-        {
           "artist": "Peter Gabriel",
           "listen_count": 1
         },
@@ -1998,6 +2186,10 @@
         },
         {
           "artist": "Ray Brown with John Clayton & Christian McBride",
+          "listen_count": 1
+        },
+        {
+          "artist": "SE SO NEON",
           "listen_count": 1
         },
         {
@@ -2081,6 +2273,14 @@
           "listen_count": 1
         },
         {
+          "artist": "kukuku",
+          "listen_count": 1
+        },
+        {
+          "artist": "mei ehara",
+          "listen_count": 1
+        },
+        {
           "artist": "אביב גדג׳",
           "listen_count": 1
         },
@@ -2102,6 +2302,14 @@
         },
         {
           "artist": "פלד",
+          "listen_count": 1
+        },
+        {
+          "artist": "原神玲",
+          "listen_count": 1
+        },
+        {
+          "artist": "安部勇磨",
           "listen_count": 1
         }
       ],
@@ -2268,11 +2476,25 @@
           "last_listened_at_utc": "2026-09-29T19:43:36Z"
         },
         {
+          "artist": "Bullion",
+          "album": "Nearly",
+          "listen_count": 11,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-03T12:08:00Z"
+        },
+        {
           "artist": "Olivia Rodrigo",
           "album": "SOUR",
           "listen_count": 11,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-07-11T20:12:22Z"
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Midnight Sugar",
+          "listen_count": 11,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-02T20:41:14Z"
         },
         {
           "artist": "עדן דרסו",
@@ -2324,6 +2546,13 @@
           "last_listened_at_utc": "2026-09-20T22:46:37Z"
         },
         {
+          "artist": "Nils Frahm",
+          "album": "All Melody",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-10-02T19:31:45Z"
+        },
+        {
           "artist": "Bill Evans Trio",
           "album": "Portrait in Jazz",
           "listen_count": 9,
@@ -2350,13 +2579,6 @@
           "listen_count": 9,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-07-06T22:35:38Z"
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Midnight Sugar",
-          "listen_count": 9,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-09-05T19:21:21Z"
         },
         {
           "artist": "רביד פלוטניק",
@@ -2527,13 +2749,6 @@
           "last_listened_at_utc": "2026-09-17T20:04:19Z"
         },
         {
-          "artist": "Bullion",
-          "album": "Nearly",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-02T12:42:01Z"
-        },
-        {
           "artist": "Cameron Winter",
           "album": "Heavy Metal",
           "listen_count": 3,
@@ -2679,6 +2894,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-09-27T22:29:46Z"
+        },
+        {
+          "artist": "Pearl & The Oysters",
+          "album": "Hosono House Revisited",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:10:39Z"
         },
         {
           "artist": "The Dave Brubeck Quartet",
@@ -2954,11 +3176,25 @@
           "last_listened_at_utc": "2026-09-20T22:13:59Z"
         },
         {
+          "artist": "James Blake",
+          "album": "Overgrown",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-02T22:14:19Z"
+        },
+        {
           "artist": "Jeff Beck",
           "album": "Blow by Blow",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-20T22:19:53Z"
+        },
+        {
+          "artist": "Jerry Paper",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:22:42Z"
         },
         {
           "artist": "Jimmy Smith",
@@ -2973,6 +3209,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-27T21:55:29Z"
+        },
+        {
+          "artist": "John Carroll Kirby, Mizuhara Sisters",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:20:14Z"
         },
         {
           "artist": "John Coltrane",
@@ -3059,6 +3302,13 @@
           "last_listened_at_utc": "2026-09-26T21:21:33Z"
         },
         {
+          "artist": "Mac DeMarco",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:34:17Z"
+        },
+        {
           "artist": "Mark Turner",
           "album": "Ballad Session",
           "listen_count": 1,
@@ -3143,13 +3393,6 @@
           "last_listened_at_utc": "2026-07-11T19:34:20Z"
         },
         {
-          "artist": "Pearl & The Oysters",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-30T22:25:34Z"
-        },
-        {
           "artist": "Peter Gabriel",
           "album": "Peter Gabriel 3: Melt (Remastered Version)",
           "listen_count": 1,
@@ -3183,6 +3426,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-07-26T21:31:08Z"
+        },
+        {
+          "artist": "SE SO NEON",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:27:17Z"
         },
         {
           "artist": "Samara Joy",
@@ -3374,6 +3624,20 @@
           "last_listened_at_utc": "2026-09-25T20:41:21Z"
         },
         {
+          "artist": "kukuku",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:37:08Z"
+        },
+        {
+          "artist": "mei ehara",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:13:31Z"
+        },
+        {
           "artist": "אביב גדג׳",
           "album": "עולם מופלא איפה אתה",
           "listen_count": 1,
@@ -3428,11 +3692,590 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-08T20:02:48Z"
+        },
+        {
+          "artist": "原神玲",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:16:54Z"
+        },
+        {
+          "artist": "安部勇磨",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:30:12Z"
         }
       ]
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1791031028,
+      "listened_at_utc": "2026-10-03T12:37:08Z",
+      "artist": "kukuku",
+      "track": "CHOO CHOO Gatagoto",
+      "album": "Hosono House Revisited",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9e66ce78-38c4-4097-b3ff-8b2dfe7d167f"
+        ],
+        "recording_mbid": "04d0c263-5aea-44fe-9a42-19c4ee59474a",
+        "release_mbid": "6c4c1322-9150-4071-8a93-de22ae0a5949"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791030857,
+      "listened_at_utc": "2026-10-03T12:34:17Z",
+      "artist": "Mac DeMarco",
+      "track": "Boku Wa Chotto",
+      "album": "Hosono House Revisited",
+      "musicbrainz": {
+        "artist_mbids": [
+          "f2492c31-54a8-4347-a1fc-f81f72873bbf"
+        ],
+        "recording_mbid": "188f0fca-6ceb-4e30-88bc-061e9ac4df3a",
+        "release_mbid": "57da52f0-8065-4a39-8d13-a194d1453dc5",
+        "release_group_mbid": "5365b798-cfe2-4556-be6a-2d257ef2f6d9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791030612,
+      "listened_at_utc": "2026-10-03T12:30:12Z",
+      "artist": "安部勇磨",
+      "track": "Fuyu Goe",
+      "album": "Hosono House Revisited",
+      "musicbrainz": {
+        "artist_mbids": [
+          "7dca104e-7fb3-4cf2-8623-d4213d15326d"
+        ],
+        "recording_mbid": "0875847f-7fd9-469d-86be-a4e154d35cd2",
+        "release_mbid": "6c4c1322-9150-4071-8a93-de22ae0a5949",
+        "release_group_mbid": "3253a680-8d55-40b0-8d47-2be50ac5d9cf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791030437,
+      "listened_at_utc": "2026-10-03T12:27:17Z",
+      "artist": "SE SO NEON",
+      "track": "Party",
+      "album": "Hosono House Revisited",
+      "musicbrainz": {
+        "artist_mbids": [
+          "717d466b-36b8-4a43-86e9-e8b8c4a658d7"
+        ],
+        "recording_mbid": "631289d3-7da9-4260-91d0-101c622214d7",
+        "release_mbid": "6c4c1322-9150-4071-8a93-de22ae0a5949"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791030162,
+      "listened_at_utc": "2026-10-03T12:22:42Z",
+      "artist": "Jerry Paper",
+      "track": "Bara To Yaju",
+      "album": "Hosono House Revisited",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b5d177c8-a3bf-47ab-8e66-aae394b380cc"
+        ],
+        "recording_mbid": "25b0a2aa-02c2-4b28-a412-8b839813f942",
+        "release_mbid": "6c4c1322-9150-4071-8a93-de22ae0a5949",
+        "release_group_mbid": "3253a680-8d55-40b0-8d47-2be50ac5d9cf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791030014,
+      "listened_at_utc": "2026-10-03T12:20:14Z",
+      "artist": "John Carroll Kirby, Mizuhara Sisters",
+      "track": "Fuku Wa Uchi Oni Wa Soto",
+      "album": "Hosono House Revisited",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fff7d779-43ee-40bd-8bee-f5fe488109f8",
+          "e2c88787-d853-4fb2-9c2d-f986660dc70f"
+        ],
+        "release_mbid": "6c4c1322-9150-4071-8a93-de22ae0a5949"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791029814,
+      "listened_at_utc": "2026-10-03T12:16:54Z",
+      "artist": "原神玲",
+      "track": "Owari No Kisetsu",
+      "album": "Hosono House Revisited",
+      "musicbrainz": {
+        "artist_mbids": [
+          "6b77d8ef-c405-4846-9d5f-2b93e6533101"
+        ],
+        "recording_mbid": "d454f300-f396-4f0f-a3a4-8950ff161ced",
+        "release_mbid": "6c4c1322-9150-4071-8a93-de22ae0a5949",
+        "release_group_mbid": "3253a680-8d55-40b0-8d47-2be50ac5d9cf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791029611,
+      "listened_at_utc": "2026-10-03T12:13:31Z",
+      "artist": "mei ehara",
+      "track": "Jusho Futei Mushoku Tei Shunyu",
+      "album": "Hosono House Revisited",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a4d85e6f-8998-45c8-8f55-53e54246277a"
+        ],
+        "recording_mbid": "b62dc7c4-ff39-4ec7-9f8a-029f61e6640a",
+        "release_mbid": "6c4c1322-9150-4071-8a93-de22ae0a5949",
+        "release_group_mbid": "3253a680-8d55-40b0-8d47-2be50ac5d9cf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791029439,
+      "listened_at_utc": "2026-10-03T12:10:39Z",
+      "artist": "Pearl & The Oysters",
+      "track": "Koi Wa Momoiro",
+      "album": "Hosono House Revisited",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5cecd808-74ea-468c-97d3-cef0fa2f4910"
+        ],
+        "recording_mbid": "7c5488e9-f863-42f2-a5a2-6decd13de230",
+        "release_mbid": "6c4c1322-9150-4071-8a93-de22ae0a5949",
+        "release_group_mbid": "3253a680-8d55-40b0-8d47-2be50ac5d9cf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791029280,
+      "listened_at_utc": "2026-10-03T12:08:00Z",
+      "artist": "Bullion",
+      "track": "Applegene",
+      "album": "Nearly",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9b2a1ef4-0e6b-4ddd-99fc-cdf223dccb08"
+        ],
+        "recording_mbid": "870940ce-598c-4b32-a80d-8b19ed808f37",
+        "release_mbid": "29aa6af3-7546-478d-a82c-839c95d0caaf",
+        "release_group_mbid": "cc79b7e4-944a-43d5-bb7c-7994a182fb1a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791029132,
+      "listened_at_utc": "2026-10-03T12:05:32Z",
+      "artist": "Bullion",
+      "track": "The Arm of Cinderella",
+      "album": "Nearly",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9b2a1ef4-0e6b-4ddd-99fc-cdf223dccb08",
+          "91c842a9-a82c-44c0-a332-f1827a59c753"
+        ],
+        "release_mbid": "29aa6af3-7546-478d-a82c-839c95d0caaf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791028910,
+      "listened_at_utc": "2026-10-03T12:01:50Z",
+      "artist": "Bullion",
+      "track": "Forget Performer",
+      "album": "Nearly",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9b2a1ef4-0e6b-4ddd-99fc-cdf223dccb08"
+        ],
+        "recording_mbid": "092fe5fd-140d-410a-8268-8b02b4090315",
+        "release_mbid": "29aa6af3-7546-478d-a82c-839c95d0caaf",
+        "release_group_mbid": "cc79b7e4-944a-43d5-bb7c-7994a182fb1a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791028711,
+      "listened_at_utc": "2026-10-03T11:58:31Z",
+      "artist": "Bullion",
+      "track": "Young Shiver",
+      "album": "Nearly",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9b2a1ef4-0e6b-4ddd-99fc-cdf223dccb08"
+        ],
+        "recording_mbid": "85bab0a7-6f65-46a5-906f-be0f52a73ef3",
+        "release_mbid": "29aa6af3-7546-478d-a82c-839c95d0caaf",
+        "release_group_mbid": "cc79b7e4-944a-43d5-bb7c-7994a182fb1a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791028478,
+      "listened_at_utc": "2026-10-03T11:54:38Z",
+      "artist": "Bullion",
+      "track": "Ok Parsley",
+      "album": "Nearly",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9b2a1ef4-0e6b-4ddd-99fc-cdf223dccb08"
+        ],
+        "recording_mbid": "50ddbd4c-3102-48a7-aed1-ca8143a40e97",
+        "release_mbid": "29aa6af3-7546-478d-a82c-839c95d0caaf",
+        "release_group_mbid": "cc79b7e4-944a-43d5-bb7c-7994a182fb1a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791028290,
+      "listened_at_utc": "2026-10-03T11:51:30Z",
+      "artist": "Bullion",
+      "track": "Francis Ford",
+      "album": "Nearly",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9b2a1ef4-0e6b-4ddd-99fc-cdf223dccb08",
+          "91c842a9-a82c-44c0-a332-f1827a59c753"
+        ],
+        "release_mbid": "29aa6af3-7546-478d-a82c-839c95d0caaf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791028107,
+      "listened_at_utc": "2026-10-03T11:48:27Z",
+      "artist": "Bullion",
+      "track": "Roo",
+      "album": "Nearly",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9b2a1ef4-0e6b-4ddd-99fc-cdf223dccb08"
+        ],
+        "recording_mbid": "a82f829c-499b-4b5a-8a1d-9f3559926227",
+        "release_mbid": "29aa6af3-7546-478d-a82c-839c95d0caaf",
+        "release_group_mbid": "cc79b7e4-944a-43d5-bb7c-7994a182fb1a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791027988,
+      "listened_at_utc": "2026-10-03T11:46:28Z",
+      "artist": "Bullion",
+      "track": "Very Few Inspirations",
+      "album": "Nearly",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9b2a1ef4-0e6b-4ddd-99fc-cdf223dccb08"
+        ],
+        "recording_mbid": "1bbd4cdb-bf78-464d-ad7d-474061754bbd",
+        "release_mbid": "29aa6af3-7546-478d-a82c-839c95d0caaf",
+        "release_group_mbid": "cc79b7e4-944a-43d5-bb7c-7994a182fb1a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790979259,
+      "listened_at_utc": "2026-10-02T22:14:19Z",
+      "artist": "James Blake",
+      "track": "Overgrown",
+      "album": "Overgrown",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8dc08b1f-e393-4f85-a5dd-300f7693a8b8"
+        ],
+        "recording_mbid": "41b75f86-43a2-48ff-9557-20b7b2d397ce",
+        "release_mbid": "d9202e60-4a1e-40ab-8581-53be1404b79a",
+        "release_group_mbid": "b9a4e9ad-400c-4219-ae45-519c2d8167f7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790973674,
+      "listened_at_utc": "2026-10-02T20:41:14Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "I'm a Fool to Want You",
+      "album": "Midnight Sugar",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "recording_mbid": "912ce8e1-96c3-4ecc-96ba-605bc84e3289",
+        "release_mbid": "cf60774d-c7ab-4543-92b6-336ed560f145",
+        "release_group_mbid": "d2a91dd3-cb71-40b0-81ca-ad4bee8d25eb"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790972934,
+      "listened_at_utc": "2026-10-02T20:28:54Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "Midnight Sugar",
+      "album": "Midnight Sugar",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "recording_mbid": "073e8f6d-efc8-49e0-8cb3-b4d091b402a3",
+        "release_mbid": "d8e4a129-d8f5-4b80-8414-3da3f8ad91dc",
+        "release_group_mbid": "4890f61a-9b84-42e9-aaf3-c0899c019bcf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790969505,
+      "listened_at_utc": "2026-10-02T19:31:45Z",
+      "artist": "Nils Frahm",
+      "track": "Fundamental Values",
+      "album": "All Melody",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01"
+        ],
+        "recording_mbid": "33ba2d5e-a0a4-4434-8a76-1063495e084f",
+        "release_mbid": "7ebabd10-6943-494b-bbb9-8c38d164f342",
+        "release_group_mbid": "08de636b-81ac-4928-9d9b-4f6ac0628ce3"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790969185,
+      "listened_at_utc": "2026-10-02T19:26:25Z",
+      "artist": "Nils Frahm",
+      "track": "Momentum",
+      "album": "All Melody",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01"
+        ],
+        "recording_mbid": "97203293-ff4d-4db5-9b29-4cc039d86c21",
+        "release_mbid": "7ebabd10-6943-494b-bbb9-8c38d164f342",
+        "release_group_mbid": "08de636b-81ac-4928-9d9b-4f6ac0628ce3"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790968604,
+      "listened_at_utc": "2026-10-02T19:16:44Z",
+      "artist": "Nils Frahm",
+      "track": "#2",
+      "album": "All Melody",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01"
+        ],
+        "recording_mbid": "d46fe14f-4132-44f7-84ea-0e86d9349591",
+        "release_mbid": "7ebabd10-6943-494b-bbb9-8c38d164f342",
+        "release_group_mbid": "08de636b-81ac-4928-9d9b-4f6ac0628ce3"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790968034,
+      "listened_at_utc": "2026-10-02T19:07:14Z",
+      "artist": "Nils Frahm",
+      "track": "All Melody",
+      "album": "All Melody",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01"
+        ],
+        "recording_mbid": "8f77b888-a627-4072-a5fc-80f76a668102",
+        "release_mbid": "7ebabd10-6943-494b-bbb9-8c38d164f342",
+        "release_group_mbid": "08de636b-81ac-4928-9d9b-4f6ac0628ce3"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790967866,
+      "listened_at_utc": "2026-10-02T19:04:26Z",
+      "artist": "Nils Frahm",
+      "track": "Forever Changeless",
+      "album": "All Melody",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01"
+        ],
+        "recording_mbid": "b4445917-9603-4e49-a53e-9d4dffab98ea",
+        "release_mbid": "7ebabd10-6943-494b-bbb9-8c38d164f342",
+        "release_group_mbid": "08de636b-81ac-4928-9d9b-4f6ac0628ce3"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790967447,
+      "listened_at_utc": "2026-10-02T18:57:27Z",
+      "artist": "Nils Frahm",
+      "track": "Human Range",
+      "album": "All Melody",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01"
+        ],
+        "recording_mbid": "2176adf8-7500-4c14-aba8-f0e36cae8c7e",
+        "release_mbid": "7ebabd10-6943-494b-bbb9-8c38d164f342",
+        "release_group_mbid": "08de636b-81ac-4928-9d9b-4f6ac0628ce3"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790966269,
+      "listened_at_utc": "2026-10-02T18:37:49Z",
+      "artist": "Nils Frahm",
+      "track": "My Friend the Forest",
+      "album": "All Melody",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01"
+        ],
+        "recording_mbid": "87190d36-7c29-44fa-b64e-6141626f1454",
+        "release_mbid": "7ebabd10-6943-494b-bbb9-8c38d164f342",
+        "release_group_mbid": "08de636b-81ac-4928-9d9b-4f6ac0628ce3"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790965848,
+      "listened_at_utc": "2026-10-02T18:30:48Z",
+      "artist": "Nils Frahm",
+      "track": "A Place",
+      "album": "All Melody",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01"
+        ],
+        "recording_mbid": "c7fe4dd3-f5aa-432b-a8a2-6389212de8e1",
+        "release_mbid": "7ebabd10-6943-494b-bbb9-8c38d164f342",
+        "release_group_mbid": "08de636b-81ac-4928-9d9b-4f6ac0628ce3"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790965297,
+      "listened_at_utc": "2026-10-02T18:21:37Z",
+      "artist": "Nils Frahm",
+      "track": "Sunson",
+      "album": "All Melody",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01"
+        ],
+        "recording_mbid": "e9b9b202-5be0-42d1-a25e-9afee115e51b",
+        "release_mbid": "7ebabd10-6943-494b-bbb9-8c38d164f342",
+        "release_group_mbid": "08de636b-81ac-4928-9d9b-4f6ac0628ce3"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1790965180,
+      "listened_at_utc": "2026-10-02T18:19:40Z",
+      "artist": "Nils Frahm",
+      "track": "The Whole Universe Wants to Be Touched",
+      "album": "All Melody",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01"
+        ],
+        "recording_mbid": "a8f2899e-007c-4364-8393-98ca4feaa05b",
+        "release_mbid": "7ebabd10-6943-494b-bbb9-8c38d164f342",
+        "release_group_mbid": "08de636b-81ac-4928-9d9b-4f6ac0628ce3"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1790944921,
       "listened_at_utc": "2026-10-02T12:42:01Z",
