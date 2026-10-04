@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-03T14:20:34Z",
+  "generated_at_utc": "2026-10-04T14:51:14Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-05T14:20:34Z",
-    "through_utc": "2026-10-03T14:20:34Z",
+    "from_utc": "2026-07-06T14:51:14Z",
+    "through_utc": "2026-10-04T14:51:14Z",
     "complete": true,
     "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 1069,
-    "deduplicated_listen_count": 915,
-    "duplicates_removed": 154,
-    "oldest_listen_utc": "2026-07-05T19:04:46Z",
-    "newest_listen_utc": "2026-10-03T12:37:08Z"
+    "raw_listen_count": 1094,
+    "deduplicated_listen_count": 921,
+    "duplicates_removed": 173,
+    "oldest_listen_utc": "2026-07-06T21:43:01Z",
+    "newest_listen_utc": "2026-10-03T23:13:04Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,22 +28,14 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 154,
-      "unique_artists": 39,
-      "unique_albums": 42,
+      "listen_count": 139,
+      "unique_artists": 41,
+      "unique_albums": 43,
       "listens_without_album": 0,
       "artists": [
         {
-          "artist": "Ahmad Jamal Trio",
-          "listen_count": 21
-        },
-        {
           "artist": "青葉市子",
           "listen_count": 14
-        },
-        {
-          "artist": "Richard & Linda Thompson",
-          "listen_count": 13
         },
         {
           "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
@@ -51,6 +43,10 @@
         },
         {
           "artist": "Bullion",
+          "listen_count": 11
+        },
+        {
+          "artist": "Erykah Badu",
           "listen_count": 11
         },
         {
@@ -62,11 +58,15 @@
           "listen_count": 10
         },
         {
-          "artist": "Songs: Ohia",
+          "artist": "Ahmad Jamal Trio",
           "listen_count": 8
         },
         {
           "artist": "Hank Mobley",
+          "listen_count": 6
+        },
+        {
+          "artist": "Nujabes",
           "listen_count": 6
         },
         {
@@ -78,16 +78,12 @@
           "listen_count": 5
         },
         {
-          "artist": "טונה",
+          "artist": "Cornelius",
           "listen_count": 4
         },
         {
-          "artist": "Cornelius",
-          "listen_count": 3
-        },
-        {
-          "artist": "Ahmad Jamal",
-          "listen_count": 2
+          "artist": "טונה",
+          "listen_count": 4
         },
         {
           "artist": "Avishai Cohen Trio",
@@ -106,15 +102,15 @@
           "listen_count": 2
         },
         {
+          "artist": "Ahmad Jamal",
+          "listen_count": 1
+        },
+        {
           "artist": "Bill Evans Trio",
           "listen_count": 1
         },
         {
           "artist": "Christian McBride",
-          "listen_count": 1
-        },
-        {
-          "artist": "Crosby, Stills & Nash",
           "listen_count": 1
         },
         {
@@ -146,7 +142,7 @@
           "listen_count": 1
         },
         {
-          "artist": "Loudon Wainwright III, Iris DeMent",
+          "artist": "Little Simz",
           "listen_count": 1
         },
         {
@@ -166,7 +162,15 @@
           "listen_count": 1
         },
         {
+          "artist": "Sam Gendel",
+          "listen_count": 1
+        },
+        {
           "artist": "Smerz",
+          "listen_count": 1
+        },
+        {
+          "artist": "TOWA TEI",
           "listen_count": 1
         },
         {
@@ -188,29 +192,19 @@
         {
           "artist": "安部勇磨",
           "listen_count": 1
+        },
+        {
+          "artist": "矢野顕子",
+          "listen_count": 1
         }
       ],
       "albums": [
-        {
-          "artist": "Ahmad Jamal Trio",
-          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
-          "listen_count": 21,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-27T21:34:44Z"
-        },
         {
           "artist": "青葉市子",
           "album": "Windswept Adan",
           "listen_count": 14,
           "unique_tracks": 14,
           "last_listened_at_utc": "2026-09-29T22:48:47Z"
-        },
-        {
-          "artist": "Richard & Linda Thompson",
-          "album": "I Want To See The Bright Lights Tonight",
-          "listen_count": 13,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-09-26T21:06:07Z"
         },
         {
           "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
@@ -227,6 +221,13 @@
           "last_listened_at_utc": "2026-10-03T12:08:00Z"
         },
         {
+          "artist": "Erykah Badu",
+          "album": "New Amerykah Part One (4th World War)",
+          "listen_count": 11,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-10-03T22:00:58Z"
+        },
+        {
           "artist": "Hermanos Gutiérrez",
           "album": "Los Ojos Del Cóndor",
           "listen_count": 10,
@@ -241,11 +242,11 @@
           "last_listened_at_utc": "2026-10-02T19:31:45Z"
         },
         {
-          "artist": "Songs: Ohia",
-          "album": "The Magnolia Electric Co.",
+          "artist": "Ahmad Jamal Trio",
+          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
           "listen_count": 8,
           "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-26T20:14:19Z"
+          "last_listened_at_utc": "2026-09-27T21:34:44Z"
         },
         {
           "artist": "Hank Mobley",
@@ -253,6 +254,13 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-09-27T23:08:27Z"
+        },
+        {
+          "artist": "Nujabes",
+          "album": "Modal Soul",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-03T23:13:04Z"
         },
         {
           "artist": "The Fred Hersch Trio",
@@ -281,6 +289,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-09-29T23:01:28Z"
+        },
+        {
+          "artist": "Cornelius",
+          "album": "Hosono House Revisited",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T16:28:43Z"
         },
         {
           "artist": "Cornelius",
@@ -318,13 +333,6 @@
           "last_listened_at_utc": "2026-09-27T21:38:53Z"
         },
         {
-          "artist": "Ahmad Jamal",
-          "album": "Marseille",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-26T23:10:47Z"
-        },
-        {
           "artist": "Bill Evans Trio",
           "album": "Everybody Digs Bill Evans (Keepnews Collection)",
           "listen_count": 1,
@@ -337,20 +345,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-27T22:00:26Z"
-        },
-        {
-          "artist": "Cornelius",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-30T22:20:56Z"
-        },
-        {
-          "artist": "Crosby, Stills & Nash",
-          "album": "Replay",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-26T21:16:03Z"
         },
         {
           "artist": "Eric Dolphy",
@@ -402,11 +396,11 @@
           "last_listened_at_utc": "2026-09-27T22:04:07Z"
         },
         {
-          "artist": "Loudon Wainwright III, Iris DeMent",
-          "album": "Bleecker Street: Greenwich Village in the 60's",
+          "artist": "Little Simz",
+          "album": "Sometimes I Might Be Introvert",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-26T21:21:33Z"
+          "last_listened_at_utc": "2026-10-03T22:07:26Z"
         },
         {
           "artist": "Mac DeMarco",
@@ -437,11 +431,25 @@
           "last_listened_at_utc": "2026-10-03T12:27:17Z"
         },
         {
+          "artist": "Sam Gendel",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T16:23:44Z"
+        },
+        {
           "artist": "Smerz",
           "album": "Big city life EDITS",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-29T22:54:57Z"
+        },
+        {
+          "artist": "TOWA TEI",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T16:33:06Z"
         },
         {
           "artist": "The Ahmad Jamal Trio",
@@ -484,18 +492,25 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-03T12:30:12Z"
+        },
+        {
+          "artist": "矢野顕子",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T16:19:36Z"
         }
       ]
     },
     "last_30_days": {
-      "listen_count": 581,
+      "listen_count": 563,
       "unique_artists": 95,
-      "unique_albums": 119,
+      "unique_albums": 118,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "טונה",
-          "listen_count": 98
+          "listen_count": 88
         },
         {
           "artist": "Haruomi Hosono",
@@ -507,7 +522,7 @@
         },
         {
           "artist": "רביד פלוטניק",
-          "listen_count": 33
+          "listen_count": 25
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -518,16 +533,16 @@
           "listen_count": 20
         },
         {
-          "artist": "נצ׳י נצ׳",
-          "listen_count": 19
-        },
-        {
           "artist": "Tsuyoshi Yamamoto Trio",
           "listen_count": 18
         },
         {
           "artist": "Sagol 59",
           "listen_count": 17
+        },
+        {
+          "artist": "נצ׳י נצ׳",
+          "listen_count": 14
         },
         {
           "artist": "青葉市子",
@@ -554,16 +569,16 @@
           "listen_count": 11
         },
         {
+          "artist": "Erykah Badu",
+          "listen_count": 11
+        },
+        {
           "artist": "Hermanos Gutiérrez",
           "listen_count": 10
         },
         {
           "artist": "Nils Frahm",
           "listen_count": 10
-        },
-        {
-          "artist": "Gilad Hekselman",
-          "listen_count": 9
         },
         {
           "artist": "John Coltrane Quartet",
@@ -594,6 +609,10 @@
           "listen_count": 6
         },
         {
+          "artist": "Nujabes",
+          "listen_count": 6
+        },
+        {
           "artist": "Shabak Samech",
           "listen_count": 6
         },
@@ -618,7 +637,7 @@
           "listen_count": 5
         },
         {
-          "artist": "NuNu",
+          "artist": "Cornelius",
           "listen_count": 4
         },
         {
@@ -627,10 +646,6 @@
         },
         {
           "artist": "Cameron Winter",
-          "listen_count": 3
-        },
-        {
-          "artist": "Cornelius",
           "listen_count": 3
         },
         {
@@ -762,11 +777,11 @@
           "listen_count": 1
         },
         {
-          "artist": "Loudon Wainwright III, Iris DeMent",
+          "artist": "Little Simz",
           "listen_count": 1
         },
         {
-          "artist": "Mark Turner",
+          "artist": "Loudon Wainwright III, Iris DeMent",
           "listen_count": 1
         },
         {
@@ -794,6 +809,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Sam Gendel",
+          "listen_count": 1
+        },
+        {
           "artist": "Santana",
           "listen_count": 1
         },
@@ -810,15 +829,15 @@
           "listen_count": 1
         },
         {
+          "artist": "TOWA TEI",
+          "listen_count": 1
+        },
+        {
           "artist": "The Ahmad Jamal Trio",
           "listen_count": 1
         },
         {
           "artist": "The Quartet of Charlie Parker",
-          "listen_count": 1
-        },
-        {
-          "artist": "Will Vinson Gilad Hekselman Antonio Sánchez",
           "listen_count": 1
         },
         {
@@ -850,15 +869,7 @@
           "listen_count": 1
         },
         {
-          "artist": "ג׳ימבו ג׳יי",
-          "listen_count": 1
-        },
-        {
           "artist": "טדי נגוסה",
-          "listen_count": 1
-        },
-        {
-          "artist": "ישי סוויסה / מיכאל סוויסה",
           "listen_count": 1
         },
         {
@@ -872,16 +883,13 @@
         {
           "artist": "安部勇磨",
           "listen_count": 1
+        },
+        {
+          "artist": "矢野顕子",
+          "listen_count": 1
         }
       ],
       "albums": [
-        {
-          "artist": "טונה",
-          "album": "מזרח פרוע",
-          "listen_count": 36,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-02T12:33:49Z"
-        },
         {
           "artist": "Mac DeMarco",
           "album": "Seaplane Dog",
@@ -898,10 +906,10 @@
         },
         {
           "artist": "טונה",
-          "album": "ועכשיו לחלק האינטרגלקטי",
-          "listen_count": 22,
+          "album": "מזרח פרוע",
+          "listen_count": 28,
           "unique_tracks": 13,
-          "last_listened_at_utc": "2026-09-13T16:16:38Z"
+          "last_listened_at_utc": "2026-10-02T12:33:49Z"
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -909,6 +917,13 @@
           "listen_count": 21,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-09-27T21:34:44Z"
+        },
+        {
+          "artist": "טונה",
+          "album": "ועכשיו לחלק האינטרגלקטי",
+          "listen_count": 20,
+          "unique_tracks": 13,
+          "last_listened_at_utc": "2026-09-13T16:16:38Z"
         },
         {
           "artist": "רביד פלוטניק",
@@ -923,13 +938,6 @@
           "listen_count": 18,
           "unique_tracks": 18,
           "last_listened_at_utc": "2026-09-09T00:52:41Z"
-        },
-        {
-          "artist": "נצ׳י נצ׳",
-          "album": "שפל וגאות",
-          "listen_count": 17,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-09-16T12:42:46Z"
         },
         {
           "artist": "Sagol 59",
@@ -967,6 +975,13 @@
           "last_listened_at_utc": "2026-09-26T21:06:07Z"
         },
         {
+          "artist": "נצ׳י נצ׳",
+          "album": "שפל וגאות",
+          "listen_count": 13,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-09-16T12:42:46Z"
+        },
+        {
           "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
           "album": "Waltz for Debby [1962]",
           "listen_count": 12,
@@ -988,11 +1003,11 @@
           "last_listened_at_utc": "2026-10-03T12:08:00Z"
         },
         {
-          "artist": "רביד פלוטניק",
-          "album": "תוך כדי תנועה",
+          "artist": "Erykah Badu",
+          "album": "New Amerykah Part One (4th World War)",
           "listen_count": 11,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-09T12:45:02Z"
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-10-03T22:00:58Z"
         },
         {
           "artist": "Bob Dylan",
@@ -1021,13 +1036,6 @@
           "listen_count": 9,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-09-20T22:09:28Z"
-        },
-        {
-          "artist": "Gilad Hekselman",
-          "album": "Life, at the Village Vanguard (Live)",
-          "listen_count": 9,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-09-03T23:13:06Z"
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -1084,6 +1092,13 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-09-05T20:40:45Z"
+        },
+        {
+          "artist": "Nujabes",
+          "album": "Modal Soul",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-03T23:13:04Z"
         },
         {
           "artist": "Shabak Samech",
@@ -1156,13 +1171,6 @@
           "last_listened_at_utc": "2026-09-29T12:43:49Z"
         },
         {
-          "artist": "NuNu",
-          "album": "הגנוז",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-09-03T23:41:11Z"
-        },
-        {
           "artist": "Cameron Winter",
           "album": "Heavy Metal",
           "listen_count": 3,
@@ -1233,6 +1241,13 @@
           "last_listened_at_utc": "2026-09-17T20:04:19Z"
         },
         {
+          "artist": "רביד פלוטניק",
+          "album": "תוך כדי תנועה",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-09-09T12:45:02Z"
+        },
+        {
           "artist": "Avishai Cohen Trio",
           "album": "Gently Disturbed",
           "listen_count": 2,
@@ -1245,6 +1260,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-09-07T18:37:47Z"
+        },
+        {
+          "artist": "Cornelius",
+          "album": "Hosono House Revisited",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T16:28:43Z"
         },
         {
           "artist": "Cornelius",
@@ -1343,13 +1365,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-27T22:00:26Z"
-        },
-        {
-          "artist": "Cornelius",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-30T22:20:56Z"
         },
         {
           "artist": "Crosby, Stills & Nash",
@@ -1464,6 +1479,13 @@
           "last_listened_at_utc": "2026-09-27T22:04:07Z"
         },
         {
+          "artist": "Little Simz",
+          "album": "Sometimes I Might Be Introvert",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T22:07:26Z"
+        },
+        {
           "artist": "Loudon Wainwright III, Iris DeMent",
           "album": "Bleecker Street: Greenwich Village in the 60's",
           "listen_count": 1,
@@ -1476,13 +1498,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-03T12:34:17Z"
-        },
-        {
-          "artist": "Mark Turner",
-          "album": "Ballad Session",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-03T23:24:28Z"
         },
         {
           "artist": "McCoy Tyner",
@@ -1548,6 +1563,13 @@
           "last_listened_at_utc": "2026-10-03T12:27:17Z"
         },
         {
+          "artist": "Sam Gendel",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T16:23:44Z"
+        },
+        {
           "artist": "Santana",
           "album": "Santana (III)",
           "listen_count": 1,
@@ -1576,6 +1598,13 @@
           "last_listened_at_utc": "2026-09-20T22:29:44Z"
         },
         {
+          "artist": "TOWA TEI",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T16:33:06Z"
+        },
+        {
           "artist": "The Ahmad Jamal Trio",
           "album": "The Complete Ahmad Jamal Trio Argo Sessions 1956-62",
           "listen_count": 1,
@@ -1595,13 +1624,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-28T12:46:53Z"
-        },
-        {
-          "artist": "Will Vinson Gilad Hekselman Antonio Sánchez",
-          "album": "Trio Grande: Urban Myth",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-03T23:30:26Z"
         },
         {
           "artist": "Willie Nelson",
@@ -1653,13 +1675,6 @@
           "last_listened_at_utc": "2026-09-17T12:35:54Z"
         },
         {
-          "artist": "ג׳ימבו ג׳יי",
-          "album": "אה וואו",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-03T21:52:41Z"
-        },
-        {
           "artist": "טדי נגוסה",
           "album": "מה רציתם",
           "listen_count": 1,
@@ -1667,25 +1682,11 @@
           "last_listened_at_utc": "2026-09-05T17:11:35Z"
         },
         {
-          "artist": "ישי סוויסה / מיכאל סוויסה",
-          "album": "מיטת קומותיים",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-03T23:45:23Z"
-        },
-        {
           "artist": "נצ׳י נצ׳",
           "album": "בור ועם הארץ",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-11T19:31:45Z"
-        },
-        {
-          "artist": "נצ׳י נצ׳",
-          "album": "ברוכים הבאים לפתח תקוה",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-03T23:49:29Z"
         },
         {
           "artist": "פלד",
@@ -1707,13 +1708,20 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-03T12:30:12Z"
+        },
+        {
+          "artist": "矢野顕子",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T16:19:36Z"
         }
       ]
     },
     "last_90_days": {
-      "listen_count": 915,
-      "unique_artists": 149,
-      "unique_albums": 199,
+      "listen_count": 921,
+      "unique_artists": 152,
+      "unique_albums": 201,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1722,7 +1730,7 @@
         },
         {
           "artist": "Julian Lage",
-          "listen_count": 55
+          "listen_count": 45
         },
         {
           "artist": "רביד פלוטניק",
@@ -1805,6 +1813,10 @@
           "listen_count": 11
         },
         {
+          "artist": "Erykah Badu",
+          "listen_count": 11
+        },
+        {
           "artist": "Kenny Burrell",
           "listen_count": 11
         },
@@ -1830,7 +1842,7 @@
         },
         {
           "artist": "Jim Hall",
-          "listen_count": 9
+          "listen_count": 8
         },
         {
           "artist": "Miles Davis",
@@ -1858,6 +1870,10 @@
         },
         {
           "artist": "Hank Mobley",
+          "listen_count": 6
+        },
+        {
+          "artist": "Nujabes",
           "listen_count": 6
         },
         {
@@ -1893,6 +1909,10 @@
           "listen_count": 5
         },
         {
+          "artist": "Cornelius",
+          "listen_count": 4
+        },
+        {
           "artist": "Isao Suzuki Sextet",
           "listen_count": 4
         },
@@ -1914,10 +1934,6 @@
         },
         {
           "artist": "Cameron Winter",
-          "listen_count": 3
-        },
-        {
-          "artist": "Cornelius",
           "listen_count": 3
         },
         {
@@ -1953,19 +1969,11 @@
           "listen_count": 2
         },
         {
-          "artist": "Bill Frisell",
-          "listen_count": 2
-        },
-        {
           "artist": "Billy Cobham",
           "listen_count": 2
         },
         {
           "artist": "Cannonball Adderley",
-          "listen_count": 2
-        },
-        {
-          "artist": "Charles Lloyd",
           "listen_count": 2
         },
         {
@@ -2025,11 +2033,19 @@
           "listen_count": 1
         },
         {
+          "artist": "Bill Frisell",
+          "listen_count": 1
+        },
+        {
           "artist": "Bruce Springsteen",
           "listen_count": 1
         },
         {
           "artist": "Cannonball Adderley With Milt Jackson",
+          "listen_count": 1
+        },
+        {
+          "artist": "Charles Lloyd",
           "listen_count": 1
         },
         {
@@ -2121,10 +2137,6 @@
           "listen_count": 1
         },
         {
-          "artist": "John Scofield, Vicente Archer & Bill Stewart",
-          "listen_count": 1
-        },
-        {
           "artist": "John Zorn",
           "listen_count": 1
         },
@@ -2141,6 +2153,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Little Simz",
+          "listen_count": 1
+        },
+        {
           "artist": "Los Del Mar",
           "listen_count": 1
         },
@@ -2154,10 +2170,6 @@
         },
         {
           "artist": "McCoy Tyner",
-          "listen_count": 1
-        },
-        {
-          "artist": "Meshell Ndegeocello",
           "listen_count": 1
         },
         {
@@ -2193,7 +2205,7 @@
           "listen_count": 1
         },
         {
-          "artist": "Samara Joy",
+          "artist": "Sam Gendel",
           "listen_count": 1
         },
         {
@@ -2226,6 +2238,10 @@
         },
         {
           "artist": "Sting",
+          "listen_count": 1
+        },
+        {
+          "artist": "TOWA TEI",
           "listen_count": 1
         },
         {
@@ -2311,6 +2327,10 @@
         {
           "artist": "安部勇磨",
           "listen_count": 1
+        },
+        {
+          "artist": "矢野顕子",
+          "listen_count": 1
         }
       ],
       "albums": [
@@ -2336,13 +2356,6 @@
           "last_listened_at_utc": "2026-09-25T20:34:25Z"
         },
         {
-          "artist": "Julian Lage",
-          "album": "Scenes from Above",
-          "listen_count": 31,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-07-24T19:49:01Z"
-        },
-        {
           "artist": "נצ׳י נצ׳",
           "album": "שפל וגאות",
           "listen_count": 24,
@@ -2355,6 +2368,13 @@
           "listen_count": 23,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-09-13T15:27:19Z"
+        },
+        {
+          "artist": "Julian Lage",
+          "album": "Scenes from Above",
+          "listen_count": 22,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-07-24T19:49:01Z"
         },
         {
           "artist": "טונה",
@@ -2483,6 +2503,13 @@
           "last_listened_at_utc": "2026-10-03T12:08:00Z"
         },
         {
+          "artist": "Erykah Badu",
+          "album": "New Amerykah Part One (4th World War)",
+          "listen_count": 11,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-10-03T22:00:58Z"
+        },
+        {
           "artist": "Olivia Rodrigo",
           "album": "SOUR",
           "listen_count": 11,
@@ -2574,18 +2601,18 @@
           "last_listened_at_utc": "2026-09-03T23:13:06Z"
         },
         {
-          "artist": "Jim Hall",
-          "album": "Concierto (CTI Records 40th Anniversary Edition)",
-          "listen_count": 9,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-07-06T22:35:38Z"
-        },
-        {
           "artist": "רביד פלוטניק",
           "album": "Toch Kedey Tnu'a",
           "listen_count": 9,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-09-01T21:54:18Z"
+        },
+        {
+          "artist": "Jim Hall",
+          "album": "Concierto (CTI Records 40th Anniversary Edition)",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-07-06T22:35:38Z"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -2635,6 +2662,13 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-09-16T23:11:55Z"
+        },
+        {
+          "artist": "Nujabes",
+          "album": "Modal Soul",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-03T23:13:04Z"
         },
         {
           "artist": "Shabak Samech",
@@ -2819,13 +2853,6 @@
           "last_listened_at_utc": "2026-09-05T22:00:10Z"
         },
         {
-          "artist": "Bill Frisell",
-          "album": "Valentine",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-07-08T22:33:28Z"
-        },
-        {
           "artist": "Billy Cobham",
           "album": "Spectrum",
           "listen_count": 2,
@@ -2845,6 +2872,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-07-26T23:33:53Z"
+        },
+        {
+          "artist": "Cornelius",
+          "album": "Hosono House Revisited",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T16:28:43Z"
         },
         {
           "artist": "Cornelius",
@@ -2880,13 +2914,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-07-26T20:25:39Z"
-        },
-        {
-          "artist": "Julian Lage",
-          "album": "View With A Room",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-07-12T18:47:13Z"
         },
         {
           "artist": "Oscar Peterson meets Roy Hargrove and Ralph Moore with Niels‐Henning Ørsted Pedersen and Lewis Nash",
@@ -3008,6 +3035,13 @@
           "last_listened_at_utc": "2026-07-26T23:28:51Z"
         },
         {
+          "artist": "Bill Frisell",
+          "album": "Valentine",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-07-08T22:33:28Z"
+        },
+        {
           "artist": "Bob Dylan",
           "album": "Oh Mercy",
           "listen_count": 1,
@@ -3034,13 +3068,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-07-24T19:59:06Z"
-        },
-        {
-          "artist": "Charles Lloyd",
-          "album": "The Water Is Wide",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-07-05T22:53:45Z"
         },
         {
           "artist": "Chet Baker",
@@ -3076,13 +3103,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-07-26T22:43:11Z"
-        },
-        {
-          "artist": "Cornelius",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-30T22:20:56Z"
         },
         {
           "artist": "Crosby, Stills & Nash",
@@ -3239,13 +3259,6 @@
           "last_listened_at_utc": "2026-09-20T22:37:09Z"
         },
         {
-          "artist": "John Scofield, Vicente Archer & Bill Stewart",
-          "album": "Uncle John's Band",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-07-05T23:14:14Z"
-        },
-        {
           "artist": "John Zorn",
           "album": "Ou Phrontis",
           "listen_count": 1,
@@ -3267,6 +3280,13 @@
           "last_listened_at_utc": "2026-07-06T22:41:43Z"
         },
         {
+          "artist": "Julian Lage",
+          "album": "View With A Room",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-07-12T18:47:13Z"
+        },
+        {
           "artist": "Kenny Burrell",
           "album": "Midnight Blue (2012 Remaster)",
           "listen_count": 1,
@@ -3286,6 +3306,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-07-26T20:46:27Z"
+        },
+        {
+          "artist": "Little Simz",
+          "album": "Sometimes I Might Be Introvert",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T22:07:26Z"
         },
         {
           "artist": "Los Del Mar",
@@ -3321,13 +3348,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-27T21:42:40Z"
-        },
-        {
-          "artist": "Meshell Ndegeocello",
-          "album": "The Omnichord Real Book",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-07-05T23:05:25Z"
         },
         {
           "artist": "Miles Davis",
@@ -3435,11 +3455,11 @@
           "last_listened_at_utc": "2026-10-03T12:27:17Z"
         },
         {
-          "artist": "Samara Joy",
-          "album": "Linger Awhile (Deluxe Edition)",
+          "artist": "Sam Gendel",
+          "album": "Hosono House Revisited",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-07-05T23:09:28Z"
+          "last_listened_at_utc": "2026-10-03T16:23:44Z"
         },
         {
           "artist": "Santana",
@@ -3524,6 +3544,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-20T22:29:44Z"
+        },
+        {
+          "artist": "TOWA TEI",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T16:33:06Z"
         },
         {
           "artist": "The Ahmad Jamal Trio",
@@ -3706,11 +3733,429 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-03T12:30:12Z"
+        },
+        {
+          "artist": "矢野顕子",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T16:19:36Z"
         }
       ]
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1791069184,
+      "listened_at_utc": "2026-10-03T23:13:04Z",
+      "artist": "Nujabes",
+      "track": "Eclipse",
+      "album": "Modal Soul",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1595addf-f76b-450a-a097-af852ff35f27",
+          "38cdd71c-344b-4c54-bac2-19709da7140d"
+        ],
+        "recording_mbid": "7cfd5b31-8432-486b-9250-a9bcf419851c",
+        "release_mbid": "9f3a4a9b-5741-4a3b-9350-10940ce8bbf3",
+        "release_group_mbid": "bd62a5df-6643-3aef-b129-9d4e6e296022"
+      },
+      "submission_clients": [
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791068919,
+      "listened_at_utc": "2026-10-03T23:08:39Z",
+      "artist": "Nujabes",
+      "track": "Music is mine",
+      "album": "Modal Soul",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1595addf-f76b-450a-a097-af852ff35f27"
+        ],
+        "recording_mbid": "7069526a-49eb-4e3a-bb8b-93c52b11d010",
+        "release_mbid": "9f3a4a9b-5741-4a3b-9350-10940ce8bbf3",
+        "release_group_mbid": "bd62a5df-6643-3aef-b129-9d4e6e296022"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791068583,
+      "listened_at_utc": "2026-10-03T23:03:03Z",
+      "artist": "Nujabes",
+      "track": "Luv(sic.) pt3",
+      "album": "Modal Soul",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1595addf-f76b-450a-a097-af852ff35f27"
+        ],
+        "recording_mbid": "fedde9e9-5307-4fd4-8048-c8450f283382",
+        "release_mbid": "1fc443b5-3854-4ad2-a645-d98bac60de56",
+        "release_group_mbid": "76c0f580-9448-46ec-856a-b2604b02e48d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791068325,
+      "listened_at_utc": "2026-10-03T22:58:45Z",
+      "artist": "Nujabes",
+      "track": "reflection eternal",
+      "album": "Modal Soul",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1595addf-f76b-450a-a097-af852ff35f27"
+        ],
+        "recording_mbid": "0562f869-04b3-444d-a5ad-27cbb2aca8bc",
+        "release_mbid": "9f3a4a9b-5741-4a3b-9350-10940ce8bbf3",
+        "release_group_mbid": "bd62a5df-6643-3aef-b129-9d4e6e296022"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791068016,
+      "listened_at_utc": "2026-10-03T22:53:36Z",
+      "artist": "Nujabes",
+      "track": "ordinary joe",
+      "album": "Modal Soul",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1595addf-f76b-450a-a097-af852ff35f27",
+          "44fd61e1-119c-479e-8301-8ac5c77148bf"
+        ],
+        "recording_mbid": "1aceb853-b5f0-49b6-9ed2-3416fbf00142",
+        "release_mbid": "9f3a4a9b-5741-4a3b-9350-10940ce8bbf3",
+        "release_group_mbid": "bd62a5df-6643-3aef-b129-9d4e6e296022"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791067841,
+      "listened_at_utc": "2026-10-03T22:50:41Z",
+      "artist": "Nujabes",
+      "track": "Feather",
+      "album": "Modal Soul",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1595addf-f76b-450a-a097-af852ff35f27",
+          "e09bfd0b-2118-4bf4-bd4e-1d5e245e6d02",
+          "792cc496-f66a-4d9b-9dfd-e2980d5d3be0"
+        ],
+        "recording_mbid": "5fffe791-c8fd-440a-b301-d511d8b9c31f",
+        "release_mbid": "9f3a4a9b-5741-4a3b-9350-10940ce8bbf3",
+        "release_group_mbid": "bd62a5df-6643-3aef-b129-9d4e6e296022"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791065246,
+      "listened_at_utc": "2026-10-03T22:07:26Z",
+      "artist": "Little Simz",
+      "track": "Introvert",
+      "album": "Sometimes I Might Be Introvert",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3cdb40fe-a63e-4bb9-b40d-17cda5f50979"
+        ],
+        "recording_mbid": "88027f57-efdb-4929-9c7b-b6d0a7fa5a49",
+        "release_mbid": "b42c9e2d-01b7-4d06-82a8-461d6033b71b",
+        "release_group_mbid": "e95de3f4-84db-4d24-8d06-fd970576a6ef"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791064858,
+      "listened_at_utc": "2026-10-03T22:00:58Z",
+      "artist": "Erykah Badu",
+      "track": "Honey",
+      "album": "New Amerykah Part One (4th World War)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "321531fc-db73-4ffa-a959-61a61a2908c1"
+        ],
+        "recording_mbid": "5dc81aac-5499-4507-ac21-235661afcc03",
+        "release_mbid": "8dd7e1d1-d0d1-43ba-9d66-4ab0274bac19",
+        "release_group_mbid": "c418cb3c-047e-32c1-b899-54cbce4be8e8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791064421,
+      "listened_at_utc": "2026-10-03T21:53:41Z",
+      "artist": "Erykah Badu",
+      "track": "Telephone",
+      "album": "New Amerykah Part One (4th World War)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "321531fc-db73-4ffa-a959-61a61a2908c1"
+        ],
+        "recording_mbid": "b32fbe6f-9e57-4ff8-920c-9cc173340928",
+        "release_mbid": "8dd7e1d1-d0d1-43ba-9d66-4ab0274bac19",
+        "release_group_mbid": "c418cb3c-047e-32c1-b899-54cbce4be8e8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791064096,
+      "listened_at_utc": "2026-10-03T21:48:16Z",
+      "artist": "Erykah Badu",
+      "track": "That Hump",
+      "album": "New Amerykah Part One (4th World War)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "321531fc-db73-4ffa-a959-61a61a2908c1"
+        ],
+        "recording_mbid": "88b3e5c7-0009-4b9f-aab0-e8f672f21360",
+        "release_mbid": "8dd7e1d1-d0d1-43ba-9d66-4ab0274bac19",
+        "release_group_mbid": "c418cb3c-047e-32c1-b899-54cbce4be8e8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791063689,
+      "listened_at_utc": "2026-10-03T21:41:29Z",
+      "artist": "Erykah Badu",
+      "track": "Master Teacher Medley",
+      "album": "New Amerykah Part One (4th World War)",
+      "musicbrainz": {},
+      "submission_clients": [
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791063272,
+      "listened_at_utc": "2026-10-03T21:34:32Z",
+      "artist": "Erykah Badu",
+      "track": "Twinkle",
+      "album": "New Amerykah Part One (4th World War)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "321531fc-db73-4ffa-a959-61a61a2908c1"
+        ],
+        "recording_mbid": "38c29429-f8f3-472c-aff6-015b2542627b",
+        "release_mbid": "8dd7e1d1-d0d1-43ba-9d66-4ab0274bac19",
+        "release_group_mbid": "c418cb3c-047e-32c1-b899-54cbce4be8e8"
+      },
+      "submission_clients": [
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791063011,
+      "listened_at_utc": "2026-10-03T21:30:11Z",
+      "artist": "Erykah Badu",
+      "track": "The Cell",
+      "album": "New Amerykah Part One (4th World War)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "321531fc-db73-4ffa-a959-61a61a2908c1"
+        ],
+        "recording_mbid": "13978bbd-f942-4828-9961-aaecb288a1f4",
+        "release_mbid": "8dd7e1d1-d0d1-43ba-9d66-4ab0274bac19",
+        "release_group_mbid": "c418cb3c-047e-32c1-b899-54cbce4be8e8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791062707,
+      "listened_at_utc": "2026-10-03T21:25:07Z",
+      "artist": "Erykah Badu",
+      "track": "Soldier",
+      "album": "New Amerykah Part One (4th World War)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "321531fc-db73-4ffa-a959-61a61a2908c1"
+        ],
+        "recording_mbid": "423480cc-a3b0-4e0c-96d1-5f4b151054be",
+        "release_mbid": "8dd7e1d1-d0d1-43ba-9d66-4ab0274bac19",
+        "release_group_mbid": "c418cb3c-047e-32c1-b899-54cbce4be8e8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791062502,
+      "listened_at_utc": "2026-10-03T21:21:42Z",
+      "artist": "Erykah Badu",
+      "track": "My People",
+      "album": "New Amerykah Part One (4th World War)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "321531fc-db73-4ffa-a959-61a61a2908c1"
+        ],
+        "recording_mbid": "3fb8283a-8923-40b6-838d-45a76e381c18",
+        "release_mbid": "8dd7e1d1-d0d1-43ba-9d66-4ab0274bac19",
+        "release_group_mbid": "c418cb3c-047e-32c1-b899-54cbce4be8e8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791045755,
+      "listened_at_utc": "2026-10-03T16:42:35Z",
+      "artist": "Erykah Badu",
+      "track": "Me",
+      "album": "New Amerykah Part One (4th World War)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "321531fc-db73-4ffa-a959-61a61a2908c1"
+        ],
+        "recording_mbid": "926bae47-f07c-4ae0-b500-435240191eb8",
+        "release_mbid": "8dd7e1d1-d0d1-43ba-9d66-4ab0274bac19",
+        "release_group_mbid": "c418cb3c-047e-32c1-b899-54cbce4be8e8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791045510,
+      "listened_at_utc": "2026-10-03T16:38:30Z",
+      "artist": "Erykah Badu",
+      "track": "The Healer",
+      "album": "New Amerykah Part One (4th World War)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "321531fc-db73-4ffa-a959-61a61a2908c1"
+        ],
+        "recording_mbid": "deaa203d-f5a9-4b02-884a-633a5985dc1b",
+        "release_mbid": "8dd7e1d1-d0d1-43ba-9d66-4ab0274bac19",
+        "release_group_mbid": "c418cb3c-047e-32c1-b899-54cbce4be8e8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791045254,
+      "listened_at_utc": "2026-10-03T16:34:14Z",
+      "artist": "Erykah Badu",
+      "track": "Amerykahn Promise",
+      "album": "New Amerykah Part One (4th World War)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "321531fc-db73-4ffa-a959-61a61a2908c1"
+        ],
+        "recording_mbid": "66f65b2a-8812-4e23-a596-5fadaf09ec26",
+        "release_mbid": "8dd7e1d1-d0d1-43ba-9d66-4ab0274bac19",
+        "release_group_mbid": "c418cb3c-047e-32c1-b899-54cbce4be8e8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791045186,
+      "listened_at_utc": "2026-10-03T16:33:06Z",
+      "artist": "TOWA TEI",
+      "track": "Ai Ai Gasa",
+      "album": "Hosono House Revisited",
+      "musicbrainz": {
+        "artist_mbids": [
+          "440cb8ef-cee3-4711-8408-b1bd6e93f390"
+        ],
+        "recording_mbid": "4bd903de-54ba-4d7e-b685-d759a751f09a",
+        "release_mbid": "6c4c1322-9150-4071-8a93-de22ae0a5949"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791044923,
+      "listened_at_utc": "2026-10-03T16:28:43Z",
+      "artist": "Cornelius",
+      "track": "Bara To Yaju",
+      "album": "Hosono House Revisited",
+      "musicbrainz": {
+        "artist_mbids": [
+          "df765d93-621c-437f-99fe-fda9e135f89a"
+        ],
+        "recording_mbid": "aa2ca63c-7aa3-4acd-85a4-73994570894e",
+        "release_mbid": "6c4c1322-9150-4071-8a93-de22ae0a5949",
+        "release_group_mbid": "3253a680-8d55-40b0-8d47-2be50ac5d9cf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791044624,
+      "listened_at_utc": "2026-10-03T16:23:44Z",
+      "artist": "Sam Gendel",
+      "track": "My Love is Peach-Colored",
+      "album": "Hosono House Revisited",
+      "musicbrainz": {
+        "artist_mbids": [
+          "68662019-7c8d-479e-a247-e2a2b37164a9"
+        ],
+        "recording_mbid": "c6fe1847-1ed0-46d1-907f-bd1ef83acda5",
+        "release_mbid": "6c4c1322-9150-4071-8a93-de22ae0a5949",
+        "release_group_mbid": "3253a680-8d55-40b0-8d47-2be50ac5d9cf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791044376,
+      "listened_at_utc": "2026-10-03T16:19:36Z",
+      "artist": "矢野顕子",
+      "track": "Rock-A-Bye My Baby",
+      "album": "Hosono House Revisited",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b215b03a-8e0b-48ca-b832-bbbd0db504f0"
+        ],
+        "recording_mbid": "81c6b531-8bd1-4a95-931e-04c212e1eebd",
+        "release_mbid": "6c4c1322-9150-4071-8a93-de22ae0a5949",
+        "release_group_mbid": "3253a680-8d55-40b0-8d47-2be50ac5d9cf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1791031028,
       "listened_at_utc": "2026-10-03T12:37:08Z",
@@ -19197,318 +19642,6 @@
         "recording_mbid": "ac215fa3-8f92-4e7e-9cb1-ae89be13615d",
         "release_mbid": "fb3bf950-44d3-4506-a632-8a4849502e40",
         "release_group_mbid": "a3e83453-d0ba-3cc9-8f9f-54a33a60a299"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783293811,
-      "listened_at_utc": "2026-07-05T23:23:31Z",
-      "artist": "Jim Hall",
-      "track": "You'd Be So Nice To Come Home To",
-      "album": "Concierto (CTI Records 40th Anniversary Edition)",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "8cdca1d4-3584-4f06-9359-824db56bff29",
-        "release_mbid": "fb3bf950-44d3-4506-a632-8a4849502e40",
-        "release_group_mbid": "a3e83453-d0ba-3cc9-8f9f-54a33a60a299"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783293254,
-      "listened_at_utc": "2026-07-05T23:14:14Z",
-      "artist": "John Scofield, Vicente Archer & Bill Stewart",
-      "track": "Mr. Tambourine Man",
-      "album": "Uncle John's Band",
-      "musicbrainz": {
-        "artist_mbids": [
-          "cbfd7f01-87c3-44bf-a3a2-fe4dbff20ad2",
-          "35a0e0b2-204f-4b22-9daf-b632f75611b0",
-          "47ca3bd6-1f40-4995-b25a-c02158af5643"
-        ],
-        "recording_mbid": "b51a6bbc-dfff-4336-b5f9-2beff5b7e089",
-        "release_mbid": "d142b16e-c420-462e-9b4f-f793f9694f30",
-        "release_group_mbid": "50fccae8-7226-4e73-bc3c-ee4fdf1e92fb"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783292968,
-      "listened_at_utc": "2026-07-05T23:09:28Z",
-      "artist": "Samara Joy",
-      "track": "Guess Who I Saw Today (Duo Version)",
-      "album": "Linger Awhile (Deluxe Edition)",
-      "musicbrainz": {},
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783292725,
-      "listened_at_utc": "2026-07-05T23:05:25Z",
-      "artist": "Meshell Ndegeocello",
-      "track": "Burn Progression",
-      "album": "The Omnichord Real Book",
-      "musicbrainz": {
-        "artist_mbids": [
-          "55a8b485-1cbf-47ee-ae15-d106200fafe8",
-          "2335eb7f-b671-4b48-b58c-52b1c85ccb48",
-          "2d3f545f-f56d-47cf-93c6-956c4fea6b39"
-        ],
-        "recording_mbid": "b253b14d-8db0-4eab-b6bf-dfa9c47f40dc",
-        "release_mbid": "f868d22c-1a93-4528-ae8e-e93272f16472",
-        "release_group_mbid": "c0d172cd-868c-47e3-8604-59898125d149"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783292425,
-      "listened_at_utc": "2026-07-05T23:00:25Z",
-      "artist": "Bill Frisell",
-      "track": "Baba Drame",
-      "album": "Valentine",
-      "musicbrainz": {
-        "artist_mbids": [
-          "a21318db-f228-4a4d-8bce-6947a62985a5"
-        ],
-        "recording_mbid": "267e68d4-def9-4715-bcff-386bb034b19a",
-        "release_mbid": "5d677617-c894-4c0b-b83d-e0dd27deb8bb",
-        "release_group_mbid": "f4f98cb7-0594-3ffc-8202-fd56ecdaca3b"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783292025,
-      "listened_at_utc": "2026-07-05T22:53:45Z",
-      "artist": "Charles Lloyd",
-      "track": "Georgia",
-      "album": "The Water Is Wide",
-      "musicbrainz": {
-        "artist_mbids": [
-          "b9b579ad-e499-4e3e-9d09-06bc8e504135"
-        ],
-        "recording_mbid": "a45461e4-dbdc-4035-a798-04aa12d86793",
-        "release_mbid": "3a081fe5-4d52-47c1-b176-86052fbf28f3",
-        "release_group_mbid": "28d388a6-3dfa-3693-a12e-76322b2f7e4d"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783291676,
-      "listened_at_utc": "2026-07-05T22:47:56Z",
-      "artist": "Julian Lage",
-      "track": "Tributary",
-      "album": "View With A Room",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "6287ef57-f4d7-4b02-99e1-dab8a8cad364",
-        "release_mbid": "3dca1cad-6cd4-469c-a001-0f80a99a3d4e",
-        "release_group_mbid": "7fbbb0af-5342-4843-a029-ebc3b9b69c5d"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783291434,
-      "listened_at_utc": "2026-07-05T22:43:54Z",
-      "artist": "Julian Lage",
-      "track": "Something More",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "72300428-dbad-42c1-8bce-b5d48d49906a",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783291170,
-      "listened_at_utc": "2026-07-05T22:39:30Z",
-      "artist": "Julian Lage",
-      "track": "Storyville",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "595a682c-25df-4afd-afae-540bf3321aa8",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783290909,
-      "listened_at_utc": "2026-07-05T22:35:09Z",
-      "artist": "Julian Lage",
-      "track": "Ocala",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "e2e7e16f-0e98-4e26-87ec-8fe3072049e0",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783290709,
-      "listened_at_utc": "2026-07-05T22:31:49Z",
-      "artist": "Julian Lage",
-      "track": "Solid Air",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "1e3742bb-2de7-48a4-ba36-3358f46c0d26",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783290264,
-      "listened_at_utc": "2026-07-05T22:24:24Z",
-      "artist": "Julian Lage",
-      "track": "Night Shade",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "0ce8c3fb-1439-4827-a967-fc90fd5d410f",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783279129,
-      "listened_at_utc": "2026-07-05T19:18:49Z",
-      "artist": "Julian Lage",
-      "track": "Havens",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "50b95f0c-f9ec-4c8f-a5f5-e9f1a95c9db1",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783278822,
-      "listened_at_utc": "2026-07-05T19:13:42Z",
-      "artist": "Julian Lage",
-      "track": "Talking Drum",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "62ff54ed-1f44-4c51-9733-df462b56ae80",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783278536,
-      "listened_at_utc": "2026-07-05T19:08:56Z",
-      "artist": "Julian Lage",
-      "track": "Red Elm",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "6d7c3754-94f0-432e-83a9-3cc509ef7abd",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783278286,
-      "listened_at_utc": "2026-07-05T19:04:46Z",
-      "artist": "Julian Lage",
-      "track": "Opal",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "22f76943-da55-41d1-b3ed-0aac28a2dfb8",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
       },
       "submission_clients": [
         "ListenBrainz lastfm importer v2"
