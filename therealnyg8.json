@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-04T14:51:14Z",
+  "generated_at_utc": "2026-10-05T18:34:55Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-06T14:51:14Z",
-    "through_utc": "2026-10-04T14:51:14Z",
+    "from_utc": "2026-07-07T18:34:55Z",
+    "through_utc": "2026-10-05T18:34:55Z",
     "complete": true,
     "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 1094,
-    "deduplicated_listen_count": 921,
-    "duplicates_removed": 173,
-    "oldest_listen_utc": "2026-07-06T21:43:01Z",
-    "newest_listen_utc": "2026-10-03T23:13:04Z"
+    "raw_listen_count": 1101,
+    "deduplicated_listen_count": 920,
+    "duplicates_removed": 181,
+    "oldest_listen_utc": "2026-07-07T22:05:34Z",
+    "newest_listen_utc": "2026-10-05T12:43:35Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,18 +28,14 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 139,
-      "unique_artists": 41,
-      "unique_albums": 43,
+      "listen_count": 122,
+      "unique_artists": 33,
+      "unique_albums": 34,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "青葉市子",
           "listen_count": 14
-        },
-        {
-          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
-          "listen_count": 13
         },
         {
           "artist": "Bullion",
@@ -58,16 +54,16 @@
           "listen_count": 10
         },
         {
-          "artist": "Ahmad Jamal Trio",
-          "listen_count": 8
-        },
-        {
-          "artist": "Hank Mobley",
-          "listen_count": 6
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+          "listen_count": 10
         },
         {
           "artist": "Nujabes",
-          "listen_count": 6
+          "listen_count": 7
+        },
+        {
+          "artist": "Sonny Rollins",
+          "listen_count": 5
         },
         {
           "artist": "The Fred Hersch Trio",
@@ -98,28 +94,12 @@
           "listen_count": 2
         },
         {
-          "artist": "שב״ק ס׳",
+          "artist": "Ty Segall",
           "listen_count": 2
         },
         {
-          "artist": "Ahmad Jamal",
-          "listen_count": 1
-        },
-        {
-          "artist": "Bill Evans Trio",
-          "listen_count": 1
-        },
-        {
-          "artist": "Christian McBride",
-          "listen_count": 1
-        },
-        {
-          "artist": "Eric Dolphy",
-          "listen_count": 1
-        },
-        {
-          "artist": "Gonzalo Rubalcaba, Ron Carter & Jack DeJohnette",
-          "listen_count": 1
+          "artist": "שב״ק ס׳",
+          "listen_count": 2
         },
         {
           "artist": "James Blake",
@@ -130,15 +110,7 @@
           "listen_count": 1
         },
         {
-          "artist": "Joe Henderson",
-          "listen_count": 1
-        },
-        {
           "artist": "John Carroll Kirby, Mizuhara Sisters",
-          "listen_count": 1
-        },
-        {
-          "artist": "Lee Konitz, Brad Mehldau, Charlie Haden & Paul Motian",
           "listen_count": 1
         },
         {
@@ -150,11 +122,7 @@
           "listen_count": 1
         },
         {
-          "artist": "McCoy Tyner",
-          "listen_count": 1
-        },
-        {
-          "artist": "Oscar Peterson meets Roy Hargrove and Ralph Moore with Niels‐Henning Ørsted Pedersen and Lewis Nash",
+          "artist": "Oliver Nelson",
           "listen_count": 1
         },
         {
@@ -174,7 +142,7 @@
           "listen_count": 1
         },
         {
-          "artist": "The Ahmad Jamal Trio",
+          "artist": "Tommy Flanagan",
           "listen_count": 1
         },
         {
@@ -207,13 +175,6 @@
           "last_listened_at_utc": "2026-09-29T22:48:47Z"
         },
         {
-          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
-          "album": "Compassion",
-          "listen_count": 12,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-09-29T19:43:36Z"
-        },
-        {
           "artist": "Bullion",
           "album": "Nearly",
           "listen_count": 11,
@@ -242,25 +203,25 @@
           "last_listened_at_utc": "2026-10-02T19:31:45Z"
         },
         {
-          "artist": "Ahmad Jamal Trio",
-          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-27T21:34:44Z"
-        },
-        {
-          "artist": "Hank Mobley",
-          "album": "Soul Station (Remastered 2013)",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-09-27T23:08:27Z"
+          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
+          "album": "Compassion",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-09-29T19:43:36Z"
         },
         {
           "artist": "Nujabes",
           "album": "Modal Soul",
-          "listen_count": 6,
+          "listen_count": 7,
           "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-03T23:13:04Z"
+          "last_listened_at_utc": "2026-10-04T20:55:40Z"
+        },
+        {
+          "artist": "Sonny Rollins",
+          "album": "Saxophone Colossus",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-04T21:32:34Z"
         },
         {
           "artist": "The Fred Hersch Trio",
@@ -319,46 +280,18 @@
           "last_listened_at_utc": "2026-10-02T20:41:14Z"
         },
         {
+          "artist": "Ty Segall",
+          "album": "Chrome",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-05T12:43:35Z"
+        },
+        {
           "artist": "שב״ק ס׳",
           "album": "שבק ס",
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-09-29T12:43:49Z"
-        },
-        {
-          "artist": "Ahmad Jamal",
-          "album": "Ahmad's Blues",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-27T21:38:53Z"
-        },
-        {
-          "artist": "Bill Evans Trio",
-          "album": "Everybody Digs Bill Evans (Keepnews Collection)",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-27T21:48:44Z"
-        },
-        {
-          "artist": "Christian McBride",
-          "album": "Gettin' To It",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-27T22:00:26Z"
-        },
-        {
-          "artist": "Eric Dolphy",
-          "album": "Out To Lunch (96kHz/24bit)",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-27T22:14:28Z"
-        },
-        {
-          "artist": "Gonzalo Rubalcaba, Ron Carter & Jack DeJohnette",
-          "album": "Skyline",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-27T22:22:54Z"
         },
         {
           "artist": "James Blake",
@@ -375,25 +308,11 @@
           "last_listened_at_utc": "2026-10-03T12:22:42Z"
         },
         {
-          "artist": "Joe Henderson",
-          "album": "Lush Life: The Music of Billy Strayhorn",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-27T21:55:29Z"
-        },
-        {
           "artist": "John Carroll Kirby, Mizuhara Sisters",
           "album": "Hosono House Revisited",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-03T12:20:14Z"
-        },
-        {
-          "artist": "Lee Konitz, Brad Mehldau, Charlie Haden & Paul Motian",
-          "album": "Live At Birdland",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-27T22:04:07Z"
         },
         {
           "artist": "Little Simz",
@@ -410,18 +329,11 @@
           "last_listened_at_utc": "2026-10-03T12:34:17Z"
         },
         {
-          "artist": "McCoy Tyner",
-          "album": "The Real McCoy (2012 Remastered)",
+          "artist": "Oliver Nelson",
+          "album": "The Blues and the Abstract Truth",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-27T21:42:40Z"
-        },
-        {
-          "artist": "Oscar Peterson meets Roy Hargrove and Ralph Moore with Niels‐Henning Ørsted Pedersen and Lewis Nash",
-          "album": "Oscar Peterson Meets Roy Hargrove And Ralph Moore",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-27T22:29:46Z"
+          "last_listened_at_utc": "2026-10-04T22:25:29Z"
         },
         {
           "artist": "SE SO NEON",
@@ -452,18 +364,11 @@
           "last_listened_at_utc": "2026-10-03T16:33:06Z"
         },
         {
-          "artist": "The Ahmad Jamal Trio",
-          "album": "The Complete Ahmad Jamal Trio Argo Sessions 1956-62",
+          "artist": "Tommy Flanagan",
+          "album": "Ballads & Blues",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-27T22:34:44Z"
-        },
-        {
-          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
-          "album": "Uneasy",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-28T12:46:53Z"
+          "last_listened_at_utc": "2026-10-04T21:43:48Z"
         },
         {
           "artist": "kukuku",
@@ -503,14 +408,14 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 563,
-      "unique_artists": 95,
-      "unique_albums": 118,
+      "listen_count": 552,
+      "unique_artists": 97,
+      "unique_albums": 119,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "טונה",
-          "listen_count": 88
+          "listen_count": 71
         },
         {
           "artist": "Haruomi Hosono",
@@ -538,7 +443,7 @@
         },
         {
           "artist": "Sagol 59",
-          "listen_count": 17
+          "listen_count": 14
         },
         {
           "artist": "נצ׳י נצ׳",
@@ -581,6 +486,10 @@
           "listen_count": 10
         },
         {
+          "artist": "Sonny Rollins",
+          "listen_count": 10
+        },
+        {
           "artist": "John Coltrane Quartet",
           "listen_count": 8
         },
@@ -597,6 +506,10 @@
           "listen_count": 7
         },
         {
+          "artist": "Nujabes",
+          "listen_count": 7
+        },
+        {
           "artist": "מוקי",
           "listen_count": 7
         },
@@ -609,20 +522,12 @@
           "listen_count": 6
         },
         {
-          "artist": "Nujabes",
-          "listen_count": 6
-        },
-        {
           "artist": "Shabak Samech",
           "listen_count": 6
         },
         {
           "artist": "אורי שוחט",
           "listen_count": 6
-        },
-        {
-          "artist": "Sonny Rollins",
-          "listen_count": 5
         },
         {
           "artist": "The Fred Hersch Trio",
@@ -690,6 +595,10 @@
         },
         {
           "artist": "Queen",
+          "listen_count": 2
+        },
+        {
+          "artist": "Ty Segall",
           "listen_count": 2
         },
         {
@@ -793,6 +702,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Oliver Nelson",
+          "listen_count": 1
+        },
+        {
           "artist": "Ori Shochat",
           "listen_count": 1
         },
@@ -841,6 +754,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Tommy Flanagan",
+          "listen_count": 1
+        },
+        {
           "artist": "Willie Nelson",
           "listen_count": 1
         },
@@ -866,10 +783,6 @@
         },
         {
           "artist": "ג'יגה ג'וס",
-          "listen_count": 1
-        },
-        {
-          "artist": "טדי נגוסה",
           "listen_count": 1
         },
         {
@@ -907,7 +820,7 @@
         {
           "artist": "טונה",
           "album": "מזרח פרוע",
-          "listen_count": 28,
+          "listen_count": 23,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-02T12:33:49Z"
         },
@@ -919,13 +832,6 @@
           "last_listened_at_utc": "2026-09-27T21:34:44Z"
         },
         {
-          "artist": "טונה",
-          "album": "ועכשיו לחלק האינטרגלקטי",
-          "listen_count": 20,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-09-13T16:16:38Z"
-        },
-        {
           "artist": "רביד פלוטניק",
           "album": "הדרך לשביל הזהב",
           "listen_count": 19,
@@ -934,10 +840,10 @@
         },
         {
           "artist": "טונה",
-          "album": "קיסריה אנפלאגד 2022",
-          "listen_count": 18,
-          "unique_tracks": 18,
-          "last_listened_at_utc": "2026-09-09T00:52:41Z"
+          "album": "ועכשיו לחלק האינטרגלקטי",
+          "listen_count": 15,
+          "unique_tracks": 13,
+          "last_listened_at_utc": "2026-09-13T16:16:38Z"
         },
         {
           "artist": "Sagol 59",
@@ -1010,6 +916,13 @@
           "last_listened_at_utc": "2026-10-03T22:00:58Z"
         },
         {
+          "artist": "טונה",
+          "album": "קיסריה אנפלאגד 2022",
+          "listen_count": 11,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-09-09T00:52:41Z"
+        },
+        {
           "artist": "Bob Dylan",
           "album": "Desire",
           "listen_count": 10,
@@ -1029,6 +942,13 @@
           "listen_count": 10,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-10-02T19:31:45Z"
+        },
+        {
+          "artist": "Sonny Rollins",
+          "album": "Saxophone Colossus",
+          "listen_count": 10,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-04T21:32:34Z"
         },
         {
           "artist": "Bob Dylan",
@@ -1073,6 +993,13 @@
           "last_listened_at_utc": "2026-09-11T19:57:55Z"
         },
         {
+          "artist": "Nujabes",
+          "album": "Modal Soul",
+          "listen_count": 7,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-04T20:55:40Z"
+        },
+        {
           "artist": "מוקי",
           "album": "Shema Israel (Album)",
           "listen_count": 7,
@@ -1092,13 +1019,6 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-09-05T20:40:45Z"
-        },
-        {
-          "artist": "Nujabes",
-          "album": "Modal Soul",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-03T23:13:04Z"
         },
         {
           "artist": "Shabak Samech",
@@ -1141,13 +1061,6 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-09-19T18:41:41Z"
-        },
-        {
-          "artist": "Sonny Rollins",
-          "album": "Saxophone Colossus",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-09-18T22:17:54Z"
         },
         {
           "artist": "The Fred Hersch Trio",
@@ -1204,13 +1117,6 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-09-06T22:46:12Z"
-        },
-        {
-          "artist": "Sagol 59",
-          "album": "Make Room",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-05T17:27:42Z"
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -1288,6 +1194,13 @@
           "listen_count": 2,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-03T12:10:39Z"
+        },
+        {
+          "artist": "Ty Segall",
+          "album": "Chrome",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-05T12:43:35Z"
         },
         {
           "artist": "ברי סחרוף",
@@ -1514,6 +1427,13 @@
           "last_listened_at_utc": "2026-09-07T23:01:54Z"
         },
         {
+          "artist": "Oliver Nelson",
+          "album": "The Blues and the Abstract Truth",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-04T22:25:29Z"
+        },
+        {
           "artist": "Olivia Rodrigo",
           "album": "GUTS",
           "listen_count": 1,
@@ -1619,6 +1539,13 @@
           "last_listened_at_utc": "2026-09-18T22:37:59Z"
         },
         {
+          "artist": "Tommy Flanagan",
+          "album": "Ballads & Blues",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-04T21:43:48Z"
+        },
+        {
           "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
           "album": "Uneasy",
           "listen_count": 1,
@@ -1675,13 +1602,6 @@
           "last_listened_at_utc": "2026-09-17T12:35:54Z"
         },
         {
-          "artist": "טדי נגוסה",
-          "album": "מה רציתם",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-05T17:11:35Z"
-        },
-        {
           "artist": "נצ׳י נצ׳",
           "album": "בור ועם הארץ",
           "listen_count": 1,
@@ -1719,9 +1639,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 921,
+      "listen_count": 920,
       "unique_artists": 152,
-      "unique_albums": 201,
+      "unique_albums": 200,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1729,12 +1649,12 @@
           "listen_count": 130
         },
         {
-          "artist": "Julian Lage",
+          "artist": "רביד פלוטניק",
           "listen_count": 45
         },
         {
-          "artist": "רביד פלוטניק",
-          "listen_count": 45
+          "artist": "Julian Lage",
+          "listen_count": 44
         },
         {
           "artist": "Haruomi Hosono",
@@ -1797,6 +1717,10 @@
           "listen_count": 13
         },
         {
+          "artist": "Sonny Rollins",
+          "listen_count": 13
+        },
+        {
           "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
           "listen_count": 13
         },
@@ -1841,10 +1765,6 @@
           "listen_count": 9
         },
         {
-          "artist": "Jim Hall",
-          "listen_count": 8
-        },
-        {
           "artist": "Miles Davis",
           "listen_count": 8
         },
@@ -1853,11 +1773,11 @@
           "listen_count": 8
         },
         {
-          "artist": "Sonny Rollins",
-          "listen_count": 8
+          "artist": "John Zorn & New Masada Quartet",
+          "listen_count": 7
         },
         {
-          "artist": "John Zorn & New Masada Quartet",
+          "artist": "Nujabes",
           "listen_count": 7
         },
         {
@@ -1870,10 +1790,6 @@
         },
         {
           "artist": "Hank Mobley",
-          "listen_count": 6
-        },
-        {
-          "artist": "Nujabes",
           "listen_count": 6
         },
         {
@@ -2005,6 +1921,10 @@
           "listen_count": 2
         },
         {
+          "artist": "Ty Segall",
+          "listen_count": 2
+        },
+        {
           "artist": "ברי סחרוף",
           "listen_count": 2
         },
@@ -2066,10 +1986,6 @@
         },
         {
           "artist": "Diana Krall",
-          "listen_count": 1
-        },
-        {
-          "artist": "Eberhard Weber",
           "listen_count": 1
         },
         {
@@ -2181,6 +2097,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Oliver Nelson",
+          "listen_count": 1
+        },
+        {
           "artist": "Ori Shochat",
           "listen_count": 1
         },
@@ -2190,10 +2110,6 @@
         },
         {
           "artist": "Peter Gabriel",
-          "listen_count": 1
-        },
-        {
-          "artist": "Ralph Alessi",
           "listen_count": 1
         },
         {
@@ -2274,6 +2190,10 @@
         },
         {
           "artist": "The Ray Brown Trio",
+          "listen_count": 1
+        },
+        {
+          "artist": "Tommy Flanagan",
           "listen_count": 1
         },
         {
@@ -2517,6 +2437,13 @@
           "last_listened_at_utc": "2026-07-11T20:12:22Z"
         },
         {
+          "artist": "Sonny Rollins",
+          "album": "Saxophone Colossus",
+          "listen_count": 11,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-04T21:32:34Z"
+        },
+        {
           "artist": "Tsuyoshi Yamamoto Trio",
           "album": "Midnight Sugar",
           "listen_count": 11,
@@ -2608,13 +2535,6 @@
           "last_listened_at_utc": "2026-09-01T21:54:18Z"
         },
         {
-          "artist": "Jim Hall",
-          "album": "Concierto (CTI Records 40th Anniversary Edition)",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-07-06T22:35:38Z"
-        },
-        {
           "artist": "Olivia Rodrigo",
           "album": "you seem pretty sad for a girl so in love",
           "listen_count": 8,
@@ -2634,6 +2554,13 @@
           "listen_count": 7,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-07-07T22:44:47Z"
+        },
+        {
+          "artist": "Nujabes",
+          "album": "Modal Soul",
+          "listen_count": 7,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-04T20:55:40Z"
         },
         {
           "artist": "The Sonny Clark Memorial Quartet",
@@ -2664,25 +2591,11 @@
           "last_listened_at_utc": "2026-09-16T23:11:55Z"
         },
         {
-          "artist": "Nujabes",
-          "album": "Modal Soul",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-03T23:13:04Z"
-        },
-        {
           "artist": "Shabak Samech",
           "album": "כנען 2000",
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-09-17T21:23:12Z"
-        },
-        {
-          "artist": "Sonny Rollins",
-          "album": "Saxophone Colossus",
-          "listen_count": 6,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-09-18T22:17:54Z"
         },
         {
           "artist": "אורי שוחט",
@@ -2937,6 +2850,13 @@
           "last_listened_at_utc": "2026-07-26T23:57:00Z"
         },
         {
+          "artist": "Ty Segall",
+          "album": "Chrome",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-05T12:43:35Z"
+        },
+        {
           "artist": "ברי סחרוף",
           "album": "נגיעות",
           "listen_count": 2,
@@ -3126,13 +3046,6 @@
           "last_listened_at_utc": "2026-07-26T20:05:23Z"
         },
         {
-          "artist": "Eberhard Weber",
-          "album": "Later That Evening",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-07-06T22:45:41Z"
-        },
-        {
           "artist": "Eric Dolphy",
           "album": "Out To Lunch (96kHz/24bit)",
           "listen_count": 1,
@@ -3274,13 +3187,6 @@
         },
         {
           "artist": "Julian Lage",
-          "album": "Modern Lore",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-07-06T22:41:43Z"
-        },
-        {
-          "artist": "Julian Lage",
           "album": "View With A Room",
           "listen_count": 1,
           "unique_tracks": 1,
@@ -3392,6 +3298,13 @@
           "last_listened_at_utc": "2026-09-07T23:01:54Z"
         },
         {
+          "artist": "Oliver Nelson",
+          "album": "The Blues and the Abstract Truth",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-04T22:25:29Z"
+        },
+        {
           "artist": "Olivia Rodrigo",
           "album": "GUTS",
           "listen_count": 1,
@@ -3432,13 +3345,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-07T23:09:02Z"
-        },
-        {
-          "artist": "Ralph Alessi",
-          "album": "Baida",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-07-06T22:52:30Z"
         },
         {
           "artist": "Ray Brown with John Clayton & Christian McBride",
@@ -3623,6 +3529,13 @@
           "last_listened_at_utc": "2026-07-26T22:58:06Z"
         },
         {
+          "artist": "Tommy Flanagan",
+          "album": "Ballads & Blues",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-04T21:43:48Z"
+        },
+        {
           "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
           "album": "Uneasy",
           "listen_count": 1,
@@ -3745,6 +3658,195 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1791204215,
+      "listened_at_utc": "2026-10-05T12:43:35Z",
+      "artist": "Ty Segall",
+      "track": "Running to Nowhere",
+      "album": "Chrome",
+      "musicbrainz": {
+        "artist_mbids": [
+          "07a17571-81fc-4cf8-a634-98f0d926d313"
+        ],
+        "recording_mbid": "b1e5f286-5cab-4381-aca6-41244cbe655f",
+        "release_mbid": "bca90c5b-0b50-44cb-a4f4-3ee7a5693899",
+        "release_group_mbid": "add8f339-d19d-426d-a279-198244e90d41"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791204066,
+      "listened_at_utc": "2026-10-05T12:41:06Z",
+      "artist": "Ty Segall",
+      "track": "Hospital",
+      "album": "Chrome",
+      "musicbrainz": {
+        "artist_mbids": [
+          "07a17571-81fc-4cf8-a634-98f0d926d313"
+        ],
+        "recording_mbid": "f090ee23-4311-4296-aea5-ea3a1890124f",
+        "release_mbid": "bca90c5b-0b50-44cb-a4f4-3ee7a5693899",
+        "release_group_mbid": "add8f339-d19d-426d-a279-198244e90d41"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791152729,
+      "listened_at_utc": "2026-10-04T22:25:29Z",
+      "artist": "Oliver Nelson",
+      "track": "Stolen Moments",
+      "album": "The Blues and the Abstract Truth",
+      "musicbrainz": {
+        "artist_mbids": [
+          "4704f86b-33b0-458a-9460-8f9b52869d74"
+        ],
+        "recording_mbid": "39279aed-3dc3-48a4-9e34-b688d4e8b6b4",
+        "release_mbid": "95d78373-1bbc-4891-9bd1-1ddf8f85fccc",
+        "release_group_mbid": "8bbec9cc-ba01-4a8e-b9cc-4843654f0ac2"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791150228,
+      "listened_at_utc": "2026-10-04T21:43:48Z",
+      "artist": "Tommy Flanagan",
+      "track": "Blues For Sarka",
+      "album": "Ballads & Blues",
+      "musicbrainz": {
+        "artist_mbids": [
+          "c39a1eeb-e646-43e9-b984-4ffdc92b0241"
+        ],
+        "recording_mbid": "9c2e801d-0d5d-467f-9936-131b64659626",
+        "release_mbid": "d46207cd-0a4a-4d28-80d4-db95cd88ae82",
+        "release_group_mbid": "a25fbe9a-decf-435c-96f8-73fcc0234773"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791149554,
+      "listened_at_utc": "2026-10-04T21:32:34Z",
+      "artist": "Sonny Rollins",
+      "track": "Blue 7",
+      "album": "Saxophone Colossus",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3b47247e-5b57-49b6-a0ed-bad80243802a"
+        ],
+        "recording_mbid": "8b369b80-46f1-4029-97dd-c884d1ba3b09",
+        "release_mbid": "521393d1-8710-4887-8e45-d3ae2fb3b3b2",
+        "release_group_mbid": "cf29d6a2-a18a-3bb6-a861-495148baee1f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791148950,
+      "listened_at_utc": "2026-10-04T21:22:30Z",
+      "artist": "Sonny Rollins",
+      "track": "Moritat (Mack the Knife)",
+      "album": "Saxophone Colossus",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3b47247e-5b57-49b6-a0ed-bad80243802a"
+        ],
+        "recording_mbid": "748690e2-e68d-4b07-bd57-c113eed1ec12",
+        "release_mbid": "e6a3f1cc-ae77-4561-a019-01fe9eb7fedc",
+        "release_group_mbid": "cf29d6a2-a18a-3bb6-a861-495148baee1f"
+      },
+      "submission_clients": [
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791148637,
+      "listened_at_utc": "2026-10-04T21:17:17Z",
+      "artist": "Sonny Rollins",
+      "track": "Strode Rode",
+      "album": "Saxophone Colossus",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3b47247e-5b57-49b6-a0ed-bad80243802a"
+        ],
+        "recording_mbid": "83f3a02c-4233-4c4e-9060-3e239ed0a420",
+        "release_mbid": "521393d1-8710-4887-8e45-d3ae2fb3b3b2",
+        "release_group_mbid": "cf29d6a2-a18a-3bb6-a861-495148baee1f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791148247,
+      "listened_at_utc": "2026-10-04T21:10:47Z",
+      "artist": "Sonny Rollins",
+      "track": "You Don't Know What Love is",
+      "album": "Saxophone Colossus",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3b47247e-5b57-49b6-a0ed-bad80243802a"
+        ],
+        "recording_mbid": "894ab4fd-423b-4c16-ac47-6163a8f1e261",
+        "release_mbid": "521393d1-8710-4887-8e45-d3ae2fb3b3b2",
+        "release_group_mbid": "cf29d6a2-a18a-3bb6-a861-495148baee1f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791147840,
+      "listened_at_utc": "2026-10-04T21:04:00Z",
+      "artist": "Sonny Rollins",
+      "track": "St. Thomas",
+      "album": "Saxophone Colossus",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3b47247e-5b57-49b6-a0ed-bad80243802a"
+        ],
+        "recording_mbid": "c9cfbe3a-36d2-48ba-9ffb-e9a24aca01d0",
+        "release_mbid": "12422138-601d-4e18-9561-fae645bf9a55",
+        "release_group_mbid": "a6b20f74-0fa1-32ee-8d8d-1adfd8d5406a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791147340,
+      "listened_at_utc": "2026-10-04T20:55:40Z",
+      "artist": "Nujabes",
+      "track": "Eclipse",
+      "album": "Modal Soul",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1595addf-f76b-450a-a097-af852ff35f27",
+          "38cdd71c-344b-4c54-bac2-19709da7140d"
+        ],
+        "recording_mbid": "7cfd5b31-8432-486b-9250-a9bcf419851c",
+        "release_mbid": "9f3a4a9b-5741-4a3b-9350-10940ce8bbf3",
+        "release_group_mbid": "bd62a5df-6643-3aef-b129-9d4e6e296022"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
     {
       "listened_at": 1791069184,
       "listened_at_utc": "2026-10-03T23:13:04Z",
@@ -19444,204 +19546,6 @@
         "recording_mbid": "26348cd3-cd89-4543-af08-e8e8ddad08c6",
         "release_mbid": "b80eab3d-2571-4859-968e-d6d6b0ee219d",
         "release_group_mbid": "c1ec13d0-083b-4865-a930-cc53221fe273"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783378350,
-      "listened_at_utc": "2026-07-06T22:52:30Z",
-      "artist": "Ralph Alessi",
-      "track": "Throwing Like a Girl",
-      "album": "Baida",
-      "musicbrainz": {
-        "artist_mbids": [
-          "e237b71d-0196-4a37-90a3-1e32b602b802"
-        ],
-        "recording_mbid": "a5ebd93b-4b09-448a-bc91-a1651ab25ff8",
-        "release_mbid": "6da9dd17-ba87-4bcc-9470-bd9eddd5b042",
-        "release_group_mbid": "e58a06eb-a012-41fa-9484-52d455484849"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783377941,
-      "listened_at_utc": "2026-07-06T22:45:41Z",
-      "artist": "Eberhard Weber",
-      "track": "Later That Evening",
-      "album": "Later That Evening",
-      "musicbrainz": {
-        "artist_mbids": [
-          "3b1464ca-c640-4102-b4a4-aaca9ddca442"
-        ],
-        "recording_mbid": "64ff620c-9437-48d4-9adb-281b55093f53",
-        "release_mbid": "5f2b53bd-9e01-41c6-9c95-a46eb85f9b03",
-        "release_group_mbid": "ffd7f48a-295c-4868-b687-5bba7400c27a"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783377703,
-      "listened_at_utc": "2026-07-06T22:41:43Z",
-      "artist": "Julian Lage",
-      "track": "The Ramble",
-      "album": "Modern Lore",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "1d7a3fc6-51da-4d38-b5d7-9880db979592",
-        "release_mbid": "771cd518-7c80-4247-ac13-9b16cc769021",
-        "release_group_mbid": "cfd1b951-24b4-4e71-9cd4-4face2fe6484"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783377338,
-      "listened_at_utc": "2026-07-06T22:35:38Z",
-      "artist": "Jim Hall",
-      "track": "Rock Skippin' (alt. take)",
-      "album": "Concierto (CTI Records 40th Anniversary Edition)",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "300dd973-e7b0-4a75-b571-f17ad76a5f53",
-        "release_mbid": "d674bb99-eae8-413c-ac9b-337ad8667a53",
-        "release_group_mbid": "a3e83453-d0ba-3cc9-8f9f-54a33a60a299"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783377004,
-      "listened_at_utc": "2026-07-06T22:30:04Z",
-      "artist": "Jim Hall",
-      "track": "The Answer Is Yes (alt. take)",
-      "album": "Concierto (CTI Records 40th Anniversary Edition)",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "1c474932-8931-4b91-84c2-50e5c1f4c844",
-        "release_mbid": "fb3bf950-44d3-4506-a632-8a4849502e40",
-        "release_group_mbid": "a3e83453-d0ba-3cc9-8f9f-54a33a60a299"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783376556,
-      "listened_at_utc": "2026-07-06T22:22:36Z",
-      "artist": "Jim Hall",
-      "track": "You'd Be So Nice To Come Home To (alt. take)",
-      "album": "Concierto (CTI Records 40th Anniversary Edition)",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "8cdca1d4-3584-4f06-9359-824db56bff29",
-        "release_mbid": "fb3bf950-44d3-4506-a632-8a4849502e40",
-        "release_group_mbid": "a3e83453-d0ba-3cc9-8f9f-54a33a60a299"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783376400,
-      "listened_at_utc": "2026-07-06T22:20:00Z",
-      "artist": "Jim Hall",
-      "track": "Unfinished Business",
-      "album": "Concierto (CTI Records 40th Anniversary Edition)",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "ec1575b6-633c-40ab-b4de-9d400a7b2f61",
-        "release_mbid": "d674bb99-eae8-413c-ac9b-337ad8667a53",
-        "release_group_mbid": "a3e83453-d0ba-3cc9-8f9f-54a33a60a299"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783376030,
-      "listened_at_utc": "2026-07-06T22:13:50Z",
-      "artist": "Jim Hall",
-      "track": "Rock Skippin'",
-      "album": "Concierto (CTI Records 40th Anniversary Edition)",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "300dd973-e7b0-4a75-b571-f17ad76a5f53",
-        "release_mbid": "d674bb99-eae8-413c-ac9b-337ad8667a53",
-        "release_group_mbid": "a3e83453-d0ba-3cc9-8f9f-54a33a60a299"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783374869,
-      "listened_at_utc": "2026-07-06T21:54:29Z",
-      "artist": "Jim Hall",
-      "track": "Concierto De Aranjuez",
-      "album": "Concierto (CTI Records 40th Anniversary Edition)",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "90b42a12-b7d6-4e74-a36a-67c7377aa6a3",
-        "release_mbid": "fb3bf950-44d3-4506-a632-8a4849502e40",
-        "release_group_mbid": "a3e83453-d0ba-3cc9-8f9f-54a33a60a299"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783374411,
-      "listened_at_utc": "2026-07-06T21:46:51Z",
-      "artist": "Jim Hall",
-      "track": "The Answer Is Yes",
-      "album": "Concierto (CTI Records 40th Anniversary Edition)",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "1c474932-8931-4b91-84c2-50e5c1f4c844",
-        "release_mbid": "fb3bf950-44d3-4506-a632-8a4849502e40",
-        "release_group_mbid": "a3e83453-d0ba-3cc9-8f9f-54a33a60a299"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783374181,
-      "listened_at_utc": "2026-07-06T21:43:01Z",
-      "artist": "Jim Hall",
-      "track": "Two's Blues",
-      "album": "Concierto (CTI Records 40th Anniversary Edition)",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "ac215fa3-8f92-4e7e-9cb1-ae89be13615d",
-        "release_mbid": "fb3bf950-44d3-4506-a632-8a4849502e40",
-        "release_group_mbid": "a3e83453-d0ba-3cc9-8f9f-54a33a60a299"
       },
       "submission_clients": [
         "ListenBrainz lastfm importer v2"
