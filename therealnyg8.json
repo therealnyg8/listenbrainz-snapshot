@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-05T18:34:55Z",
+  "generated_at_utc": "2026-10-06T16:01:34Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-07T18:34:55Z",
-    "through_utc": "2026-10-05T18:34:55Z",
+    "from_utc": "2026-07-08T16:01:34Z",
+    "through_utc": "2026-10-06T16:01:34Z",
     "complete": true,
     "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 1101,
-    "deduplicated_listen_count": 920,
-    "duplicates_removed": 181,
-    "oldest_listen_utc": "2026-07-07T22:05:34Z",
-    "newest_listen_utc": "2026-10-05T12:43:35Z"
+    "raw_listen_count": 1140,
+    "deduplicated_listen_count": 937,
+    "duplicates_removed": 203,
+    "oldest_listen_utc": "2026-07-08T21:36:04Z",
+    "newest_listen_utc": "2026-10-06T12:50:36Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,9 +28,9 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 122,
-      "unique_artists": 33,
-      "unique_albums": 34,
+      "listen_count": 142,
+      "unique_artists": 40,
+      "unique_albums": 40,
       "listens_without_album": 0,
       "artists": [
         {
@@ -62,6 +62,10 @@
           "listen_count": 7
         },
         {
+          "artist": "Ahmad Jamal Trio",
+          "listen_count": 6
+        },
+        {
           "artist": "Sonny Rollins",
           "listen_count": 5
         },
@@ -74,7 +78,11 @@
           "listen_count": 5
         },
         {
-          "artist": "Cornelius",
+          "artist": "Ryuichi Sakamoto",
+          "listen_count": 4
+        },
+        {
+          "artist": "Tinashe",
           "listen_count": 4
         },
         {
@@ -82,7 +90,23 @@
           "listen_count": 4
         },
         {
+          "artist": "Helado Negro",
+          "listen_count": 3
+        },
+        {
+          "artist": "The Smile",
+          "listen_count": 3
+        },
+        {
+          "artist": "Ty Segall",
+          "listen_count": 3
+        },
+        {
           "artist": "Avishai Cohen Trio",
+          "listen_count": 2
+        },
+        {
+          "artist": "Cornelius",
           "listen_count": 2
         },
         {
@@ -94,12 +118,12 @@
           "listen_count": 2
         },
         {
-          "artist": "Ty Segall",
-          "listen_count": 2
+          "artist": "Emily A. Sprague",
+          "listen_count": 1
         },
         {
-          "artist": "שב״ק ס׳",
-          "listen_count": 2
+          "artist": "Floating Points",
+          "listen_count": 1
         },
         {
           "artist": "James Blake",
@@ -135,6 +159,10 @@
         },
         {
           "artist": "Smerz",
+          "listen_count": 1
+        },
+        {
+          "artist": "Squid",
           "listen_count": 1
         },
         {
@@ -217,6 +245,13 @@
           "last_listened_at_utc": "2026-10-04T20:55:40Z"
         },
         {
+          "artist": "Ahmad Jamal Trio",
+          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-05T23:27:27Z"
+        },
+        {
           "artist": "Sonny Rollins",
           "album": "Saxophone Colossus",
           "listen_count": 5,
@@ -238,11 +273,46 @@
           "last_listened_at_utc": "2026-09-29T20:16:34Z"
         },
         {
+          "artist": "Ryuichi Sakamoto",
+          "album": "async",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-05T23:06:48Z"
+        },
+        {
+          "artist": "Tinashe",
+          "album": "Popstar",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-05T20:43:36Z"
+        },
+        {
           "artist": "טונה",
           "album": "מזרח פרוע",
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-02T12:33:49Z"
+        },
+        {
+          "artist": "Helado Negro",
+          "album": "PHASOR",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-05T20:52:26Z"
+        },
+        {
+          "artist": "The Smile",
+          "album": "Wall Of Eyes",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-05T22:31:55Z"
+        },
+        {
+          "artist": "Ty Segall",
+          "album": "Chrome",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-06T12:34:33Z"
         },
         {
           "artist": "Avishai Cohen Trio",
@@ -259,13 +329,6 @@
           "last_listened_at_utc": "2026-10-03T16:28:43Z"
         },
         {
-          "artist": "Cornelius",
-          "album": "REFRACTIONS",
-          "listen_count": 2,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-29T12:36:48Z"
-        },
-        {
           "artist": "Pearl & The Oysters",
           "album": "Hosono House Revisited",
           "listen_count": 2,
@@ -280,18 +343,18 @@
           "last_listened_at_utc": "2026-10-02T20:41:14Z"
         },
         {
-          "artist": "Ty Segall",
-          "album": "Chrome",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-05T12:43:35Z"
+          "artist": "Emily A. Sprague",
+          "album": "Cyano",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-05T22:19:54Z"
         },
         {
-          "artist": "שב״ק ס׳",
-          "album": "שבק ס",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-09-29T12:43:49Z"
+          "artist": "Floating Points",
+          "album": "Cascade",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-06T12:50:36Z"
         },
         {
           "artist": "James Blake",
@@ -357,6 +420,13 @@
           "last_listened_at_utc": "2026-09-29T22:54:57Z"
         },
         {
+          "artist": "Squid",
+          "album": "Cowards",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-06T12:40:54Z"
+        },
+        {
           "artist": "TOWA TEI",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -408,9 +478,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 552,
-      "unique_artists": 97,
-      "unique_albums": 119,
+      "listen_count": 543,
+      "unique_artists": 101,
+      "unique_albums": 123,
       "listens_without_album": 0,
       "artists": [
         {
@@ -426,20 +496,16 @@
           "listen_count": 33
         },
         {
+          "artist": "Ahmad Jamal Trio",
+          "listen_count": 27
+        },
+        {
           "artist": "רביד פלוטניק",
           "listen_count": 25
         },
         {
-          "artist": "Ahmad Jamal Trio",
-          "listen_count": 21
-        },
-        {
           "artist": "Bob Dylan",
           "listen_count": 20
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "listen_count": 18
         },
         {
           "artist": "Sagol 59",
@@ -466,10 +532,6 @@
           "listen_count": 13
         },
         {
-          "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
-          "listen_count": 12
-        },
-        {
           "artist": "Bullion",
           "listen_count": 11
         },
@@ -494,10 +556,6 @@
           "listen_count": 8
         },
         {
-          "artist": "Kenny Burrell",
-          "listen_count": 8
-        },
-        {
           "artist": "Songs: Ohia",
           "listen_count": 8
         },
@@ -510,15 +568,19 @@
           "listen_count": 7
         },
         {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "listen_count": 7
+        },
+        {
           "artist": "מוקי",
           "listen_count": 7
         },
         {
-          "artist": "Hank Mobley",
+          "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
           "listen_count": 6
         },
         {
-          "artist": "Isao Suzuki Trio / quartet",
+          "artist": "Hank Mobley",
           "listen_count": 6
         },
         {
@@ -550,7 +612,19 @@
           "listen_count": 4
         },
         {
+          "artist": "Ryuichi Sakamoto",
+          "listen_count": 4
+        },
+        {
+          "artist": "Tinashe",
+          "listen_count": 4
+        },
+        {
           "artist": "Cameron Winter",
+          "listen_count": 3
+        },
+        {
+          "artist": "Helado Negro",
           "listen_count": 3
         },
         {
@@ -563,6 +637,14 @@
         },
         {
           "artist": "Miles Davis",
+          "listen_count": 3
+        },
+        {
+          "artist": "The Smile",
+          "listen_count": 3
+        },
+        {
+          "artist": "Ty Segall",
           "listen_count": 3
         },
         {
@@ -586,19 +668,11 @@
           "listen_count": 2
         },
         {
-          "artist": "Cory Wong & Joshua Redman",
-          "listen_count": 2
-        },
-        {
           "artist": "Pearl & The Oysters",
           "listen_count": 2
         },
         {
           "artist": "Queen",
-          "listen_count": 2
-        },
-        {
-          "artist": "Ty Segall",
           "listen_count": 2
         },
         {
@@ -612,10 +686,6 @@
         {
           "artist": "ハリー細野 & Tin Pan Alley",
           "listen_count": 2
-        },
-        {
-          "artist": "Bill Evans Trio Featuring Scott LaFaro",
-          "listen_count": 1
         },
         {
           "artist": "Bruce Springsteen",
@@ -634,11 +704,19 @@
           "listen_count": 1
         },
         {
+          "artist": "Emily A. Sprague",
+          "listen_count": 1
+        },
+        {
           "artist": "Eric Dolphy",
           "listen_count": 1
         },
         {
           "artist": "Ezra Collective",
+          "listen_count": 1
+        },
+        {
+          "artist": "Floating Points",
           "listen_count": 1
         },
         {
@@ -679,6 +757,10 @@
         },
         {
           "artist": "John Mellencamp",
+          "listen_count": 1
+        },
+        {
+          "artist": "Kenny Burrell",
           "listen_count": 1
         },
         {
@@ -735,6 +817,10 @@
         },
         {
           "artist": "Smerz",
+          "listen_count": 1
+        },
+        {
+          "artist": "Squid",
           "listen_count": 1
         },
         {
@@ -818,18 +904,18 @@
           "last_listened_at_utc": "2026-09-25T20:34:25Z"
         },
         {
+          "artist": "Ahmad Jamal Trio",
+          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+          "listen_count": 27,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-05T23:27:27Z"
+        },
+        {
           "artist": "טונה",
           "album": "מזרח פרוע",
           "listen_count": 23,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-02T12:33:49Z"
-        },
-        {
-          "artist": "Ahmad Jamal Trio",
-          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
-          "listen_count": 21,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-27T21:34:44Z"
         },
         {
           "artist": "רביד פלוטניק",
@@ -886,13 +972,6 @@
           "listen_count": 13,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-09-16T12:42:46Z"
-        },
-        {
-          "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
-          "album": "Waltz for Debby [1962]",
-          "listen_count": 12,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-09-13T14:39:12Z"
         },
         {
           "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
@@ -958,25 +1037,11 @@
           "last_listened_at_utc": "2026-09-20T22:09:28Z"
         },
         {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Misty",
-          "listen_count": 9,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-09-07T22:52:31Z"
-        },
-        {
           "artist": "John Coltrane Quartet",
           "album": "Ballads",
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-09-13T14:04:23Z"
-        },
-        {
-          "artist": "Kenny Burrell",
-          "album": "Midnight Blue",
-          "listen_count": 8,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-09-20T22:46:37Z"
         },
         {
           "artist": "Songs: Ohia",
@@ -1007,6 +1072,13 @@
           "last_listened_at_utc": "2026-09-06T22:00:39Z"
         },
         {
+          "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
+          "album": "Waltz for Debby [1962]",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-09-13T14:39:12Z"
+        },
+        {
           "artist": "Hank Mobley",
           "album": "Soul Station (Remastered 2013)",
           "listen_count": 6,
@@ -1014,25 +1086,11 @@
           "last_listened_at_utc": "2026-09-27T23:08:27Z"
         },
         {
-          "artist": "Isao Suzuki Trio / quartet",
-          "album": "Blow Up",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-09-05T20:40:45Z"
-        },
-        {
           "artist": "Shabak Samech",
           "album": "כנען 2000",
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-09-17T21:23:12Z"
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Midnight Sugar",
-          "listen_count": 6,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-02T20:41:14Z"
         },
         {
           "artist": "אורי שוחט",
@@ -1084,11 +1142,32 @@
           "last_listened_at_utc": "2026-09-29T12:43:49Z"
         },
         {
+          "artist": "Ryuichi Sakamoto",
+          "album": "async",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-05T23:06:48Z"
+        },
+        {
+          "artist": "Tinashe",
+          "album": "Popstar",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-05T20:43:36Z"
+        },
+        {
           "artist": "Cameron Winter",
           "album": "Heavy Metal",
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-09-18T12:47:15Z"
+        },
+        {
+          "artist": "Helado Negro",
+          "album": "PHASOR",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-05T20:52:26Z"
         },
         {
           "artist": "Julian Lage",
@@ -1119,11 +1198,25 @@
           "last_listened_at_utc": "2026-09-06T22:46:12Z"
         },
         {
+          "artist": "The Smile",
+          "album": "Wall Of Eyes",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-05T22:31:55Z"
+        },
+        {
           "artist": "Tsuyoshi Yamamoto Trio",
           "album": "Blues for Tee",
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-09-08T22:25:36Z"
+        },
+        {
+          "artist": "Ty Segall",
+          "album": "Chrome",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-06T12:34:33Z"
         },
         {
           "artist": "כהן@מושון",
@@ -1182,13 +1275,6 @@
           "last_listened_at_utc": "2026-09-29T12:36:48Z"
         },
         {
-          "artist": "Cory Wong & Joshua Redman",
-          "album": "On A Random Tuesday : Live At The Blue Note",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-09-05T22:22:21Z"
-        },
-        {
           "artist": "Pearl & The Oysters",
           "album": "Hosono House Revisited",
           "listen_count": 2,
@@ -1196,11 +1282,18 @@
           "last_listened_at_utc": "2026-10-03T12:10:39Z"
         },
         {
-          "artist": "Ty Segall",
-          "album": "Chrome",
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Midnight Sugar",
           "listen_count": 2,
           "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-05T12:43:35Z"
+          "last_listened_at_utc": "2026-10-02T20:41:14Z"
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Misty",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-09-07T22:52:31Z"
         },
         {
           "artist": "ברי סחרוף",
@@ -1252,13 +1345,6 @@
           "last_listened_at_utc": "2026-09-27T21:48:44Z"
         },
         {
-          "artist": "Bill Evans Trio Featuring Scott LaFaro",
-          "album": "Sunday At The Village Vanguard",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-05T22:00:10Z"
-        },
-        {
           "artist": "Bob Dylan",
           "album": "Oh Mercy",
           "listen_count": 1,
@@ -1294,6 +1380,13 @@
           "last_listened_at_utc": "2026-09-18T22:29:08Z"
         },
         {
+          "artist": "Emily A. Sprague",
+          "album": "Cyano",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-05T22:19:54Z"
+        },
+        {
           "artist": "Eric Dolphy",
           "album": "Out To Lunch (96kHz/24bit)",
           "listen_count": 1,
@@ -1306,6 +1399,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-21T18:15:32Z"
+        },
+        {
+          "artist": "Floating Points",
+          "album": "Cascade",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-06T12:50:36Z"
         },
         {
           "artist": "Gary Peacock / Ralph Towner",
@@ -1383,6 +1483,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-20T22:37:09Z"
+        },
+        {
+          "artist": "Kenny Burrell",
+          "album": "Midnight Blue",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-20T22:46:37Z"
         },
         {
           "artist": "Lee Konitz, Brad Mehldau, Charlie Haden & Paul Motian",
@@ -1509,6 +1616,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-29T22:54:57Z"
+        },
+        {
+          "artist": "Squid",
+          "album": "Cowards",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-06T12:40:54Z"
         },
         {
           "artist": "Sting",
@@ -1639,9 +1753,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 920,
-      "unique_artists": 152,
-      "unique_albums": 200,
+      "listen_count": 937,
+      "unique_artists": 158,
+      "unique_albums": 206,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1673,12 +1787,12 @@
           "listen_count": 28
         },
         {
-          "artist": "נצ׳י נצ׳",
-          "listen_count": 26
+          "artist": "Ahmad Jamal Trio",
+          "listen_count": 27
         },
         {
-          "artist": "Ahmad Jamal Trio",
-          "listen_count": 21
+          "artist": "נצ׳י נצ׳",
+          "listen_count": 26
         },
         {
           "artist": "Olivia Rodrigo",
@@ -1773,10 +1887,6 @@
           "listen_count": 8
         },
         {
-          "artist": "John Zorn & New Masada Quartet",
-          "listen_count": 7
-        },
-        {
           "artist": "Nujabes",
           "listen_count": 7
         },
@@ -1841,7 +1951,15 @@
           "listen_count": 4
         },
         {
+          "artist": "Ryuichi Sakamoto",
+          "listen_count": 4
+        },
+        {
           "artist": "The Dave Brubeck Quartet",
+          "listen_count": 4
+        },
+        {
+          "artist": "Tinashe",
           "listen_count": 4
         },
         {
@@ -1850,6 +1968,10 @@
         },
         {
           "artist": "Cameron Winter",
+          "listen_count": 3
+        },
+        {
+          "artist": "Helado Negro",
           "listen_count": 3
         },
         {
@@ -1862,6 +1984,14 @@
         },
         {
           "artist": "Oasis",
+          "listen_count": 3
+        },
+        {
+          "artist": "The Smile",
+          "listen_count": 3
+        },
+        {
+          "artist": "Ty Segall",
           "listen_count": 3
         },
         {
@@ -1918,10 +2048,6 @@
         },
         {
           "artist": "Stan Getz",
-          "listen_count": 2
-        },
-        {
-          "artist": "Ty Segall",
           "listen_count": 2
         },
         {
@@ -1989,6 +2115,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Emily A. Sprague",
+          "listen_count": 1
+        },
+        {
           "artist": "Eric Dolphy",
           "listen_count": 1
         },
@@ -1998,6 +2128,10 @@
         },
         {
           "artist": "Ezra Collective",
+          "listen_count": 1
+        },
+        {
+          "artist": "Floating Points",
           "listen_count": 1
         },
         {
@@ -2141,6 +2275,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Squid",
+          "listen_count": 1
+        },
+        {
           "artist": "Stan Getz & João Gilberto",
           "listen_count": 1
         },
@@ -2276,6 +2414,13 @@
           "last_listened_at_utc": "2026-09-25T20:34:25Z"
         },
         {
+          "artist": "Ahmad Jamal Trio",
+          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+          "listen_count": 27,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-05T23:27:27Z"
+        },
+        {
           "artist": "נצ׳י נצ׳",
           "album": "שפל וגאות",
           "listen_count": 24,
@@ -2302,13 +2447,6 @@
           "listen_count": 22,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-09-13T16:16:38Z"
-        },
-        {
-          "artist": "Ahmad Jamal Trio",
-          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
-          "listen_count": 21,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-27T21:34:44Z"
         },
         {
           "artist": "רביד פלוטניק",
@@ -2549,13 +2687,6 @@
           "last_listened_at_utc": "2026-09-26T20:14:19Z"
         },
         {
-          "artist": "John Zorn & New Masada Quartet",
-          "album": "New Masada Quartet",
-          "listen_count": 7,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-07-07T22:44:47Z"
-        },
-        {
           "artist": "Nujabes",
           "album": "Modal Soul",
           "listen_count": 7,
@@ -2682,6 +2813,20 @@
           "last_listened_at_utc": "2026-09-03T23:41:11Z"
         },
         {
+          "artist": "Ryuichi Sakamoto",
+          "album": "async",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-05T23:06:48Z"
+        },
+        {
+          "artist": "Tinashe",
+          "album": "Popstar",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-05T20:43:36Z"
+        },
+        {
           "artist": "ג'יגה ג'וס",
           "album": "מיץ למקס",
           "listen_count": 4,
@@ -2701,6 +2846,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-09-18T12:47:15Z"
+        },
+        {
+          "artist": "Helado Negro",
+          "album": "PHASOR",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-05T20:52:26Z"
         },
         {
           "artist": "Kutiman & DEKEL",
@@ -2724,11 +2876,25 @@
           "last_listened_at_utc": "2026-09-05T17:27:42Z"
         },
         {
+          "artist": "The Smile",
+          "album": "Wall Of Eyes",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-05T22:31:55Z"
+        },
+        {
           "artist": "Tsuyoshi Yamamoto Trio",
           "album": "Blues for Tee",
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-09-08T22:25:36Z"
+        },
+        {
+          "artist": "Ty Segall",
+          "album": "Chrome",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-06T12:34:33Z"
         },
         {
           "artist": "כהן@מושון",
@@ -2848,13 +3014,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-07-26T23:57:00Z"
-        },
-        {
-          "artist": "Ty Segall",
-          "album": "Chrome",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-05T12:43:35Z"
         },
         {
           "artist": "ברי סחרוף",
@@ -3046,6 +3205,13 @@
           "last_listened_at_utc": "2026-07-26T20:05:23Z"
         },
         {
+          "artist": "Emily A. Sprague",
+          "album": "Cyano",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-05T22:19:54Z"
+        },
+        {
           "artist": "Eric Dolphy",
           "album": "Out To Lunch (96kHz/24bit)",
           "listen_count": 1,
@@ -3065,6 +3231,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-21T18:15:32Z"
+        },
+        {
+          "artist": "Floating Points",
+          "album": "Cascade",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-06T12:50:36Z"
         },
         {
           "artist": "Frank Sinatra",
@@ -3410,6 +3583,13 @@
           "last_listened_at_utc": "2026-07-26T23:16:02Z"
         },
         {
+          "artist": "Squid",
+          "album": "Cowards",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-06T12:40:54Z"
+        },
+        {
           "artist": "Stan Getz",
           "album": "Sweet Rain",
           "listen_count": 1,
@@ -3658,6 +3838,457 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1791291036,
+      "listened_at_utc": "2026-10-06T12:50:36Z",
+      "artist": "Floating Points",
+      "track": "Vocoder (Club Mix)",
+      "album": "Cascade",
+      "musicbrainz": {
+        "artist_mbids": [
+          "69d9c5ba-7bba-4cb7-ab32-8ccc48ad4f97"
+        ],
+        "recording_mbid": "b8ca66e2-7697-43f8-b00c-2c20591f0397",
+        "release_mbid": "e3d1b69c-199c-47be-996c-b939f1e5b2d5",
+        "release_group_mbid": "70410894-5005-4fac-a254-c82912a069cc"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791290454,
+      "listened_at_utc": "2026-10-06T12:40:54Z",
+      "artist": "Squid",
+      "track": "Crispy Skin",
+      "album": "Cowards",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5422ef5d-00d4-4c7a-81ab-03cb8fc3cc45"
+        ],
+        "recording_mbid": "02940530-4a04-4fef-b736-ce0272b28217",
+        "release_mbid": "a5227832-9835-4a62-9d09-d1df4132d8e8",
+        "release_group_mbid": "a86d3224-03dc-450d-8770-f5d259b9635d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791290073,
+      "listened_at_utc": "2026-10-06T12:34:33Z",
+      "artist": "Ty Segall",
+      "track": "Black Paint",
+      "album": "Chrome",
+      "musicbrainz": {
+        "artist_mbids": [
+          "07a17571-81fc-4cf8-a634-98f0d926d313"
+        ],
+        "recording_mbid": "60ee8a54-3e61-4043-9f34-f4603b810be0",
+        "release_mbid": "bca90c5b-0b50-44cb-a4f4-3ee7a5693899",
+        "release_group_mbid": "add8f339-d19d-426d-a279-198244e90d41"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791242847,
+      "listened_at_utc": "2026-10-05T23:27:27Z",
+      "artist": "Ahmad Jamal Trio",
+      "track": "Poinciana (Live At The Pershing, Chicago, 1958)",
+      "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9e7ca87b-4e3d-4d14-90f1-a74acb645fe2",
+          "cf816800-4e0e-4d80-9cca-50a725e93787",
+          "60f32468-07df-408f-a3d7-622af9271da6"
+        ],
+        "release_mbid": "0008f765-032b-46cd-ab69-2220edab1837",
+        "recording_mbid": "13865e51-b11e-43d2-a9e2-ce40a255d92b",
+        "release_group_mbid": "0a8e97fd-457c-30bc-938a-2fba79cb04e7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791242643,
+      "listened_at_utc": "2026-10-05T23:24:03Z",
+      "artist": "Ahmad Jamal Trio",
+      "track": "No Greater Love (Live At The Pershing, Chicago, 1958)",
+      "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+      "musicbrainz": {},
+      "submission_clients": [
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791242465,
+      "listened_at_utc": "2026-10-05T23:21:05Z",
+      "artist": "Ahmad Jamal Trio",
+      "track": "Music, Music, Music (Live At The Pershing, Chicago, 1958)",
+      "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9e7ca87b-4e3d-4d14-90f1-a74acb645fe2",
+          "cf816800-4e0e-4d80-9cca-50a725e93787",
+          "60f32468-07df-408f-a3d7-622af9271da6"
+        ],
+        "release_mbid": "0008f765-032b-46cd-ab69-2220edab1837"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791242275,
+      "listened_at_utc": "2026-10-05T23:17:55Z",
+      "artist": "Ahmad Jamal Trio",
+      "track": "Moonlight In Vermont (Live At The Pershing, Chicago, 1958)",
+      "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9e7ca87b-4e3d-4d14-90f1-a74acb645fe2",
+          "cf816800-4e0e-4d80-9cca-50a725e93787",
+          "60f32468-07df-408f-a3d7-622af9271da6"
+        ],
+        "release_mbid": "0008f765-032b-46cd-ab69-2220edab1837",
+        "recording_mbid": "04963036-4468-4e93-8842-7508ecafd800",
+        "release_group_mbid": "0a8e97fd-457c-30bc-938a-2fba79cb04e7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791242120,
+      "listened_at_utc": "2026-10-05T23:15:20Z",
+      "artist": "Ahmad Jamal Trio",
+      "track": "Surrey With The Fringe On The Top (Live At The Pershing, Chicago, 1958)",
+      "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9e7ca87b-4e3d-4d14-90f1-a74acb645fe2",
+          "cf816800-4e0e-4d80-9cca-50a725e93787",
+          "60f32468-07df-408f-a3d7-622af9271da6"
+        ],
+        "release_mbid": "0008f765-032b-46cd-ab69-2220edab1837"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791241907,
+      "listened_at_utc": "2026-10-05T23:11:47Z",
+      "artist": "Ahmad Jamal Trio",
+      "track": "But Not For Me (Live At The Pershing, Chicago, 1958)",
+      "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9e7ca87b-4e3d-4d14-90f1-a74acb645fe2",
+          "cf816800-4e0e-4d80-9cca-50a725e93787",
+          "60f32468-07df-408f-a3d7-622af9271da6"
+        ],
+        "release_mbid": "0008f765-032b-46cd-ab69-2220edab1837"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791241608,
+      "listened_at_utc": "2026-10-05T23:06:48Z",
+      "artist": "Ryuichi Sakamoto",
+      "track": "ZURE",
+      "album": "async",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a7f7df4a-77d8-4f12-8acd-5c60c93f4de8"
+        ],
+        "recording_mbid": "b748ba2a-5456-4879-9c08-a1a24ca62af8",
+        "release_mbid": "2b3a7356-8319-438e-94f5-9e701c5effc0",
+        "release_group_mbid": "bd6cfcaf-605f-44ff-8d1f-52833306e30c"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791241375,
+      "listened_at_utc": "2026-10-05T23:02:55Z",
+      "artist": "Ryuichi Sakamoto",
+      "track": "solari",
+      "album": "async",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a7f7df4a-77d8-4f12-8acd-5c60c93f4de8"
+        ],
+        "recording_mbid": "47b57cb9-87b9-4c97-85ea-ef28378423be",
+        "release_mbid": "2b3a7356-8319-438e-94f5-9e701c5effc0",
+        "release_group_mbid": "bd6cfcaf-605f-44ff-8d1f-52833306e30c"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791241030,
+      "listened_at_utc": "2026-10-05T22:57:10Z",
+      "artist": "Ryuichi Sakamoto",
+      "track": "disintegration",
+      "album": "async",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a7f7df4a-77d8-4f12-8acd-5c60c93f4de8"
+        ],
+        "recording_mbid": "a2e6647e-6c1c-43be-8643-cb1a0ba20cbe",
+        "release_mbid": "2b3a7356-8319-438e-94f5-9e701c5effc0",
+        "release_group_mbid": "bd6cfcaf-605f-44ff-8d1f-52833306e30c"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791240751,
+      "listened_at_utc": "2026-10-05T22:52:31Z",
+      "artist": "Ryuichi Sakamoto",
+      "track": "andata",
+      "album": "async",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a7f7df4a-77d8-4f12-8acd-5c60c93f4de8"
+        ],
+        "recording_mbid": "49d0422e-3c2d-4f99-9fc6-51f684208a3c",
+        "release_mbid": "2b3a7356-8319-438e-94f5-9e701c5effc0",
+        "release_group_mbid": "bd6cfcaf-605f-44ff-8d1f-52833306e30c"
+      },
+      "submission_clients": [
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791239515,
+      "listened_at_utc": "2026-10-05T22:31:55Z",
+      "artist": "The Smile",
+      "track": "Under Our Pillows",
+      "album": "Wall Of Eyes",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9055fca5-69bc-4d47-b569-ab2012a19565"
+        ],
+        "recording_mbid": "8cfd0bfb-6975-4fc0-bd7f-352dcc006d25",
+        "release_mbid": "4f00fab0-e7e2-4f02-b327-0baa951fe668",
+        "release_group_mbid": "87f4d5ae-5e94-4768-b8ee-f52fbabfbaa6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791239194,
+      "listened_at_utc": "2026-10-05T22:26:34Z",
+      "artist": "The Smile",
+      "track": "Teleharmonic",
+      "album": "Wall Of Eyes",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9055fca5-69bc-4d47-b569-ab2012a19565"
+        ],
+        "recording_mbid": "95501975-5ca5-4c6c-8c9a-94c1b802181a",
+        "release_mbid": "4f00fab0-e7e2-4f02-b327-0baa951fe668",
+        "release_group_mbid": "87f4d5ae-5e94-4768-b8ee-f52fbabfbaa6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791238889,
+      "listened_at_utc": "2026-10-05T22:21:29Z",
+      "artist": "The Smile",
+      "track": "Wall Of Eyes",
+      "album": "Wall Of Eyes",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9055fca5-69bc-4d47-b569-ab2012a19565"
+        ],
+        "recording_mbid": "24a7952a-c435-4b7b-8c57-f346b4a29f9f",
+        "release_mbid": "4f00fab0-e7e2-4f02-b327-0baa951fe668",
+        "release_group_mbid": "87f4d5ae-5e94-4768-b8ee-f52fbabfbaa6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791238794,
+      "listened_at_utc": "2026-10-05T22:19:54Z",
+      "artist": "Emily A. Sprague",
+      "track": "Double Moon",
+      "album": "Cyano",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1b1e125a-2ef5-4586-9fff-b952b2acb8ff"
+        ],
+        "recording_mbid": "05bfbec0-ae5d-4411-902a-061bcf578656",
+        "release_mbid": "8894c1de-8017-4809-aafd-2f9059efd6cf",
+        "release_group_mbid": "eb6c0649-afd9-4f4d-bd2c-92b22d47eee4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791233546,
+      "listened_at_utc": "2026-10-05T20:52:26Z",
+      "artist": "Helado Negro",
+      "track": "Best For You and Me",
+      "album": "PHASOR",
+      "musicbrainz": {
+        "artist_mbids": [
+          "aa0a54b3-d37e-4c1d-a53f-b3b94a3dfcad"
+        ],
+        "recording_mbid": "d3c2810e-19cb-4c92-b889-1de974629c53",
+        "release_mbid": "faf8f967-ea99-4be6-ba49-68f2e67f930c",
+        "release_group_mbid": "0787cfb2-91a2-483b-aa9b-0d6750f78010"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791233311,
+      "listened_at_utc": "2026-10-05T20:48:31Z",
+      "artist": "Helado Negro",
+      "track": "I Just Want To Wake Up With You",
+      "album": "PHASOR",
+      "musicbrainz": {
+        "artist_mbids": [
+          "aa0a54b3-d37e-4c1d-a53f-b3b94a3dfcad"
+        ],
+        "recording_mbid": "4e1643ef-b8fb-4121-9595-7c2ee7cbbe28",
+        "release_mbid": "faf8f967-ea99-4be6-ba49-68f2e67f930c",
+        "release_group_mbid": "0787cfb2-91a2-483b-aa9b-0d6750f78010"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791233124,
+      "listened_at_utc": "2026-10-05T20:45:24Z",
+      "artist": "Helado Negro",
+      "track": "LFO (Lupe Finds Oliveros)",
+      "album": "PHASOR",
+      "musicbrainz": {
+        "artist_mbids": [
+          "aa0a54b3-d37e-4c1d-a53f-b3b94a3dfcad"
+        ],
+        "recording_mbid": "2cd35c86-befa-4da5-939d-afe726ac5bb3",
+        "release_mbid": "faf8f967-ea99-4be6-ba49-68f2e67f930c",
+        "release_group_mbid": "0787cfb2-91a2-483b-aa9b-0d6750f78010"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791233016,
+      "listened_at_utc": "2026-10-05T20:43:36Z",
+      "artist": "Tinashe",
+      "track": "Empty Stadium",
+      "album": "Popstar",
+      "musicbrainz": {
+        "artist_mbids": [
+          "396a9525-0994-4542-b480-c4587feeb476"
+        ],
+        "recording_mbid": "30cb7d5c-1da8-4ef8-b856-31a554f9818f",
+        "release_mbid": "ec22389c-05ec-4550-bfef-54417b5650d2",
+        "release_group_mbid": "27a54d93-207f-4ba6-b2bc-9053373ad342"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791232793,
+      "listened_at_utc": "2026-10-05T20:39:53Z",
+      "artist": "Tinashe",
+      "track": "Melatonin",
+      "album": "Popstar",
+      "musicbrainz": {
+        "artist_mbids": [
+          "396a9525-0994-4542-b480-c4587feeb476"
+        ],
+        "recording_mbid": "89448197-91b7-4f39-80a6-95455ee1eed8",
+        "release_mbid": "ec22389c-05ec-4550-bfef-54417b5650d2",
+        "release_group_mbid": "27a54d93-207f-4ba6-b2bc-9053373ad342"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791232680,
+      "listened_at_utc": "2026-10-05T20:38:00Z",
+      "artist": "Tinashe",
+      "track": "Too Easy",
+      "album": "Popstar",
+      "musicbrainz": {
+        "artist_mbids": [
+          "396a9525-0994-4542-b480-c4587feeb476"
+        ],
+        "recording_mbid": "9d23ccae-592d-4872-bfa9-74cf5487629d",
+        "release_mbid": "ec22389c-05ec-4550-bfef-54417b5650d2",
+        "release_group_mbid": "27a54d93-207f-4ba6-b2bc-9053373ad342"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791232523,
+      "listened_at_utc": "2026-10-05T20:35:23Z",
+      "artist": "Tinashe",
+      "track": "Sunglasses",
+      "album": "Popstar",
+      "musicbrainz": {
+        "artist_mbids": [
+          "396a9525-0994-4542-b480-c4587feeb476"
+        ],
+        "recording_mbid": "d9b888fa-eb5a-4537-b5c2-4b3c5f41d2d7",
+        "release_mbid": "ec22389c-05ec-4550-bfef-54417b5650d2",
+        "release_group_mbid": "27a54d93-207f-4ba6-b2bc-9053373ad342"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1791204215,
       "listened_at_utc": "2026-10-05T12:43:35Z",
@@ -19421,131 +20052,6 @@
         "recording_mbid": "a117aee1-76c8-4ce3-88dc-107e923dbd0b",
         "release_mbid": "094bc8ef-36a5-45fb-b75b-377806ac6632",
         "release_group_mbid": "ef97254f-22ea-4cf7-a896-0004f6a5df05"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783464287,
-      "listened_at_utc": "2026-07-07T22:44:47Z",
-      "artist": "John Zorn & New Masada Quartet",
-      "track": "Kedushah",
-      "album": "New Masada Quartet",
-      "musicbrainz": {
-        "artist_mbids": [
-          "7ec4a553-73e5-4c0d-a071-a82b83a309e6",
-          "549b76cd-405e-4b0e-9676-eaac56812b8f"
-        ],
-        "recording_mbid": "c3c6ab55-31b2-4767-82be-8c73a9ee8699",
-        "release_mbid": "b80eab3d-2571-4859-968e-d6d6b0ee219d",
-        "release_group_mbid": "c1ec13d0-083b-4865-a930-cc53221fe273"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783464100,
-      "listened_at_utc": "2026-07-07T22:41:40Z",
-      "artist": "John Zorn & New Masada Quartet",
-      "track": "Mibi",
-      "album": "New Masada Quartet",
-      "musicbrainz": {
-        "artist_mbids": [
-          "7ec4a553-73e5-4c0d-a071-a82b83a309e6",
-          "549b76cd-405e-4b0e-9676-eaac56812b8f"
-        ],
-        "recording_mbid": "2efa64ab-f410-4438-b417-c467b19c1950",
-        "release_mbid": "b80eab3d-2571-4859-968e-d6d6b0ee219d",
-        "release_group_mbid": "c1ec13d0-083b-4865-a930-cc53221fe273"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783463586,
-      "listened_at_utc": "2026-07-07T22:33:06Z",
-      "artist": "John Zorn & New Masada Quartet",
-      "track": "Sanasanah",
-      "album": "New Masada Quartet",
-      "musicbrainz": {},
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783463274,
-      "listened_at_utc": "2026-07-07T22:27:54Z",
-      "artist": "John Zorn & New Masada Quartet",
-      "track": "Hath Arob",
-      "album": "New Masada Quartet",
-      "musicbrainz": {
-        "artist_mbids": [
-          "7ec4a553-73e5-4c0d-a071-a82b83a309e6",
-          "549b76cd-405e-4b0e-9676-eaac56812b8f"
-        ],
-        "recording_mbid": "7b68f03d-a7f6-46f7-8a94-3ea5a3b85289",
-        "release_mbid": "b80eab3d-2571-4859-968e-d6d6b0ee219d",
-        "release_group_mbid": "c1ec13d0-083b-4865-a930-cc53221fe273"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783462905,
-      "listened_at_utc": "2026-07-07T22:21:45Z",
-      "artist": "John Zorn & New Masada Quartet",
-      "track": "Rigal",
-      "album": "New Masada Quartet",
-      "musicbrainz": {
-        "artist_mbids": [
-          "7ec4a553-73e5-4c0d-a071-a82b83a309e6",
-          "549b76cd-405e-4b0e-9676-eaac56812b8f"
-        ],
-        "recording_mbid": "84110d03-0d32-4c17-b0b9-aa710a4f6af5",
-        "release_mbid": "b80eab3d-2571-4859-968e-d6d6b0ee219d",
-        "release_group_mbid": "c1ec13d0-083b-4865-a930-cc53221fe273"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783462276,
-      "listened_at_utc": "2026-07-07T22:11:16Z",
-      "artist": "John Zorn & New Masada Quartet",
-      "track": "Tharsis",
-      "album": "New Masada Quartet",
-      "musicbrainz": {
-        "artist_mbids": [
-          "7ec4a553-73e5-4c0d-a071-a82b83a309e6",
-          "549b76cd-405e-4b0e-9676-eaac56812b8f"
-        ],
-        "recording_mbid": "26348cd3-cd89-4543-af08-e8e8ddad08c6",
-        "release_mbid": "b80eab3d-2571-4859-968e-d6d6b0ee219d",
-        "release_group_mbid": "c1ec13d0-083b-4865-a930-cc53221fe273"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783461934,
-      "listened_at_utc": "2026-07-07T22:05:34Z",
-      "artist": "John Zorn & New Masada Quartet",
-      "track": "Tharsis",
-      "album": "New Masada Quartet",
-      "musicbrainz": {
-        "artist_mbids": [
-          "7ec4a553-73e5-4c0d-a071-a82b83a309e6",
-          "549b76cd-405e-4b0e-9676-eaac56812b8f"
-        ],
-        "recording_mbid": "26348cd3-cd89-4543-af08-e8e8ddad08c6",
-        "release_mbid": "b80eab3d-2571-4859-968e-d6d6b0ee219d",
-        "release_group_mbid": "c1ec13d0-083b-4865-a930-cc53221fe273"
       },
       "submission_clients": [
         "ListenBrainz lastfm importer v2"
