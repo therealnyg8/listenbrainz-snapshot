@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-06T16:01:34Z",
+  "generated_at_utc": "2026-10-07T16:38:51Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-08T16:01:34Z",
-    "through_utc": "2026-10-06T16:01:34Z",
+    "from_utc": "2026-07-09T16:38:51Z",
+    "through_utc": "2026-10-07T16:38:51Z",
     "complete": true,
     "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 1140,
-    "deduplicated_listen_count": 937,
-    "duplicates_removed": 203,
-    "oldest_listen_utc": "2026-07-08T21:36:04Z",
-    "newest_listen_utc": "2026-10-06T12:50:36Z"
+    "raw_listen_count": 1134,
+    "deduplicated_listen_count": 928,
+    "duplicates_removed": 206,
+    "oldest_listen_utc": "2026-07-09T18:30:53Z",
+    "newest_listen_utc": "2026-10-07T12:38:30Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,15 +28,11 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 142,
-      "unique_artists": 40,
-      "unique_albums": 40,
+      "listen_count": 106,
+      "unique_artists": 36,
+      "unique_albums": 36,
       "listens_without_album": 0,
       "artists": [
-        {
-          "artist": "青葉市子",
-          "listen_count": 14
-        },
         {
           "artist": "Bullion",
           "listen_count": 11
@@ -54,10 +50,6 @@
           "listen_count": 10
         },
         {
-          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
-          "listen_count": 10
-        },
-        {
           "artist": "Nujabes",
           "listen_count": 7
         },
@@ -70,23 +62,11 @@
           "listen_count": 5
         },
         {
-          "artist": "The Fred Hersch Trio",
-          "listen_count": 5
-        },
-        {
-          "artist": "Tord Gustavsen Trio",
-          "listen_count": 5
-        },
-        {
           "artist": "Ryuichi Sakamoto",
           "listen_count": 4
         },
         {
           "artist": "Tinashe",
-          "listen_count": 4
-        },
-        {
-          "artist": "טונה",
           "listen_count": 4
         },
         {
@@ -102,15 +82,19 @@
           "listen_count": 3
         },
         {
-          "artist": "Avishai Cohen Trio",
-          "listen_count": 2
-        },
-        {
           "artist": "Cornelius",
           "listen_count": 2
         },
         {
+          "artist": "Jeff Parker ETA IVtet",
+          "listen_count": 2
+        },
+        {
           "artist": "Pearl & The Oysters",
+          "listen_count": 2
+        },
+        {
+          "artist": "Squid",
           "listen_count": 2
         },
         {
@@ -119,6 +103,10 @@
         },
         {
           "artist": "Emily A. Sprague",
+          "listen_count": 1
+        },
+        {
+          "artist": "Fishmans",
           "listen_count": 1
         },
         {
@@ -158,14 +146,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Smerz",
-          "listen_count": 1
-        },
-        {
-          "artist": "Squid",
-          "listen_count": 1
-        },
-        {
           "artist": "TOWA TEI",
           "listen_count": 1
         },
@@ -182,6 +162,10 @@
           "listen_count": 1
         },
         {
+          "artist": "טונה",
+          "listen_count": 1
+        },
+        {
           "artist": "原神玲",
           "listen_count": 1
         },
@@ -195,13 +179,6 @@
         }
       ],
       "albums": [
-        {
-          "artist": "青葉市子",
-          "album": "Windswept Adan",
-          "listen_count": 14,
-          "unique_tracks": 14,
-          "last_listened_at_utc": "2026-09-29T22:48:47Z"
-        },
         {
           "artist": "Bullion",
           "album": "Nearly",
@@ -231,13 +208,6 @@
           "last_listened_at_utc": "2026-10-02T19:31:45Z"
         },
         {
-          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
-          "album": "Compassion",
-          "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-09-29T19:43:36Z"
-        },
-        {
           "artist": "Nujabes",
           "album": "Modal Soul",
           "listen_count": 7,
@@ -259,20 +229,6 @@
           "last_listened_at_utc": "2026-10-04T21:32:34Z"
         },
         {
-          "artist": "The Fred Hersch Trio",
-          "album": "Sunday Night at the Vanguard",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-09-29T20:47:09Z"
-        },
-        {
-          "artist": "Tord Gustavsen Trio",
-          "album": "The Ground",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-09-29T20:16:34Z"
-        },
-        {
           "artist": "Ryuichi Sakamoto",
           "album": "async",
           "listen_count": 4,
@@ -285,13 +241,6 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-05T20:43:36Z"
-        },
-        {
-          "artist": "טונה",
-          "album": "מזרח פרוע",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-02T12:33:49Z"
         },
         {
           "artist": "Helado Negro",
@@ -315,13 +264,6 @@
           "last_listened_at_utc": "2026-10-06T12:34:33Z"
         },
         {
-          "artist": "Avishai Cohen Trio",
-          "album": "Gently Disturbed",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-09-29T23:01:28Z"
-        },
-        {
           "artist": "Cornelius",
           "album": "Hosono House Revisited",
           "listen_count": 2,
@@ -329,11 +271,25 @@
           "last_listened_at_utc": "2026-10-03T16:28:43Z"
         },
         {
+          "artist": "Jeff Parker ETA IVtet",
+          "album": "The Way Out of Easy",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-06T22:35:54Z"
+        },
+        {
           "artist": "Pearl & The Oysters",
           "album": "Hosono House Revisited",
           "listen_count": 2,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-03T12:10:39Z"
+        },
+        {
+          "artist": "Squid",
+          "album": "Cowards",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-07T12:38:30Z"
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -348,6 +304,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-05T22:19:54Z"
+        },
+        {
+          "artist": "Fishmans",
+          "album": "Long Season",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-06T23:51:40Z"
         },
         {
           "artist": "Floating Points",
@@ -413,20 +376,6 @@
           "last_listened_at_utc": "2026-10-03T16:23:44Z"
         },
         {
-          "artist": "Smerz",
-          "album": "Big city life EDITS",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-29T22:54:57Z"
-        },
-        {
-          "artist": "Squid",
-          "album": "Cowards",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-06T12:40:54Z"
-        },
-        {
           "artist": "TOWA TEI",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -455,6 +404,13 @@
           "last_listened_at_utc": "2026-10-03T12:13:31Z"
         },
         {
+          "artist": "טונה",
+          "album": "מזרח פרוע",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-02T12:33:49Z"
+        },
+        {
           "artist": "原神玲",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -478,14 +434,14 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 543,
-      "unique_artists": 101,
-      "unique_albums": 123,
+      "listen_count": 513,
+      "unique_artists": 99,
+      "unique_albums": 120,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "טונה",
-          "listen_count": 71
+          "listen_count": 67
         },
         {
           "artist": "Haruomi Hosono",
@@ -501,7 +457,7 @@
         },
         {
           "artist": "רביד פלוטניק",
-          "listen_count": 25
+          "listen_count": 21
         },
         {
           "artist": "Bob Dylan",
@@ -518,10 +474,6 @@
         {
           "artist": "青葉市子",
           "listen_count": 14
-        },
-        {
-          "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
-          "listen_count": 13
         },
         {
           "artist": "Richard & Linda Thompson",
@@ -572,10 +524,6 @@
           "listen_count": 7
         },
         {
-          "artist": "מוקי",
-          "listen_count": 7
-        },
-        {
           "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
           "listen_count": 6
         },
@@ -592,6 +540,10 @@
           "listen_count": 6
         },
         {
+          "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
+          "listen_count": 5
+        },
+        {
           "artist": "The Fred Hersch Trio",
           "listen_count": 5
         },
@@ -600,15 +552,7 @@
           "listen_count": 5
         },
         {
-          "artist": "שב״ק ס׳",
-          "listen_count": 5
-        },
-        {
           "artist": "Cornelius",
-          "listen_count": 4
-        },
-        {
-          "artist": "Olivia Rodrigo",
           "listen_count": 4
         },
         {
@@ -668,6 +612,10 @@
           "listen_count": 2
         },
         {
+          "artist": "Jeff Parker ETA IVtet",
+          "listen_count": 2
+        },
+        {
           "artist": "Pearl & The Oysters",
           "listen_count": 2
         },
@@ -676,11 +624,11 @@
           "listen_count": 2
         },
         {
-          "artist": "ברי סחרוף",
+          "artist": "Squid",
           "listen_count": 2
         },
         {
-          "artist": "נייג׳ל האדמו׳׳ר",
+          "artist": "שב״ק ס׳",
           "listen_count": 2
         },
         {
@@ -713,6 +661,10 @@
         },
         {
           "artist": "Ezra Collective",
+          "listen_count": 1
+        },
+        {
+          "artist": "Fishmans",
           "listen_count": 1
         },
         {
@@ -820,10 +772,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Squid",
-          "listen_count": 1
-        },
-        {
           "artist": "Sting",
           "listen_count": 1
         },
@@ -913,23 +861,16 @@
         {
           "artist": "טונה",
           "album": "מזרח פרוע",
-          "listen_count": 23,
+          "listen_count": 21,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-02T12:33:49Z"
         },
         {
           "artist": "רביד פלוטניק",
           "album": "הדרך לשביל הזהב",
-          "listen_count": 19,
+          "listen_count": 15,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-09-14T23:42:36Z"
-        },
-        {
-          "artist": "טונה",
-          "album": "ועכשיו לחלק האינטרגלקטי",
-          "listen_count": 15,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-09-13T16:16:38Z"
         },
         {
           "artist": "Sagol 59",
@@ -953,18 +894,18 @@
           "last_listened_at_utc": "2026-09-29T22:48:47Z"
         },
         {
-          "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
-          "album": "Pacific",
-          "listen_count": 13,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-25T20:37:14Z"
-        },
-        {
           "artist": "Richard & Linda Thompson",
           "album": "I Want To See The Bright Lights Tonight",
           "listen_count": 13,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-09-26T21:06:07Z"
+        },
+        {
+          "artist": "טונה",
+          "album": "ועכשיו לחלק האינטרגלקטי",
+          "listen_count": 13,
+          "unique_tracks": 13,
+          "last_listened_at_utc": "2026-09-13T16:16:38Z"
         },
         {
           "artist": "נצ׳י נצ׳",
@@ -1065,13 +1006,6 @@
           "last_listened_at_utc": "2026-10-04T20:55:40Z"
         },
         {
-          "artist": "מוקי",
-          "album": "Shema Israel (Album)",
-          "listen_count": 7,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-09-06T22:00:39Z"
-        },
-        {
           "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
           "album": "Waltz for Debby [1962]",
           "listen_count": 6,
@@ -1121,6 +1055,13 @@
           "last_listened_at_utc": "2026-09-19T18:41:41Z"
         },
         {
+          "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
+          "album": "Pacific",
+          "listen_count": 5,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-09-25T20:37:14Z"
+        },
+        {
           "artist": "The Fred Hersch Trio",
           "album": "Sunday Night at the Vanguard",
           "listen_count": 5,
@@ -1133,13 +1074,6 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-09-29T20:16:34Z"
-        },
-        {
-          "artist": "שב״ק ס׳",
-          "album": "שבק ס",
-          "listen_count": 5,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-09-29T12:43:49Z"
         },
         {
           "artist": "Ryuichi Sakamoto",
@@ -1189,13 +1123,6 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-09-19T20:25:57Z"
-        },
-        {
-          "artist": "Olivia Rodrigo",
-          "album": "you seem pretty sad for a girl so in love",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-06T22:46:12Z"
         },
         {
           "artist": "The Smile",
@@ -1275,11 +1202,25 @@
           "last_listened_at_utc": "2026-09-29T12:36:48Z"
         },
         {
+          "artist": "Jeff Parker ETA IVtet",
+          "album": "The Way Out of Easy",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-06T22:35:54Z"
+        },
+        {
           "artist": "Pearl & The Oysters",
           "album": "Hosono House Revisited",
           "listen_count": 2,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-03T12:10:39Z"
+        },
+        {
+          "artist": "Squid",
+          "album": "Cowards",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-07T12:38:30Z"
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -1296,18 +1237,11 @@
           "last_listened_at_utc": "2026-09-07T22:52:31Z"
         },
         {
-          "artist": "ברי סחרוף",
-          "album": "נגיעות",
+          "artist": "שב״ק ס׳",
+          "album": "שבק ס",
           "listen_count": 2,
           "unique_tracks": 2,
-          "last_listened_at_utc": "2026-09-07T13:24:21Z"
-        },
-        {
-          "artist": "נייג׳ל האדמו׳׳ר",
-          "album": "Hummus Metamtem",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-09-06T22:16:56Z"
+          "last_listened_at_utc": "2026-09-29T12:43:49Z"
         },
         {
           "artist": "ハリー細野 & Tin Pan Alley",
@@ -1399,6 +1333,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-21T18:15:32Z"
+        },
+        {
+          "artist": "Fishmans",
+          "album": "Long Season",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-06T23:51:40Z"
         },
         {
           "artist": "Floating Points",
@@ -1541,13 +1482,6 @@
           "last_listened_at_utc": "2026-10-04T22:25:29Z"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "album": "GUTS",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-06T22:49:55Z"
-        },
-        {
           "artist": "Ori Shochat",
           "album": "Always Ready",
           "listen_count": 1,
@@ -1616,13 +1550,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-29T22:54:57Z"
-        },
-        {
-          "artist": "Squid",
-          "album": "Cowards",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-06T12:40:54Z"
         },
         {
           "artist": "Sting",
@@ -1753,9 +1680,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 937,
-      "unique_artists": 158,
-      "unique_albums": 206,
+      "listen_count": 928,
+      "unique_artists": 155,
+      "unique_albums": 203,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1767,12 +1694,12 @@
           "listen_count": 45
         },
         {
-          "artist": "Julian Lage",
-          "listen_count": 44
-        },
-        {
           "artist": "Haruomi Hosono",
           "listen_count": 42
+        },
+        {
+          "artist": "Julian Lage",
+          "listen_count": 39
         },
         {
           "artist": "Mac DeMarco",
@@ -1943,10 +1870,6 @@
           "listen_count": 4
         },
         {
-          "artist": "John Zorn, Bill Frisell, Julian Lage, Gyan Riley",
-          "listen_count": 4
-        },
-        {
           "artist": "NuNu",
           "listen_count": 4
         },
@@ -2035,6 +1958,10 @@
           "listen_count": 2
         },
         {
+          "artist": "Jeff Parker ETA IVtet",
+          "listen_count": 2
+        },
+        {
           "artist": "Oscar Peterson meets Roy Hargrove and Ralph Moore with Niels‐Henning Ørsted Pedersen and Lewis Nash",
           "listen_count": 2
         },
@@ -2044,6 +1971,10 @@
         },
         {
           "artist": "Queen",
+          "listen_count": 2
+        },
+        {
+          "artist": "Squid",
           "listen_count": 2
         },
         {
@@ -2076,10 +2007,6 @@
         },
         {
           "artist": "Ben Webster & Oscar Peterson",
-          "listen_count": 1
-        },
-        {
-          "artist": "Bill Frisell",
           "listen_count": 1
         },
         {
@@ -2123,11 +2050,11 @@
           "listen_count": 1
         },
         {
-          "artist": "Evan Ziporyn, Wacław Zimpel, Hubert Zemler & Gyan Riley",
+          "artist": "Ezra Collective",
           "listen_count": 1
         },
         {
-          "artist": "Ezra Collective",
+          "artist": "Fishmans",
           "listen_count": 1
         },
         {
@@ -2144,10 +2071,6 @@
         },
         {
           "artist": "Gonzalo Rubalcaba, Ron Carter & Jack DeJohnette",
-          "listen_count": 1
-        },
-        {
-          "artist": "Hudson",
           "listen_count": 1
         },
         {
@@ -2184,10 +2107,6 @@
         },
         {
           "artist": "John Mellencamp",
-          "listen_count": 1
-        },
-        {
-          "artist": "John Zorn",
           "listen_count": 1
         },
         {
@@ -2272,10 +2191,6 @@
         },
         {
           "artist": "Sonny Stitt",
-          "listen_count": 1
-        },
-        {
-          "artist": "Squid",
           "listen_count": 1
         },
         {
@@ -2491,13 +2406,6 @@
           "last_listened_at_utc": "2026-09-13T14:04:23Z"
         },
         {
-          "artist": "Julian Lage",
-          "album": "World's Fair",
-          "listen_count": 15,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-07-26T16:01:28Z"
-        },
-        {
           "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
           "album": "Waltz for Debby [1962]",
           "listen_count": 14,
@@ -2566,6 +2474,13 @@
           "listen_count": 11,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-10-03T22:00:58Z"
+        },
+        {
+          "artist": "Julian Lage",
+          "album": "World's Fair",
+          "listen_count": 11,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-07-26T16:01:28Z"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -2715,13 +2630,6 @@
           "last_listened_at_utc": "2026-09-27T23:08:27Z"
         },
         {
-          "artist": "Julian Lage",
-          "album": "Speak To Me",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-09-16T23:11:55Z"
-        },
-        {
           "artist": "Shabak Samech",
           "album": "כנען 2000",
           "listen_count": 6,
@@ -2757,6 +2665,13 @@
           "last_listened_at_utc": "2026-07-25T13:30:27Z"
         },
         {
+          "artist": "Julian Lage",
+          "album": "Speak To Me",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-09-16T23:11:55Z"
+        },
+        {
           "artist": "The Fred Hersch Trio",
           "album": "Sunday Night at the Vanguard",
           "listen_count": 5,
@@ -2790,13 +2705,6 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-07-14T21:30:02Z"
-        },
-        {
-          "artist": "John Zorn, Bill Frisell, Julian Lage, Gyan Riley",
-          "album": "Lamentations",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-07-08T22:26:47Z"
         },
         {
           "artist": "Miles Davis",
@@ -2988,6 +2896,13 @@
           "last_listened_at_utc": "2026-07-14T22:25:30Z"
         },
         {
+          "artist": "Jeff Parker ETA IVtet",
+          "album": "The Way Out of Easy",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-06T22:35:54Z"
+        },
+        {
           "artist": "John Coltrane",
           "album": "Blue Train",
           "listen_count": 2,
@@ -3007,6 +2922,13 @@
           "listen_count": 2,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-03T12:10:39Z"
+        },
+        {
+          "artist": "Squid",
+          "album": "Cowards",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-07T12:38:30Z"
         },
         {
           "artist": "The Dave Brubeck Quartet",
@@ -3114,13 +3036,6 @@
           "last_listened_at_utc": "2026-07-26T23:28:51Z"
         },
         {
-          "artist": "Bill Frisell",
-          "album": "Valentine",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-07-08T22:33:28Z"
-        },
-        {
           "artist": "Bob Dylan",
           "album": "Oh Mercy",
           "listen_count": 1,
@@ -3219,18 +3134,18 @@
           "last_listened_at_utc": "2026-09-27T22:14:28Z"
         },
         {
-          "artist": "Evan Ziporyn, Wacław Zimpel, Hubert Zemler & Gyan Riley",
-          "album": "Green Light",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-07-08T22:57:35Z"
-        },
-        {
           "artist": "Ezra Collective",
           "album": "Here Because of Hope",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-21T18:15:32Z"
+        },
+        {
+          "artist": "Fishmans",
+          "album": "Long Season",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-06T23:51:40Z"
         },
         {
           "artist": "Floating Points",
@@ -3266,13 +3181,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-19T19:53:22Z"
-        },
-        {
-          "artist": "Hudson",
-          "album": "Hudson (Deluxe Edition)",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-07-08T23:04:54Z"
         },
         {
           "artist": "Jackson Browne",
@@ -3343,13 +3251,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-20T22:37:09Z"
-        },
-        {
-          "artist": "John Zorn",
-          "album": "Ou Phrontis",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-07-08T22:44:58Z"
         },
         {
           "artist": "João Gilberto",
@@ -3581,13 +3482,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-07-26T23:16:02Z"
-        },
-        {
-          "artist": "Squid",
-          "album": "Cowards",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-06T12:40:54Z"
         },
         {
           "artist": "Stan Getz",
@@ -3838,6 +3732,87 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1791376710,
+      "listened_at_utc": "2026-10-07T12:38:30Z",
+      "artist": "Squid",
+      "track": "Building 650",
+      "album": "Cowards",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5422ef5d-00d4-4c7a-81ab-03cb8fc3cc45"
+        ],
+        "recording_mbid": "bc374e60-a146-49b4-a21f-ddf5d8e57ee5",
+        "release_mbid": "a5227832-9835-4a62-9d09-d1df4132d8e8",
+        "release_group_mbid": "a86d3224-03dc-450d-8770-f5d259b9635d"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1791330700,
+      "listened_at_utc": "2026-10-06T23:51:40Z",
+      "artist": "Fishmans",
+      "track": "Long Season",
+      "album": "Long Season",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d0f25f16-7782-42e8-8047-c16a1cb2b450"
+        ],
+        "recording_mbid": "f66c47ad-b9d6-42d2-a86d-9c1ec8e3da04",
+        "release_mbid": "c1a2c108-5b1e-4ed0-8476-a6fd86d1c063",
+        "release_group_mbid": "9fcb2418-1d16-4d22-b6bd-3bf1a7928530"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791326154,
+      "listened_at_utc": "2026-10-06T22:35:54Z",
+      "artist": "Jeff Parker ETA IVtet",
+      "track": "Freakadelic (feat. Anna Butterss, Jay Bellerose & Josh Johnson)",
+      "album": "The Way Out of Easy",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5b65597a-4227-4fd3-8f25-17a8e8221f72",
+          "4894f8eb-be75-4bd5-a3a3-7c20894439f9",
+          "022b8522-a7cc-4755-a99f-225107415a45",
+          "aff2081b-821a-4b95-b125-21ebeb67d878"
+        ],
+        "release_mbid": "962c99dd-7430-4190-af81-e22c1b7981b9",
+        "recording_mbid": "d6bc65b8-3706-4936-926c-2b960884c302",
+        "release_group_mbid": "9796d26f-4ada-49e7-9156-bef1bb013579"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791307569,
+      "listened_at_utc": "2026-10-06T17:26:09Z",
+      "artist": "Jeff Parker ETA IVtet",
+      "track": "Freakadelic (feat. Anna Butterss, Jay Bellerose & Josh Johnson)",
+      "album": "The Way Out of Easy",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5b65597a-4227-4fd3-8f25-17a8e8221f72",
+          "4894f8eb-be75-4bd5-a3a3-7c20894439f9",
+          "022b8522-a7cc-4755-a99f-225107415a45",
+          "aff2081b-821a-4b95-b125-21ebeb67d878"
+        ],
+        "release_mbid": "962c99dd-7430-4190-af81-e22c1b7981b9",
+        "recording_mbid": "d6bc65b8-3706-4936-926c-2b960884c302",
+        "release_group_mbid": "9796d26f-4ada-49e7-9156-bef1bb013579"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1791291036,
       "listened_at_utc": "2026-10-06T12:50:36Z",
@@ -19803,255 +19778,6 @@
         "recording_mbid": "d52dc50e-722f-457c-a0b5-50d29c79a6b4",
         "release_mbid": "84e6d5c6-e851-4516-903b-7fcc98a9ee00",
         "release_group_mbid": "cf24f192-7cfc-3413-a80d-390b523dfbca"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783551894,
-      "listened_at_utc": "2026-07-08T23:04:54Z",
-      "artist": "Hudson",
-      "track": "El Swing",
-      "album": "Hudson (Deluxe Edition)",
-      "musicbrainz": {
-        "artist_mbids": [
-          "0fe0d15a-a02e-43dd-b05e-8ce0406beafd"
-        ],
-        "recording_mbid": "935655fe-f505-415d-acdc-4020f13bb10d",
-        "release_mbid": "17435658-9363-4651-b593-5f87f91de8de",
-        "release_group_mbid": "e6a9a467-4c13-44f5-b01d-5fb466d2265c"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783551455,
-      "listened_at_utc": "2026-07-08T22:57:35Z",
-      "artist": "Evan Ziporyn, Wacław Zimpel, Hubert Zemler & Gyan Riley",
-      "track": "Infundybuła Chronosynklatyczna",
-      "album": "Green Light",
-      "musicbrainz": {
-        "artist_mbids": [
-          "50c0bbbc-231a-4baf-80d7-83adb00fd0f5",
-          "95abe32c-7c93-41f7-a9f2-4378a81c4132",
-          "a3f76e24-c3c2-449c-aa2d-b972e0ea7a03",
-          "1b4cdd3d-9979-4271-b4c8-b57093f22ec3"
-        ],
-        "recording_mbid": "d09cddcc-bdf5-44ff-9ede-e71d7bc1fb3b",
-        "release_mbid": "44610dc1-1fac-4e00-953d-62f095e0711b",
-        "release_group_mbid": "89fd1586-4baa-4dea-b160-147625618c1a"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783550698,
-      "listened_at_utc": "2026-07-08T22:44:58Z",
-      "artist": "John Zorn",
-      "track": "The Seven Pillars",
-      "album": "Ou Phrontis",
-      "musicbrainz": {
-        "artist_mbids": [
-          "7ec4a553-73e5-4c0d-a071-a82b83a309e6"
-        ],
-        "recording_mbid": "68d72ac4-a2b9-49ed-8011-3555b829a7b8",
-        "release_mbid": "2c42e26a-c9d4-45ec-81b0-0f635a5eae65",
-        "release_group_mbid": "f73cd1b5-44d0-4380-a929-9c8d0afdfeb1"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783550376,
-      "listened_at_utc": "2026-07-08T22:39:36Z",
-      "artist": "Julian Lage",
-      "track": "serenade",
-      "album": "Speak To Me",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "f0f4c258-a32b-4da9-9c9f-572eb1fbe423",
-        "release_mbid": "ad5e8247-7dbf-4699-a279-3be42f29b0d6",
-        "release_group_mbid": "c2faac6d-85ca-4d6b-9b34-514065aa5772"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783550008,
-      "listened_at_utc": "2026-07-08T22:33:28Z",
-      "artist": "Bill Frisell",
-      "track": "Keep Your Eyes Open",
-      "album": "Valentine",
-      "musicbrainz": {
-        "artist_mbids": [
-          "a21318db-f228-4a4d-8bce-6947a62985a5"
-        ],
-        "recording_mbid": "2fa4fe79-047c-498c-a79d-495ea81ab3b7",
-        "release_mbid": "41c2eb8c-38cb-41ec-afae-0cb58e2c360a",
-        "release_group_mbid": "a4fb7763-9029-33f3-b596-ff29bd642f61"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783549607,
-      "listened_at_utc": "2026-07-08T22:26:47Z",
-      "artist": "John Zorn, Bill Frisell, Julian Lage, Gyan Riley",
-      "track": "Close of Day",
-      "album": "Lamentations",
-      "musicbrainz": {
-        "artist_mbids": [
-          "7ec4a553-73e5-4c0d-a071-a82b83a309e6",
-          "a21318db-f228-4a4d-8bce-6947a62985a5",
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "1b4cdd3d-9979-4271-b4c8-b57093f22ec3"
-        ],
-        "recording_mbid": "d4edeca2-36c2-4fee-b4c3-bd5de1e25952",
-        "release_mbid": "8222f013-9281-4b5b-ac99-a0a56d6e5312",
-        "release_group_mbid": "e6966e1b-e92c-4120-b906-e3823b3e76e8"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783548782,
-      "listened_at_utc": "2026-07-08T22:13:02Z",
-      "artist": "John Zorn, Bill Frisell, Julian Lage, Gyan Riley",
-      "track": "Do Not Go Gentle Into That Good Night",
-      "album": "Lamentations",
-      "musicbrainz": {
-        "artist_mbids": [
-          "7ec4a553-73e5-4c0d-a071-a82b83a309e6",
-          "a21318db-f228-4a4d-8bce-6947a62985a5",
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "1b4cdd3d-9979-4271-b4c8-b57093f22ec3"
-        ],
-        "recording_mbid": "9a4c9446-efff-4542-875f-507882eb336d",
-        "release_mbid": "8222f013-9281-4b5b-ac99-a0a56d6e5312",
-        "release_group_mbid": "e6966e1b-e92c-4120-b906-e3823b3e76e8"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783548210,
-      "listened_at_utc": "2026-07-08T22:03:30Z",
-      "artist": "John Zorn, Bill Frisell, Julian Lage, Gyan Riley",
-      "track": "A Clown in the Moon",
-      "album": "Lamentations",
-      "musicbrainz": {
-        "artist_mbids": [
-          "7ec4a553-73e5-4c0d-a071-a82b83a309e6",
-          "a21318db-f228-4a4d-8bce-6947a62985a5",
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "1b4cdd3d-9979-4271-b4c8-b57093f22ec3"
-        ],
-        "recording_mbid": "a9e6be19-2e6f-40ca-90de-eb1f91b73e95",
-        "release_mbid": "8222f013-9281-4b5b-ac99-a0a56d6e5312",
-        "release_group_mbid": "e6966e1b-e92c-4120-b906-e3823b3e76e8"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783547462,
-      "listened_at_utc": "2026-07-08T21:51:02Z",
-      "artist": "John Zorn, Bill Frisell, Julian Lage, Gyan Riley",
-      "track": "With Blinding Sight",
-      "album": "Lamentations",
-      "musicbrainz": {
-        "artist_mbids": [
-          "7ec4a553-73e5-4c0d-a071-a82b83a309e6",
-          "a21318db-f228-4a4d-8bce-6947a62985a5",
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "1b4cdd3d-9979-4271-b4c8-b57093f22ec3"
-        ],
-        "recording_mbid": "3f3f884d-0b12-496f-9f9f-b6522f5fb457",
-        "release_mbid": "8222f013-9281-4b5b-ac99-a0a56d6e5312",
-        "release_group_mbid": "e6966e1b-e92c-4120-b906-e3823b3e76e8"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783547222,
-      "listened_at_utc": "2026-07-08T21:47:02Z",
-      "artist": "Julian Lage",
-      "track": "Ryland",
-      "album": "World's Fair",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "2635d4fc-3962-4205-9883-84fe35d3ca55",
-        "release_mbid": "094bc8ef-36a5-45fb-b75b-377806ac6632",
-        "release_group_mbid": "ef97254f-22ea-4cf7-a896-0004f6a5df05"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783546970,
-      "listened_at_utc": "2026-07-08T21:42:50Z",
-      "artist": "Julian Lage",
-      "track": "Japan",
-      "album": "World's Fair",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "be763dcd-e407-4a9b-9007-320414a300ce",
-        "release_mbid": "094bc8ef-36a5-45fb-b75b-377806ac6632",
-        "release_group_mbid": "ef97254f-22ea-4cf7-a896-0004f6a5df05"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783546796,
-      "listened_at_utc": "2026-07-08T21:39:56Z",
-      "artist": "Julian Lage",
-      "track": "Peru",
-      "album": "World's Fair",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "a3e0d67e-2faa-4566-a497-3553590509a4",
-        "release_mbid": "094bc8ef-36a5-45fb-b75b-377806ac6632",
-        "release_group_mbid": "ef97254f-22ea-4cf7-a896-0004f6a5df05"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783546564,
-      "listened_at_utc": "2026-07-08T21:36:04Z",
-      "artist": "Julian Lage",
-      "track": "40'S",
-      "album": "World's Fair",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f"
-        ],
-        "recording_mbid": "a117aee1-76c8-4ce3-88dc-107e923dbd0b",
-        "release_mbid": "094bc8ef-36a5-45fb-b75b-377806ac6632",
-        "release_group_mbid": "ef97254f-22ea-4cf7-a896-0004f6a5df05"
       },
       "submission_clients": [
         "ListenBrainz lastfm importer v2"
