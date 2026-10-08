@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-07T16:38:51Z",
+  "generated_at_utc": "2026-10-08T16:37:42Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-09T16:38:51Z",
-    "through_utc": "2026-10-07T16:38:51Z",
+    "from_utc": "2026-07-10T16:37:42Z",
+    "through_utc": "2026-10-08T16:37:42Z",
     "complete": true,
     "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 1134,
-    "deduplicated_listen_count": 928,
-    "duplicates_removed": 206,
-    "oldest_listen_utc": "2026-07-09T18:30:53Z",
-    "newest_listen_utc": "2026-10-07T12:38:30Z"
+    "raw_listen_count": 1138,
+    "deduplicated_listen_count": 927,
+    "duplicates_removed": 211,
+    "oldest_listen_utc": "2026-07-10T21:19:07Z",
+    "newest_listen_utc": "2026-10-08T12:40:03Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,9 +28,9 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 106,
-      "unique_artists": 36,
-      "unique_albums": 36,
+      "listen_count": 98,
+      "unique_artists": 37,
+      "unique_albums": 37,
       "listens_without_album": 0,
       "artists": [
         {
@@ -40,10 +40,6 @@
         {
           "artist": "Erykah Badu",
           "listen_count": 11
-        },
-        {
-          "artist": "Hermanos Gutiérrez",
-          "listen_count": 10
         },
         {
           "artist": "Nils Frahm",
@@ -70,6 +66,10 @@
           "listen_count": 4
         },
         {
+          "artist": "Akusmi",
+          "listen_count": 3
+        },
+        {
           "artist": "Helado Negro",
           "listen_count": 3
         },
@@ -82,15 +82,7 @@
           "listen_count": 3
         },
         {
-          "artist": "Cornelius",
-          "listen_count": 2
-        },
-        {
           "artist": "Jeff Parker ETA IVtet",
-          "listen_count": 2
-        },
-        {
-          "artist": "Pearl & The Oysters",
           "listen_count": 2
         },
         {
@@ -100,6 +92,10 @@
         {
           "artist": "Tsuyoshi Yamamoto Trio",
           "listen_count": 2
+        },
+        {
+          "artist": "Cornelius",
+          "listen_count": 1
         },
         {
           "artist": "Emily A. Sprague",
@@ -122,6 +118,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Jlin",
+          "listen_count": 1
+        },
+        {
           "artist": "John Carroll Kirby, Mizuhara Sisters",
           "listen_count": 1
         },
@@ -135,6 +135,10 @@
         },
         {
           "artist": "Oliver Nelson",
+          "listen_count": 1
+        },
+        {
+          "artist": "Pearl & The Oysters",
           "listen_count": 1
         },
         {
@@ -194,13 +198,6 @@
           "last_listened_at_utc": "2026-10-03T22:00:58Z"
         },
         {
-          "artist": "Hermanos Gutiérrez",
-          "album": "Los Ojos Del Cóndor",
-          "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-09-30T22:18:29Z"
-        },
-        {
           "artist": "Nils Frahm",
           "album": "All Melody",
           "listen_count": 10,
@@ -243,6 +240,13 @@
           "last_listened_at_utc": "2026-10-05T20:43:36Z"
         },
         {
+          "artist": "Akusmi",
+          "album": "Terra Incognita",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-07T22:49:37Z"
+        },
+        {
           "artist": "Helado Negro",
           "album": "PHASOR",
           "listen_count": 3,
@@ -264,25 +268,11 @@
           "last_listened_at_utc": "2026-10-06T12:34:33Z"
         },
         {
-          "artist": "Cornelius",
-          "album": "Hosono House Revisited",
-          "listen_count": 2,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T16:28:43Z"
-        },
-        {
           "artist": "Jeff Parker ETA IVtet",
           "album": "The Way Out of Easy",
           "listen_count": 2,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-06T22:35:54Z"
-        },
-        {
-          "artist": "Pearl & The Oysters",
-          "album": "Hosono House Revisited",
-          "listen_count": 2,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:10:39Z"
         },
         {
           "artist": "Squid",
@@ -297,6 +287,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-02T20:41:14Z"
+        },
+        {
+          "artist": "Cornelius",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T16:28:43Z"
         },
         {
           "artist": "Emily A. Sprague",
@@ -334,6 +331,13 @@
           "last_listened_at_utc": "2026-10-03T12:22:42Z"
         },
         {
+          "artist": "Jlin",
+          "album": "Akoma",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-08T12:40:03Z"
+        },
+        {
           "artist": "John Carroll Kirby, Mizuhara Sisters",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -360,6 +364,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-04T22:25:29Z"
+        },
+        {
+          "artist": "Pearl & The Oysters",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:10:39Z"
         },
         {
           "artist": "SE SO NEON",
@@ -434,9 +445,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 513,
-      "unique_artists": 99,
-      "unique_albums": 120,
+      "listen_count": 492,
+      "unique_artists": 98,
+      "unique_albums": 116,
       "listens_without_album": 0,
       "artists": [
         {
@@ -454,10 +465,6 @@
         {
           "artist": "Ahmad Jamal Trio",
           "listen_count": 27
-        },
-        {
-          "artist": "רביד פלוטניק",
-          "listen_count": 21
         },
         {
           "artist": "Bob Dylan",
@@ -512,15 +519,11 @@
           "listen_count": 8
         },
         {
-          "artist": "Bill Evans & Jim Hall",
-          "listen_count": 7
+          "artist": "רביד פלוטניק",
+          "listen_count": 8
         },
         {
           "artist": "Nujabes",
-          "listen_count": 7
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
           "listen_count": 7
         },
         {
@@ -552,6 +555,10 @@
           "listen_count": 5
         },
         {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "listen_count": 5
+        },
+        {
           "artist": "Cornelius",
           "listen_count": 4
         },
@@ -562,6 +569,10 @@
         {
           "artist": "Tinashe",
           "listen_count": 4
+        },
+        {
+          "artist": "Akusmi",
+          "listen_count": 3
         },
         {
           "artist": "Cameron Winter",
@@ -617,10 +628,6 @@
         },
         {
           "artist": "Pearl & The Oysters",
-          "listen_count": 2
-        },
-        {
-          "artist": "Queen",
           "listen_count": 2
         },
         {
@@ -700,6 +707,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Jlin",
+          "listen_count": 1
+        },
+        {
           "artist": "Joe Henderson",
           "listen_count": 1
         },
@@ -729,10 +740,6 @@
         },
         {
           "artist": "McCoy Tyner",
-          "listen_count": 1
-        },
-        {
-          "artist": "Norah Jones",
           "listen_count": 1
         },
         {
@@ -864,13 +871,6 @@
           "listen_count": 21,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-02T12:33:49Z"
-        },
-        {
-          "artist": "רביד פלוטניק",
-          "album": "הדרך לשביל הזהב",
-          "listen_count": 15,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-09-14T23:42:36Z"
         },
         {
           "artist": "Sagol 59",
@@ -1034,13 +1034,6 @@
           "last_listened_at_utc": "2026-09-13T20:35:29Z"
         },
         {
-          "artist": "Bill Evans & Jim Hall",
-          "album": "Undercurrent",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-09-07T22:40:29Z"
-        },
-        {
           "artist": "Haruomi Hosono",
           "album": "MEDICINE COMPILATION (2020 Remastering)",
           "listen_count": 5,
@@ -1088,6 +1081,13 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-05T20:43:36Z"
+        },
+        {
+          "artist": "Akusmi",
+          "album": "Terra Incognita",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-07T22:49:37Z"
         },
         {
           "artist": "Cameron Winter",
@@ -1181,13 +1181,6 @@
           "last_listened_at_utc": "2026-09-29T23:01:28Z"
         },
         {
-          "artist": "Bill Evans & Jim Hall",
-          "album": "Intermodulation",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-09-07T18:37:47Z"
-        },
-        {
           "artist": "Cornelius",
           "album": "Hosono House Revisited",
           "listen_count": 2,
@@ -1230,11 +1223,11 @@
           "last_listened_at_utc": "2026-10-02T20:41:14Z"
         },
         {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Misty",
+          "artist": "רביד פלוטניק",
+          "album": "הדרך לשביל הזהב",
           "listen_count": 2,
           "unique_tracks": 2,
-          "last_listened_at_utc": "2026-09-07T22:52:31Z"
+          "last_listened_at_utc": "2026-09-14T23:42:36Z"
         },
         {
           "artist": "שב״ק ס׳",
@@ -1405,6 +1398,13 @@
           "last_listened_at_utc": "2026-09-18T22:41:06Z"
         },
         {
+          "artist": "Jlin",
+          "album": "Akoma",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-08T12:40:03Z"
+        },
+        {
           "artist": "Joe Henderson",
           "album": "Lush Life: The Music of Billy Strayhorn",
           "listen_count": 1,
@@ -1468,13 +1468,6 @@
           "last_listened_at_utc": "2026-09-27T21:42:40Z"
         },
         {
-          "artist": "Norah Jones",
-          "album": "Come Away with Me",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-07T23:01:54Z"
-        },
-        {
           "artist": "Oliver Nelson",
           "album": "The Blues and the Abstract Truth",
           "listen_count": 1,
@@ -1501,20 +1494,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-20T22:40:49Z"
-        },
-        {
-          "artist": "Queen",
-          "album": "Jazz",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-07T23:04:26Z"
-        },
-        {
-          "artist": "Queen",
-          "album": "The Game",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-07T23:09:02Z"
         },
         {
           "artist": "SE SO NEON",
@@ -1680,9 +1659,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 928,
-      "unique_artists": 155,
-      "unique_albums": 203,
+      "listen_count": 927,
+      "unique_artists": 157,
+      "unique_albums": 205,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1766,10 +1745,6 @@
           "listen_count": 13
         },
         {
-          "artist": "Bill Evans & Jim Hall",
-          "listen_count": 12
-        },
-        {
           "artist": "Isao Suzuki Trio / quartet",
           "listen_count": 12
         },
@@ -1812,6 +1787,10 @@
         {
           "artist": "Songs: Ohia",
           "listen_count": 8
+        },
+        {
+          "artist": "Bill Evans & Jim Hall",
+          "listen_count": 7
         },
         {
           "artist": "Nujabes",
@@ -1888,6 +1867,10 @@
         {
           "artist": "ג'יגה ג'וס",
           "listen_count": 4
+        },
+        {
+          "artist": "Akusmi",
+          "listen_count": 3
         },
         {
           "artist": "Cameron Winter",
@@ -2091,6 +2074,10 @@
         },
         {
           "artist": "Jimmy Smith",
+          "listen_count": 1
+        },
+        {
+          "artist": "Jlin",
           "listen_count": 1
         },
         {
@@ -2525,13 +2512,6 @@
           "last_listened_at_utc": "2026-07-26T16:57:01Z"
         },
         {
-          "artist": "Bill Evans & Jim Hall",
-          "album": "Undercurrent",
-          "listen_count": 10,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-07T22:40:29Z"
-        },
-        {
           "artist": "Bob Dylan",
           "album": "Desire",
           "listen_count": 10,
@@ -2644,6 +2624,13 @@
           "last_listened_at_utc": "2026-09-13T20:35:29Z"
         },
         {
+          "artist": "Bill Evans & Jim Hall",
+          "album": "Undercurrent",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-09-07T22:40:29Z"
+        },
+        {
           "artist": "Haruomi Hosono",
           "album": "MEDICINE COMPILATION (2020 Remastering)",
           "listen_count": 5,
@@ -2747,6 +2734,13 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-09-17T20:04:19Z"
+        },
+        {
+          "artist": "Akusmi",
+          "album": "Terra Incognita",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-07T22:49:37Z"
         },
         {
           "artist": "Cameron Winter",
@@ -3216,6 +3210,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-18T22:41:06Z"
+        },
+        {
+          "artist": "Jlin",
+          "album": "Akoma",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-08T12:40:03Z"
         },
         {
           "artist": "Joe Henderson",
@@ -3733,6 +3734,83 @@
   },
   "recent_listens": [
     {
+      "listened_at": 1791463203,
+      "listened_at_utc": "2026-10-08T12:40:03Z",
+      "artist": "Jlin",
+      "track": "Borealis",
+      "album": "Akoma",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b6cfaa6e-71cf-4431-81e6-515a4b23a425",
+          "87c5dedd-371d-4a53-9f7f-80522fb7f3cb"
+        ],
+        "recording_mbid": "bc358dff-7fbd-4f71-880b-32de845691f5",
+        "release_mbid": "b1d5e79f-9c56-4ca8-86f2-4bffc9edeac5",
+        "release_group_mbid": "2e7cd2f2-cf19-4078-b38a-281ee7c793de"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791413377,
+      "listened_at_utc": "2026-10-07T22:49:37Z",
+      "artist": "Akusmi",
+      "track": "Club Subterranea",
+      "album": "Terra Incognita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d47ed907-7067-450e-b2ac-03aaed7076a2"
+        ],
+        "recording_mbid": "430c078e-fbb6-4b6f-802c-5216934bafec",
+        "release_mbid": "18027fc1-afb9-4356-99da-3dcfe39d5f76",
+        "release_group_mbid": "2887c475-3320-4666-8374-54d8b6376909"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791412942,
+      "listened_at_utc": "2026-10-07T22:42:22Z",
+      "artist": "Akusmi",
+      "track": "Anima",
+      "album": "Terra Incognita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d47ed907-7067-450e-b2ac-03aaed7076a2"
+        ],
+        "recording_mbid": "e210bf52-b50e-4f3a-abc9-6fceb1dcf01b",
+        "release_mbid": "18027fc1-afb9-4356-99da-3dcfe39d5f76",
+        "release_group_mbid": "2887c475-3320-4666-8374-54d8b6376909"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791412306,
+      "listened_at_utc": "2026-10-07T22:31:46Z",
+      "artist": "Akusmi",
+      "track": "A Waking Dream",
+      "album": "Terra Incognita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d47ed907-7067-450e-b2ac-03aaed7076a2"
+        ],
+        "recording_mbid": "31861da9-98d1-4547-b483-1e28936e779c",
+        "release_mbid": "18027fc1-afb9-4356-99da-3dcfe39d5f76",
+        "release_group_mbid": "2887c475-3320-4666-8374-54d8b6376909"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
       "listened_at": 1791376710,
       "listened_at_utc": "2026-10-07T12:38:30Z",
       "artist": "Squid",
@@ -3747,7 +3825,8 @@
         "release_group_mbid": "a86d3224-03dc-450d-8770-f5d259b9635d"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -19683,101 +19762,6 @@
         "recording_mbid": "dae76a66-5ea8-43c2-856d-cce2aa7fbe49",
         "release_mbid": "e00ab5cc-1b09-4ac5-acde-5a63abe603e1",
         "release_group_mbid": "6084af50-a1ab-42fe-9a27-fb67f517c02a"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783623194,
-      "listened_at_utc": "2026-07-09T18:53:14Z",
-      "artist": "Bill Evans & Jim Hall",
-      "track": "I'm Gettin' Sentimental Over You",
-      "album": "Undercurrent",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8247a3f2-3a8e-4256-b322-6c57b03a4e36",
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "bf42b7f1-6600-49f3-a789-ccb83412c670",
-        "release_mbid": "fb696f52-8460-400a-b871-0b0fc79cf10e",
-        "release_group_mbid": "cf24f192-7cfc-3413-a80d-390b523dfbca"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783622847,
-      "listened_at_utc": "2026-07-09T18:47:27Z",
-      "artist": "Bill Evans & Jim Hall",
-      "track": "Stairway to the Stars",
-      "album": "Undercurrent",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8247a3f2-3a8e-4256-b322-6c57b03a4e36",
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "690b2ccf-f2f0-4924-97d1-ddbb99460da8",
-        "release_mbid": "fb696f52-8460-400a-b871-0b0fc79cf10e",
-        "release_group_mbid": "cf24f192-7cfc-3413-a80d-390b523dfbca"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783622538,
-      "listened_at_utc": "2026-07-09T18:42:18Z",
-      "artist": "Bill Evans & Jim Hall",
-      "track": "Darn That Dream",
-      "album": "Undercurrent",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8247a3f2-3a8e-4256-b322-6c57b03a4e36",
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "7bfee90d-f4e7-4756-a5a1-8a314119d36d",
-        "release_mbid": "84e6d5c6-e851-4516-903b-7fcc98a9ee00",
-        "release_group_mbid": "cf24f192-7cfc-3413-a80d-390b523dfbca"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783622213,
-      "listened_at_utc": "2026-07-09T18:36:53Z",
-      "artist": "Bill Evans & Jim Hall",
-      "track": "Skating In Central Park",
-      "album": "Undercurrent",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8247a3f2-3a8e-4256-b322-6c57b03a4e36",
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "bcffb93f-0263-4953-812e-77f48f1475ae",
-        "release_mbid": "84e6d5c6-e851-4516-903b-7fcc98a9ee00",
-        "release_group_mbid": "cf24f192-7cfc-3413-a80d-390b523dfbca"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783621853,
-      "listened_at_utc": "2026-07-09T18:30:53Z",
-      "artist": "Bill Evans & Jim Hall",
-      "track": "Romain",
-      "album": "Undercurrent",
-      "musicbrainz": {
-        "artist_mbids": [
-          "8247a3f2-3a8e-4256-b322-6c57b03a4e36",
-          "8c12559e-ddcf-472a-8a8c-0f0c3fc91c6a"
-        ],
-        "recording_mbid": "d52dc50e-722f-457c-a0b5-50d29c79a6b4",
-        "release_mbid": "84e6d5c6-e851-4516-903b-7fcc98a9ee00",
-        "release_group_mbid": "cf24f192-7cfc-3413-a80d-390b523dfbca"
       },
       "submission_clients": [
         "ListenBrainz lastfm importer v2"
