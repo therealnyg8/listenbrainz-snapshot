@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-08T16:37:42Z",
+  "generated_at_utc": "2026-10-09T16:20:30Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-10T16:37:42Z",
-    "through_utc": "2026-10-08T16:37:42Z",
+    "from_utc": "2026-07-11T16:20:30Z",
+    "through_utc": "2026-10-09T16:20:30Z",
     "complete": true,
     "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 1138,
-    "deduplicated_listen_count": 927,
-    "duplicates_removed": 211,
-    "oldest_listen_utc": "2026-07-10T21:19:07Z",
-    "newest_listen_utc": "2026-10-08T12:40:03Z"
+    "raw_listen_count": 1183,
+    "deduplicated_listen_count": 948,
+    "duplicates_removed": 235,
+    "oldest_listen_utc": "2026-07-11T17:15:23Z",
+    "newest_listen_utc": "2026-10-09T12:41:48Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,15 +28,11 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 98,
-      "unique_artists": 37,
-      "unique_albums": 37,
+      "listen_count": 120,
+      "unique_artists": 42,
+      "unique_albums": 42,
       "listens_without_album": 0,
       "artists": [
-        {
-          "artist": "Bullion",
-          "listen_count": 11
-        },
         {
           "artist": "Erykah Badu",
           "listen_count": 11
@@ -44,6 +40,14 @@
         {
           "artist": "Nils Frahm",
           "listen_count": 10
+        },
+        {
+          "artist": "Bullion",
+          "listen_count": 8
+        },
+        {
+          "artist": "Miles Davis",
+          "listen_count": 8
         },
         {
           "artist": "Nujabes",
@@ -54,8 +58,16 @@
           "listen_count": 6
         },
         {
+          "artist": "Shabaka",
+          "listen_count": 6
+        },
+        {
           "artist": "Sonny Rollins",
           "listen_count": 5
+        },
+        {
+          "artist": "J Dilla",
+          "listen_count": 4
         },
         {
           "artist": "Ryuichi Sakamoto",
@@ -78,11 +90,23 @@
           "listen_count": 3
         },
         {
+          "artist": "Tortoise",
+          "listen_count": 3
+        },
+        {
           "artist": "Ty Segall",
           "listen_count": 3
         },
         {
+          "artist": "YĪN YĪN",
+          "listen_count": 3
+        },
+        {
           "artist": "Jeff Parker ETA IVtet",
+          "listen_count": 2
+        },
+        {
+          "artist": "Jlin",
           "listen_count": 2
         },
         {
@@ -118,10 +142,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Jlin",
-          "listen_count": 1
-        },
-        {
           "artist": "John Carroll Kirby, Mizuhara Sisters",
           "listen_count": 1
         },
@@ -131,6 +151,10 @@
         },
         {
           "artist": "Mac DeMarco",
+          "listen_count": 1
+        },
+        {
+          "artist": "Marcus Miller",
           "listen_count": 1
         },
         {
@@ -166,10 +190,6 @@
           "listen_count": 1
         },
         {
-          "artist": "טונה",
-          "listen_count": 1
-        },
-        {
           "artist": "原神玲",
           "listen_count": 1
         },
@@ -184,13 +204,6 @@
       ],
       "albums": [
         {
-          "artist": "Bullion",
-          "album": "Nearly",
-          "listen_count": 11,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-03T12:08:00Z"
-        },
-        {
           "artist": "Erykah Badu",
           "album": "New Amerykah Part One (4th World War)",
           "listen_count": 11,
@@ -203,6 +216,20 @@
           "listen_count": 10,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-10-02T19:31:45Z"
+        },
+        {
+          "artist": "Bullion",
+          "album": "Nearly",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-03T12:08:00Z"
+        },
+        {
+          "artist": "Miles Davis",
+          "album": "Kind of Blue",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-09T00:17:26Z"
         },
         {
           "artist": "Nujabes",
@@ -219,11 +246,25 @@
           "last_listened_at_utc": "2026-10-05T23:27:27Z"
         },
         {
+          "artist": "Shabaka",
+          "album": "Of The Earth",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-08T22:34:12Z"
+        },
+        {
           "artist": "Sonny Rollins",
           "album": "Saxophone Colossus",
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-10-04T21:32:34Z"
+        },
+        {
+          "artist": "J Dilla",
+          "album": "Donuts",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-09T12:41:48Z"
         },
         {
           "artist": "Ryuichi Sakamoto",
@@ -261,6 +302,13 @@
           "last_listened_at_utc": "2026-10-05T22:31:55Z"
         },
         {
+          "artist": "Tortoise",
+          "album": "Touch",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-08T21:18:35Z"
+        },
+        {
           "artist": "Ty Segall",
           "album": "Chrome",
           "listen_count": 3,
@@ -268,11 +316,25 @@
           "last_listened_at_utc": "2026-10-06T12:34:33Z"
         },
         {
+          "artist": "YĪN YĪN",
+          "album": "Mount Matsu",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-09T12:33:53Z"
+        },
+        {
           "artist": "Jeff Parker ETA IVtet",
           "album": "The Way Out of Easy",
           "listen_count": 2,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-06T22:35:54Z"
+        },
+        {
+          "artist": "Jlin",
+          "album": "Akoma",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-08T18:17:16Z"
         },
         {
           "artist": "Squid",
@@ -331,13 +393,6 @@
           "last_listened_at_utc": "2026-10-03T12:22:42Z"
         },
         {
-          "artist": "Jlin",
-          "album": "Akoma",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-08T12:40:03Z"
-        },
-        {
           "artist": "John Carroll Kirby, Mizuhara Sisters",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -357,6 +412,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-03T12:34:17Z"
+        },
+        {
+          "artist": "Marcus Miller",
+          "album": "Marshall (Original Motion Picture Soundtrack)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-09T00:23:09Z"
         },
         {
           "artist": "Oliver Nelson",
@@ -415,13 +477,6 @@
           "last_listened_at_utc": "2026-10-03T12:13:31Z"
         },
         {
-          "artist": "טונה",
-          "album": "מזרח פרוע",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-02T12:33:49Z"
-        },
-        {
           "artist": "原神玲",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -445,14 +500,14 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 492,
-      "unique_artists": 98,
-      "unique_albums": 116,
+      "listen_count": 494,
+      "unique_artists": 102,
+      "unique_albums": 117,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "טונה",
-          "listen_count": 67
+          "listen_count": 50
         },
         {
           "artist": "Haruomi Hosono",
@@ -499,6 +554,10 @@
           "listen_count": 11
         },
         {
+          "artist": "Miles Davis",
+          "listen_count": 11
+        },
+        {
           "artist": "Hermanos Gutiérrez",
           "listen_count": 10
         },
@@ -519,10 +578,6 @@
           "listen_count": 8
         },
         {
-          "artist": "רביד פלוטניק",
-          "listen_count": 8
-        },
-        {
           "artist": "Nujabes",
           "listen_count": 7
         },
@@ -536,6 +591,10 @@
         },
         {
           "artist": "Shabak Samech",
+          "listen_count": 6
+        },
+        {
+          "artist": "Shabaka",
           "listen_count": 6
         },
         {
@@ -555,11 +614,15 @@
           "listen_count": 5
         },
         {
-          "artist": "Tsuyoshi Yamamoto Trio",
+          "artist": "רביד פלוטניק",
           "listen_count": 5
         },
         {
           "artist": "Cornelius",
+          "listen_count": 4
+        },
+        {
+          "artist": "J Dilla",
           "listen_count": 4
         },
         {
@@ -591,15 +654,19 @@
           "listen_count": 3
         },
         {
-          "artist": "Miles Davis",
-          "listen_count": 3
-        },
-        {
           "artist": "The Smile",
           "listen_count": 3
         },
         {
+          "artist": "Tortoise",
+          "listen_count": 3
+        },
+        {
           "artist": "Ty Segall",
+          "listen_count": 3
+        },
+        {
+          "artist": "YĪN YĪN",
           "listen_count": 3
         },
         {
@@ -627,11 +694,19 @@
           "listen_count": 2
         },
         {
+          "artist": "Jlin",
+          "listen_count": 2
+        },
+        {
           "artist": "Pearl & The Oysters",
           "listen_count": 2
         },
         {
           "artist": "Squid",
+          "listen_count": 2
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
           "listen_count": 2
         },
         {
@@ -707,10 +782,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Jlin",
-          "listen_count": 1
-        },
-        {
           "artist": "Joe Henderson",
           "listen_count": 1
         },
@@ -736,6 +807,10 @@
         },
         {
           "artist": "Loudon Wainwright III, Iris DeMent",
+          "listen_count": 1
+        },
+        {
+          "artist": "Marcus Miller",
           "listen_count": 1
         },
         {
@@ -827,10 +902,6 @@
           "listen_count": 1
         },
         {
-          "artist": "פלד",
-          "listen_count": 1
-        },
-        {
           "artist": "原神玲",
           "listen_count": 1
         },
@@ -878,13 +949,6 @@
           "listen_count": 14,
           "unique_tracks": 14,
           "last_listened_at_utc": "2026-09-16T20:41:32Z"
-        },
-        {
-          "artist": "טונה",
-          "album": "רובים ותלתלים",
-          "listen_count": 14,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-13T15:27:19Z"
         },
         {
           "artist": "青葉市子",
@@ -936,11 +1000,11 @@
           "last_listened_at_utc": "2026-10-03T22:00:58Z"
         },
         {
-          "artist": "טונה",
-          "album": "קיסריה אנפלאגד 2022",
+          "artist": "Miles Davis",
+          "album": "Kind of Blue",
           "listen_count": 11,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-09-09T00:52:41Z"
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-09T00:17:26Z"
         },
         {
           "artist": "Bob Dylan",
@@ -999,6 +1063,13 @@
           "last_listened_at_utc": "2026-09-11T19:57:55Z"
         },
         {
+          "artist": "טונה",
+          "album": "רובים ותלתלים",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-09-13T15:27:19Z"
+        },
+        {
           "artist": "Nujabes",
           "album": "Modal Soul",
           "listen_count": 7,
@@ -1025,6 +1096,13 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-09-17T21:23:12Z"
+        },
+        {
+          "artist": "Shabaka",
+          "album": "Of The Earth",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-08T22:34:12Z"
         },
         {
           "artist": "אורי שוחט",
@@ -1067,6 +1145,13 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-09-29T20:16:34Z"
+        },
+        {
+          "artist": "J Dilla",
+          "album": "Donuts",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-09T12:41:48Z"
         },
         {
           "artist": "Ryuichi Sakamoto",
@@ -1118,13 +1203,6 @@
           "last_listened_at_utc": "2026-09-13T20:46:39Z"
         },
         {
-          "artist": "Miles Davis",
-          "album": "Kind of Blue",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-19T20:25:57Z"
-        },
-        {
           "artist": "The Smile",
           "album": "Wall Of Eyes",
           "listen_count": 3,
@@ -1132,11 +1210,11 @@
           "last_listened_at_utc": "2026-10-05T22:31:55Z"
         },
         {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Blues for Tee",
+          "artist": "Tortoise",
+          "album": "Touch",
           "listen_count": 3,
           "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-08T22:25:36Z"
+          "last_listened_at_utc": "2026-10-08T21:18:35Z"
         },
         {
           "artist": "Ty Segall",
@@ -1144,6 +1222,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-06T12:34:33Z"
+        },
+        {
+          "artist": "YĪN YĪN",
+          "album": "Mount Matsu",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-09T12:33:53Z"
         },
         {
           "artist": "כהן@מושון",
@@ -1165,13 +1250,6 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-09-17T20:04:19Z"
-        },
-        {
-          "artist": "רביד פלוטניק",
-          "album": "תוך כדי תנועה",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-09T12:45:02Z"
         },
         {
           "artist": "Avishai Cohen Trio",
@@ -1200,6 +1278,13 @@
           "listen_count": 2,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-06T22:35:54Z"
+        },
+        {
+          "artist": "Jlin",
+          "album": "Akoma",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-08T18:17:16Z"
         },
         {
           "artist": "Pearl & The Oysters",
@@ -1398,13 +1483,6 @@
           "last_listened_at_utc": "2026-09-18T22:41:06Z"
         },
         {
-          "artist": "Jlin",
-          "album": "Akoma",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-08T12:40:03Z"
-        },
-        {
           "artist": "Joe Henderson",
           "album": "Lush Life: The Music of Billy Strayhorn",
           "listen_count": 1,
@@ -1459,6 +1537,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-03T12:34:17Z"
+        },
+        {
+          "artist": "Marcus Miller",
+          "album": "Marshall (Original Motion Picture Soundtrack)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-09T00:23:09Z"
         },
         {
           "artist": "McCoy Tyner",
@@ -1629,13 +1714,6 @@
           "last_listened_at_utc": "2026-09-11T19:31:45Z"
         },
         {
-          "artist": "פלד",
-          "album": "כאב ודמעות 2",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-08T20:02:48Z"
-        },
-        {
           "artist": "原神玲",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -1659,9 +1737,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 927,
-      "unique_artists": 157,
-      "unique_albums": 205,
+      "listen_count": 948,
+      "unique_artists": 162,
+      "unique_albums": 210,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1701,10 +1779,6 @@
           "listen_count": 26
         },
         {
-          "artist": "Olivia Rodrigo",
-          "listen_count": 20
-        },
-        {
           "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
           "listen_count": 17
         },
@@ -1721,7 +1795,15 @@
           "listen_count": 16
         },
         {
+          "artist": "Miles Davis",
+          "listen_count": 16
+        },
+        {
           "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
+          "listen_count": 15
+        },
+        {
+          "artist": "Olivia Rodrigo",
           "listen_count": 15
         },
         {
@@ -1781,10 +1863,6 @@
           "listen_count": 9
         },
         {
-          "artist": "Miles Davis",
-          "listen_count": 8
-        },
-        {
           "artist": "Songs: Ohia",
           "listen_count": 8
         },
@@ -1810,6 +1888,10 @@
         },
         {
           "artist": "Shabak Samech",
+          "listen_count": 6
+        },
+        {
+          "artist": "Shabaka",
           "listen_count": 6
         },
         {
@@ -1846,6 +1928,10 @@
         },
         {
           "artist": "Isao Suzuki Sextet",
+          "listen_count": 4
+        },
+        {
+          "artist": "J Dilla",
           "listen_count": 4
         },
         {
@@ -1897,7 +1983,15 @@
           "listen_count": 3
         },
         {
+          "artist": "Tortoise",
+          "listen_count": 3
+        },
+        {
           "artist": "Ty Segall",
+          "listen_count": 3
+        },
+        {
+          "artist": "YĪN YĪN",
           "listen_count": 3
         },
         {
@@ -1942,6 +2036,10 @@
         },
         {
           "artist": "Jeff Parker ETA IVtet",
+          "listen_count": 2
+        },
+        {
+          "artist": "Jlin",
           "listen_count": 2
         },
         {
@@ -2077,10 +2175,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Jlin",
-          "listen_count": 1
-        },
-        {
           "artist": "Joe Henderson",
           "listen_count": 1
         },
@@ -2118,6 +2212,10 @@
         },
         {
           "artist": "Loudon Wainwright III, Iris DeMent",
+          "listen_count": 1
+        },
+        {
+          "artist": "Marcus Miller",
           "listen_count": 1
         },
         {
@@ -2442,6 +2540,13 @@
           "last_listened_at_utc": "2026-09-05T20:40:45Z"
         },
         {
+          "artist": "Miles Davis",
+          "album": "Kind of Blue",
+          "listen_count": 12,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-09T00:17:26Z"
+        },
+        {
           "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
           "album": "Compassion",
           "listen_count": 12,
@@ -2568,13 +2673,6 @@
           "last_listened_at_utc": "2026-09-01T21:54:18Z"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "album": "you seem pretty sad for a girl so in love",
-          "listen_count": 8,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-09-06T22:46:12Z"
-        },
-        {
           "artist": "Songs: Ohia",
           "album": "The Magnolia Electric Co.",
           "listen_count": 8,
@@ -2615,6 +2713,13 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-09-17T21:23:12Z"
+        },
+        {
+          "artist": "Shabaka",
+          "album": "Of The Earth",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-08T22:34:12Z"
         },
         {
           "artist": "אורי שוחט",
@@ -2694,11 +2799,11 @@
           "last_listened_at_utc": "2026-07-14T21:30:02Z"
         },
         {
-          "artist": "Miles Davis",
-          "album": "Kind of Blue",
+          "artist": "J Dilla",
+          "album": "Donuts",
           "listen_count": 4,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-19T20:25:57Z"
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-09T12:41:48Z"
         },
         {
           "artist": "NuNu",
@@ -2771,6 +2876,13 @@
           "last_listened_at_utc": "2026-07-11T20:23:18Z"
         },
         {
+          "artist": "Olivia Rodrigo",
+          "album": "you seem pretty sad for a girl so in love",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-09-06T22:46:12Z"
+        },
+        {
           "artist": "Sagol 59",
           "album": "Make Room",
           "listen_count": 3,
@@ -2785,6 +2897,13 @@
           "last_listened_at_utc": "2026-10-05T22:31:55Z"
         },
         {
+          "artist": "Tortoise",
+          "album": "Touch",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-08T21:18:35Z"
+        },
+        {
           "artist": "Tsuyoshi Yamamoto Trio",
           "album": "Blues for Tee",
           "listen_count": 3,
@@ -2797,6 +2916,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-06T12:34:33Z"
+        },
+        {
+          "artist": "YĪN YĪN",
+          "album": "Mount Matsu",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-09T12:33:53Z"
         },
         {
           "artist": "כהן@מושון",
@@ -2895,6 +3021,13 @@
           "listen_count": 2,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-06T22:35:54Z"
+        },
+        {
+          "artist": "Jlin",
+          "album": "Akoma",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-08T18:17:16Z"
         },
         {
           "artist": "John Coltrane",
@@ -3212,13 +3345,6 @@
           "last_listened_at_utc": "2026-09-18T22:41:06Z"
         },
         {
-          "artist": "Jlin",
-          "album": "Akoma",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-08T12:40:03Z"
-        },
-        {
           "artist": "Joe Henderson",
           "album": "Lush Life: The Music of Billy Strayhorn",
           "listen_count": 1,
@@ -3315,6 +3441,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-03T12:34:17Z"
+        },
+        {
+          "artist": "Marcus Miller",
+          "album": "Marshall (Original Motion Picture Soundtrack)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-09T00:23:09Z"
         },
         {
           "artist": "Mark Turner",
@@ -3733,6 +3866,498 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1791549708,
+      "listened_at_utc": "2026-10-09T12:41:48Z",
+      "artist": "J Dilla",
+      "track": "The New",
+      "album": "Donuts",
+      "musicbrainz": {
+        "artist_mbids": [
+          "cbcbb22c-3a8d-46af-b4ba-09c98f0d7931"
+        ],
+        "recording_mbid": "b93b839c-e404-4e6a-aba5-b78ef45c78c9",
+        "release_mbid": "e3655e9f-3db1-434d-bb4b-3529d09b2989",
+        "release_group_mbid": "6b78c33a-64c4-3472-99e9-be45a392acb4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791549658,
+      "listened_at_utc": "2026-10-09T12:40:58Z",
+      "artist": "J Dilla",
+      "track": "Light It",
+      "album": "Donuts",
+      "musicbrainz": {
+        "artist_mbids": [
+          "cbcbb22c-3a8d-46af-b4ba-09c98f0d7931"
+        ],
+        "release_mbid": "e3655e9f-3db1-434d-bb4b-3529d09b2989"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791549622,
+      "listened_at_utc": "2026-10-09T12:40:22Z",
+      "artist": "J Dilla",
+      "track": "Waves",
+      "album": "Donuts",
+      "musicbrainz": {
+        "artist_mbids": [
+          "cbcbb22c-3a8d-46af-b4ba-09c98f0d7931"
+        ],
+        "recording_mbid": "855ea199-5f9e-4ab1-9a22-7275fa140e37",
+        "release_mbid": "e3655e9f-3db1-434d-bb4b-3529d09b2989",
+        "release_group_mbid": "6b78c33a-64c4-3472-99e9-be45a392acb4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791549524,
+      "listened_at_utc": "2026-10-09T12:38:44Z",
+      "artist": "J Dilla",
+      "track": "Workinonit",
+      "album": "Donuts",
+      "musicbrainz": {
+        "artist_mbids": [
+          "cbcbb22c-3a8d-46af-b4ba-09c98f0d7931"
+        ],
+        "recording_mbid": "119850b9-540d-4209-92a6-12cf078a3ca7",
+        "release_mbid": "e3655e9f-3db1-434d-bb4b-3529d09b2989",
+        "release_group_mbid": "6b78c33a-64c4-3472-99e9-be45a392acb4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791549233,
+      "listened_at_utc": "2026-10-09T12:33:53Z",
+      "artist": "YĪN YĪN",
+      "track": "Pia Dance",
+      "album": "Mount Matsu",
+      "musicbrainz": {
+        "artist_mbids": [
+          "0b336c55-c3e9-4dab-9c96-bc10d7a54ef3"
+        ],
+        "recording_mbid": "1b41d66a-36d9-4405-8f80-be87e5ca751b",
+        "release_mbid": "0be84498-594d-470b-916f-c39b6f3e74bb",
+        "release_group_mbid": "d14c1c43-e9cd-4159-94bd-8a4621442a6d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791505389,
+      "listened_at_utc": "2026-10-09T00:23:09Z",
+      "artist": "Marcus Miller",
+      "track": "Justice Is Coming (feat. Wynton Marsalis and Jimmy Heath)",
+      "album": "Marshall (Original Motion Picture Soundtrack)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8fbabd07-4b2b-4f4c-add5-680429a8c44a",
+          "0d74dcc7-5684-4695-830f-a9846aad8ba9",
+          "29c8775b-49a7-4c5a-af85-478ff25a56bb"
+        ],
+        "recording_mbid": "41884728-5f2f-4841-afb8-341911c74f7e",
+        "release_mbid": "a1d2134d-5bed-4d15-886f-9f2d359c6526",
+        "release_group_mbid": "6635fa90-552e-4e48-bb94-023e86ab5d46"
+      },
+      "submission_clients": [
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791505046,
+      "listened_at_utc": "2026-10-09T00:17:26Z",
+      "artist": "Miles Davis",
+      "track": "Blue In Green (Pitch-Corrected)",
+      "album": "Kind of Blue",
+      "musicbrainz": {
+        "artist_mbids": [
+          "561d854a-6a28-4aa7-8c99-323e6ce46c2a"
+        ],
+        "recording_mbid": "0d3b9526-a87c-4436-affb-b1c579b9aa9a",
+        "release_mbid": "5472d4b8-1d33-405d-84fa-9c8385f22531",
+        "release_group_mbid": "8e8a594f-2175-38c7-a871-abb68ec363e7"
+      },
+      "submission_clients": [
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791504449,
+      "listened_at_utc": "2026-10-09T00:07:29Z",
+      "artist": "Miles Davis",
+      "track": "Freddie Freeloader (Pitch-Corrected)",
+      "album": "Kind of Blue",
+      "musicbrainz": {
+        "artist_mbids": [
+          "561d854a-6a28-4aa7-8c99-323e6ce46c2a"
+        ],
+        "recording_mbid": "ed5b63a6-8195-4ecf-b3cd-25dbfc91242f",
+        "release_mbid": "5472d4b8-1d33-405d-84fa-9c8385f22531",
+        "release_group_mbid": "8e8a594f-2175-38c7-a871-abb68ec363e7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791503885,
+      "listened_at_utc": "2026-10-08T23:58:05Z",
+      "artist": "Miles Davis",
+      "track": "So What (Pitch-Corrected)",
+      "album": "Kind of Blue",
+      "musicbrainz": {
+        "artist_mbids": [
+          "561d854a-6a28-4aa7-8c99-323e6ce46c2a"
+        ],
+        "recording_mbid": "84522dd5-3a30-497c-9519-9cab8cf8eef9",
+        "release_mbid": "5472d4b8-1d33-405d-84fa-9c8385f22531",
+        "release_group_mbid": "8e8a594f-2175-38c7-a871-abb68ec363e7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791503314,
+      "listened_at_utc": "2026-10-08T23:48:34Z",
+      "artist": "Miles Davis",
+      "track": "Flamenco Sketches [Alternate Take]",
+      "album": "Kind of Blue",
+      "musicbrainz": {
+        "artist_mbids": [
+          "561d854a-6a28-4aa7-8c99-323e6ce46c2a"
+        ],
+        "recording_mbid": "bc80349a-c5d6-4d35-8d29-87d5b10e5d5d",
+        "release_mbid": "7d7ebace-0e5a-43c2-bd6d-18b5f35bed0b",
+        "release_group_mbid": "8e8a594f-2175-38c7-a871-abb68ec363e7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791502619,
+      "listened_at_utc": "2026-10-08T23:36:59Z",
+      "artist": "Miles Davis",
+      "track": "All Blues",
+      "album": "Kind of Blue",
+      "musicbrainz": {
+        "artist_mbids": [
+          "561d854a-6a28-4aa7-8c99-323e6ce46c2a"
+        ],
+        "recording_mbid": "b7ebe185-21e9-4400-a17a-3d0cee232925",
+        "release_mbid": "46c3472f-1cb0-481b-9dc9-da67b62bb89b",
+        "release_group_mbid": "8e8a594f-2175-38c7-a871-abb68ec363e7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791502290,
+      "listened_at_utc": "2026-10-08T23:31:30Z",
+      "artist": "Miles Davis",
+      "track": "Blue in Green",
+      "album": "Kind of Blue",
+      "musicbrainz": {
+        "artist_mbids": [
+          "561d854a-6a28-4aa7-8c99-323e6ce46c2a"
+        ],
+        "recording_mbid": "67a9794c-153a-4a24-82ec-9eace7e208f2",
+        "release_mbid": "46c3472f-1cb0-481b-9dc9-da67b62bb89b",
+        "release_group_mbid": "8e8a594f-2175-38c7-a871-abb68ec363e7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791501711,
+      "listened_at_utc": "2026-10-08T23:21:51Z",
+      "artist": "Miles Davis",
+      "track": "Freddie Freeloader",
+      "album": "Kind of Blue",
+      "musicbrainz": {
+        "artist_mbids": [
+          "561d854a-6a28-4aa7-8c99-323e6ce46c2a"
+        ],
+        "recording_mbid": "0bdecbca-403a-4f0b-9aa2-2396a6961083",
+        "release_mbid": "235d3e52-a3e6-4daf-a5d7-9592722a2631",
+        "release_group_mbid": "8e8a594f-2175-38c7-a871-abb68ec363e7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791501164,
+      "listened_at_utc": "2026-10-08T23:12:44Z",
+      "artist": "Miles Davis",
+      "track": "So What",
+      "album": "Kind of Blue",
+      "musicbrainz": {
+        "artist_mbids": [
+          "561d854a-6a28-4aa7-8c99-323e6ce46c2a"
+        ],
+        "recording_mbid": "60f750f4-d222-46b7-ad5c-905334c9a48a",
+        "release_mbid": "46c3472f-1cb0-481b-9dc9-da67b62bb89b",
+        "release_group_mbid": "8e8a594f-2175-38c7-a871-abb68ec363e7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791498852,
+      "listened_at_utc": "2026-10-08T22:34:12Z",
+      "artist": "Shabaka",
+      "track": "Dance In Praise",
+      "album": "Of The Earth",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5b0f26cc-1203-49d8-abe2-90bec87a2e71"
+        ],
+        "recording_mbid": "a7175050-9f8d-4e99-9415-9a30c20d8a16",
+        "release_mbid": "6ec2e658-befc-4e11-9303-9723d79bde34",
+        "release_group_mbid": "8bcf7a5f-0c21-4052-9843-95dbba9a198b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791498633,
+      "listened_at_utc": "2026-10-08T22:30:33Z",
+      "artist": "Shabaka",
+      "track": "Call The Power",
+      "album": "Of The Earth",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5b0f26cc-1203-49d8-abe2-90bec87a2e71"
+        ],
+        "recording_mbid": "1edfdf00-df35-4c76-b4a1-92a957284ec3",
+        "release_mbid": "6ec2e658-befc-4e11-9303-9723d79bde34",
+        "release_group_mbid": "8bcf7a5f-0c21-4052-9843-95dbba9a198b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791498369,
+      "listened_at_utc": "2026-10-08T22:26:09Z",
+      "artist": "Shabaka",
+      "track": "Step Lightly",
+      "album": "Of The Earth",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5b0f26cc-1203-49d8-abe2-90bec87a2e71"
+        ],
+        "recording_mbid": "f0fcc536-f773-4733-bdc8-cbf7de206881",
+        "release_mbid": "6ec2e658-befc-4e11-9303-9723d79bde34",
+        "release_group_mbid": "8bcf7a5f-0c21-4052-9843-95dbba9a198b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791498175,
+      "listened_at_utc": "2026-10-08T22:22:55Z",
+      "artist": "Shabaka",
+      "track": "Go Astray",
+      "album": "Of The Earth",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5b0f26cc-1203-49d8-abe2-90bec87a2e71"
+        ],
+        "recording_mbid": "11ece87c-4a01-42c8-bcee-768080e2dbfa",
+        "release_mbid": "6ec2e658-befc-4e11-9303-9723d79bde34",
+        "release_group_mbid": "8bcf7a5f-0c21-4052-9843-95dbba9a198b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791497887,
+      "listened_at_utc": "2026-10-08T22:18:07Z",
+      "artist": "Shabaka",
+      "track": "Those Of The Sky",
+      "album": "Of The Earth",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5b0f26cc-1203-49d8-abe2-90bec87a2e71"
+        ],
+        "recording_mbid": "a9c3e2fe-dc81-4886-b7b7-f3bf28cec97e",
+        "release_mbid": "6ec2e658-befc-4e11-9303-9723d79bde34",
+        "release_group_mbid": "8bcf7a5f-0c21-4052-9843-95dbba9a198b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791497684,
+      "listened_at_utc": "2026-10-08T22:14:44Z",
+      "artist": "Shabaka",
+      "track": "A Future Untold",
+      "album": "Of The Earth",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5b0f26cc-1203-49d8-abe2-90bec87a2e71"
+        ],
+        "recording_mbid": "3104cee0-a85c-4258-9c32-80774e24063f",
+        "release_mbid": "6ec2e658-befc-4e11-9303-9723d79bde34",
+        "release_group_mbid": "8bcf7a5f-0c21-4052-9843-95dbba9a198b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791494878,
+      "listened_at_utc": "2026-10-08T21:27:58Z",
+      "artist": "YĪN YĪN",
+      "track": "Takahashi Timing",
+      "album": "Mount Matsu",
+      "musicbrainz": {
+        "artist_mbids": [
+          "0b336c55-c3e9-4dab-9c96-bc10d7a54ef3"
+        ],
+        "recording_mbid": "14df18ff-0d3c-4708-97a4-e0dc637c9b4e",
+        "release_mbid": "0be84498-594d-470b-916f-c39b6f3e74bb",
+        "release_group_mbid": "d14c1c43-e9cd-4159-94bd-8a4621442a6d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791494554,
+      "listened_at_utc": "2026-10-08T21:22:34Z",
+      "artist": "YĪN YĪN",
+      "track": "The Year of the Rabbit",
+      "album": "Mount Matsu",
+      "musicbrainz": {
+        "artist_mbids": [
+          "0b336c55-c3e9-4dab-9c96-bc10d7a54ef3"
+        ],
+        "recording_mbid": "5d0ae3b7-62ec-4070-b29d-b7eaf9adc5cb",
+        "release_mbid": "0be84498-594d-470b-916f-c39b6f3e74bb",
+        "release_group_mbid": "d14c1c43-e9cd-4159-94bd-8a4621442a6d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791494315,
+      "listened_at_utc": "2026-10-08T21:18:35Z",
+      "artist": "Tortoise",
+      "track": "Works and Days",
+      "album": "Touch",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e0953daa-860f-4dc8-9f1a-b12587cdaf17"
+        ],
+        "recording_mbid": "d9f77be7-7206-4811-860f-f61316c242a8",
+        "release_mbid": "b8e5c536-e4b4-43d6-899d-9f4f52805d87",
+        "release_group_mbid": "72a3632f-0466-4ce9-bc64-0ee5aff91d4a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791483957,
+      "listened_at_utc": "2026-10-08T18:25:57Z",
+      "artist": "Tortoise",
+      "track": "Layered Presence",
+      "album": "Touch",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e0953daa-860f-4dc8-9f1a-b12587cdaf17"
+        ],
+        "recording_mbid": "19c709f4-1adc-4de0-9644-1177243ee11c",
+        "release_mbid": "b8e5c536-e4b4-43d6-899d-9f4f52805d87",
+        "release_group_mbid": "72a3632f-0466-4ce9-bc64-0ee5aff91d4a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791483769,
+      "listened_at_utc": "2026-10-08T18:22:49Z",
+      "artist": "Tortoise",
+      "track": "Vexations",
+      "album": "Touch",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e0953daa-860f-4dc8-9f1a-b12587cdaf17"
+        ],
+        "recording_mbid": "82e9ceb4-952d-41b7-9f24-7b79ddb72793",
+        "release_mbid": "b8e5c536-e4b4-43d6-899d-9f4f52805d87",
+        "release_group_mbid": "72a3632f-0466-4ce9-bc64-0ee5aff91d4a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791483436,
+      "listened_at_utc": "2026-10-08T18:17:16Z",
+      "artist": "Jlin",
+      "track": "Speed Of Darkness",
+      "album": "Akoma",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b6cfaa6e-71cf-4431-81e6-515a4b23a425"
+        ],
+        "recording_mbid": "0a9a29b0-42a4-4d7b-9013-990200354f1b",
+        "release_mbid": "b1d5e79f-9c56-4ca8-86f2-4bffc9edeac5",
+        "release_group_mbid": "2e7cd2f2-cf19-4078-b38a-281ee7c793de"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1791463203,
       "listened_at_utc": "2026-10-08T12:40:03Z",
@@ -19673,96 +20298,6 @@
       "track": "Say It (Over And Over Again) (Album Version)",
       "album": "Ballads",
       "musicbrainz": {},
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783719245,
-      "listened_at_utc": "2026-07-10T21:34:05Z",
-      "artist": "Olivia Rodrigo",
-      "track": "u + me = <3",
-      "album": "you seem pretty sad for a girl so in love",
-      "musicbrainz": {
-        "artist_mbids": [
-          "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
-        ],
-        "recording_mbid": "718e63c8-c63a-4a2c-a4f4-50d7775f93fd",
-        "release_mbid": "89072e5f-a8c3-41e2-946c-e80806183290",
-        "release_group_mbid": "4c4eee61-da1e-4115-8eb9-07e5b671fefe"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783719004,
-      "listened_at_utc": "2026-07-10T21:30:04Z",
-      "artist": "Olivia Rodrigo",
-      "track": "maggots for brains",
-      "album": "you seem pretty sad for a girl so in love",
-      "musicbrainz": {
-        "artist_mbids": [
-          "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
-        ],
-        "recording_mbid": "235e0be9-8e0f-463a-96d9-aec2bc452370",
-        "release_mbid": "89072e5f-a8c3-41e2-946c-e80806183290",
-        "release_group_mbid": "4c4eee61-da1e-4115-8eb9-07e5b671fefe"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783718781,
-      "listened_at_utc": "2026-07-10T21:26:21Z",
-      "artist": "Olivia Rodrigo",
-      "track": "honeybee",
-      "album": "you seem pretty sad for a girl so in love",
-      "musicbrainz": {
-        "artist_mbids": [
-          "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
-        ],
-        "recording_mbid": "b954fae4-e690-4d76-9c71-2d96a2c557c7",
-        "release_mbid": "89072e5f-a8c3-41e2-946c-e80806183290",
-        "release_group_mbid": "4c4eee61-da1e-4115-8eb9-07e5b671fefe"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783718572,
-      "listened_at_utc": "2026-07-10T21:22:52Z",
-      "artist": "Olivia Rodrigo",
-      "track": "stupid song",
-      "album": "you seem pretty sad for a girl so in love",
-      "musicbrainz": {
-        "artist_mbids": [
-          "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
-        ],
-        "recording_mbid": "6f0d85f5-dbe0-4c53-820c-dc23402af982",
-        "release_mbid": "89072e5f-a8c3-41e2-946c-e80806183290",
-        "release_group_mbid": "4c4eee61-da1e-4115-8eb9-07e5b671fefe"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783718347,
-      "listened_at_utc": "2026-07-10T21:19:07Z",
-      "artist": "Olivia Rodrigo",
-      "track": "drop dead",
-      "album": "you seem pretty sad for a girl so in love",
-      "musicbrainz": {
-        "artist_mbids": [
-          "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
-        ],
-        "recording_mbid": "dae76a66-5ea8-43c2-856d-cce2aa7fbe49",
-        "release_mbid": "e00ab5cc-1b09-4ac5-acde-5a63abe603e1",
-        "release_group_mbid": "6084af50-a1ab-42fe-9a27-fb67f517c02a"
-      },
       "submission_clients": [
         "ListenBrainz lastfm importer v2"
       ]
