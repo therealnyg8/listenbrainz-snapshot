@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-09T16:20:30Z",
+  "generated_at_utc": "2026-10-10T15:27:37Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-11T16:20:30Z",
-    "through_utc": "2026-10-09T16:20:30Z",
+    "from_utc": "2026-07-12T15:27:37Z",
+    "through_utc": "2026-10-10T15:27:37Z",
     "complete": true,
     "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 1183,
-    "deduplicated_listen_count": 948,
-    "duplicates_removed": 235,
-    "oldest_listen_utc": "2026-07-11T17:15:23Z",
-    "newest_listen_utc": "2026-10-09T12:41:48Z"
+    "raw_listen_count": 1235,
+    "deduplicated_listen_count": 958,
+    "duplicates_removed": 277,
+    "oldest_listen_utc": "2026-07-12T17:11:41Z",
+    "newest_listen_utc": "2026-10-10T14:03:11Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,22 +28,26 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 120,
-      "unique_artists": 42,
-      "unique_albums": 42,
+      "listen_count": 132,
+      "unique_artists": 34,
+      "unique_albums": 35,
       "listens_without_album": 0,
       "artists": [
+        {
+          "artist": "Cameron Winter",
+          "listen_count": 13
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "listen_count": 12
+        },
         {
           "artist": "Erykah Badu",
           "listen_count": 11
         },
         {
-          "artist": "Nils Frahm",
+          "artist": "Sonny Rollins",
           "listen_count": 10
-        },
-        {
-          "artist": "Bullion",
-          "listen_count": 8
         },
         {
           "artist": "Miles Davis",
@@ -58,15 +62,19 @@
           "listen_count": 6
         },
         {
+          "artist": "Isao Suzuki Trio / Quartet",
+          "listen_count": 6
+        },
+        {
           "artist": "Shabaka",
           "listen_count": 6
         },
         {
-          "artist": "Sonny Rollins",
+          "artist": "J Dilla",
           "listen_count": 5
         },
         {
-          "artist": "J Dilla",
+          "artist": "Mikiko Sato",
           "listen_count": 4
         },
         {
@@ -114,10 +122,6 @@
           "listen_count": 2
         },
         {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "listen_count": 2
-        },
-        {
           "artist": "Cornelius",
           "listen_count": 1
         },
@@ -134,23 +138,11 @@
           "listen_count": 1
         },
         {
-          "artist": "James Blake",
-          "listen_count": 1
-        },
-        {
-          "artist": "Jerry Paper",
-          "listen_count": 1
-        },
-        {
-          "artist": "John Carroll Kirby, Mizuhara Sisters",
+          "artist": "Kenny Burrell",
           "listen_count": 1
         },
         {
           "artist": "Little Simz",
-          "listen_count": 1
-        },
-        {
-          "artist": "Mac DeMarco",
           "listen_count": 1
         },
         {
@@ -159,14 +151,6 @@
         },
         {
           "artist": "Oliver Nelson",
-          "listen_count": 1
-        },
-        {
-          "artist": "Pearl & The Oysters",
-          "listen_count": 1
-        },
-        {
-          "artist": "SE SO NEON",
           "listen_count": 1
         },
         {
@@ -182,27 +166,18 @@
           "listen_count": 1
         },
         {
-          "artist": "kukuku",
-          "listen_count": 1
-        },
-        {
-          "artist": "mei ehara",
-          "listen_count": 1
-        },
-        {
-          "artist": "原神玲",
-          "listen_count": 1
-        },
-        {
-          "artist": "安部勇磨",
-          "listen_count": 1
-        },
-        {
           "artist": "矢野顕子",
           "listen_count": 1
         }
       ],
       "albums": [
+        {
+          "artist": "Cameron Winter",
+          "album": "Live at Carnegie Hall",
+          "listen_count": 13,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-10-10T14:03:11Z"
+        },
         {
           "artist": "Erykah Badu",
           "album": "New Amerykah Part One (4th World War)",
@@ -211,18 +186,11 @@
           "last_listened_at_utc": "2026-10-03T22:00:58Z"
         },
         {
-          "artist": "Nils Frahm",
-          "album": "All Melody",
+          "artist": "Sonny Rollins",
+          "album": "Saxophone Colossus",
           "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-10-02T19:31:45Z"
-        },
-        {
-          "artist": "Bullion",
-          "album": "Nearly",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-03T12:08:00Z"
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-09T23:39:47Z"
         },
         {
           "artist": "Miles Davis",
@@ -239,11 +207,25 @@
           "last_listened_at_utc": "2026-10-04T20:55:40Z"
         },
         {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Misty",
+          "listen_count": 7,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-10-09T22:27:08Z"
+        },
+        {
           "artist": "Ahmad Jamal Trio",
           "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-05T23:27:27Z"
+        },
+        {
+          "artist": "Isao Suzuki Trio / Quartet",
+          "album": "Blow Up",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-10T11:55:16Z"
         },
         {
           "artist": "Shabaka",
@@ -253,18 +235,25 @@
           "last_listened_at_utc": "2026-10-08T22:34:12Z"
         },
         {
-          "artist": "Sonny Rollins",
-          "album": "Saxophone Colossus",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-04T21:32:34Z"
-        },
-        {
           "artist": "J Dilla",
           "album": "Donuts",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-09T21:19:08Z"
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Midnight Sugar",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-09T23:05:04Z"
+        },
+        {
+          "artist": "Mikiko Sato",
+          "album": "Mikiko's World",
           "listen_count": 4,
           "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-09T12:41:48Z"
+          "last_listened_at_utc": "2026-10-10T12:18:37Z"
         },
         {
           "artist": "Ryuichi Sakamoto",
@@ -344,13 +333,6 @@
           "last_listened_at_utc": "2026-10-07T12:38:30Z"
         },
         {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Midnight Sugar",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-02T20:41:14Z"
-        },
-        {
           "artist": "Cornelius",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -379,25 +361,11 @@
           "last_listened_at_utc": "2026-10-06T12:50:36Z"
         },
         {
-          "artist": "James Blake",
-          "album": "Overgrown",
+          "artist": "Kenny Burrell",
+          "album": "Midnight Blue",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-02T22:14:19Z"
-        },
-        {
-          "artist": "Jerry Paper",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:22:42Z"
-        },
-        {
-          "artist": "John Carroll Kirby, Mizuhara Sisters",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:20:14Z"
+          "last_listened_at_utc": "2026-10-10T12:01:02Z"
         },
         {
           "artist": "Little Simz",
@@ -405,13 +373,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-03T22:07:26Z"
-        },
-        {
-          "artist": "Mac DeMarco",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:34:17Z"
         },
         {
           "artist": "Marcus Miller",
@@ -426,20 +387,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-04T22:25:29Z"
-        },
-        {
-          "artist": "Pearl & The Oysters",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:10:39Z"
-        },
-        {
-          "artist": "SE SO NEON",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:27:17Z"
         },
         {
           "artist": "Sam Gendel",
@@ -463,34 +410,6 @@
           "last_listened_at_utc": "2026-10-04T21:43:48Z"
         },
         {
-          "artist": "kukuku",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:37:08Z"
-        },
-        {
-          "artist": "mei ehara",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:13:31Z"
-        },
-        {
-          "artist": "原神玲",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:16:54Z"
-        },
-        {
-          "artist": "安部勇磨",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:30:12Z"
-        },
-        {
           "artist": "矢野顕子",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -500,9 +419,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 494,
-      "unique_artists": 102,
-      "unique_albums": 117,
+      "listen_count": 533,
+      "unique_artists": 103,
+      "unique_albums": 120,
       "listens_without_album": 0,
       "artists": [
         {
@@ -526,7 +445,19 @@
           "listen_count": 20
         },
         {
+          "artist": "Cameron Winter",
+          "listen_count": 16
+        },
+        {
+          "artist": "Sonny Rollins",
+          "listen_count": 15
+        },
+        {
           "artist": "Sagol 59",
+          "listen_count": 14
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
           "listen_count": 14
         },
         {
@@ -566,10 +497,6 @@
           "listen_count": 10
         },
         {
-          "artist": "Sonny Rollins",
-          "listen_count": 10
-        },
-        {
           "artist": "John Coltrane Quartet",
           "listen_count": 8
         },
@@ -590,6 +517,10 @@
           "listen_count": 6
         },
         {
+          "artist": "Isao Suzuki Trio / Quartet",
+          "listen_count": 6
+        },
+        {
           "artist": "Shabak Samech",
           "listen_count": 6
         },
@@ -603,6 +534,10 @@
         },
         {
           "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
+          "listen_count": 5
+        },
+        {
+          "artist": "J Dilla",
           "listen_count": 5
         },
         {
@@ -622,7 +557,7 @@
           "listen_count": 4
         },
         {
-          "artist": "J Dilla",
+          "artist": "Mikiko Sato",
           "listen_count": 4
         },
         {
@@ -635,10 +570,6 @@
         },
         {
           "artist": "Akusmi",
-          "listen_count": 3
-        },
-        {
-          "artist": "Cameron Winter",
           "listen_count": 3
         },
         {
@@ -670,10 +601,6 @@
           "listen_count": 3
         },
         {
-          "artist": "כהן@מושון",
-          "listen_count": 3
-        },
-        {
           "artist": "מיכאל סוויסה וסלימפים",
           "listen_count": 3
         },
@@ -698,15 +625,15 @@
           "listen_count": 2
         },
         {
+          "artist": "Kenny Burrell",
+          "listen_count": 2
+        },
+        {
           "artist": "Pearl & The Oysters",
           "listen_count": 2
         },
         {
           "artist": "Squid",
-          "listen_count": 2
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
           "listen_count": 2
         },
         {
@@ -791,10 +718,6 @@
         },
         {
           "artist": "John Mellencamp",
-          "listen_count": 1
-        },
-        {
-          "artist": "Kenny Burrell",
           "listen_count": 1
         },
         {
@@ -944,6 +867,13 @@
           "last_listened_at_utc": "2026-10-02T12:33:49Z"
         },
         {
+          "artist": "Sonny Rollins",
+          "album": "Saxophone Colossus",
+          "listen_count": 15,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-09T23:39:47Z"
+        },
+        {
           "artist": "Sagol 59",
           "album": "שני הצדדים של סגול 59",
           "listen_count": 14,
@@ -956,6 +886,13 @@
           "listen_count": 14,
           "unique_tracks": 14,
           "last_listened_at_utc": "2026-09-29T22:48:47Z"
+        },
+        {
+          "artist": "Cameron Winter",
+          "album": "Live at Carnegie Hall",
+          "listen_count": 13,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-10-10T14:03:11Z"
         },
         {
           "artist": "Richard & Linda Thompson",
@@ -1028,13 +965,6 @@
           "last_listened_at_utc": "2026-10-02T19:31:45Z"
         },
         {
-          "artist": "Sonny Rollins",
-          "album": "Saxophone Colossus",
-          "listen_count": 10,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-04T21:32:34Z"
-        },
-        {
           "artist": "Bob Dylan",
           "album": "Slow Train Coming",
           "listen_count": 9,
@@ -1077,6 +1007,20 @@
           "last_listened_at_utc": "2026-10-04T20:55:40Z"
         },
         {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Midnight Sugar",
+          "listen_count": 7,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-09T23:05:04Z"
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Misty",
+          "listen_count": 7,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-10-09T22:27:08Z"
+        },
+        {
           "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
           "album": "Waltz for Debby [1962]",
           "listen_count": 6,
@@ -1089,6 +1033,13 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-09-27T23:08:27Z"
+        },
+        {
+          "artist": "Isao Suzuki Trio / Quartet",
+          "album": "Blow Up",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-10T11:55:16Z"
         },
         {
           "artist": "Shabak Samech",
@@ -1133,6 +1084,13 @@
           "last_listened_at_utc": "2026-09-25T20:37:14Z"
         },
         {
+          "artist": "J Dilla",
+          "album": "Donuts",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-09T21:19:08Z"
+        },
+        {
           "artist": "The Fred Hersch Trio",
           "album": "Sunday Night at the Vanguard",
           "listen_count": 5,
@@ -1147,11 +1105,11 @@
           "last_listened_at_utc": "2026-09-29T20:16:34Z"
         },
         {
-          "artist": "J Dilla",
-          "album": "Donuts",
+          "artist": "Mikiko Sato",
+          "album": "Mikiko's World",
           "listen_count": 4,
           "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-09T12:41:48Z"
+          "last_listened_at_utc": "2026-10-10T12:18:37Z"
         },
         {
           "artist": "Ryuichi Sakamoto",
@@ -1231,13 +1189,6 @@
           "last_listened_at_utc": "2026-10-09T12:33:53Z"
         },
         {
-          "artist": "כהן@מושון",
-          "album": "ימים ארוכים",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-10T12:42:39Z"
-        },
-        {
           "artist": "מיכאל סוויסה וסלימפים",
           "album": "עזים על עצים",
           "listen_count": 3,
@@ -1287,6 +1238,13 @@
           "last_listened_at_utc": "2026-10-08T18:17:16Z"
         },
         {
+          "artist": "Kenny Burrell",
+          "album": "Midnight Blue",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-10T12:01:02Z"
+        },
+        {
           "artist": "Pearl & The Oysters",
           "album": "Hosono House Revisited",
           "listen_count": 2,
@@ -1299,13 +1257,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-07T12:38:30Z"
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Midnight Sugar",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-02T20:41:14Z"
         },
         {
           "artist": "רביד פלוטניק",
@@ -1502,13 +1453,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-20T22:37:09Z"
-        },
-        {
-          "artist": "Kenny Burrell",
-          "album": "Midnight Blue",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-20T22:46:37Z"
         },
         {
           "artist": "Lee Konitz, Brad Mehldau, Charlie Haden & Paul Motian",
@@ -1737,9 +1681,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 948,
-      "unique_artists": 162,
-      "unique_albums": 210,
+      "listen_count": 958,
+      "unique_artists": 161,
+      "unique_albums": 208,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1755,6 +1699,10 @@
           "listen_count": 42
         },
         {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "listen_count": 40
+        },
+        {
           "artist": "Julian Lage",
           "listen_count": 39
         },
@@ -1767,10 +1715,6 @@
           "listen_count": 32
         },
         {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "listen_count": 28
-        },
-        {
           "artist": "Ahmad Jamal Trio",
           "listen_count": 27
         },
@@ -1779,32 +1723,28 @@
           "listen_count": 26
         },
         {
-          "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
-          "listen_count": 17
+          "artist": "Sonny Rollins",
+          "listen_count": 18
         },
         {
           "artist": "Sagol 59",
           "listen_count": 17
         },
         {
+          "artist": "Cameron Winter",
+          "listen_count": 16
+        },
+        {
           "artist": "Jack White",
           "listen_count": 16
         },
         {
-          "artist": "John Coltrane Quartet",
-          "listen_count": 16
-        },
-        {
           "artist": "Miles Davis",
-          "listen_count": 16
+          "listen_count": 15
         },
         {
           "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
-          "listen_count": 15
-        },
-        {
-          "artist": "Olivia Rodrigo",
-          "listen_count": 15
+          "listen_count": 14
         },
         {
           "artist": "青葉市子",
@@ -1815,11 +1755,11 @@
           "listen_count": 13
         },
         {
-          "artist": "Richard & Linda Thompson",
+          "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
           "listen_count": 13
         },
         {
-          "artist": "Sonny Rollins",
+          "artist": "Richard & Linda Thompson",
           "listen_count": 13
         },
         {
@@ -1831,15 +1771,15 @@
           "listen_count": 12
         },
         {
+          "artist": "Kenny Burrell",
+          "listen_count": 12
+        },
+        {
           "artist": "Bullion",
           "listen_count": 11
         },
         {
           "artist": "Erykah Badu",
-          "listen_count": 11
-        },
-        {
-          "artist": "Kenny Burrell",
           "listen_count": 11
         },
         {
@@ -1861,6 +1801,10 @@
         {
           "artist": "Gilad Hekselman",
           "listen_count": 9
+        },
+        {
+          "artist": "John Coltrane Quartet",
+          "listen_count": 8
         },
         {
           "artist": "Songs: Ohia",
@@ -1887,6 +1831,10 @@
           "listen_count": 6
         },
         {
+          "artist": "Isao Suzuki Trio / Quartet",
+          "listen_count": 6
+        },
+        {
           "artist": "Shabak Samech",
           "listen_count": 6
         },
@@ -1904,6 +1852,10 @@
         },
         {
           "artist": "Hidehiko Matsumoto",
+          "listen_count": 5
+        },
+        {
+          "artist": "J Dilla",
           "listen_count": 5
         },
         {
@@ -1931,11 +1883,15 @@
           "listen_count": 4
         },
         {
-          "artist": "J Dilla",
+          "artist": "Mikiko Sato",
           "listen_count": 4
         },
         {
           "artist": "NuNu",
+          "listen_count": 4
+        },
+        {
+          "artist": "Olivia Rodrigo",
           "listen_count": 4
         },
         {
@@ -1959,23 +1915,11 @@
           "listen_count": 3
         },
         {
-          "artist": "Cameron Winter",
-          "listen_count": 3
-        },
-        {
           "artist": "Helado Negro",
           "listen_count": 3
         },
         {
-          "artist": "John Coltrane",
-          "listen_count": 3
-        },
-        {
           "artist": "Kutiman & DEKEL",
-          "listen_count": 3
-        },
-        {
-          "artist": "Oasis",
           "listen_count": 3
         },
         {
@@ -2019,10 +1963,6 @@
           "listen_count": 2
         },
         {
-          "artist": "Cannonball Adderley",
-          "listen_count": 2
-        },
-        {
           "artist": "Cory Wong & Joshua Redman",
           "listen_count": 2
         },
@@ -2040,6 +1980,10 @@
         },
         {
           "artist": "Jlin",
+          "listen_count": 2
+        },
+        {
+          "artist": "John Coltrane",
           "listen_count": 2
         },
         {
@@ -2092,6 +2036,10 @@
         },
         {
           "artist": "Bruce Springsteen",
+          "listen_count": 1
+        },
+        {
+          "artist": "Cannonball Adderley",
           "listen_count": 1
         },
         {
@@ -2243,10 +2191,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Paul McCartney",
-          "listen_count": 1
-        },
-        {
           "artist": "Peter Gabriel",
           "listen_count": 1
         },
@@ -2308,10 +2252,6 @@
         },
         {
           "artist": "The Legendary Oscar Peterson Trio",
-          "listen_count": 1
-        },
-        {
-          "artist": "The Lightning Seeds",
           "listen_count": 1
         },
         {
@@ -2449,6 +2389,13 @@
           "last_listened_at_utc": "2026-09-13T16:16:38Z"
         },
         {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Misty",
+          "listen_count": 21,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-10-09T22:27:08Z"
+        },
+        {
           "artist": "רביד פלוטניק",
           "album": "הדרך לשביל הזהב",
           "listen_count": 21,
@@ -2470,13 +2417,6 @@
           "last_listened_at_utc": "2026-09-09T00:52:41Z"
         },
         {
-          "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
-          "album": "Pacific",
-          "listen_count": 17,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-25T20:37:14Z"
-        },
-        {
           "artist": "Jack White",
           "album": "Frozen Charlotte",
           "listen_count": 16,
@@ -2484,18 +2424,18 @@
           "last_listened_at_utc": "2026-07-13T18:27:06Z"
         },
         {
-          "artist": "John Coltrane Quartet",
-          "album": "Ballads",
+          "artist": "Sonny Rollins",
+          "album": "Saxophone Colossus",
           "listen_count": 16,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-13T14:04:23Z"
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-09T23:39:47Z"
         },
         {
-          "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
-          "album": "Waltz for Debby [1962]",
-          "listen_count": 14,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-13T14:39:12Z"
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Midnight Sugar",
+          "listen_count": 16,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-10-09T23:05:04Z"
         },
         {
           "artist": "Sagol 59",
@@ -2505,18 +2445,32 @@
           "last_listened_at_utc": "2026-09-16T20:41:32Z"
         },
         {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Misty",
-          "listen_count": 14,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-09-07T22:52:31Z"
-        },
-        {
           "artist": "青葉市子",
           "album": "Windswept Adan",
           "listen_count": 14,
           "unique_tracks": 14,
           "last_listened_at_utc": "2026-09-29T22:48:47Z"
+        },
+        {
+          "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
+          "album": "Waltz for Debby [1962]",
+          "listen_count": 13,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-09-13T14:39:12Z"
+        },
+        {
+          "artist": "Cameron Winter",
+          "album": "Live at Carnegie Hall",
+          "listen_count": 13,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-10-10T14:03:11Z"
+        },
+        {
+          "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
+          "album": "Pacific",
+          "listen_count": 13,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-09-25T20:37:14Z"
         },
         {
           "artist": "Richard & Linda Thompson",
@@ -2575,25 +2529,11 @@
           "last_listened_at_utc": "2026-07-26T16:01:28Z"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "album": "SOUR",
+          "artist": "Kenny Burrell",
+          "album": "Midnight Blue",
           "listen_count": 11,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-07-11T20:12:22Z"
-        },
-        {
-          "artist": "Sonny Rollins",
-          "album": "Saxophone Colossus",
-          "listen_count": 11,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-04T21:32:34Z"
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Midnight Sugar",
-          "listen_count": 11,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-02T20:41:14Z"
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-10-10T12:01:02Z"
         },
         {
           "artist": "עדן דרסו",
@@ -2631,13 +2571,6 @@
           "last_listened_at_utc": "2026-09-30T22:18:29Z"
         },
         {
-          "artist": "Kenny Burrell",
-          "album": "Midnight Blue",
-          "listen_count": 10,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-09-20T22:46:37Z"
-        },
-        {
           "artist": "Nils Frahm",
           "album": "All Melody",
           "listen_count": 10,
@@ -2673,6 +2606,13 @@
           "last_listened_at_utc": "2026-09-01T21:54:18Z"
         },
         {
+          "artist": "John Coltrane Quartet",
+          "album": "Ballads",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-09-13T14:04:23Z"
+        },
+        {
           "artist": "Songs: Ohia",
           "album": "The Magnolia Electric Co.",
           "listen_count": 8,
@@ -2706,6 +2646,13 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-09-27T23:08:27Z"
+        },
+        {
+          "artist": "Isao Suzuki Trio / Quartet",
+          "album": "Blow Up",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-10T11:55:16Z"
         },
         {
           "artist": "Shabak Samech",
@@ -2757,6 +2704,13 @@
           "last_listened_at_utc": "2026-07-25T13:30:27Z"
         },
         {
+          "artist": "J Dilla",
+          "album": "Donuts",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-09T21:19:08Z"
+        },
+        {
           "artist": "Julian Lage",
           "album": "Speak To Me",
           "listen_count": 5,
@@ -2799,11 +2753,11 @@
           "last_listened_at_utc": "2026-07-14T21:30:02Z"
         },
         {
-          "artist": "J Dilla",
-          "album": "Donuts",
+          "artist": "Mikiko Sato",
+          "album": "Mikiko's World",
           "listen_count": 4,
           "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-09T12:41:48Z"
+          "last_listened_at_utc": "2026-10-10T12:18:37Z"
         },
         {
           "artist": "NuNu",
@@ -2867,13 +2821,6 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-09-13T20:46:39Z"
-        },
-        {
-          "artist": "Oasis",
-          "album": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-07-11T20:23:18Z"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -2967,13 +2914,6 @@
           "last_listened_at_utc": "2026-07-13T22:24:18Z"
         },
         {
-          "artist": "Cannonball Adderley",
-          "album": "Somethin' Else (Remastered 2012)",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-07-26T19:51:38Z"
-        },
-        {
           "artist": "Chet Baker",
           "album": "Chet",
           "listen_count": 2,
@@ -3028,13 +2968,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-08T18:17:16Z"
-        },
-        {
-          "artist": "John Coltrane",
-          "album": "Blue Train",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-07-26T20:25:39Z"
         },
         {
           "artist": "Oscar Peterson meets Roy Hargrove and Ralph Moore with Niels‐Henning Ørsted Pedersen and Lewis Nash",
@@ -3175,6 +3108,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-20T21:23:42Z"
+        },
+        {
+          "artist": "Cannonball Adderley",
+          "album": "Somethin' Else (Remastered 2012)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-07-26T19:51:38Z"
         },
         {
           "artist": "Cannonball Adderley With Milt Jackson",
@@ -3360,6 +3300,13 @@
         },
         {
           "artist": "John Coltrane",
+          "album": "Blue Train",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-07-26T20:25:39Z"
+        },
+        {
+          "artist": "John Coltrane",
           "album": "Giant Steps (60th Anniversary Super Deluxe Edition; 2020 Remaster)",
           "listen_count": 1,
           "unique_tracks": 1,
@@ -3485,13 +3432,6 @@
           "last_listened_at_utc": "2026-07-26T21:45:35Z"
         },
         {
-          "artist": "Miles Davis",
-          "album": "Sketches of Spain",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-07-11T18:14:15Z"
-        },
-        {
           "artist": "Nancy Wilson / Cannonball Adderley",
           "album": "Nancy Wilson/Cannonball Adderley",
           "listen_count": 1,
@@ -3525,13 +3465,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-13T20:38:58Z"
-        },
-        {
-          "artist": "Paul McCartney",
-          "album": "The Boys Of Dungeon Lane",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-07-11T19:34:20Z"
         },
         {
           "artist": "Peter Gabriel",
@@ -3702,13 +3635,6 @@
           "last_listened_at_utc": "2026-07-26T22:05:45Z"
         },
         {
-          "artist": "The Lightning Seeds",
-          "album": "It's Coming Home (Three Lions On A Shirt)",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-07-11T19:30:32Z"
-        },
-        {
           "artist": "The Oscar Peterson Trio",
           "album": "Night Train",
           "listen_count": 1,
@@ -3866,6 +3792,749 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1791640991,
+      "listened_at_utc": "2026-10-10T14:03:11Z",
+      "artist": "Cameron Winter",
+      "track": "Try as I May (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791640655,
+      "listened_at_utc": "2026-10-10T13:57:35Z",
+      "artist": "Cameron Winter",
+      "track": "It All Fell in the River (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791634717,
+      "listened_at_utc": "2026-10-10T12:18:37Z",
+      "artist": "Mikiko Sato",
+      "track": "Once Again",
+      "album": "Mikiko's World",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791634514,
+      "listened_at_utc": "2026-10-10T12:15:14Z",
+      "artist": "Mikiko Sato",
+      "track": "I Miss the Boston You Were In",
+      "album": "Mikiko's World",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791634278,
+      "listened_at_utc": "2026-10-10T12:11:18Z",
+      "artist": "Mikiko Sato",
+      "track": "I Wonder If I Can Fly",
+      "album": "Mikiko's World",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791633991,
+      "listened_at_utc": "2026-10-10T12:06:31Z",
+      "artist": "Mikiko Sato",
+      "track": "Daydream",
+      "album": "Mikiko's World",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791633662,
+      "listened_at_utc": "2026-10-10T12:01:02Z",
+      "artist": "Kenny Burrell",
+      "track": "Chitlins Con Carne",
+      "album": "Midnight Blue",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a85b66d2-34df-4d5a-8c0d-d585b8a14ce1"
+        ],
+        "recording_mbid": "7d95973e-988e-4ea0-b60b-f0be468555f2",
+        "release_mbid": "62f268a0-6bb0-4d85-9370-05069c482092",
+        "release_group_mbid": "88861537-d884-370c-800d-7b4a7aed782c"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791633316,
+      "listened_at_utc": "2026-10-10T11:55:16Z",
+      "artist": "Isao Suzuki Trio / Quartet",
+      "track": "Low Flight",
+      "album": "Blow Up",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e47e85f9-ead4-4d1a-bda3-37f80774cf05",
+          "0de9389e-a659-4647-b9bd-bf0c36634075"
+        ],
+        "release_mbid": "e8f4dbd6-5e4b-496d-8847-57c531558af5"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791591285,
+      "listened_at_utc": "2026-10-10T00:14:45Z",
+      "artist": "Isao Suzuki Trio / Quartet",
+      "track": "I Can't Get Started",
+      "album": "Blow Up",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e47e85f9-ead4-4d1a-bda3-37f80774cf05",
+          "0de9389e-a659-4647-b9bd-bf0c36634075"
+        ],
+        "release_mbid": "e8f4dbd6-5e4b-496d-8847-57c531558af5"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791590950,
+      "listened_at_utc": "2026-10-10T00:09:10Z",
+      "artist": "Isao Suzuki Trio / Quartet",
+      "track": "Like It Is",
+      "album": "Blow Up",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e47e85f9-ead4-4d1a-bda3-37f80774cf05",
+          "0de9389e-a659-4647-b9bd-bf0c36634075"
+        ],
+        "release_mbid": "e8f4dbd6-5e4b-496d-8847-57c531558af5"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791590502,
+      "listened_at_utc": "2026-10-10T00:01:42Z",
+      "artist": "Isao Suzuki Trio / Quartet",
+      "track": "Blow Up",
+      "album": "Blow Up",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e47e85f9-ead4-4d1a-bda3-37f80774cf05",
+          "0de9389e-a659-4647-b9bd-bf0c36634075"
+        ],
+        "release_mbid": "e8f4dbd6-5e4b-496d-8847-57c531558af5"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791590157,
+      "listened_at_utc": "2026-10-09T23:55:57Z",
+      "artist": "Isao Suzuki Trio / Quartet",
+      "track": "Everything Happens to Me",
+      "album": "Blow Up",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e47e85f9-ead4-4d1a-bda3-37f80774cf05",
+          "0de9389e-a659-4647-b9bd-bf0c36634075"
+        ],
+        "release_mbid": "e8f4dbd6-5e4b-496d-8847-57c531558af5"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791589861,
+      "listened_at_utc": "2026-10-09T23:51:01Z",
+      "artist": "Isao Suzuki Trio / Quartet",
+      "track": "Aqua Marine",
+      "album": "Blow Up",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e47e85f9-ead4-4d1a-bda3-37f80774cf05",
+          "0de9389e-a659-4647-b9bd-bf0c36634075"
+        ],
+        "release_mbid": "e8f4dbd6-5e4b-496d-8847-57c531558af5"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791589187,
+      "listened_at_utc": "2026-10-09T23:39:47Z",
+      "artist": "Sonny Rollins",
+      "track": "Blue 7",
+      "album": "Saxophone Colossus",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3b47247e-5b57-49b6-a0ed-bad80243802a"
+        ],
+        "recording_mbid": "8b369b80-46f1-4029-97dd-c884d1ba3b09",
+        "release_mbid": "521393d1-8710-4887-8e45-d3ae2fb3b3b2",
+        "release_group_mbid": "cf29d6a2-a18a-3bb6-a861-495148baee1f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791588582,
+      "listened_at_utc": "2026-10-09T23:29:42Z",
+      "artist": "Sonny Rollins",
+      "track": "Moritat (Mack the Knife)",
+      "album": "Saxophone Colossus",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3b47247e-5b57-49b6-a0ed-bad80243802a",
+          "c39a1eeb-e646-43e9-b984-4ffdc92b0241",
+          "ebd504b0-7644-4887-9e4e-7d625f52fd07",
+          "0b6aea55-d855-4a33-ae08-b0280dd28684"
+        ],
+        "release_mbid": "eac24df5-5af5-39a7-96ed-4fdff2d86749",
+        "recording_mbid": "748690e2-e68d-4b07-bd57-c113eed1ec12",
+        "release_group_mbid": "cf29d6a2-a18a-3bb6-a861-495148baee1f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791588269,
+      "listened_at_utc": "2026-10-09T23:24:29Z",
+      "artist": "Sonny Rollins",
+      "track": "Strode Rode",
+      "album": "Saxophone Colossus",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3b47247e-5b57-49b6-a0ed-bad80243802a"
+        ],
+        "recording_mbid": "83f3a02c-4233-4c4e-9060-3e239ed0a420",
+        "release_mbid": "521393d1-8710-4887-8e45-d3ae2fb3b3b2",
+        "release_group_mbid": "cf29d6a2-a18a-3bb6-a861-495148baee1f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791587879,
+      "listened_at_utc": "2026-10-09T23:17:59Z",
+      "artist": "Sonny Rollins",
+      "track": "You Don't Know What Love is",
+      "album": "Saxophone Colossus",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3b47247e-5b57-49b6-a0ed-bad80243802a"
+        ],
+        "recording_mbid": "894ab4fd-423b-4c16-ac47-6163a8f1e261",
+        "release_mbid": "521393d1-8710-4887-8e45-d3ae2fb3b3b2",
+        "release_group_mbid": "cf29d6a2-a18a-3bb6-a861-495148baee1f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791587472,
+      "listened_at_utc": "2026-10-09T23:11:12Z",
+      "artist": "Sonny Rollins",
+      "track": "St. Thomas",
+      "album": "Saxophone Colossus",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3b47247e-5b57-49b6-a0ed-bad80243802a"
+        ],
+        "recording_mbid": "c9cfbe3a-36d2-48ba-9ffb-e9a24aca01d0",
+        "release_mbid": "12422138-601d-4e18-9561-fae645bf9a55",
+        "release_group_mbid": "a6b20f74-0fa1-32ee-8d8d-1adfd8d5406a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791587104,
+      "listened_at_utc": "2026-10-09T23:05:04Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "Sweet Georgia Blues",
+      "album": "Midnight Sugar",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "recording_mbid": "1f8fd35c-5b00-49ef-95bb-9b2cc559d677",
+        "release_mbid": "cf60774d-c7ab-4543-92b6-336ed560f145",
+        "release_group_mbid": "d2a91dd3-cb71-40b0-81ca-ad4bee8d25eb"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791586669,
+      "listened_at_utc": "2026-10-09T22:57:49Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "It Could Happen to You",
+      "album": "Midnight Sugar",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "recording_mbid": "b0a5b7e6-7fb3-40d5-b34e-afc74683be54",
+        "release_mbid": "cf60774d-c7ab-4543-92b6-336ed560f145",
+        "release_group_mbid": "d2a91dd3-cb71-40b0-81ca-ad4bee8d25eb"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791586268,
+      "listened_at_utc": "2026-10-09T22:51:08Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "The Nearness of You",
+      "album": "Midnight Sugar",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "recording_mbid": "5828a61f-99dd-4bc5-84f3-102c0f498591",
+        "release_mbid": "cf60774d-c7ab-4543-92b6-336ed560f145",
+        "release_group_mbid": "d2a91dd3-cb71-40b0-81ca-ad4bee8d25eb"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791585829,
+      "listened_at_utc": "2026-10-09T22:43:49Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "I'm a Fool to Want You",
+      "album": "Midnight Sugar",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "recording_mbid": "912ce8e1-96c3-4ecc-96ba-605bc84e3289",
+        "release_mbid": "cf60774d-c7ab-4543-92b6-336ed560f145",
+        "release_group_mbid": "d2a91dd3-cb71-40b0-81ca-ad4bee8d25eb"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791585109,
+      "listened_at_utc": "2026-10-09T22:31:49Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "Midnight Sugar",
+      "album": "Midnight Sugar",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "recording_mbid": "073e8f6d-efc8-49e0-8cb3-b4d091b402a3",
+        "release_mbid": "d8e4a129-d8f5-4b80-8414-3da3f8ad91dc",
+        "release_group_mbid": "4890f61a-9b84-42e9-aaf3-c0899c019bcf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791584828,
+      "listened_at_utc": "2026-10-09T22:27:08Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "Angel Eyes",
+      "album": "Misty",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "recording_mbid": "4d0bd560-0c46-48db-bb0e-d268943c5fe3",
+        "release_mbid": "e18fbebe-e08a-4d87-be4d-ff2be241f14a",
+        "release_group_mbid": "a4d201ab-bf93-3682-81ef-ddc706b60e5b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791584444,
+      "listened_at_utc": "2026-10-09T22:20:44Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "I Didn't Know What Time It Was",
+      "album": "Misty",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "recording_mbid": "1e3c21b5-ab72-463e-a183-dc63073724ca",
+        "release_mbid": "e18fbebe-e08a-4d87-be4d-ff2be241f14a",
+        "release_group_mbid": "a4d201ab-bf93-3682-81ef-ddc706b60e5b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791584082,
+      "listened_at_utc": "2026-10-09T22:14:42Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "Smoke Gets in Your Eyes",
+      "album": "Misty",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "recording_mbid": "0dcc9ba2-99e4-4625-a376-0d2c26cb62bd",
+        "release_mbid": "e18fbebe-e08a-4d87-be4d-ff2be241f14a",
+        "release_group_mbid": "a4d201ab-bf93-3682-81ef-ddc706b60e5b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791583717,
+      "listened_at_utc": "2026-10-09T22:08:37Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "Honey Suckle Rose",
+      "album": "Misty",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "recording_mbid": "f9ffccee-cef4-4558-a235-6316ee8a4a5a",
+        "release_mbid": "e18fbebe-e08a-4d87-be4d-ff2be241f14a",
+        "release_group_mbid": "a4d201ab-bf93-3682-81ef-ddc706b60e5b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791583348,
+      "listened_at_utc": "2026-10-09T22:02:28Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "Yesterdays",
+      "album": "Misty",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "recording_mbid": "2b1d19a2-b1a3-4cab-b228-69fee368d886",
+        "release_mbid": "e18fbebe-e08a-4d87-be4d-ff2be241f14a",
+        "release_group_mbid": "a4d201ab-bf93-3682-81ef-ddc706b60e5b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791582869,
+      "listened_at_utc": "2026-10-09T21:54:29Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "Blues",
+      "album": "Misty",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "recording_mbid": "7afc020f-b963-49f8-b10a-f3b40b45ecdd",
+        "release_mbid": "e18fbebe-e08a-4d87-be4d-ff2be241f14a",
+        "release_group_mbid": "a4d201ab-bf93-3682-81ef-ddc706b60e5b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791582434,
+      "listened_at_utc": "2026-10-09T21:47:14Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "Misty",
+      "album": "Misty",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "recording_mbid": "b52ef3f3-4d03-432d-98d0-1227f87cf541",
+        "release_mbid": "e18fbebe-e08a-4d87-be4d-ff2be241f14a",
+        "release_group_mbid": "a4d201ab-bf93-3682-81ef-ddc706b60e5b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791581956,
+      "listened_at_utc": "2026-10-09T21:39:16Z",
+      "artist": "Cameron Winter",
+      "track": "Nina + Field of Cops (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791581087,
+      "listened_at_utc": "2026-10-09T21:24:47Z",
+      "artist": "Cameron Winter",
+      "track": "If You Turn Back Now (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791580748,
+      "listened_at_utc": "2026-10-09T21:19:08Z",
+      "artist": "J Dilla",
+      "track": "Stop",
+      "album": "Donuts",
+      "musicbrainz": {
+        "artist_mbids": [
+          "cbcbb22c-3a8d-46af-b4ba-09c98f0d7931"
+        ],
+        "recording_mbid": "9b0c6993-b196-4550-8435-a1f82d233b93",
+        "release_mbid": "e3655e9f-3db1-434d-bb4b-3529d09b2989",
+        "release_group_mbid": "6b78c33a-64c4-3472-99e9-be45a392acb4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791577825,
+      "listened_at_utc": "2026-10-09T20:30:25Z",
+      "artist": "Cameron Winter",
+      "track": "Nina + Field of Cops (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791577487,
+      "listened_at_utc": "2026-10-09T20:24:47Z",
+      "artist": "Cameron Winter",
+      "track": "If You Turn Back Now (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791577063,
+      "listened_at_utc": "2026-10-09T20:17:43Z",
+      "artist": "Cameron Winter",
+      "track": "Cancer of the Skull (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791576753,
+      "listened_at_utc": "2026-10-09T20:12:33Z",
+      "artist": "Cameron Winter",
+      "track": "Drinking Age (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791576499,
+      "listened_at_utc": "2026-10-09T20:08:19Z",
+      "artist": "Cameron Winter",
+      "track": "Love Takes Miles (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4",
+        "recording_mbid": "ba33d7c6-7165-487f-9944-6f4612b3d9c0",
+        "release_group_mbid": "a9b6e76b-190b-4802-b120-ddef0fd852b7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791576234,
+      "listened_at_utc": "2026-10-09T20:03:54Z",
+      "artist": "Cameron Winter",
+      "track": "The Rolling Stones (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791575975,
+      "listened_at_utc": "2026-10-09T19:59:35Z",
+      "artist": "Cameron Winter",
+      "track": "Emperor XIII in Shades (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791575619,
+      "listened_at_utc": "2026-10-09T19:53:39Z",
+      "artist": "Cameron Winter",
+      "track": "Try as I May (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791575343,
+      "listened_at_utc": "2026-10-09T19:49:03Z",
+      "artist": "Cameron Winter",
+      "track": "It All Fell in the River (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1791549708,
       "listened_at_utc": "2026-10-09T12:41:48Z",
@@ -19762,542 +20431,6 @@
         "release_mbid": "dba463f4-fe71-4bb2-b20f-60169a4f7e79",
         "release_group_mbid": "93c49a36-4cb4-3922-aa86-1a1620d38b22"
       },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783801398,
-      "listened_at_utc": "2026-07-11T20:23:18Z",
-      "artist": "Oasis",
-      "track": "Wonderwall (Remastered)",
-      "album": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-      "musicbrainz": {
-        "artist_mbids": [
-          "39ab1aed-75e0-4140-bd47-540276886b60"
-        ],
-        "recording_mbid": "580f4553-e29a-4d19-989c-1b097b76de48",
-        "release_mbid": "ed286309-6e64-48e3-835b-61aaf86cdb86",
-        "release_group_mbid": "cc7e6348-cc55-31fa-aeb2-748a46a81cb3"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783801153,
-      "listened_at_utc": "2026-07-11T20:19:13Z",
-      "artist": "Oasis",
-      "track": "Roll With It (Remastered)",
-      "album": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-      "musicbrainz": {},
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783800951,
-      "listened_at_utc": "2026-07-11T20:15:51Z",
-      "artist": "Oasis",
-      "track": "Hello (Remastered)",
-      "album": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-      "musicbrainz": {
-        "artist_mbids": [
-          "39ab1aed-75e0-4140-bd47-540276886b60"
-        ],
-        "recording_mbid": "96d67d9c-0be7-40df-a5fa-d82e4bd410d2",
-        "release_mbid": "ed286309-6e64-48e3-835b-61aaf86cdb86",
-        "release_group_mbid": "cc7e6348-cc55-31fa-aeb2-748a46a81cb3"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783800742,
-      "listened_at_utc": "2026-07-11T20:12:22Z",
-      "artist": "Olivia Rodrigo",
-      "track": "hope ur ok",
-      "album": "SOUR",
-      "musicbrainz": {
-        "artist_mbids": [
-          "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
-        ],
-        "recording_mbid": "f0186e13-eac8-4b99-9c0f-17984b890485",
-        "release_mbid": "4d91d37f-54dd-4f87-aeb9-891213e60fb8",
-        "release_group_mbid": "2ae2e504-7116-4b4f-b632-9748bb18ccd2"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783800589,
-      "listened_at_utc": "2026-07-11T20:09:49Z",
-      "artist": "Olivia Rodrigo",
-      "track": "favorite crime",
-      "album": "SOUR",
-      "musicbrainz": {
-        "artist_mbids": [
-          "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
-        ],
-        "recording_mbid": "93570d45-3128-4dbc-91b4-23706233453a",
-        "release_mbid": "4d91d37f-54dd-4f87-aeb9-891213e60fb8",
-        "release_group_mbid": "2ae2e504-7116-4b4f-b632-9748bb18ccd2"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783800353,
-      "listened_at_utc": "2026-07-11T20:05:53Z",
-      "artist": "Olivia Rodrigo",
-      "track": "jealousy, jealousy",
-      "album": "SOUR",
-      "musicbrainz": {
-        "artist_mbids": [
-          "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
-        ],
-        "recording_mbid": "dbcdb192-8e1f-47f5-9fd6-b6f5dcb2da1a",
-        "release_mbid": "4d91d37f-54dd-4f87-aeb9-891213e60fb8",
-        "release_group_mbid": "2ae2e504-7116-4b4f-b632-9748bb18ccd2"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783800172,
-      "listened_at_utc": "2026-07-11T20:02:52Z",
-      "artist": "Olivia Rodrigo",
-      "track": "happier",
-      "album": "SOUR",
-      "musicbrainz": {
-        "artist_mbids": [
-          "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
-        ],
-        "recording_mbid": "7f9dca10-74ac-4473-85b5-0d8f123baa2f",
-        "release_mbid": "4d91d37f-54dd-4f87-aeb9-891213e60fb8",
-        "release_group_mbid": "2ae2e504-7116-4b4f-b632-9748bb18ccd2"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783799969,
-      "listened_at_utc": "2026-07-11T19:59:29Z",
-      "artist": "Olivia Rodrigo",
-      "track": "enough for you",
-      "album": "SOUR",
-      "musicbrainz": {
-        "artist_mbids": [
-          "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
-        ],
-        "recording_mbid": "78856ae0-7607-488d-a2c1-baa9f48ff24e",
-        "release_mbid": "4d91d37f-54dd-4f87-aeb9-891213e60fb8",
-        "release_group_mbid": "2ae2e504-7116-4b4f-b632-9748bb18ccd2"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783799790,
-      "listened_at_utc": "2026-07-11T19:56:30Z",
-      "artist": "Olivia Rodrigo",
-      "track": "good 4 u",
-      "album": "SOUR",
-      "musicbrainz": {
-        "artist_mbids": [
-          "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
-        ],
-        "recording_mbid": "97aa087b-5fa2-42ff-bd48-d162862cdc95",
-        "release_mbid": "4d91d37f-54dd-4f87-aeb9-891213e60fb8",
-        "release_group_mbid": "2ae2e504-7116-4b4f-b632-9748bb18ccd2"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783799575,
-      "listened_at_utc": "2026-07-11T19:52:55Z",
-      "artist": "Olivia Rodrigo",
-      "track": "deja vu",
-      "album": "SOUR",
-      "musicbrainz": {
-        "artist_mbids": [
-          "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
-        ],
-        "recording_mbid": "b5f3c969-1a8b-4bd4-ae48-ab5ebfb13774",
-        "release_mbid": "4d91d37f-54dd-4f87-aeb9-891213e60fb8",
-        "release_group_mbid": "2ae2e504-7116-4b4f-b632-9748bb18ccd2"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783799411,
-      "listened_at_utc": "2026-07-11T19:50:11Z",
-      "artist": "Olivia Rodrigo",
-      "track": "1 step forward, 3 steps back",
-      "album": "SOUR",
-      "musicbrainz": {
-        "artist_mbids": [
-          "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
-        ],
-        "recording_mbid": "2ac0d796-154a-4ca6-9c40-45e2dddb1a32",
-        "release_mbid": "4d91d37f-54dd-4f87-aeb9-891213e60fb8",
-        "release_group_mbid": "2ae2e504-7116-4b4f-b632-9748bb18ccd2"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783799169,
-      "listened_at_utc": "2026-07-11T19:46:09Z",
-      "artist": "Olivia Rodrigo",
-      "track": "drivers license",
-      "album": "SOUR",
-      "musicbrainz": {
-        "artist_mbids": [
-          "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
-        ],
-        "recording_mbid": "143f1c88-f47f-4f37-b25d-614c74269dea",
-        "release_mbid": "4d91d37f-54dd-4f87-aeb9-891213e60fb8",
-        "release_group_mbid": "2ae2e504-7116-4b4f-b632-9748bb18ccd2"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783798940,
-      "listened_at_utc": "2026-07-11T19:42:20Z",
-      "artist": "Olivia Rodrigo",
-      "track": "traitor",
-      "album": "SOUR",
-      "musicbrainz": {
-        "artist_mbids": [
-          "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
-        ],
-        "recording_mbid": "b0554059-21b3-416e-b62d-99e13608f6bf",
-        "release_mbid": "4d91d37f-54dd-4f87-aeb9-891213e60fb8",
-        "release_group_mbid": "2ae2e504-7116-4b4f-b632-9748bb18ccd2"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783798797,
-      "listened_at_utc": "2026-07-11T19:39:57Z",
-      "artist": "Olivia Rodrigo",
-      "track": "brutal",
-      "album": "SOUR",
-      "musicbrainz": {
-        "artist_mbids": [
-          "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
-        ],
-        "recording_mbid": "311027d5-681d-482a-95b8-bfdff35adcfa",
-        "release_mbid": "4d91d37f-54dd-4f87-aeb9-891213e60fb8",
-        "release_group_mbid": "2ae2e504-7116-4b4f-b632-9748bb18ccd2"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783798460,
-      "listened_at_utc": "2026-07-11T19:34:20Z",
-      "artist": "Paul McCartney",
-      "track": "As You Lie There",
-      "album": "The Boys Of Dungeon Lane",
-      "musicbrainz": {
-        "artist_mbids": [
-          "ba550d0e-adac-4864-b88b-407cab5e76af"
-        ],
-        "recording_mbid": "b7346ac6-a943-4834-86d6-7f5527688c37",
-        "release_mbid": "5c7ae250-161e-4ecf-995d-bd78470e469f",
-        "release_group_mbid": "946626a9-1cb2-4a71-a7e5-bc297a8f2633"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783798232,
-      "listened_at_utc": "2026-07-11T19:30:32Z",
-      "artist": "The Lightning Seeds",
-      "track": "Three Lions (Football's Coming Home)",
-      "album": "It's Coming Home (Three Lions On A Shirt)",
-      "musicbrainz": {
-        "artist_mbids": [
-          "1ba601a0-3401-4b28-8ddd-9af8203661e8"
-        ],
-        "recording_mbid": "44840b5f-8813-4e38-91ef-1a388429855c",
-        "release_mbid": "e0d075bd-ce59-4afe-a6d1-23ec45545512",
-        "release_group_mbid": "4f3b9c8a-abcd-308a-b6c5-dab84e48b730"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783795684,
-      "listened_at_utc": "2026-07-11T18:48:04Z",
-      "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
-      "track": "Slack Key Rumba",
-      "album": "Pacific",
-      "musicbrainz": {},
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783795108,
-      "listened_at_utc": "2026-07-11T18:38:28Z",
-      "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
-      "track": "Nostalgia of Island",
-      "album": "Pacific",
-      "musicbrainz": {},
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783794883,
-      "listened_at_utc": "2026-07-11T18:34:43Z",
-      "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
-      "track": "Coral Reef",
-      "album": "Pacific",
-      "musicbrainz": {},
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783794640,
-      "listened_at_utc": "2026-07-11T18:30:40Z",
-      "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
-      "track": "Saigono Rakuen",
-      "album": "Pacific",
-      "musicbrainz": {},
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783793655,
-      "listened_at_utc": "2026-07-11T18:14:15Z",
-      "artist": "Miles Davis",
-      "track": "Concierto de Aranjuez: Adagio",
-      "album": "Sketches of Spain",
-      "musicbrainz": {
-        "artist_mbids": [
-          "561d854a-6a28-4aa7-8c99-323e6ce46c2a"
-        ],
-        "recording_mbid": "7796496e-22c5-458c-93fc-563afd8227fc",
-        "release_mbid": "8709a882-a7c4-4c77-9edf-744521ec4ee2",
-        "release_group_mbid": "966fede2-31b2-3b6a-ab50-4a650d3bb97d"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783793356,
-      "listened_at_utc": "2026-07-11T18:09:16Z",
-      "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
-      "track": "My Foolish Heart",
-      "album": "Waltz for Debby [1962]",
-      "musicbrainz": {
-        "artist_mbids": [
-          "d0630a08-3b40-4cb4-9f48-7d525262c1f6",
-          "97cc902a-2850-4db8-8218-186f3b5a1ea5",
-          "9be59e25-f609-46b2-90cb-2db39b1a1910"
-        ],
-        "recording_mbid": "0911d89c-2635-4ab1-ab45-b478884be364",
-        "release_mbid": "f1f43c39-4c7f-40ed-bb08-33ba6d6d6c34",
-        "release_group_mbid": "392e7fcf-5ae9-37f6-b8c9-57901cfbee1f"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783792695,
-      "listened_at_utc": "2026-07-11T17:58:15Z",
-      "artist": "Cannonball Adderley",
-      "track": "Autumn Leaves (2012 Remastered)",
-      "album": "Somethin' Else (Remastered 2012)",
-      "musicbrainz": {
-        "artist_mbids": [
-          "a4c73ebe-b2c7-4f13-b99d-2fe1f9f27da8"
-        ],
-        "recording_mbid": "69c7f51f-10bf-44b1-a319-3c1fb60f538d",
-        "release_mbid": "07bac3e1-3ce4-37f0-aa7f-754eaddb7fb8",
-        "release_group_mbid": "495c22f5-90b3-3e87-8be1-2c55aef3ed82"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783792051,
-      "listened_at_utc": "2026-07-11T17:47:31Z",
-      "artist": "John Coltrane",
-      "track": "Blue Train",
-      "album": "Blue Train",
-      "musicbrainz": {
-        "artist_mbids": [
-          "b625448e-bf4a-41c3-a421-72ad46cdb831"
-        ],
-        "recording_mbid": "1f1fd94d-35f2-4ca4-8b29-01100caa2a19",
-        "release_mbid": "3b1206b6-2173-406f-bb92-213e2fcef63b",
-        "release_group_mbid": "12349ce8-2087-3d16-93da-70cd65621774"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783791859,
-      "listened_at_utc": "2026-07-11T17:44:19Z",
-      "artist": "John Coltrane Quartet",
-      "track": "Nancy (With The Laughing Face) (Album Version)",
-      "album": "Ballads",
-      "musicbrainz": {
-        "artist_mbids": [
-          "a43270af-bc4a-4552-847e-617b11f38d7b"
-        ],
-        "recording_mbid": "a9915f7a-e10b-4040-bbbe-012a0fc3a5bd",
-        "release_mbid": "ab916900-6ac9-48e6-ad64-486b8289f6fd",
-        "release_group_mbid": "ec33b3fb-1d60-3c15-8990-7aa49e0844f0"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783791692,
-      "listened_at_utc": "2026-07-11T17:41:32Z",
-      "artist": "John Coltrane Quartet",
-      "track": "It's Easy To Remember (Album Version)",
-      "album": "Ballads",
-      "musicbrainz": {
-        "artist_mbids": [
-          "a43270af-bc4a-4552-847e-617b11f38d7b"
-        ],
-        "recording_mbid": "f1234e7a-edbe-453e-b7f3-3625366d625b",
-        "release_mbid": "df7381ea-29eb-3e00-8011-425d265826b2",
-        "release_group_mbid": "ec33b3fb-1d60-3c15-8990-7aa49e0844f0"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783791466,
-      "listened_at_utc": "2026-07-11T17:37:46Z",
-      "artist": "John Coltrane Quartet",
-      "track": "What's New (Album Version)",
-      "album": "Ballads",
-      "musicbrainz": {
-        "artist_mbids": [
-          "a43270af-bc4a-4552-847e-617b11f38d7b"
-        ],
-        "recording_mbid": "37282c42-4221-40e2-89ce-a28ff8602f67",
-        "release_mbid": "ab916900-6ac9-48e6-ad64-486b8289f6fd",
-        "release_group_mbid": "ec33b3fb-1d60-3c15-8990-7aa49e0844f0"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783791175,
-      "listened_at_utc": "2026-07-11T17:32:55Z",
-      "artist": "John Coltrane Quartet",
-      "track": "I Wish I Knew (Album Version)",
-      "album": "Ballads",
-      "musicbrainz": {
-        "artist_mbids": [
-          "a43270af-bc4a-4552-847e-617b11f38d7b"
-        ],
-        "recording_mbid": "a67240a1-6816-4654-8c97-1adc4b88f2da",
-        "release_mbid": "57f8f0ba-0783-4a41-8f9a-735d3936007b",
-        "release_group_mbid": "ec33b3fb-1d60-3c15-8990-7aa49e0844f0"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783790959,
-      "listened_at_utc": "2026-07-11T17:29:19Z",
-      "artist": "John Coltrane Quartet",
-      "track": "All Or Nothing At All (Album Version)",
-      "album": "Ballads",
-      "musicbrainz": {
-        "artist_mbids": [
-          "a43270af-bc4a-4552-847e-617b11f38d7b"
-        ],
-        "recording_mbid": "07c6d0c2-96dc-486d-87b2-d71ad4ef8077",
-        "release_mbid": "ab916900-6ac9-48e6-ad64-486b8289f6fd",
-        "release_group_mbid": "ec33b3fb-1d60-3c15-8990-7aa49e0844f0"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783790694,
-      "listened_at_utc": "2026-07-11T17:24:54Z",
-      "artist": "John Coltrane Quartet",
-      "track": "Too Young To Go Steady (Album Version)",
-      "album": "Ballads",
-      "musicbrainz": {
-        "artist_mbids": [
-          "a43270af-bc4a-4552-847e-617b11f38d7b"
-        ],
-        "recording_mbid": "a000a806-e4d1-47be-90ac-b230ffa31568",
-        "release_mbid": "ab916900-6ac9-48e6-ad64-486b8289f6fd",
-        "release_group_mbid": "ec33b3fb-1d60-3c15-8990-7aa49e0844f0"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783790380,
-      "listened_at_utc": "2026-07-11T17:19:40Z",
-      "artist": "John Coltrane Quartet",
-      "track": "You Don't Know What Love Is (Album Version)",
-      "album": "Ballads",
-      "musicbrainz": {
-        "artist_mbids": [
-          "a43270af-bc4a-4552-847e-617b11f38d7b"
-        ],
-        "recording_mbid": "85bb4968-39bf-46ba-b211-12475643ee44",
-        "release_mbid": "ab916900-6ac9-48e6-ad64-486b8289f6fd",
-        "release_group_mbid": "ec33b3fb-1d60-3c15-8990-7aa49e0844f0"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1783790123,
-      "listened_at_utc": "2026-07-11T17:15:23Z",
-      "artist": "John Coltrane Quartet",
-      "track": "Say It (Over And Over Again) (Album Version)",
-      "album": "Ballads",
-      "musicbrainz": {},
       "submission_clients": [
         "ListenBrainz lastfm importer v2"
       ]
