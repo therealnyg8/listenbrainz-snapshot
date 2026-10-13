@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-12T19:08:41Z",
+  "generated_at_utc": "2026-10-13T17:00:21Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-14T19:08:41Z",
-    "through_utc": "2026-10-12T19:08:41Z",
+    "from_utc": "2026-07-15T17:00:21Z",
+    "through_utc": "2026-10-13T17:00:21Z",
     "complete": true,
     "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 1379,
-    "deduplicated_listen_count": 1020,
-    "duplicates_removed": 359,
-    "oldest_listen_utc": "2026-07-14T19:12:53Z",
-    "newest_listen_utc": "2026-10-12T18:49:53Z"
+    "raw_listen_count": 1389,
+    "deduplicated_listen_count": 1021,
+    "duplicates_removed": 368,
+    "oldest_listen_utc": "2026-07-17T15:04:49Z",
+    "newest_listen_utc": "2026-10-13T12:36:01Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,18 +28,18 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 205,
-      "unique_artists": 39,
-      "unique_albums": 42,
+      "listen_count": 190,
+      "unique_artists": 34,
+      "unique_albums": 37,
       "listens_without_album": 0,
       "artists": [
         {
-          "artist": "Miles Davis",
+          "artist": "Cameron Winter",
           "listen_count": 16
         },
         {
-          "artist": "Cameron Winter",
-          "listen_count": 15
+          "artist": "Miles Davis",
+          "listen_count": 16
         },
         {
           "artist": "Anouar Brahem",
@@ -78,10 +78,6 @@
           "listen_count": 7
         },
         {
-          "artist": "Ahmad Jamal Trio",
-          "listen_count": 6
-        },
-        {
           "artist": "Isao Suzuki Trio / Quartet",
           "listen_count": 6
         },
@@ -106,15 +102,11 @@
           "listen_count": 4
         },
         {
-          "artist": "Ryuichi Sakamoto",
-          "listen_count": 4
-        },
-        {
           "artist": "Sababa 5",
           "listen_count": 4
         },
         {
-          "artist": "Tinashe",
+          "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
           "listen_count": 4
         },
         {
@@ -122,11 +114,7 @@
           "listen_count": 3
         },
         {
-          "artist": "Helado Negro",
-          "listen_count": 3
-        },
-        {
-          "artist": "The Smile",
+          "artist": "Sissoko Segal Parisien Peirani",
           "listen_count": 3
         },
         {
@@ -150,19 +138,7 @@
           "listen_count": 2
         },
         {
-          "artist": "Squid",
-          "listen_count": 2
-        },
-        {
-          "artist": "Emily A. Sprague",
-          "listen_count": 1
-        },
-        {
           "artist": "Fishmans",
-          "listen_count": 1
-        },
-        {
-          "artist": "Floating Points",
           "listen_count": 1
         },
         {
@@ -178,6 +154,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Squid",
+          "listen_count": 1
+        },
+        {
           "artist": "The Oscar Peterson Trio",
           "listen_count": 1
         },
@@ -186,24 +166,24 @@
           "listen_count": 1
         },
         {
-          "artist": "Ty Segall",
+          "artist": "Yosi Horikawa",
           "listen_count": 1
         }
       ],
       "albums": [
+        {
+          "artist": "Cameron Winter",
+          "album": "Live at Carnegie Hall",
+          "listen_count": 16,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-10-13T12:36:01Z"
+        },
         {
           "artist": "Miles Davis",
           "album": "Kind of Blue",
           "listen_count": 16,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-10-10T21:59:35Z"
-        },
-        {
-          "artist": "Cameron Winter",
-          "album": "Live at Carnegie Hall",
-          "listen_count": 15,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-10T15:40:32Z"
         },
         {
           "artist": "Anouar Brahem",
@@ -269,13 +249,6 @@
           "last_listened_at_utc": "2026-10-09T22:27:08Z"
         },
         {
-          "artist": "Ahmad Jamal Trio",
-          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-05T23:27:27Z"
-        },
-        {
           "artist": "Isao Suzuki Trio / Quartet",
           "album": "Blow Up",
           "listen_count": 6,
@@ -325,13 +298,6 @@
           "last_listened_at_utc": "2026-10-10T12:18:37Z"
         },
         {
-          "artist": "Ryuichi Sakamoto",
-          "album": "async",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-05T23:06:48Z"
-        },
-        {
           "artist": "Sababa 5",
           "album": "Nadir",
           "listen_count": 4,
@@ -339,11 +305,11 @@
           "last_listened_at_utc": "2026-10-11T22:11:54Z"
         },
         {
-          "artist": "Tinashe",
-          "album": "Popstar",
+          "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
+          "album": "Human",
           "listen_count": 4,
           "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-05T20:43:36Z"
+          "last_listened_at_utc": "2026-10-12T21:34:28Z"
         },
         {
           "artist": "Akusmi",
@@ -351,13 +317,6 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-07T22:49:37Z"
-        },
-        {
-          "artist": "Helado Negro",
-          "album": "PHASOR",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-05T20:52:26Z"
         },
         {
           "artist": "John Coltrane",
@@ -374,11 +333,11 @@
           "last_listened_at_utc": "2026-10-11T17:36:00Z"
         },
         {
-          "artist": "The Smile",
-          "album": "Wall Of Eyes",
+          "artist": "Sissoko Segal Parisien Peirani",
+          "album": "Les Égarés",
           "listen_count": 3,
           "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-05T22:31:55Z"
+          "last_listened_at_utc": "2026-10-12T21:14:59Z"
         },
         {
           "artist": "Tortoise",
@@ -416,32 +375,11 @@
           "last_listened_at_utc": "2026-10-11T17:00:57Z"
         },
         {
-          "artist": "Squid",
-          "album": "Cowards",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-07T12:38:30Z"
-        },
-        {
-          "artist": "Emily A. Sprague",
-          "album": "Cyano",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-05T22:19:54Z"
-        },
-        {
           "artist": "Fishmans",
           "album": "Long Season",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-06T23:51:40Z"
-        },
-        {
-          "artist": "Floating Points",
-          "album": "Cascade",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-06T12:50:36Z"
         },
         {
           "artist": "Marcus Miller",
@@ -465,6 +403,13 @@
           "last_listened_at_utc": "2026-10-12T18:47:59Z"
         },
         {
+          "artist": "Squid",
+          "album": "Cowards",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-07T12:38:30Z"
+        },
+        {
           "artist": "The Oscar Peterson Trio",
           "album": "We Get Requests",
           "listen_count": 1,
@@ -479,27 +424,23 @@
           "last_listened_at_utc": "2026-10-12T18:43:37Z"
         },
         {
-          "artist": "Ty Segall",
-          "album": "Chrome",
+          "artist": "Yosi Horikawa",
+          "album": "Spaces",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-06T12:34:33Z"
+          "last_listened_at_utc": "2026-10-12T22:57:21Z"
         }
       ]
     },
     "last_30_days": {
-      "listen_count": 613,
+      "listen_count": 562,
       "unique_artists": 116,
-      "unique_albums": 133,
+      "unique_albums": 130,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "Haruomi Hosono",
           "listen_count": 41
-        },
-        {
-          "artist": "טונה",
-          "listen_count": 38
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -510,24 +451,16 @@
           "listen_count": 24
         },
         {
-          "artist": "Mac DeMarco",
-          "listen_count": 22
-        },
-        {
           "artist": "Bob Dylan",
           "listen_count": 20
         },
         {
-          "artist": "Miles Davis",
+          "artist": "Cameron Winter",
           "listen_count": 19
         },
         {
-          "artist": "Cameron Winter",
-          "listen_count": 18
-        },
-        {
-          "artist": "John Coltrane Quartet",
-          "listen_count": 16
+          "artist": "Miles Davis",
+          "listen_count": 19
         },
         {
           "artist": "Anouar Brahem",
@@ -558,6 +491,10 @@
           "listen_count": 13
         },
         {
+          "artist": "Mac DeMarco",
+          "listen_count": 12
+        },
+        {
           "artist": "Bullion",
           "listen_count": 11
         },
@@ -586,6 +523,10 @@
           "listen_count": 9
         },
         {
+          "artist": "John Coltrane Quartet",
+          "listen_count": 8
+        },
+        {
           "artist": "Kenny Burrell",
           "listen_count": 8
         },
@@ -600,10 +541,6 @@
         {
           "artist": "Nujabes",
           "listen_count": 7
-        },
-        {
-          "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
-          "listen_count": 6
         },
         {
           "artist": "Hank Mobley",
@@ -650,6 +587,10 @@
           "listen_count": 5
         },
         {
+          "artist": "טונה",
+          "listen_count": 5
+        },
+        {
           "artist": "רביד פלוטניק",
           "listen_count": 5
         },
@@ -670,6 +611,10 @@
           "listen_count": 4
         },
         {
+          "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
+          "listen_count": 4
+        },
+        {
           "artist": "Tinashe",
           "listen_count": 4
         },
@@ -687,6 +632,10 @@
         },
         {
           "artist": "Kutiman & DEKEL",
+          "listen_count": 3
+        },
+        {
+          "artist": "Sissoko Segal Parisien Peirani",
           "listen_count": 3
         },
         {
@@ -718,10 +667,6 @@
           "listen_count": 2
         },
         {
-          "artist": "Bill Evans Trio",
-          "listen_count": 2
-        },
-        {
           "artist": "Jeff Parker ETA IVtet",
           "listen_count": 2
         },
@@ -748,6 +693,10 @@
         {
           "artist": "ハリー細野 & Tin Pan Alley",
           "listen_count": 2
+        },
+        {
+          "artist": "Bill Evans Trio",
+          "listen_count": 1
         },
         {
           "artist": "Bruce Springsteen",
@@ -783,10 +732,6 @@
         },
         {
           "artist": "Floating Points",
-          "listen_count": 1
-        },
-        {
-          "artist": "Gary Peacock / Ralph Towner",
           "listen_count": 1
         },
         {
@@ -882,10 +827,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Scott LaFaro",
-          "listen_count": 1
-        },
-        {
           "artist": "Smerz",
           "listen_count": 1
         },
@@ -923,6 +864,10 @@
         },
         {
           "artist": "Yellow Magic Orchestra",
+          "listen_count": 1
+        },
+        {
+          "artist": "Yosi Horikawa",
           "listen_count": 1
         },
         {
@@ -974,13 +919,6 @@
           "last_listened_at_utc": "2026-10-05T23:27:27Z"
         },
         {
-          "artist": "Mac DeMarco",
-          "album": "Seaplane Dog",
-          "listen_count": 21,
-          "unique_tracks": 16,
-          "last_listened_at_utc": "2026-09-25T21:06:10Z"
-        },
-        {
           "artist": "Miles Davis",
           "album": "Kind of Blue",
           "listen_count": 19,
@@ -988,25 +926,11 @@
           "last_listened_at_utc": "2026-10-10T21:59:35Z"
         },
         {
-          "artist": "טונה",
-          "album": "מזרח פרוע",
-          "listen_count": 17,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-02T12:33:49Z"
-        },
-        {
-          "artist": "John Coltrane Quartet",
-          "album": "Ballads",
-          "listen_count": 16,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-11T12:27:39Z"
-        },
-        {
           "artist": "Cameron Winter",
           "album": "Live at Carnegie Hall",
-          "listen_count": 15,
+          "listen_count": 16,
           "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-10T15:40:32Z"
+          "last_listened_at_utc": "2026-10-13T12:36:01Z"
         },
         {
           "artist": "Sonny Rollins",
@@ -1044,13 +968,6 @@
           "last_listened_at_utc": "2026-09-26T21:06:07Z"
         },
         {
-          "artist": "טונה",
-          "album": "ועכשיו לחלק האינטרגלקטי",
-          "listen_count": 13,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-09-13T16:16:38Z"
-        },
-        {
           "artist": "נצ׳י נצ׳",
           "album": "שפל וגאות",
           "listen_count": 13,
@@ -1084,6 +1001,13 @@
           "listen_count": 11,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-10-11T21:49:10Z"
+        },
+        {
+          "artist": "Mac DeMarco",
+          "album": "Seaplane Dog",
+          "listen_count": 11,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-09-25T21:06:10Z"
         },
         {
           "artist": "Bob Dylan",
@@ -1135,6 +1059,13 @@
           "last_listened_at_utc": "2026-10-10T19:10:57Z"
         },
         {
+          "artist": "John Coltrane Quartet",
+          "album": "Ballads",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-11T12:27:39Z"
+        },
+        {
           "artist": "Kenny Burrell",
           "album": "Midnight Blue",
           "listen_count": 8,
@@ -1147,13 +1078,6 @@
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-09-26T20:14:19Z"
-        },
-        {
-          "artist": "טונה",
-          "album": "רובים ותלתלים",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-13T15:27:19Z"
         },
         {
           "artist": "Charles Mingus",
@@ -1182,13 +1106,6 @@
           "listen_count": 7,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-10-09T22:27:08Z"
-        },
-        {
-          "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
-          "album": "Waltz for Debby [1962]",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-09-13T14:39:12Z"
         },
         {
           "artist": "Hank Mobley",
@@ -1275,6 +1192,13 @@
           "last_listened_at_utc": "2026-09-29T20:16:34Z"
         },
         {
+          "artist": "טונה",
+          "album": "מזרח פרוע",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-02T12:33:49Z"
+        },
+        {
           "artist": "Mikiko Sato",
           "album": "Mikiko's World",
           "listen_count": 4,
@@ -1294,6 +1218,13 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-11T22:11:54Z"
+        },
+        {
+          "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
+          "album": "Human",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-12T21:34:28Z"
         },
         {
           "artist": "Tinashe",
@@ -1350,6 +1281,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-09-13T20:46:39Z"
+        },
+        {
+          "artist": "Sissoko Segal Parisien Peirani",
+          "album": "Les Égarés",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-12T21:14:59Z"
         },
         {
           "artist": "The Smile",
@@ -1486,13 +1424,6 @@
         },
         {
           "artist": "Bill Evans Trio",
-          "album": "At Shelly's Manne-Hole  [Live in Hollywood, CA/May 14 & 19, 1963]",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-13T14:45:42Z"
-        },
-        {
-          "artist": "Bill Evans Trio",
           "album": "Everybody Digs Bill Evans (Keepnews Collection)",
           "listen_count": 1,
           "unique_tracks": 1,
@@ -1567,13 +1498,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-06T12:50:36Z"
-        },
-        {
-          "artist": "Gary Peacock / Ralph Towner",
-          "album": "Oracle",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-13T14:50:28Z"
         },
         {
           "artist": "Gonzalo Rubalcaba, Ron Carter & Jack DeJohnette",
@@ -1751,13 +1675,6 @@
           "last_listened_at_utc": "2026-09-20T22:24:01Z"
         },
         {
-          "artist": "Scott LaFaro",
-          "album": "Pieces of Jade",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-13T14:57:54Z"
-        },
-        {
           "artist": "Smerz",
           "album": "Big city life EDITS",
           "listen_count": 1,
@@ -1835,6 +1752,13 @@
           "last_listened_at_utc": "2026-09-25T20:41:21Z"
         },
         {
+          "artist": "Yosi Horikawa",
+          "album": "Spaces",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-12T22:57:21Z"
+        },
+        {
           "artist": "kukuku",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -1893,9 +1817,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1020,
-      "unique_artists": 166,
-      "unique_albums": 216,
+      "listen_count": 1021,
+      "unique_artists": 167,
+      "unique_albums": 217,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1927,10 +1851,6 @@
           "listen_count": 27
         },
         {
-          "artist": "Julian Lage",
-          "listen_count": 27
-        },
-        {
           "artist": "Sonny Rollins",
           "listen_count": 27
         },
@@ -1939,12 +1859,16 @@
           "listen_count": 26
         },
         {
+          "artist": "Julian Lage",
+          "listen_count": 25
+        },
+        {
           "artist": "Miles Davis",
           "listen_count": 23
         },
         {
           "artist": "Cameron Winter",
-          "listen_count": 18
+          "listen_count": 19
         },
         {
           "artist": "Kenny Burrell",
@@ -2103,10 +2027,6 @@
           "listen_count": 4
         },
         {
-          "artist": "Isao Suzuki Sextet",
-          "listen_count": 4
-        },
-        {
           "artist": "Mikiko Sato",
           "listen_count": 4
         },
@@ -2124,6 +2044,10 @@
         },
         {
           "artist": "Sababa 5",
+          "listen_count": 4
+        },
+        {
+          "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
           "listen_count": 4
         },
         {
@@ -2148,6 +2072,10 @@
         },
         {
           "artist": "Kutiman & DEKEL",
+          "listen_count": 3
+        },
+        {
+          "artist": "Sissoko Segal Parisien Peirani",
           "listen_count": 3
         },
         {
@@ -2192,10 +2120,6 @@
         },
         {
           "artist": "Duke Ellington & John Coltrane",
-          "listen_count": 2
-        },
-        {
-          "artist": "ISAO SUZUKI QUARTET + 1",
           "listen_count": 2
         },
         {
@@ -2519,6 +2443,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Yosi Horikawa",
+          "listen_count": 1
+        },
+        {
           "artist": "kukuku",
           "listen_count": 1
         },
@@ -2656,6 +2584,13 @@
           "last_listened_at_utc": "2026-10-10T17:09:44Z"
         },
         {
+          "artist": "Cameron Winter",
+          "album": "Live at Carnegie Hall",
+          "listen_count": 16,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-10-13T12:36:01Z"
+        },
+        {
           "artist": "John Coltrane Quartet",
           "album": "Ballads",
           "listen_count": 16,
@@ -2675,13 +2610,6 @@
           "listen_count": 16,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-10-09T23:05:04Z"
-        },
-        {
-          "artist": "Cameron Winter",
-          "album": "Live at Carnegie Hall",
-          "listen_count": 15,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-10T15:40:32Z"
         },
         {
           "artist": "Anouar Brahem",
@@ -2769,13 +2697,6 @@
         },
         {
           "artist": "Julian Lage",
-          "album": "Scenes from Above",
-          "listen_count": 11,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-07-24T19:49:01Z"
-        },
-        {
-          "artist": "Julian Lage",
           "album": "World's Fair",
           "listen_count": 11,
           "unique_tracks": 11,
@@ -2857,6 +2778,13 @@
           "listen_count": 9,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-09-03T23:13:06Z"
+        },
+        {
+          "artist": "Julian Lage",
+          "album": "Scenes from Above",
+          "listen_count": 9,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-07-24T19:49:01Z"
         },
         {
           "artist": "Sonny Rollins",
@@ -3006,13 +2934,6 @@
           "last_listened_at_utc": "2026-09-29T12:43:49Z"
         },
         {
-          "artist": "Isao Suzuki Sextet",
-          "album": "Ako's Dream",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-07-14T21:30:02Z"
-        },
-        {
           "artist": "Mikiko Sato",
           "album": "Mikiko's World",
           "listen_count": 4,
@@ -3039,6 +2960,13 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-11T22:11:54Z"
+        },
+        {
+          "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
+          "album": "Human",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-12T21:34:28Z"
         },
         {
           "artist": "Tinashe",
@@ -3116,6 +3044,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-09-05T17:27:42Z"
+        },
+        {
+          "artist": "Sissoko Segal Parisien Peirani",
+          "album": "Les Égarés",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-12T21:14:59Z"
         },
         {
           "artist": "The Smile",
@@ -3214,13 +3149,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-07-26T23:38:34Z"
-        },
-        {
-          "artist": "ISAO SUZUKI QUARTET + 1",
-          "album": "Blue City",
-          "listen_count": 2,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-07-14T22:25:30Z"
         },
         {
           "artist": "Jeff Parker ETA IVtet",
@@ -3986,6 +3914,13 @@
           "last_listened_at_utc": "2026-09-25T20:41:21Z"
         },
         {
+          "artist": "Yosi Horikawa",
+          "album": "Spaces",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-12T22:57:21Z"
+        },
+        {
           "artist": "kukuku",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -4080,6 +4015,198 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1791894961,
+      "listened_at_utc": "2026-10-13T12:36:01Z",
+      "artist": "Cameron Winter",
+      "track": "Love Takes Miles (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4",
+        "recording_mbid": "ba33d7c6-7165-487f-9944-6f4612b3d9c0",
+        "release_group_mbid": "a9b6e76b-190b-4802-b120-ddef0fd852b7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791845841,
+      "listened_at_utc": "2026-10-12T22:57:21Z",
+      "artist": "Yosi Horikawa",
+      "track": "Timbres",
+      "album": "Spaces",
+      "musicbrainz": {
+        "artist_mbids": [
+          "f47738ed-5aba-441f-bae0-8f6c02312286"
+        ],
+        "recording_mbid": "942ed653-6aea-4be0-8a0d-c25718cccfbb",
+        "release_mbid": "1f2c83a7-6391-4d88-ae64-9702bd70662c",
+        "release_group_mbid": "41ce988e-bec9-468c-835f-6040b39bb70f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791840868,
+      "listened_at_utc": "2026-10-12T21:34:28Z",
+      "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
+      "track": "GG",
+      "album": "Human",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fe723bbb-47cc-4f42-830c-352f7b1fed81",
+          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
+          "b3a2bbd4-f111-4833-ad5e-03125df5ff52",
+          "3eff8354-883e-4169-9c56-038a117c0ff1"
+        ],
+        "recording_mbid": "e76d758b-b273-4279-b111-e016207e53bb",
+        "release_mbid": "af2a4d96-aa9d-4db1-b38a-5a6856375c1e",
+        "release_group_mbid": "9505fa3b-60ec-4630-b6a4-87e802251a1e"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791840709,
+      "listened_at_utc": "2026-10-12T21:31:49Z",
+      "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
+      "track": "Human",
+      "album": "Human",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fe723bbb-47cc-4f42-830c-352f7b1fed81",
+          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
+          "b3a2bbd4-f111-4833-ad5e-03125df5ff52",
+          "3eff8354-883e-4169-9c56-038a117c0ff1"
+        ],
+        "release_mbid": "af2a4d96-aa9d-4db1-b38a-5a6856375c1e",
+        "recording_mbid": "a6e4ff33-b020-4df1-8cac-bd0249e709ef",
+        "release_group_mbid": "9505fa3b-60ec-4630-b6a4-87e802251a1e"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791840196,
+      "listened_at_utc": "2026-10-12T21:23:16Z",
+      "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
+      "track": "Mystery and Illusions",
+      "album": "Human",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fe723bbb-47cc-4f42-830c-352f7b1fed81",
+          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
+          "b3a2bbd4-f111-4833-ad5e-03125df5ff52",
+          "3eff8354-883e-4169-9c56-038a117c0ff1"
+        ],
+        "recording_mbid": "8423d337-fef0-4d66-b4cf-a014238684ff",
+        "release_mbid": "af2a4d96-aa9d-4db1-b38a-5a6856375c1e",
+        "release_group_mbid": "9505fa3b-60ec-4630-b6a4-87e802251a1e"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791839993,
+      "listened_at_utc": "2026-10-12T21:19:53Z",
+      "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
+      "track": "Time",
+      "album": "Human",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fe723bbb-47cc-4f42-830c-352f7b1fed81",
+          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
+          "b3a2bbd4-f111-4833-ad5e-03125df5ff52",
+          "3eff8354-883e-4169-9c56-038a117c0ff1"
+        ],
+        "recording_mbid": "bc8658d7-6a55-433b-a213-fac77707b886",
+        "release_mbid": "af2a4d96-aa9d-4db1-b38a-5a6856375c1e",
+        "release_group_mbid": "9505fa3b-60ec-4630-b6a4-87e802251a1e"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791839699,
+      "listened_at_utc": "2026-10-12T21:14:59Z",
+      "artist": "Sissoko Segal Parisien Peirani",
+      "track": "Amenhotep",
+      "album": "Les Égarés",
+      "musicbrainz": {
+        "artist_mbids": [
+          "da8ac8ac-2155-4baa-8605-973175bab92b",
+          "e6af0dec-8d2b-47b1-b2fe-6b490f4745d5",
+          "dd7c23f5-4794-4ecd-b709-fc9590174c20",
+          "c07eb23a-f2a2-401b-bcd4-424bf9b25cd4"
+        ],
+        "recording_mbid": "f31f7ac9-2adf-470b-b4f4-f7448d1079da",
+        "release_mbid": "a5dc0263-c722-4e79-9b96-fe9fd56aa54d",
+        "release_group_mbid": "042ec500-3c5a-4009-9795-e90ad5cfd2ba"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791839198,
+      "listened_at_utc": "2026-10-12T21:06:38Z",
+      "artist": "Sissoko Segal Parisien Peirani",
+      "track": "Izao",
+      "album": "Les Égarés",
+      "musicbrainz": {
+        "artist_mbids": [
+          "da8ac8ac-2155-4baa-8605-973175bab92b",
+          "e6af0dec-8d2b-47b1-b2fe-6b490f4745d5",
+          "dd7c23f5-4794-4ecd-b709-fc9590174c20",
+          "c07eb23a-f2a2-401b-bcd4-424bf9b25cd4"
+        ],
+        "recording_mbid": "8de0d831-d281-4c78-8338-ba2f044fb30f",
+        "release_mbid": "a5dc0263-c722-4e79-9b96-fe9fd56aa54d",
+        "release_group_mbid": "042ec500-3c5a-4009-9795-e90ad5cfd2ba"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791835746,
+      "listened_at_utc": "2026-10-12T20:09:06Z",
+      "artist": "Sissoko Segal Parisien Peirani",
+      "track": "Ta Nyé",
+      "album": "Les Égarés",
+      "musicbrainz": {
+        "artist_mbids": [
+          "da8ac8ac-2155-4baa-8605-973175bab92b",
+          "e6af0dec-8d2b-47b1-b2fe-6b490f4745d5",
+          "dd7c23f5-4794-4ecd-b709-fc9590174c20",
+          "c07eb23a-f2a2-401b-bcd4-424bf9b25cd4"
+        ],
+        "recording_mbid": "36926f70-2796-4d89-a567-6e47c10bea97",
+        "release_mbid": "a5dc0263-c722-4e79-9b96-fe9fd56aa54d",
+        "release_group_mbid": "042ec500-3c5a-4009-9795-e90ad5cfd2ba"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1791830993,
       "listened_at_utc": "2026-10-12T18:49:53Z",
@@ -21755,156 +21882,6 @@
         "recording_mbid": "9c6bc66b-d7d7-46c2-a906-abe11ae413c6",
         "release_mbid": "b5b1ef1c-c2cd-4573-962d-f81bdd8a9835",
         "release_group_mbid": "36675813-6c3c-33fa-8eaf-b1cd66d4f006"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784067930,
-      "listened_at_utc": "2026-07-14T22:25:30Z",
-      "artist": "ISAO SUZUKI QUARTET + 1",
-      "track": "BODY AND SOUL",
-      "album": "Blue City",
-      "musicbrainz": {
-        "artist_mbids": [
-          "0de9389e-a659-4647-b9bd-bf0c36634075"
-        ],
-        "recording_mbid": "9f1d29f2-d318-472b-adbc-0d7bc8c4fa47",
-        "release_mbid": "87a14f53-202e-4183-af83-3f57f1bc2bf0",
-        "release_group_mbid": "15bb4154-037e-464b-aaac-7183beb5ade9"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784065248,
-      "listened_at_utc": "2026-07-14T21:40:48Z",
-      "artist": "ISAO SUZUKI QUARTET + 1",
-      "track": "BODY AND SOUL",
-      "album": "Blue City",
-      "musicbrainz": {
-        "artist_mbids": [
-          "0de9389e-a659-4647-b9bd-bf0c36634075"
-        ],
-        "recording_mbid": "9f1d29f2-d318-472b-adbc-0d7bc8c4fa47",
-        "release_mbid": "87a14f53-202e-4183-af83-3f57f1bc2bf0",
-        "release_group_mbid": "15bb4154-037e-464b-aaac-7183beb5ade9"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784064602,
-      "listened_at_utc": "2026-07-14T21:30:02Z",
-      "artist": "Isao Suzuki Sextet",
-      "track": "Seven Come Eleven",
-      "album": "Ako's Dream",
-      "musicbrainz": {
-        "artist_mbids": [
-          "569c3eb7-5bcc-4b5e-82c2-29bb27325770"
-        ],
-        "recording_mbid": "f89b1715-8cbd-4d61-9b3e-43e8780f1d30",
-        "release_mbid": "c26c39af-c009-4faf-8788-df93654c2d80",
-        "release_group_mbid": "427c8c50-5085-394e-91e6-5d1a0a4a3c40"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784064091,
-      "listened_at_utc": "2026-07-14T21:21:31Z",
-      "artist": "Isao Suzuki Sextet",
-      "track": "Feel Like Makin' Love",
-      "album": "Ako's Dream",
-      "musicbrainz": {
-        "artist_mbids": [
-          "569c3eb7-5bcc-4b5e-82c2-29bb27325770"
-        ],
-        "recording_mbid": "230cc648-dcdc-460d-9b2e-67a4e4d8272b",
-        "release_mbid": "c26c39af-c009-4faf-8788-df93654c2d80",
-        "release_group_mbid": "427c8c50-5085-394e-91e6-5d1a0a4a3c40"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784063597,
-      "listened_at_utc": "2026-07-14T21:13:17Z",
-      "artist": "Isao Suzuki Sextet",
-      "track": "Isao Family",
-      "album": "Ako's Dream",
-      "musicbrainz": {
-        "artist_mbids": [
-          "569c3eb7-5bcc-4b5e-82c2-29bb27325770"
-        ],
-        "recording_mbid": "b724feb1-216f-4c6e-ba57-c112d5f18bcc",
-        "release_mbid": "c26c39af-c009-4faf-8788-df93654c2d80",
-        "release_group_mbid": "427c8c50-5085-394e-91e6-5d1a0a4a3c40"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784063021,
-      "listened_at_utc": "2026-07-14T21:03:41Z",
-      "artist": "Isao Suzuki Sextet",
-      "track": "Ako's Dream",
-      "album": "Ako's Dream",
-      "musicbrainz": {
-        "artist_mbids": [
-          "569c3eb7-5bcc-4b5e-82c2-29bb27325770"
-        ],
-        "recording_mbid": "ac1384a2-e274-4f8b-b2c7-16913e58c228",
-        "release_mbid": "c26c39af-c009-4faf-8788-df93654c2d80",
-        "release_group_mbid": "427c8c50-5085-394e-91e6-5d1a0a4a3c40"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784056680,
-      "listened_at_utc": "2026-07-14T19:18:00Z",
-      "artist": "Julian Lage",
-      "track": "Havens",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "50b95f0c-f9ec-4c8f-a5f5-e9f1a95c9db1",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784056373,
-      "listened_at_utc": "2026-07-14T19:12:53Z",
-      "artist": "Julian Lage",
-      "track": "Talking Drum",
-      "album": "Scenes from Above",
-      "musicbrainz": {
-        "artist_mbids": [
-          "c116b504-ce24-4264-96dc-d10a7458236f",
-          "b57bec34-8aec-44fe-b920-203e09a88dc1",
-          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
-          "80341f8d-808e-4b2e-a029-661b224577dd"
-        ],
-        "recording_mbid": "62ff54ed-1f44-4c51-9733-df462b56ae80",
-        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
-        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
       },
       "submission_clients": [
         "ListenBrainz lastfm importer v2"
