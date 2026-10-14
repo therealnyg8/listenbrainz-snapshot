@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-13T17:00:21Z",
+  "generated_at_utc": "2026-10-14T14:34:02Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-15T17:00:21Z",
-    "through_utc": "2026-10-13T17:00:21Z",
+    "from_utc": "2026-07-16T14:34:02Z",
+    "through_utc": "2026-10-14T14:34:02Z",
     "complete": true,
     "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 1389,
-    "deduplicated_listen_count": 1021,
-    "duplicates_removed": 368,
+    "raw_listen_count": 1482,
+    "deduplicated_listen_count": 1072,
+    "duplicates_removed": 410,
     "oldest_listen_utc": "2026-07-17T15:04:49Z",
-    "newest_listen_utc": "2026-10-13T12:36:01Z"
+    "newest_listen_utc": "2026-10-14T13:27:58Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,14 +28,14 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 190,
-      "unique_artists": 34,
-      "unique_albums": 37,
+      "listen_count": 237,
+      "unique_artists": 42,
+      "unique_albums": 47,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "Cameron Winter",
-          "listen_count": 16
+          "listen_count": 29
         },
         {
           "artist": "Miles Davis",
@@ -66,6 +66,14 @@
           "listen_count": 9
         },
         {
+          "artist": "Destroyer",
+          "listen_count": 9
+        },
+        {
+          "artist": "שב״ק ס׳",
+          "listen_count": 9
+        },
+        {
           "artist": "John Coltrane Quartet",
           "listen_count": 8
         },
@@ -83,6 +91,10 @@
         },
         {
           "artist": "John Coltrane",
+          "listen_count": 6
+        },
+        {
+          "artist": "Sampha",
           "listen_count": 6
         },
         {
@@ -114,7 +126,15 @@
           "listen_count": 3
         },
         {
+          "artist": "Nala Sinephro",
+          "listen_count": 3
+        },
+        {
           "artist": "Sissoko Segal Parisien Peirani",
+          "listen_count": 3
+        },
+        {
+          "artist": "The Beatles",
           "listen_count": 3
         },
         {
@@ -126,7 +146,7 @@
           "listen_count": 3
         },
         {
-          "artist": "Jeff Parker ETA IVtet",
+          "artist": "Dhafer Youssef",
           "listen_count": 2
         },
         {
@@ -134,11 +154,23 @@
           "listen_count": 2
         },
         {
+          "artist": "Kiasmos",
+          "listen_count": 2
+        },
+        {
           "artist": "Shye Ben-Tzur, Jonny Greenwood and The Rajasthan Express",
           "listen_count": 2
         },
         {
-          "artist": "Fishmans",
+          "artist": "Elliphant",
+          "listen_count": 1
+        },
+        {
+          "artist": "Feist",
+          "listen_count": 1
+        },
+        {
+          "artist": "Foals",
           "listen_count": 1
         },
         {
@@ -154,11 +186,11 @@
           "listen_count": 1
         },
         {
-          "artist": "Squid",
+          "artist": "The Oscar Peterson Trio",
           "listen_count": 1
         },
         {
-          "artist": "The Oscar Peterson Trio",
+          "artist": "Tigran Hamasyan",
           "listen_count": 1
         },
         {
@@ -174,9 +206,9 @@
         {
           "artist": "Cameron Winter",
           "album": "Live at Carnegie Hall",
-          "listen_count": 16,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-13T12:36:01Z"
+          "listen_count": 29,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-14T01:01:48Z"
         },
         {
           "artist": "Miles Davis",
@@ -214,11 +246,25 @@
           "last_listened_at_utc": "2026-10-12T18:41:03Z"
         },
         {
+          "artist": "Destroyer",
+          "album": "Kaputt",
+          "listen_count": 9,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-10-13T22:35:21Z"
+        },
+        {
           "artist": "Sonny Rollins",
           "album": "Way Out West",
           "listen_count": 9,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-10-10T19:10:57Z"
+        },
+        {
+          "artist": "שב״ק ס׳",
+          "album": "שבק ס",
+          "listen_count": 9,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-10-14T13:27:58Z"
         },
         {
           "artist": "John Coltrane Quartet",
@@ -254,6 +300,13 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-10T11:55:16Z"
+        },
+        {
+          "artist": "Sampha",
+          "album": "Lahai",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-13T23:32:56Z"
         },
         {
           "artist": "Shabaka",
@@ -333,6 +386,13 @@
           "last_listened_at_utc": "2026-10-11T17:36:00Z"
         },
         {
+          "artist": "Nala Sinephro",
+          "album": "Endlessness",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-13T20:48:09Z"
+        },
+        {
           "artist": "Sissoko Segal Parisien Peirani",
           "album": "Les Égarés",
           "listen_count": 3,
@@ -354,11 +414,11 @@
           "last_listened_at_utc": "2026-10-09T12:33:53Z"
         },
         {
-          "artist": "Jeff Parker ETA IVtet",
-          "album": "The Way Out of Easy",
+          "artist": "Dhafer Youssef",
+          "album": "Birds Requiem",
           "listen_count": 2,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-06T22:35:54Z"
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-13T20:21:32Z"
         },
         {
           "artist": "Jlin",
@@ -368,6 +428,13 @@
           "last_listened_at_utc": "2026-10-08T18:17:16Z"
         },
         {
+          "artist": "Kiasmos",
+          "album": "II",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-13T23:12:36Z"
+        },
+        {
           "artist": "Shye Ben-Tzur, Jonny Greenwood and The Rajasthan Express",
           "album": "Junun",
           "listen_count": 2,
@@ -375,11 +442,25 @@
           "last_listened_at_utc": "2026-10-11T17:00:57Z"
         },
         {
-          "artist": "Fishmans",
-          "album": "Long Season",
+          "artist": "Elliphant",
+          "album": "Living Life Golden",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-06T23:51:40Z"
+          "last_listened_at_utc": "2026-10-13T22:56:32Z"
+        },
+        {
+          "artist": "Feist",
+          "album": "One Evening",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T22:59:57Z"
+        },
+        {
+          "artist": "Foals",
+          "album": "Collected Reworks",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T22:46:38Z"
         },
         {
           "artist": "Marcus Miller",
@@ -403,11 +484,25 @@
           "last_listened_at_utc": "2026-10-12T18:47:59Z"
         },
         {
-          "artist": "Squid",
-          "album": "Cowards",
+          "artist": "The Beatles",
+          "album": "Anthology 1",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-07T12:38:30Z"
+          "last_listened_at_utc": "2026-10-13T21:30:10Z"
+        },
+        {
+          "artist": "The Beatles",
+          "album": "The Beatles (White Album) (Super Deluxe; White Album / Super Deluxe)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T21:36:43Z"
+        },
+        {
+          "artist": "The Beatles",
+          "album": "Yellow Submarine (Remastered 2009)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T21:34:01Z"
         },
         {
           "artist": "The Oscar Peterson Trio",
@@ -415,6 +510,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-11T12:30:50Z"
+        },
+        {
+          "artist": "Tigran Hamasyan",
+          "album": "An Ancient Observer",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T20:26:11Z"
         },
         {
           "artist": "Toumani Diabaté, Danny Thompson",
@@ -433,14 +535,18 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 562,
-      "unique_artists": 116,
-      "unique_albums": 130,
+      "listen_count": 596,
+      "unique_artists": 122,
+      "unique_albums": 138,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "Haruomi Hosono",
           "listen_count": 41
+        },
+        {
+          "artist": "Cameron Winter",
+          "listen_count": 32
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -453,10 +559,6 @@
         {
           "artist": "Bob Dylan",
           "listen_count": 20
-        },
-        {
-          "artist": "Cameron Winter",
-          "listen_count": 19
         },
         {
           "artist": "Miles Davis",
@@ -487,10 +589,6 @@
           "listen_count": 13
         },
         {
-          "artist": "נצ׳י נצ׳",
-          "listen_count": 13
-        },
-        {
           "artist": "Mac DeMarco",
           "listen_count": 12
         },
@@ -504,6 +602,10 @@
         },
         {
           "artist": "Kikagaku Moyo",
+          "listen_count": 11
+        },
+        {
+          "artist": "שב״ק ס׳",
           "listen_count": 11
         },
         {
@@ -523,6 +625,10 @@
           "listen_count": 9
         },
         {
+          "artist": "Destroyer",
+          "listen_count": 9
+        },
+        {
           "artist": "John Coltrane Quartet",
           "listen_count": 8
         },
@@ -532,6 +638,10 @@
         },
         {
           "artist": "Songs: Ohia",
+          "listen_count": 8
+        },
+        {
+          "artist": "נצ׳י נצ׳",
           "listen_count": 8
         },
         {
@@ -555,15 +665,15 @@
           "listen_count": 6
         },
         {
+          "artist": "Sampha",
+          "listen_count": 6
+        },
+        {
           "artist": "Shabak Samech",
           "listen_count": 6
         },
         {
           "artist": "Shabaka",
-          "listen_count": 6
-        },
-        {
-          "artist": "אורי שוחט",
           "listen_count": 6
         },
         {
@@ -584,10 +694,6 @@
         },
         {
           "artist": "Tord Gustavsen Trio",
-          "listen_count": 5
-        },
-        {
-          "artist": "טונה",
           "listen_count": 5
         },
         {
@@ -619,6 +725,10 @@
           "listen_count": 4
         },
         {
+          "artist": "טונה",
+          "listen_count": 4
+        },
+        {
           "artist": "Akusmi",
           "listen_count": 3
         },
@@ -631,11 +741,15 @@
           "listen_count": 3
         },
         {
-          "artist": "Kutiman & DEKEL",
+          "artist": "Nala Sinephro",
           "listen_count": 3
         },
         {
           "artist": "Sissoko Segal Parisien Peirani",
+          "listen_count": 3
+        },
+        {
+          "artist": "The Beatles",
           "listen_count": 3
         },
         {
@@ -667,11 +781,19 @@
           "listen_count": 2
         },
         {
+          "artist": "Dhafer Youssef",
+          "listen_count": 2
+        },
+        {
           "artist": "Jeff Parker ETA IVtet",
           "listen_count": 2
         },
         {
           "artist": "Jlin",
+          "listen_count": 2
+        },
+        {
+          "artist": "Kiasmos",
           "listen_count": 2
         },
         {
@@ -684,10 +806,6 @@
         },
         {
           "artist": "Squid",
-          "listen_count": 2
-        },
-        {
-          "artist": "שב״ק ס׳",
           "listen_count": 2
         },
         {
@@ -715,6 +833,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Elliphant",
+          "listen_count": 1
+        },
+        {
           "artist": "Emily A. Sprague",
           "listen_count": 1
         },
@@ -727,11 +849,19 @@
           "listen_count": 1
         },
         {
+          "artist": "Feist",
+          "listen_count": 1
+        },
+        {
           "artist": "Fishmans",
           "listen_count": 1
         },
         {
           "artist": "Floating Points",
+          "listen_count": 1
+        },
+        {
+          "artist": "Foals",
           "listen_count": 1
         },
         {
@@ -799,10 +929,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Ori Shochat",
-          "listen_count": 1
-        },
-        {
           "artist": "Oscar Peterson meets Roy Hargrove and Ralph Moore with Niels‐Henning Ørsted Pedersen and Lewis Nash",
           "listen_count": 1
         },
@@ -851,6 +977,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Tigran Hamasyan",
+          "listen_count": 1
+        },
+        {
           "artist": "Tommy Flanagan",
           "listen_count": 1
         },
@@ -883,10 +1013,6 @@
           "listen_count": 1
         },
         {
-          "artist": "ברי סחרוף ודודו טסה",
-          "listen_count": 1
-        },
-        {
           "artist": "ג'יגה ג'וס",
           "listen_count": 1
         },
@@ -912,6 +1038,13 @@
           "last_listened_at_utc": "2026-09-25T20:34:25Z"
         },
         {
+          "artist": "Cameron Winter",
+          "album": "Live at Carnegie Hall",
+          "listen_count": 29,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-14T01:01:48Z"
+        },
+        {
           "artist": "Ahmad Jamal Trio",
           "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
           "listen_count": 27,
@@ -924,13 +1057,6 @@
           "listen_count": 19,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-10-10T21:59:35Z"
-        },
-        {
-          "artist": "Cameron Winter",
-          "album": "Live at Carnegie Hall",
-          "listen_count": 16,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-13T12:36:01Z"
         },
         {
           "artist": "Sonny Rollins",
@@ -968,13 +1094,6 @@
           "last_listened_at_utc": "2026-09-26T21:06:07Z"
         },
         {
-          "artist": "נצ׳י נצ׳",
-          "album": "שפל וגאות",
-          "listen_count": 13,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-09-16T12:42:46Z"
-        },
-        {
           "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
           "album": "Compassion",
           "listen_count": 12,
@@ -1008,6 +1127,13 @@
           "listen_count": 11,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-09-25T21:06:10Z"
+        },
+        {
+          "artist": "שב״ק ס׳",
+          "album": "שבק ס",
+          "listen_count": 11,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-10-14T13:27:58Z"
         },
         {
           "artist": "Bob Dylan",
@@ -1052,6 +1178,13 @@
           "last_listened_at_utc": "2026-09-20T22:09:28Z"
         },
         {
+          "artist": "Destroyer",
+          "album": "Kaputt",
+          "listen_count": 9,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-10-13T22:35:21Z"
+        },
+        {
           "artist": "Sonny Rollins",
           "album": "Way Out West",
           "listen_count": 9,
@@ -1078,6 +1211,13 @@
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-09-26T20:14:19Z"
+        },
+        {
+          "artist": "נצ׳י נצ׳",
+          "album": "שפל וגאות",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-09-16T12:42:46Z"
         },
         {
           "artist": "Charles Mingus",
@@ -1122,6 +1262,13 @@
           "last_listened_at_utc": "2026-10-10T11:55:16Z"
         },
         {
+          "artist": "Sampha",
+          "album": "Lahai",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-13T23:32:56Z"
+        },
+        {
           "artist": "Shabak Samech",
           "album": "כנען 2000",
           "listen_count": 6,
@@ -1134,13 +1281,6 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-08T22:34:12Z"
-        },
-        {
-          "artist": "אורי שוחט",
-          "album": "שוחטודה",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-09-13T20:35:29Z"
         },
         {
           "artist": "Anouar Brahem, Dave Holland, Jack DeJohnette, Django Bates",
@@ -1192,13 +1332,6 @@
           "last_listened_at_utc": "2026-09-29T20:16:34Z"
         },
         {
-          "artist": "טונה",
-          "album": "מזרח פרוע",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-02T12:33:49Z"
-        },
-        {
           "artist": "Mikiko Sato",
           "album": "Mikiko's World",
           "listen_count": 4,
@@ -1232,6 +1365,13 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-05T20:43:36Z"
+        },
+        {
+          "artist": "טונה",
+          "album": "מזרח פרוע",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-02T12:33:49Z"
         },
         {
           "artist": "Akusmi",
@@ -1276,11 +1416,11 @@
           "last_listened_at_utc": "2026-09-16T23:11:55Z"
         },
         {
-          "artist": "Kutiman & DEKEL",
-          "album": "Hope",
+          "artist": "Nala Sinephro",
+          "album": "Endlessness",
           "listen_count": 3,
           "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-13T20:46:39Z"
+          "last_listened_at_utc": "2026-10-13T20:48:09Z"
         },
         {
           "artist": "Sissoko Segal Parisien Peirani",
@@ -1353,6 +1493,13 @@
           "last_listened_at_utc": "2026-09-29T12:36:48Z"
         },
         {
+          "artist": "Dhafer Youssef",
+          "album": "Birds Requiem",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-13T20:21:32Z"
+        },
+        {
           "artist": "Jeff Parker ETA IVtet",
           "album": "The Way Out of Easy",
           "listen_count": 2,
@@ -1365,6 +1512,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-08T18:17:16Z"
+        },
+        {
+          "artist": "Kiasmos",
+          "album": "II",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-13T23:12:36Z"
         },
         {
           "artist": "Pearl & The Oysters",
@@ -1393,13 +1547,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-09-14T23:42:36Z"
-        },
-        {
-          "artist": "שב״ק ס׳",
-          "album": "שבק ס",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-09-29T12:43:49Z"
         },
         {
           "artist": "ハリー細野 & Tin Pan Alley",
@@ -1465,6 +1612,13 @@
           "last_listened_at_utc": "2026-09-18T22:29:08Z"
         },
         {
+          "artist": "Elliphant",
+          "album": "Living Life Golden",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T22:56:32Z"
+        },
+        {
           "artist": "Emily A. Sprague",
           "album": "Cyano",
           "listen_count": 1,
@@ -1486,6 +1640,13 @@
           "last_listened_at_utc": "2026-09-21T18:15:32Z"
         },
         {
+          "artist": "Feist",
+          "album": "One Evening",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T22:59:57Z"
+        },
+        {
           "artist": "Fishmans",
           "album": "Long Season",
           "listen_count": 1,
@@ -1498,6 +1659,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-06T12:50:36Z"
+        },
+        {
+          "artist": "Foals",
+          "album": "Collected Reworks",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T22:46:38Z"
         },
         {
           "artist": "Gonzalo Rubalcaba, Ron Carter & Jack DeJohnette",
@@ -1626,13 +1794,6 @@
           "last_listened_at_utc": "2026-10-04T22:25:29Z"
         },
         {
-          "artist": "Ori Shochat",
-          "album": "Always Ready",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-13T20:38:58Z"
-        },
-        {
           "artist": "Oscar Peterson meets Roy Hargrove and Ralph Moore with Niels‐Henning Ørsted Pedersen and Lewis Nash",
           "album": "Oscar Peterson Meets Roy Hargrove And Ralph Moore",
           "listen_count": 1,
@@ -1703,6 +1864,27 @@
           "last_listened_at_utc": "2026-09-27T22:34:44Z"
         },
         {
+          "artist": "The Beatles",
+          "album": "Anthology 1",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T21:30:10Z"
+        },
+        {
+          "artist": "The Beatles",
+          "album": "The Beatles (White Album) (Super Deluxe; White Album / Super Deluxe)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T21:36:43Z"
+        },
+        {
+          "artist": "The Beatles",
+          "album": "Yellow Submarine (Remastered 2009)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T21:34:01Z"
+        },
+        {
           "artist": "The Oscar Peterson Trio",
           "album": "We Get Requests",
           "listen_count": 1,
@@ -1715,6 +1897,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-18T22:37:59Z"
+        },
+        {
+          "artist": "Tigran Hamasyan",
+          "album": "An Ancient Observer",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T20:26:11Z"
         },
         {
           "artist": "Tommy Flanagan",
@@ -1780,13 +1969,6 @@
           "last_listened_at_utc": "2026-09-16T12:37:55Z"
         },
         {
-          "artist": "ברי סחרוף ודודו טסה",
-          "album": "Bdal Shel Or",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-13T19:45:57Z"
-        },
-        {
           "artist": "ג'יגה ג'וס",
           "album": "מיץ למקס",
           "listen_count": 1,
@@ -1817,9 +1999,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1021,
-      "unique_artists": 167,
-      "unique_albums": 217,
+      "listen_count": 1072,
+      "unique_artists": 177,
+      "unique_albums": 229,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1847,6 +2029,10 @@
           "listen_count": 32
         },
         {
+          "artist": "Cameron Winter",
+          "listen_count": 32
+        },
+        {
           "artist": "Ahmad Jamal Trio",
           "listen_count": 27
         },
@@ -1865,10 +2051,6 @@
         {
           "artist": "Miles Davis",
           "listen_count": 23
-        },
-        {
-          "artist": "Cameron Winter",
-          "listen_count": 19
         },
         {
           "artist": "Kenny Burrell",
@@ -1892,6 +2074,10 @@
         },
         {
           "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
+          "listen_count": 14
+        },
+        {
+          "artist": "שב״ק ס׳",
           "listen_count": 14
         },
         {
@@ -1951,6 +2137,10 @@
           "listen_count": 9
         },
         {
+          "artist": "Destroyer",
+          "listen_count": 9
+        },
+        {
           "artist": "Gilad Hekselman",
           "listen_count": 9
         },
@@ -1987,6 +2177,10 @@
           "listen_count": 6
         },
         {
+          "artist": "Sampha",
+          "listen_count": 6
+        },
+        {
           "artist": "Shabak Samech",
           "listen_count": 6
         },
@@ -2016,10 +2210,6 @@
         },
         {
           "artist": "Tord Gustavsen Trio",
-          "listen_count": 5
-        },
-        {
-          "artist": "שב״ק ס׳",
           "listen_count": 5
         },
         {
@@ -2075,7 +2265,15 @@
           "listen_count": 3
         },
         {
+          "artist": "Nala Sinephro",
+          "listen_count": 3
+        },
+        {
           "artist": "Sissoko Segal Parisien Peirani",
+          "listen_count": 3
+        },
+        {
+          "artist": "The Beatles",
           "listen_count": 3
         },
         {
@@ -2119,6 +2317,10 @@
           "listen_count": 2
         },
         {
+          "artist": "Dhafer Youssef",
+          "listen_count": 2
+        },
+        {
           "artist": "Duke Ellington & John Coltrane",
           "listen_count": 2
         },
@@ -2128,6 +2330,10 @@
         },
         {
           "artist": "Jlin",
+          "listen_count": 2
+        },
+        {
+          "artist": "Kiasmos",
           "listen_count": 2
         },
         {
@@ -2223,6 +2429,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Elliphant",
+          "listen_count": 1
+        },
+        {
           "artist": "Emily A. Sprague",
           "listen_count": 1
         },
@@ -2235,11 +2445,19 @@
           "listen_count": 1
         },
         {
+          "artist": "Feist",
+          "listen_count": 1
+        },
+        {
           "artist": "Fishmans",
           "listen_count": 1
         },
         {
           "artist": "Floating Points",
+          "listen_count": 1
+        },
+        {
+          "artist": "Foals",
           "listen_count": 1
         },
         {
@@ -2423,6 +2641,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Tigran Hamasyan",
+          "listen_count": 1
+        },
+        {
           "artist": "Tommy Flanagan",
           "listen_count": 1
         },
@@ -2514,6 +2736,13 @@
           "last_listened_at_utc": "2026-09-25T20:34:25Z"
         },
         {
+          "artist": "Cameron Winter",
+          "album": "Live at Carnegie Hall",
+          "listen_count": 29,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-14T01:01:48Z"
+        },
+        {
           "artist": "Ahmad Jamal Trio",
           "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
           "listen_count": 27,
@@ -2584,13 +2813,6 @@
           "last_listened_at_utc": "2026-10-10T17:09:44Z"
         },
         {
-          "artist": "Cameron Winter",
-          "album": "Live at Carnegie Hall",
-          "listen_count": 16,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-13T12:36:01Z"
-        },
-        {
           "artist": "John Coltrane Quartet",
           "album": "Ballads",
           "listen_count": 16,
@@ -2624,6 +2846,13 @@
           "listen_count": 14,
           "unique_tracks": 14,
           "last_listened_at_utc": "2026-09-16T20:41:32Z"
+        },
+        {
+          "artist": "שב״ק ס׳",
+          "album": "שבק ס",
+          "listen_count": 14,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-10-14T13:27:58Z"
         },
         {
           "artist": "青葉市子",
@@ -2773,6 +3002,13 @@
           "last_listened_at_utc": "2026-09-20T22:09:28Z"
         },
         {
+          "artist": "Destroyer",
+          "album": "Kaputt",
+          "listen_count": 9,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-10-13T22:35:21Z"
+        },
+        {
           "artist": "Gilad Hekselman",
           "album": "Life, at the Village Vanguard (Live)",
           "listen_count": 9,
@@ -2841,6 +3077,13 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-10T11:55:16Z"
+        },
+        {
+          "artist": "Sampha",
+          "album": "Lahai",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-13T23:32:56Z"
         },
         {
           "artist": "Shabak Samech",
@@ -2925,13 +3168,6 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-09-29T20:16:34Z"
-        },
-        {
-          "artist": "שב״ק ס׳",
-          "album": "שבק ס",
-          "listen_count": 5,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-09-29T12:43:49Z"
         },
         {
           "artist": "Mikiko Sato",
@@ -3030,6 +3266,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-09-13T20:46:39Z"
+        },
+        {
+          "artist": "Nala Sinephro",
+          "album": "Endlessness",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-13T20:48:09Z"
         },
         {
           "artist": "Olivia Rodrigo",
@@ -3144,6 +3387,13 @@
           "last_listened_at_utc": "2026-09-05T22:22:21Z"
         },
         {
+          "artist": "Dhafer Youssef",
+          "album": "Birds Requiem",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-13T20:21:32Z"
+        },
+        {
           "artist": "Duke Ellington & John Coltrane",
           "album": "Duke Ellington & John Coltrane",
           "listen_count": 2,
@@ -3163,6 +3413,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-08T18:17:16Z"
+        },
+        {
+          "artist": "Kiasmos",
+          "album": "II",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-13T23:12:36Z"
         },
         {
           "artist": "Oscar Peterson meets Roy Hargrove and Ralph Moore with Niels‐Henning Ørsted Pedersen and Lewis Nash",
@@ -3389,6 +3646,13 @@
           "last_listened_at_utc": "2026-07-26T20:05:23Z"
         },
         {
+          "artist": "Elliphant",
+          "album": "Living Life Golden",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T22:56:32Z"
+        },
+        {
           "artist": "Emily A. Sprague",
           "album": "Cyano",
           "listen_count": 1,
@@ -3410,6 +3674,13 @@
           "last_listened_at_utc": "2026-09-21T18:15:32Z"
         },
         {
+          "artist": "Feist",
+          "album": "One Evening",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T22:59:57Z"
+        },
+        {
           "artist": "Fishmans",
           "album": "Long Season",
           "listen_count": 1,
@@ -3422,6 +3693,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-06T12:50:36Z"
+        },
+        {
+          "artist": "Foals",
+          "album": "Collected Reworks",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T22:46:38Z"
         },
         {
           "artist": "Frank Sinatra",
@@ -3809,6 +4087,27 @@
           "last_listened_at_utc": "2026-09-27T22:34:44Z"
         },
         {
+          "artist": "The Beatles",
+          "album": "Anthology 1",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T21:30:10Z"
+        },
+        {
+          "artist": "The Beatles",
+          "album": "The Beatles (White Album) (Super Deluxe; White Album / Super Deluxe)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T21:36:43Z"
+        },
+        {
+          "artist": "The Beatles",
+          "album": "Yellow Submarine (Remastered 2009)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T21:34:01Z"
+        },
+        {
           "artist": "The Ben Webster Quintet",
           "album": "Soulville",
           "listen_count": 1,
@@ -3870,6 +4169,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-07-26T22:58:06Z"
+        },
+        {
+          "artist": "Tigran Hamasyan",
+          "album": "An Ancient Observer",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-13T20:26:11Z"
         },
         {
           "artist": "Tommy Flanagan",
@@ -4015,6 +4321,940 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1791984478,
+      "listened_at_utc": "2026-10-14T13:27:58Z",
+      "artist": "שב״ק ס׳",
+      "track": "הבלדה על פלומפי ב'",
+      "album": "שבק ס",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5efcb54f-be7f-4596-999c-a5eeb7e6dded"
+        ],
+        "recording_mbid": "84228cde-4b8d-452f-b318-ef96495f1363",
+        "release_mbid": "e0b8327e-9f81-44c8-a999-f03b08602068",
+        "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1791984311,
+      "listened_at_utc": "2026-10-14T13:25:11Z",
+      "artist": "שב״ק ס׳",
+      "track": "באים מיבנה",
+      "album": "שבק ס",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5efcb54f-be7f-4596-999c-a5eeb7e6dded"
+        ],
+        "recording_mbid": "47951fa8-b9e7-4962-be6c-44b6836936df",
+        "release_mbid": "e0b8327e-9f81-44c8-a999-f03b08602068",
+        "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1791984075,
+      "listened_at_utc": "2026-10-14T13:21:15Z",
+      "artist": "שב״ק ס׳",
+      "track": "מכופף הבננות",
+      "album": "שבק ס",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5efcb54f-be7f-4596-999c-a5eeb7e6dded"
+        ],
+        "recording_mbid": "ab427805-4a8c-4cdc-94ed-d8d804bab2e6",
+        "release_mbid": "e0b8327e-9f81-44c8-a999-f03b08602068",
+        "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1791983814,
+      "listened_at_utc": "2026-10-14T13:16:54Z",
+      "artist": "שב״ק ס׳",
+      "track": "סכנה לחברה",
+      "album": "שבק ס",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5efcb54f-be7f-4596-999c-a5eeb7e6dded"
+        ],
+        "recording_mbid": "171bb927-f61b-4fc4-9049-518092eca3e9",
+        "release_mbid": "e0b8327e-9f81-44c8-a999-f03b08602068",
+        "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1791983551,
+      "listened_at_utc": "2026-10-14T13:12:31Z",
+      "artist": "שב״ק ס׳",
+      "track": "פטריות",
+      "album": "שבק ס",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5efcb54f-be7f-4596-999c-a5eeb7e6dded"
+        ],
+        "recording_mbid": "d5173866-71c2-4313-84c5-6ff75ba0740f",
+        "release_mbid": "e0b8327e-9f81-44c8-a999-f03b08602068",
+        "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1791983344,
+      "listened_at_utc": "2026-10-14T13:09:04Z",
+      "artist": "שב״ק ס׳",
+      "track": "אסאסנים",
+      "album": "שבק ס",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5efcb54f-be7f-4596-999c-a5eeb7e6dded"
+        ],
+        "recording_mbid": "71aeed21-a60e-456e-93a0-209dfc274cab",
+        "release_mbid": "e0b8327e-9f81-44c8-a999-f03b08602068",
+        "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1791983117,
+      "listened_at_utc": "2026-10-14T13:05:17Z",
+      "artist": "שב״ק ס׳",
+      "track": "בעסקי ה'ש'",
+      "album": "שבק ס",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5efcb54f-be7f-4596-999c-a5eeb7e6dded"
+        ],
+        "release_mbid": "ce041e86-da92-4e31-b1d0-494208d1e09a"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1791982902,
+      "listened_at_utc": "2026-10-14T13:01:42Z",
+      "artist": "שב״ק ס׳",
+      "track": "המדינה בלהבות",
+      "album": "שבק ס",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5efcb54f-be7f-4596-999c-a5eeb7e6dded"
+        ],
+        "recording_mbid": "62bd74a8-5d77-4df1-8f6c-667cfbd81ca4",
+        "release_mbid": "e0b8327e-9f81-44c8-a999-f03b08602068",
+        "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1791982728,
+      "listened_at_utc": "2026-10-14T12:58:48Z",
+      "artist": "שב״ק ס׳",
+      "track": "אימפריה",
+      "album": "שבק ס",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5efcb54f-be7f-4596-999c-a5eeb7e6dded"
+        ],
+        "recording_mbid": "56b71408-1065-4865-9038-2bf40a2e0045",
+        "release_mbid": "e0b8327e-9f81-44c8-a999-f03b08602068",
+        "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1791939708,
+      "listened_at_utc": "2026-10-14T01:01:48Z",
+      "artist": "Cameron Winter",
+      "track": "Vines (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791939330,
+      "listened_at_utc": "2026-10-14T00:55:30Z",
+      "artist": "Cameron Winter",
+      "track": "Take It With You (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791938807,
+      "listened_at_utc": "2026-10-14T00:46:47Z",
+      "artist": "Cameron Winter",
+      "track": "$0 (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791938409,
+      "listened_at_utc": "2026-10-14T00:40:09Z",
+      "artist": "Cameron Winter",
+      "track": "Nina + Field of Cops (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791938072,
+      "listened_at_utc": "2026-10-14T00:34:32Z",
+      "artist": "Cameron Winter",
+      "track": "If You Turn Back Now (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791937648,
+      "listened_at_utc": "2026-10-14T00:27:28Z",
+      "artist": "Cameron Winter",
+      "track": "Cancer of the Skull (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791937337,
+      "listened_at_utc": "2026-10-14T00:22:17Z",
+      "artist": "Cameron Winter",
+      "track": "Drinking Age (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791937084,
+      "listened_at_utc": "2026-10-14T00:18:04Z",
+      "artist": "Cameron Winter",
+      "track": "Love Takes Miles (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4",
+        "recording_mbid": "ba33d7c6-7165-487f-9944-6f4612b3d9c0",
+        "release_group_mbid": "a9b6e76b-190b-4802-b120-ddef0fd852b7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791936818,
+      "listened_at_utc": "2026-10-14T00:13:38Z",
+      "artist": "Cameron Winter",
+      "track": "The Rolling Stones (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791936560,
+      "listened_at_utc": "2026-10-14T00:09:20Z",
+      "artist": "Cameron Winter",
+      "track": "Emperor XIII in Shades (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791936224,
+      "listened_at_utc": "2026-10-14T00:03:44Z",
+      "artist": "Cameron Winter",
+      "track": "Try as I May (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791935953,
+      "listened_at_utc": "2026-10-13T23:59:13Z",
+      "artist": "Cameron Winter",
+      "track": "It All Fell in the River (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791934376,
+      "listened_at_utc": "2026-10-13T23:32:56Z",
+      "artist": "Sampha",
+      "track": "Jonathan L. Seagull",
+      "album": "Lahai",
+      "musicbrainz": {
+        "artist_mbids": [
+          "130c2184-14f2-4180-a216-04b5a333be57"
+        ],
+        "recording_mbid": "7603ae18-fd0e-4fc7-9bc2-4f928c8e008d",
+        "release_mbid": "54bb2ec4-4fab-4ead-a29c-107c40a2f410",
+        "release_group_mbid": "b745c43d-3abf-48a3-8caf-81c25d40d100"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791934291,
+      "listened_at_utc": "2026-10-13T23:31:31Z",
+      "artist": "Sampha",
+      "track": "Satellite Business",
+      "album": "Lahai",
+      "musicbrainz": {
+        "artist_mbids": [
+          "130c2184-14f2-4180-a216-04b5a333be57"
+        ],
+        "recording_mbid": "53c075eb-20ea-403f-8079-719340c680cb",
+        "release_mbid": "54bb2ec4-4fab-4ead-a29c-107c40a2f410",
+        "release_group_mbid": "b745c43d-3abf-48a3-8caf-81c25d40d100"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791934105,
+      "listened_at_utc": "2026-10-13T23:28:25Z",
+      "artist": "Sampha",
+      "track": "Suspended",
+      "album": "Lahai",
+      "musicbrainz": {
+        "artist_mbids": [
+          "130c2184-14f2-4180-a216-04b5a333be57"
+        ],
+        "recording_mbid": "3aa34f7d-51fd-48f5-8799-df589ea9bb92",
+        "release_mbid": "54bb2ec4-4fab-4ead-a29c-107c40a2f410",
+        "release_group_mbid": "b745c43d-3abf-48a3-8caf-81c25d40d100"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791933872,
+      "listened_at_utc": "2026-10-13T23:24:32Z",
+      "artist": "Sampha",
+      "track": "Dancing Circles",
+      "album": "Lahai",
+      "musicbrainz": {
+        "artist_mbids": [
+          "130c2184-14f2-4180-a216-04b5a333be57"
+        ],
+        "recording_mbid": "dd8b1ff5-9d48-4449-923b-2910119b093c",
+        "release_mbid": "54bb2ec4-4fab-4ead-a29c-107c40a2f410",
+        "release_group_mbid": "b745c43d-3abf-48a3-8caf-81c25d40d100"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791933582,
+      "listened_at_utc": "2026-10-13T23:19:42Z",
+      "artist": "Sampha",
+      "track": "Spirit 2.0",
+      "album": "Lahai",
+      "musicbrainz": {
+        "artist_mbids": [
+          "130c2184-14f2-4180-a216-04b5a333be57"
+        ],
+        "recording_mbid": "0135ff44-a6a5-49de-a187-63d24d649fe2",
+        "release_mbid": "54bb2ec4-4fab-4ead-a29c-107c40a2f410",
+        "release_group_mbid": "b745c43d-3abf-48a3-8caf-81c25d40d100"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791933404,
+      "listened_at_utc": "2026-10-13T23:16:44Z",
+      "artist": "Sampha",
+      "track": "Stereo Colour Cloud (Shaman's Dream)",
+      "album": "Lahai",
+      "musicbrainz": {
+        "artist_mbids": [
+          "130c2184-14f2-4180-a216-04b5a333be57"
+        ],
+        "recording_mbid": "04ea49d9-1e86-4848-bf40-26403e3d456b",
+        "release_mbid": "54bb2ec4-4fab-4ead-a29c-107c40a2f410",
+        "release_group_mbid": "b745c43d-3abf-48a3-8caf-81c25d40d100"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791933156,
+      "listened_at_utc": "2026-10-13T23:12:36Z",
+      "artist": "Kiasmos",
+      "track": "Burst",
+      "album": "II",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3252542b-98a7-48ba-9861-7a612b16c227"
+        ],
+        "recording_mbid": "db3ba8ee-a9e7-4c60-b82f-18f7fde9145c",
+        "release_mbid": "5d54d61d-8532-40bd-8da0-f91b852a4069",
+        "release_group_mbid": "a754446d-ef54-4120-9396-e05914d2c4e4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791932816,
+      "listened_at_utc": "2026-10-13T23:06:56Z",
+      "artist": "Kiasmos",
+      "track": "Grown",
+      "album": "II",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3252542b-98a7-48ba-9861-7a612b16c227"
+        ],
+        "recording_mbid": "27e87568-eff7-439a-a1a1-d1069a0a3fcc",
+        "release_mbid": "5d54d61d-8532-40bd-8da0-f91b852a4069",
+        "release_group_mbid": "a754446d-ef54-4120-9396-e05914d2c4e4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791932397,
+      "listened_at_utc": "2026-10-13T22:59:57Z",
+      "artist": "Feist",
+      "track": "Lover's Spit (Redux)",
+      "album": "One Evening",
+      "musicbrainz": {
+        "artist_mbids": [
+          "2eada8f8-056a-4093-bbc2-004909ce743b",
+          "a670e05a-cea8-4b37-bce9-d82daf1a0fa4"
+        ],
+        "release_mbid": "9e7c3611-a46a-43e6-84c5-42066c81c4cc",
+        "recording_mbid": "6f0d20a6-5719-4ebd-b447-ea97f3f1910f",
+        "release_group_mbid": "7755a010-37a4-3ff6-8640-e4f33b0786b0"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791932192,
+      "listened_at_utc": "2026-10-13T22:56:32Z",
+      "artist": "Elliphant",
+      "track": "Where Is Home",
+      "album": "Living Life Golden",
+      "musicbrainz": {
+        "artist_mbids": [
+          "c9775973-8ce0-4525-a6d8-b276ccdff8aa",
+          "8d831383-b22b-4237-8059-12bee111e4b6"
+        ],
+        "release_mbid": "4f48cbc5-f394-49c2-8beb-cc748be48470",
+        "recording_mbid": "a7259934-bd89-4b54-bc35-b8a76957389c",
+        "release_group_mbid": "e0d6e6b3-7ef2-4a20-9469-cd862f84b3b1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791931598,
+      "listened_at_utc": "2026-10-13T22:46:38Z",
+      "artist": "Foals",
+      "track": "My Number (Hot Chip Remix)",
+      "album": "Collected Reworks",
+      "musicbrainz": {
+        "artist_mbids": [
+          "6a65d878-fcd0-42cf-aff9-ca1d636a8bcc"
+        ],
+        "recording_mbid": "b15e49cc-4504-4c29-8b19-c39512da13ab",
+        "release_mbid": "a1701502-d306-4c94-9c01-b67a94499c08",
+        "release_group_mbid": "9d7214e4-8af7-4a60-899d-d16c0601a173"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791930921,
+      "listened_at_utc": "2026-10-13T22:35:21Z",
+      "artist": "Destroyer",
+      "track": "Bay of Pigs (Detail)",
+      "album": "Kaputt",
+      "musicbrainz": {
+        "artist_mbids": [
+          "61604b45-8a91-4e33-a1b6-45d7b1fec4e5"
+        ],
+        "recording_mbid": "56b01b4c-bf6c-47d7-92a5-162814c63254",
+        "release_mbid": "b3c594b1-0593-43a3-8cf2-b5e352e70db0",
+        "release_group_mbid": "145e5f9c-7be0-4728-80ed-c5e020b362f1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791930652,
+      "listened_at_utc": "2026-10-13T22:30:52Z",
+      "artist": "Destroyer",
+      "track": "Song for America",
+      "album": "Kaputt",
+      "musicbrainz": {
+        "artist_mbids": [
+          "61604b45-8a91-4e33-a1b6-45d7b1fec4e5"
+        ],
+        "recording_mbid": "ddea0aca-b8bc-4d78-9339-ab8bae4ab33c",
+        "release_mbid": "b3c594b1-0593-43a3-8cf2-b5e352e70db0",
+        "release_group_mbid": "145e5f9c-7be0-4728-80ed-c5e020b362f1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791930420,
+      "listened_at_utc": "2026-10-13T22:27:00Z",
+      "artist": "Destroyer",
+      "track": "Downtown",
+      "album": "Kaputt",
+      "musicbrainz": {
+        "artist_mbids": [
+          "61604b45-8a91-4e33-a1b6-45d7b1fec4e5"
+        ],
+        "recording_mbid": "8fa28bce-4464-4bb0-9879-e000390df5e7",
+        "release_mbid": "b3c594b1-0593-43a3-8cf2-b5e352e70db0",
+        "release_group_mbid": "145e5f9c-7be0-4728-80ed-c5e020b362f1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791930043,
+      "listened_at_utc": "2026-10-13T22:20:43Z",
+      "artist": "Destroyer",
+      "track": "Kaputt",
+      "album": "Kaputt",
+      "musicbrainz": {
+        "artist_mbids": [
+          "61604b45-8a91-4e33-a1b6-45d7b1fec4e5"
+        ],
+        "recording_mbid": "9f0507de-2c1c-4acb-a22d-804b638beb3e",
+        "release_mbid": "b3c594b1-0593-43a3-8cf2-b5e352e70db0",
+        "release_group_mbid": "145e5f9c-7be0-4728-80ed-c5e020b362f1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791929836,
+      "listened_at_utc": "2026-10-13T22:17:16Z",
+      "artist": "Destroyer",
+      "track": "Poor in Love",
+      "album": "Kaputt",
+      "musicbrainz": {
+        "artist_mbids": [
+          "61604b45-8a91-4e33-a1b6-45d7b1fec4e5"
+        ],
+        "recording_mbid": "03ac8d03-0d70-4c9e-93a6-967a3b54ed43",
+        "release_mbid": "b3c594b1-0593-43a3-8cf2-b5e352e70db0",
+        "release_group_mbid": "145e5f9c-7be0-4728-80ed-c5e020b362f1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791929330,
+      "listened_at_utc": "2026-10-13T22:08:50Z",
+      "artist": "Destroyer",
+      "track": "Suicide Demo for Kara Walker",
+      "album": "Kaputt",
+      "musicbrainz": {
+        "artist_mbids": [
+          "61604b45-8a91-4e33-a1b6-45d7b1fec4e5"
+        ],
+        "recording_mbid": "ea411a90-0235-4a69-8a3e-3b8f98f88040",
+        "release_mbid": "b3c594b1-0593-43a3-8cf2-b5e352e70db0",
+        "release_group_mbid": "145e5f9c-7be0-4728-80ed-c5e020b362f1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791929066,
+      "listened_at_utc": "2026-10-13T22:04:26Z",
+      "artist": "Destroyer",
+      "track": "Savage Night at the Opera",
+      "album": "Kaputt",
+      "musicbrainz": {
+        "artist_mbids": [
+          "61604b45-8a91-4e33-a1b6-45d7b1fec4e5"
+        ],
+        "recording_mbid": "b865e286-7322-485f-9f80-cf40034e045a",
+        "release_mbid": "b3c594b1-0593-43a3-8cf2-b5e352e70db0",
+        "release_group_mbid": "145e5f9c-7be0-4728-80ed-c5e020b362f1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791928819,
+      "listened_at_utc": "2026-10-13T22:00:19Z",
+      "artist": "Destroyer",
+      "track": "Blue Eyes",
+      "album": "Kaputt",
+      "musicbrainz": {
+        "artist_mbids": [
+          "61604b45-8a91-4e33-a1b6-45d7b1fec4e5"
+        ],
+        "recording_mbid": "35b28cb6-7e82-4fb2-8ed8-4f4e5b91571f",
+        "release_mbid": "b3c594b1-0593-43a3-8cf2-b5e352e70db0",
+        "release_group_mbid": "145e5f9c-7be0-4728-80ed-c5e020b362f1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791928590,
+      "listened_at_utc": "2026-10-13T21:56:30Z",
+      "artist": "Destroyer",
+      "track": "Chinatown",
+      "album": "Kaputt",
+      "musicbrainz": {
+        "artist_mbids": [
+          "61604b45-8a91-4e33-a1b6-45d7b1fec4e5"
+        ],
+        "recording_mbid": "2aba763e-6ca4-4ecb-96c9-80a04dde15ab",
+        "release_mbid": "b3c594b1-0593-43a3-8cf2-b5e352e70db0",
+        "release_group_mbid": "145e5f9c-7be0-4728-80ed-c5e020b362f1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791927403,
+      "listened_at_utc": "2026-10-13T21:36:43Z",
+      "artist": "The Beatles",
+      "track": "Blackbird (2018 Mix)",
+      "album": "The Beatles (White Album) (Super Deluxe; White Album / Super Deluxe)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+        ],
+        "release_mbid": "d6213baf-e959-4817-9fa2-3ce97f131678",
+        "recording_mbid": "957f0563-b125-4f64-9b2a-b02414af4a7d",
+        "release_group_mbid": "055be730-dcad-31bf-b550-45ba9c202aa3"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791927241,
+      "listened_at_utc": "2026-10-13T21:34:01Z",
+      "artist": "The Beatles",
+      "track": "All You Need Is Love (Remastered 2009)",
+      "album": "Yellow Submarine (Remastered 2009)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+        ],
+        "release_mbid": "df03a9e5-a364-30da-905c-736bd04fb4eb"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791927010,
+      "listened_at_utc": "2026-10-13T21:30:10Z",
+      "artist": "The Beatles",
+      "track": "Ain't She Sweet",
+      "album": "Anthology 1",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+        ],
+        "recording_mbid": "84bf2648-2c6e-4619-b626-833308cac5f7",
+        "release_mbid": "c9ed7fdb-87c9-4d4a-822c-3682b4dc8cf6",
+        "release_group_mbid": "d80e76fd-30d3-38cf-9c49-4646e470c472"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791926824,
+      "listened_at_utc": "2026-10-13T21:27:04Z",
+      "artist": "Cameron Winter",
+      "track": "Try as I May (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791924489,
+      "listened_at_utc": "2026-10-13T20:48:09Z",
+      "artist": "Nala Sinephro",
+      "track": "Continuum 3",
+      "album": "Endlessness",
+      "musicbrainz": {
+        "artist_mbids": [
+          "46a4b150-be30-44b3-a337-e06a72657d33"
+        ],
+        "recording_mbid": "47b615e2-ba46-4f03-88e5-40a0a860666a",
+        "release_mbid": "055e9a23-6bf1-4a42-b558-11aa2e0ed850",
+        "release_group_mbid": "ed3161a7-d4fc-436a-9225-eec44f5bbcf9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791924064,
+      "listened_at_utc": "2026-10-13T20:41:04Z",
+      "artist": "Nala Sinephro",
+      "track": "Continuum 2",
+      "album": "Endlessness",
+      "musicbrainz": {
+        "artist_mbids": [
+          "46a4b150-be30-44b3-a337-e06a72657d33"
+        ],
+        "recording_mbid": "235c37cd-fde2-4d5e-b44e-b03085ceed76",
+        "release_mbid": "055e9a23-6bf1-4a42-b558-11aa2e0ed850",
+        "release_group_mbid": "ed3161a7-d4fc-436a-9225-eec44f5bbcf9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791923630,
+      "listened_at_utc": "2026-10-13T20:33:50Z",
+      "artist": "Nala Sinephro",
+      "track": "Continuum 1",
+      "album": "Endlessness",
+      "musicbrainz": {
+        "artist_mbids": [
+          "46a4b150-be30-44b3-a337-e06a72657d33"
+        ],
+        "recording_mbid": "9c66ba84-8cc2-46a5-b57c-174eafd38821",
+        "release_mbid": "055e9a23-6bf1-4a42-b558-11aa2e0ed850",
+        "release_group_mbid": "ed3161a7-d4fc-436a-9225-eec44f5bbcf9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791923171,
+      "listened_at_utc": "2026-10-13T20:26:11Z",
+      "artist": "Tigran Hamasyan",
+      "track": "Markos and Markos",
+      "album": "An Ancient Observer",
+      "musicbrainz": {
+        "artist_mbids": [
+          "c57e3280-5182-42a5-812b-02659a079c44"
+        ],
+        "recording_mbid": "a08e86c3-3739-4b7a-8a7c-19453f2b43dc",
+        "release_mbid": "20a2ccaa-209a-4de7-b261-cfe11a5cc545",
+        "release_group_mbid": "06c3f4ef-c895-4bf3-8e2c-9ee492cf2c4d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791922892,
+      "listened_at_utc": "2026-10-13T20:21:32Z",
+      "artist": "Dhafer Youssef",
+      "track": "Sweet Blasphemy",
+      "album": "Birds Requiem",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e193397d-a888-4b4d-b11d-2a602c24b023"
+        ],
+        "recording_mbid": "badf31fa-4696-4307-82cf-bfcbd8654953",
+        "release_mbid": "99e3f810-5f0c-4a14-a5bc-6e24cb7a68f7",
+        "release_group_mbid": "d3326b04-bf18-4478-a44a-0577dbc61af8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1791922695,
+      "listened_at_utc": "2026-10-13T20:18:15Z",
+      "artist": "Dhafer Youssef",
+      "track": "Birds Canticum \"Birds Requiem\" Suite",
+      "album": "Birds Requiem",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e193397d-a888-4b4d-b11d-2a602c24b023"
+        ],
+        "recording_mbid": "3bc78157-29bf-4779-a620-6047be08cf0d",
+        "release_mbid": "99e3f810-5f0c-4a14-a5bc-6e24cb7a68f7",
+        "release_group_mbid": "d3326b04-bf18-4478-a44a-0577dbc61af8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1791894961,
       "listened_at_utc": "2026-10-13T12:36:01Z",
