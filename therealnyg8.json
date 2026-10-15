@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-14T14:34:02Z",
+  "generated_at_utc": "2026-10-15T14:13:32Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-16T14:34:02Z",
-    "through_utc": "2026-10-14T14:34:02Z",
+    "from_utc": "2026-07-17T14:13:32Z",
+    "through_utc": "2026-10-15T14:13:32Z",
     "complete": true,
     "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 1482,
-    "deduplicated_listen_count": 1072,
-    "duplicates_removed": 410,
+    "raw_listen_count": 1529,
+    "deduplicated_listen_count": 1091,
+    "duplicates_removed": 438,
     "oldest_listen_utc": "2026-07-17T15:04:49Z",
-    "newest_listen_utc": "2026-10-14T13:27:58Z"
+    "newest_listen_utc": "2026-10-15T13:38:09Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,9 +28,9 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 237,
-      "unique_artists": 42,
-      "unique_albums": 47,
+      "listen_count": 252,
+      "unique_artists": 43,
+      "unique_albums": 49,
       "listens_without_album": 0,
       "artists": [
         {
@@ -38,12 +38,12 @@
           "listen_count": 29
         },
         {
-          "artist": "Miles Davis",
-          "listen_count": 16
+          "artist": "Anouar Brahem",
+          "listen_count": 20
         },
         {
-          "artist": "Anouar Brahem",
-          "listen_count": 14
+          "artist": "Miles Davis",
+          "listen_count": 16
         },
         {
           "artist": "Sonny Rollins",
@@ -51,6 +51,10 @@
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
+          "listen_count": 12
+        },
+        {
+          "artist": "טונה",
           "listen_count": 12
         },
         {
@@ -122,10 +126,6 @@
           "listen_count": 4
         },
         {
-          "artist": "Akusmi",
-          "listen_count": 3
-        },
-        {
           "artist": "Nala Sinephro",
           "listen_count": 3
         },
@@ -150,10 +150,6 @@
           "listen_count": 2
         },
         {
-          "artist": "Jlin",
-          "listen_count": 2
-        },
-        {
           "artist": "Kiasmos",
           "listen_count": 2
         },
@@ -174,6 +170,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Jlin",
+          "listen_count": 1
+        },
+        {
           "artist": "Marcus Miller",
           "listen_count": 1
         },
@@ -183,6 +183,10 @@
         },
         {
           "artist": "Rajery, Ballaké Sissoko & Driss El Maloumi",
+          "listen_count": 1
+        },
+        {
+          "artist": "Sokratis Sinopoulos Quartet",
           "listen_count": 1
         },
         {
@@ -211,6 +215,13 @@
           "last_listened_at_utc": "2026-10-14T01:01:48Z"
         },
         {
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
+          "listen_count": 20,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-14T23:24:54Z"
+        },
+        {
           "artist": "Miles Davis",
           "album": "Kind of Blue",
           "listen_count": 16,
@@ -218,18 +229,18 @@
           "last_listened_at_utc": "2026-10-10T21:59:35Z"
         },
         {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 14,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-11T16:39:32Z"
-        },
-        {
           "artist": "Kikagaku Moyo",
           "album": "Kumoyo Island",
           "listen_count": 11,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-10-11T21:49:10Z"
+        },
+        {
+          "artist": "טונה",
+          "album": "ראפ מטורף",
+          "listen_count": 11,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-10-15T13:38:09Z"
         },
         {
           "artist": "Chet Baker",
@@ -365,13 +376,6 @@
           "last_listened_at_utc": "2026-10-12T21:34:28Z"
         },
         {
-          "artist": "Akusmi",
-          "album": "Terra Incognita",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-07T22:49:37Z"
-        },
-        {
           "artist": "John Coltrane",
           "album": "Giant Steps",
           "listen_count": 3,
@@ -421,13 +425,6 @@
           "last_listened_at_utc": "2026-10-13T20:21:32Z"
         },
         {
-          "artist": "Jlin",
-          "album": "Akoma",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-08T18:17:16Z"
-        },
-        {
           "artist": "Kiasmos",
           "album": "II",
           "listen_count": 2,
@@ -463,6 +460,13 @@
           "last_listened_at_utc": "2026-10-13T22:46:38Z"
         },
         {
+          "artist": "Jlin",
+          "album": "Akoma",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-08T18:17:16Z"
+        },
+        {
           "artist": "Marcus Miller",
           "album": "Marshall (Original Motion Picture Soundtrack)",
           "listen_count": 1,
@@ -482,6 +486,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-12T18:47:59Z"
+        },
+        {
+          "artist": "Sokratis Sinopoulos Quartet",
+          "album": "Metamodal",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-14T23:38:09Z"
         },
         {
           "artist": "The Beatles",
@@ -531,13 +542,20 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-12T22:57:21Z"
+        },
+        {
+          "artist": "טונה",
+          "album": "מזרח פרוע",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-15T13:01:29Z"
         }
       ]
     },
     "last_30_days": {
-      "listen_count": 596,
-      "unique_artists": 122,
-      "unique_albums": 138,
+      "listen_count": 606,
+      "unique_artists": 123,
+      "unique_albums": 139,
       "listens_without_album": 0,
       "artists": [
         {
@@ -557,6 +575,10 @@
           "listen_count": 24
         },
         {
+          "artist": "Anouar Brahem",
+          "listen_count": 20
+        },
+        {
           "artist": "Bob Dylan",
           "listen_count": 20
         },
@@ -565,8 +587,8 @@
           "listen_count": 19
         },
         {
-          "artist": "Anouar Brahem",
-          "listen_count": 14
+          "artist": "טונה",
+          "listen_count": 16
         },
         {
           "artist": "Sagol 59",
@@ -641,10 +663,6 @@
           "listen_count": 8
         },
         {
-          "artist": "נצ׳י נצ׳",
-          "listen_count": 8
-        },
-        {
           "artist": "Charles Mingus",
           "listen_count": 7
         },
@@ -697,10 +715,6 @@
           "listen_count": 5
         },
         {
-          "artist": "רביד פלוטניק",
-          "listen_count": 5
-        },
-        {
           "artist": "Cornelius",
           "listen_count": 4
         },
@@ -722,10 +736,6 @@
         },
         {
           "artist": "Tinashe",
-          "listen_count": 4
-        },
-        {
-          "artist": "טונה",
           "listen_count": 4
         },
         {
@@ -770,6 +780,10 @@
         },
         {
           "artist": "מיכאל סוויסה וסלימפים",
+          "listen_count": 3
+        },
+        {
+          "artist": "רביד פלוטניק",
           "listen_count": 3
         },
         {
@@ -957,6 +971,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Sokratis Sinopoulos Quartet",
+          "listen_count": 1
+        },
+        {
           "artist": "Sting",
           "listen_count": 1
         },
@@ -1017,6 +1035,10 @@
           "listen_count": 1
         },
         {
+          "artist": "נצ׳י נצ׳",
+          "listen_count": 1
+        },
+        {
           "artist": "原神玲",
           "listen_count": 1
         },
@@ -1052,6 +1074,13 @@
           "last_listened_at_utc": "2026-10-05T23:27:27Z"
         },
         {
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
+          "listen_count": 20,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-14T23:24:54Z"
+        },
+        {
           "artist": "Miles Davis",
           "album": "Kind of Blue",
           "listen_count": 19,
@@ -1064,13 +1093,6 @@
           "listen_count": 15,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-09T23:39:47Z"
-        },
-        {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 14,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-11T16:39:32Z"
         },
         {
           "artist": "Sagol 59",
@@ -1127,6 +1149,13 @@
           "listen_count": 11,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-09-25T21:06:10Z"
+        },
+        {
+          "artist": "טונה",
+          "album": "ראפ מטורף",
+          "listen_count": 11,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-10-15T13:38:09Z"
         },
         {
           "artist": "שב״ק ס׳",
@@ -1211,13 +1240,6 @@
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-09-26T20:14:19Z"
-        },
-        {
-          "artist": "נצ׳י נצ׳",
-          "album": "שפל וגאות",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-09-16T12:42:46Z"
         },
         {
           "artist": "Charles Mingus",
@@ -1332,6 +1354,13 @@
           "last_listened_at_utc": "2026-09-29T20:16:34Z"
         },
         {
+          "artist": "טונה",
+          "album": "מזרח פרוע",
+          "listen_count": 5,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-15T13:01:29Z"
+        },
+        {
           "artist": "Mikiko Sato",
           "album": "Mikiko's World",
           "listen_count": 4,
@@ -1365,13 +1394,6 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-05T20:43:36Z"
-        },
-        {
-          "artist": "טונה",
-          "album": "מזרח פרוע",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-02T12:33:49Z"
         },
         {
           "artist": "Akusmi",
@@ -1540,13 +1562,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-07T12:38:30Z"
-        },
-        {
-          "artist": "רביד פלוטניק",
-          "album": "הדרך לשביל הזהב",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-09-14T23:42:36Z"
         },
         {
           "artist": "ハリー細野 & Tin Pan Alley",
@@ -1843,6 +1858,13 @@
           "last_listened_at_utc": "2026-09-29T22:54:57Z"
         },
         {
+          "artist": "Sokratis Sinopoulos Quartet",
+          "album": "Metamodal",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-14T23:38:09Z"
+        },
+        {
           "artist": "Sting",
           "album": "The Dream Of The Blue Turtles",
           "listen_count": 1,
@@ -1976,6 +1998,13 @@
           "last_listened_at_utc": "2026-09-17T12:35:54Z"
         },
         {
+          "artist": "נצ׳י נצ׳",
+          "album": "שפל וגאות",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-16T12:42:46Z"
+        },
+        {
           "artist": "原神玲",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -1999,14 +2028,14 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1072,
-      "unique_artists": 177,
-      "unique_albums": 229,
+      "listen_count": 1091,
+      "unique_artists": 178,
+      "unique_albums": 230,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "טונה",
-          "listen_count": 130
+          "listen_count": 142
         },
         {
           "artist": "רביד פלוטניק",
@@ -2053,6 +2082,10 @@
           "listen_count": 23
         },
         {
+          "artist": "Anouar Brahem",
+          "listen_count": 20
+        },
+        {
           "artist": "Kenny Burrell",
           "listen_count": 18
         },
@@ -2067,10 +2100,6 @@
         {
           "artist": "Chet Baker",
           "listen_count": 15
-        },
-        {
-          "artist": "Anouar Brahem",
-          "listen_count": 14
         },
         {
           "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
@@ -2593,6 +2622,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Sokratis Sinopoulos Quartet",
+          "listen_count": 1
+        },
+        {
           "artist": "Sonny Stitt",
           "listen_count": 1
         },
@@ -2717,9 +2750,9 @@
         {
           "artist": "טונה",
           "album": "מזרח פרוע",
-          "listen_count": 48,
+          "listen_count": 49,
           "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-02T12:33:49Z"
+          "last_listened_at_utc": "2026-10-15T13:01:29Z"
         },
         {
           "artist": "Mac DeMarco",
@@ -2734,6 +2767,13 @@
           "listen_count": 31,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-09-25T20:34:25Z"
+        },
+        {
+          "artist": "טונה",
+          "album": "ראפ מטורף",
+          "listen_count": 30,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-10-15T13:38:09Z"
         },
         {
           "artist": "Cameron Winter",
@@ -2785,18 +2825,18 @@
           "last_listened_at_utc": "2026-09-14T23:42:36Z"
         },
         {
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
+          "listen_count": 20,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-14T23:24:54Z"
+        },
+        {
           "artist": "Miles Davis",
           "album": "Kind of Blue",
           "listen_count": 20,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-10-10T21:59:35Z"
-        },
-        {
-          "artist": "טונה",
-          "album": "ראפ מטורף",
-          "listen_count": 19,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-09-11T19:57:55Z"
         },
         {
           "artist": "טונה",
@@ -2832,13 +2872,6 @@
           "listen_count": 16,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-10-09T23:05:04Z"
-        },
-        {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 14,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-11T16:39:32Z"
         },
         {
           "artist": "Sagol 59",
@@ -4010,6 +4043,13 @@
           "last_listened_at_utc": "2026-09-29T22:54:57Z"
         },
         {
+          "artist": "Sokratis Sinopoulos Quartet",
+          "album": "Metamodal",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-14T23:38:09Z"
+        },
+        {
           "artist": "Sonny Rollins",
           "album": "Jazz Must Haves",
           "listen_count": 1,
@@ -4322,6 +4362,365 @@
   },
   "recent_listens": [
     {
+      "listened_at": 1792071489,
+      "listened_at_utc": "2026-10-15T13:38:09Z",
+      "artist": "טונה",
+      "track": "ויפאסנה",
+      "album": "ראפ מטורף",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "772c0a31-57a6-42ea-a862-4680d35b0095",
+        "release_mbid": "3467e1eb-aea9-49dc-be5a-3a38b43e1670",
+        "release_group_mbid": "acd8e959-ef99-45db-9004-e099ddbff6bf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792071279,
+      "listened_at_utc": "2026-10-15T13:34:39Z",
+      "artist": "טונה",
+      "track": "ילד פריפריה",
+      "album": "ראפ מטורף",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "bf633151-9ddb-482b-958b-5d4043910d6e",
+        "release_mbid": "3467e1eb-aea9-49dc-be5a-3a38b43e1670",
+        "release_group_mbid": "acd8e959-ef99-45db-9004-e099ddbff6bf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792071083,
+      "listened_at_utc": "2026-10-15T13:31:23Z",
+      "artist": "טונה",
+      "track": "אין לזה סוף",
+      "album": "ראפ מטורף",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "c453d68a-a2a9-4f5c-a91b-a1ca31fad637",
+        "release_mbid": "3467e1eb-aea9-49dc-be5a-3a38b43e1670",
+        "release_group_mbid": "acd8e959-ef99-45db-9004-e099ddbff6bf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792070830,
+      "listened_at_utc": "2026-10-15T13:27:10Z",
+      "artist": "טונה",
+      "track": "פיראטים",
+      "album": "ראפ מטורף",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "1ef908b8-50fc-4d9e-9ee4-3fc0a5e08b2b",
+        "release_mbid": "3467e1eb-aea9-49dc-be5a-3a38b43e1670",
+        "release_group_mbid": "acd8e959-ef99-45db-9004-e099ddbff6bf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792070648,
+      "listened_at_utc": "2026-10-15T13:24:08Z",
+      "artist": "טונה",
+      "track": "אוזניות",
+      "album": "ראפ מטורף",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398",
+          "2178d2bb-423d-4ee8-8f64-0f8d978596da"
+        ],
+        "release_mbid": "3467e1eb-aea9-49dc-be5a-3a38b43e1670"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792070489,
+      "listened_at_utc": "2026-10-15T13:21:29Z",
+      "artist": "טונה",
+      "track": "וויו וויו",
+      "album": "ראפ מטורף",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "84d1300b-ff5f-47c3-a78b-de61a610bd3f",
+        "release_mbid": "3467e1eb-aea9-49dc-be5a-3a38b43e1670",
+        "release_group_mbid": "acd8e959-ef99-45db-9004-e099ddbff6bf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792070301,
+      "listened_at_utc": "2026-10-15T13:18:21Z",
+      "artist": "טונה",
+      "track": "תחת אש",
+      "album": "ראפ מטורף",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "1acb8c66-6d0d-44f0-8e5c-679e150be5f0",
+        "release_mbid": "3467e1eb-aea9-49dc-be5a-3a38b43e1670",
+        "release_group_mbid": "acd8e959-ef99-45db-9004-e099ddbff6bf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792070112,
+      "listened_at_utc": "2026-10-15T13:15:12Z",
+      "artist": "טונה",
+      "track": "ראפ מטורף",
+      "album": "ראפ מטורף",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398",
+          "2e1a029a-5157-407c-9cab-1e0e302b3274"
+        ],
+        "release_mbid": "3467e1eb-aea9-49dc-be5a-3a38b43e1670"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792069927,
+      "listened_at_utc": "2026-10-15T13:12:07Z",
+      "artist": "טונה",
+      "track": "ראש למעלה",
+      "album": "ראפ מטורף",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "8f6f2c37-4c40-4fe9-a1f1-44cedcd8e6f2",
+        "release_mbid": "3467e1eb-aea9-49dc-be5a-3a38b43e1670",
+        "release_group_mbid": "acd8e959-ef99-45db-9004-e099ddbff6bf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792069765,
+      "listened_at_utc": "2026-10-15T13:09:25Z",
+      "artist": "טונה",
+      "track": "ציוד כבד",
+      "album": "ראפ מטורף",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "4a9e06d7-3169-46d8-ba1a-dbfcd42dafe1",
+        "release_mbid": "3467e1eb-aea9-49dc-be5a-3a38b43e1670",
+        "release_group_mbid": "acd8e959-ef99-45db-9004-e099ddbff6bf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792069464,
+      "listened_at_utc": "2026-10-15T13:04:24Z",
+      "artist": "טונה",
+      "track": "אמן אמן אמן",
+      "album": "ראפ מטורף",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "f51e8a15-7cb7-4b9e-a3ee-44e37b81ec0b",
+        "release_mbid": "3467e1eb-aea9-49dc-be5a-3a38b43e1670",
+        "release_group_mbid": "acd8e959-ef99-45db-9004-e099ddbff6bf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792069289,
+      "listened_at_utc": "2026-10-15T13:01:29Z",
+      "artist": "טונה",
+      "track": "כל הכוכבים",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "83e76432-8835-4d62-b0b9-121e2cee01be",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792021089,
+      "listened_at_utc": "2026-10-14T23:38:09Z",
+      "artist": "Sokratis Sinopoulos Quartet",
+      "track": "Lament",
+      "album": "Metamodal",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e843ae92-4309-4a22-a407-d68311290614"
+        ],
+        "recording_mbid": "84eb8103-661d-4257-b82f-d8b5fcb609db",
+        "release_mbid": "284005be-5d32-44cd-976a-5335535bcbbb",
+        "release_group_mbid": "33974faf-5b2f-4bd3-b188-e75ca9614ef6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792020294,
+      "listened_at_utc": "2026-10-14T23:24:54Z",
+      "artist": "Anouar Brahem",
+      "track": "Galilée mon amour",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "fe8c2a53-976c-4a25-8e45-d9e3b59eada4",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792019997,
+      "listened_at_utc": "2026-10-14T23:19:57Z",
+      "artist": "Anouar Brahem",
+      "track": "Al Birwa",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "5f86bf21-e688-4b1f-a930-94c682038d9c",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792019475,
+      "listened_at_utc": "2026-10-14T23:11:15Z",
+      "artist": "Anouar Brahem",
+      "track": "The Astounding Eyes Of Rita",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "32d4f9ab-1d72-449e-bb97-b281c47ba36e",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792019080,
+      "listened_at_utc": "2026-10-14T23:04:40Z",
+      "artist": "Anouar Brahem",
+      "track": "Stopover At Djibouti",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "4786bc09-f677-4617-94af-be73a5457897",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792018844,
+      "listened_at_utc": "2026-10-14T23:00:44Z",
+      "artist": "Anouar Brahem",
+      "track": "Dance With Waves",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "03f6efb6-ff76-418a-a3ff-db44963ba01a",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792018380,
+      "listened_at_utc": "2026-10-14T22:53:00Z",
+      "artist": "Anouar Brahem",
+      "track": "The Lover Of Beirut",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "93d00279-3eb5-4717-b2c8-041184c77138",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
       "listened_at": 1791984478,
       "listened_at_utc": "2026-10-14T13:27:58Z",
       "artist": "שב״ק ס׳",
@@ -4336,7 +4735,8 @@
         "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4354,7 +4754,8 @@
         "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4372,7 +4773,8 @@
         "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4390,7 +4792,8 @@
         "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4408,7 +4811,8 @@
         "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4426,7 +4830,8 @@
         "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4442,7 +4847,8 @@
         "release_mbid": "ce041e86-da92-4e31-b1d0-494208d1e09a"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4460,7 +4866,8 @@
         "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4478,7 +4885,8 @@
         "release_group_mbid": "0171d054-a947-43c4-90fe-f09430c421d5"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
