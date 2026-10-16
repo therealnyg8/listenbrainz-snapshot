@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-15T14:13:32Z",
+  "generated_at_utc": "2026-10-16T14:02:14Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-17T14:13:32Z",
-    "through_utc": "2026-10-15T14:13:32Z",
+    "from_utc": "2026-07-18T14:02:14Z",
+    "through_utc": "2026-10-16T14:02:14Z",
     "complete": true,
     "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 1529,
-    "deduplicated_listen_count": 1091,
-    "duplicates_removed": 438,
-    "oldest_listen_utc": "2026-07-17T15:04:49Z",
-    "newest_listen_utc": "2026-10-15T13:38:09Z"
+    "raw_listen_count": 1582,
+    "deduplicated_listen_count": 1115,
+    "duplicates_removed": 467,
+    "oldest_listen_utc": "2026-07-24T19:08:02Z",
+    "newest_listen_utc": "2026-10-16T13:32:34Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,9 +28,9 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 252,
-      "unique_artists": 43,
-      "unique_albums": 49,
+      "listen_count": 262,
+      "unique_artists": 46,
+      "unique_albums": 52,
       "listens_without_album": 0,
       "artists": [
         {
@@ -39,11 +39,7 @@
         },
         {
           "artist": "Anouar Brahem",
-          "listen_count": 20
-        },
-        {
-          "artist": "Miles Davis",
-          "listen_count": 16
+          "listen_count": 23
         },
         {
           "artist": "Sonny Rollins",
@@ -60,6 +56,10 @@
         {
           "artist": "Kikagaku Moyo",
           "listen_count": 11
+        },
+        {
+          "artist": "Bob Dylan",
+          "listen_count": 10
         },
         {
           "artist": "Chet Baker",
@@ -82,11 +82,23 @@
           "listen_count": 8
         },
         {
+          "artist": "Miles Davis",
+          "listen_count": 8
+        },
+        {
           "artist": "Charles Mingus",
           "listen_count": 7
         },
         {
+          "artist": "Fontaines D.C.",
+          "listen_count": 7
+        },
+        {
           "artist": "Kenny Burrell",
+          "listen_count": 7
+        },
+        {
+          "artist": "Vampire Weekend",
           "listen_count": 7
         },
         {
@@ -102,15 +114,7 @@
           "listen_count": 6
         },
         {
-          "artist": "Shabaka",
-          "listen_count": 6
-        },
-        {
           "artist": "Anouar Brahem, Dave Holland, Jack DeJohnette, Django Bates",
-          "listen_count": 5
-        },
-        {
-          "artist": "J Dilla",
           "listen_count": 5
         },
         {
@@ -126,6 +130,10 @@
           "listen_count": 4
         },
         {
+          "artist": "Hiatus Kaiyote",
+          "listen_count": 3
+        },
+        {
           "artist": "Nala Sinephro",
           "listen_count": 3
         },
@@ -134,15 +142,11 @@
           "listen_count": 3
         },
         {
+          "artist": "Sven Wunder",
+          "listen_count": 3
+        },
+        {
           "artist": "The Beatles",
-          "listen_count": 3
-        },
-        {
-          "artist": "Tortoise",
-          "listen_count": 3
-        },
-        {
-          "artist": "YĪN YĪN",
           "listen_count": 3
         },
         {
@@ -170,15 +174,19 @@
           "listen_count": 1
         },
         {
-          "artist": "Jlin",
+          "artist": "J Dilla",
           "listen_count": 1
         },
         {
-          "artist": "Marcus Miller",
+          "artist": "Lianne La Havas",
           "listen_count": 1
         },
         {
           "artist": "Michael Kiwanuka",
+          "listen_count": 1
+        },
+        {
+          "artist": "Norah Jones",
           "listen_count": 1
         },
         {
@@ -187,6 +195,10 @@
         },
         {
           "artist": "Sokratis Sinopoulos Quartet",
+          "listen_count": 1
+        },
+        {
+          "artist": "Steely Dan",
           "listen_count": 1
         },
         {
@@ -217,16 +229,9 @@
         {
           "artist": "Anouar Brahem",
           "album": "The Astounding Eyes Of Rita",
-          "listen_count": 20,
+          "listen_count": 23,
           "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-14T23:24:54Z"
-        },
-        {
-          "artist": "Miles Davis",
-          "album": "Kind of Blue",
-          "listen_count": 16,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-10T21:59:35Z"
+          "last_listened_at_utc": "2026-10-15T20:58:30Z"
         },
         {
           "artist": "Kikagaku Moyo",
@@ -241,6 +246,13 @@
           "listen_count": 11,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-10-15T13:38:09Z"
+        },
+        {
+          "artist": "Bob Dylan",
+          "album": "Blood on the Tracks",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-10-15T22:34:29Z"
         },
         {
           "artist": "Chet Baker",
@@ -285,11 +297,25 @@
           "last_listened_at_utc": "2026-10-11T12:27:39Z"
         },
         {
+          "artist": "Miles Davis",
+          "album": "Kind of Blue",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-10T21:59:35Z"
+        },
+        {
           "artist": "Charles Mingus",
           "album": "Oh Yeah",
           "listen_count": 7,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-10-10T19:57:03Z"
+        },
+        {
+          "artist": "Fontaines D.C.",
+          "album": "Romance",
+          "listen_count": 7,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-10-16T13:32:34Z"
         },
         {
           "artist": "Kenny Burrell",
@@ -306,6 +332,13 @@
           "last_listened_at_utc": "2026-10-09T22:27:08Z"
         },
         {
+          "artist": "Vampire Weekend",
+          "album": "Only God Was Above Us",
+          "listen_count": 7,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-10-15T23:35:26Z"
+        },
+        {
           "artist": "Isao Suzuki Trio / Quartet",
           "album": "Blow Up",
           "listen_count": 6,
@@ -320,25 +353,11 @@
           "last_listened_at_utc": "2026-10-13T23:32:56Z"
         },
         {
-          "artist": "Shabaka",
-          "album": "Of The Earth",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-08T22:34:12Z"
-        },
-        {
           "artist": "Anouar Brahem, Dave Holland, Jack DeJohnette, Django Bates",
           "album": "Blue Maqams",
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-10-11T18:22:47Z"
-        },
-        {
-          "artist": "J Dilla",
-          "album": "Donuts",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-09T21:19:08Z"
         },
         {
           "artist": "Sonny Rollins",
@@ -376,6 +395,13 @@
           "last_listened_at_utc": "2026-10-12T21:34:28Z"
         },
         {
+          "artist": "Hiatus Kaiyote",
+          "album": "Mood Valiant",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-15T23:41:48Z"
+        },
+        {
           "artist": "John Coltrane",
           "album": "Giant Steps",
           "listen_count": 3,
@@ -404,18 +430,11 @@
           "last_listened_at_utc": "2026-10-12T21:14:59Z"
         },
         {
-          "artist": "Tortoise",
-          "album": "Touch",
+          "artist": "Sven Wunder",
+          "album": "Eastern Flowers",
           "listen_count": 3,
           "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-08T21:18:35Z"
-        },
-        {
-          "artist": "YĪN YĪN",
-          "album": "Mount Matsu",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-09T12:33:53Z"
+          "last_listened_at_utc": "2026-10-15T21:43:47Z"
         },
         {
           "artist": "Dhafer Youssef",
@@ -460,18 +479,18 @@
           "last_listened_at_utc": "2026-10-13T22:46:38Z"
         },
         {
-          "artist": "Jlin",
-          "album": "Akoma",
+          "artist": "J Dilla",
+          "album": "Donuts",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-08T18:17:16Z"
+          "last_listened_at_utc": "2026-10-09T21:19:08Z"
         },
         {
-          "artist": "Marcus Miller",
-          "album": "Marshall (Original Motion Picture Soundtrack)",
+          "artist": "Lianne La Havas",
+          "album": "Lianne La Havas",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-09T00:23:09Z"
+          "last_listened_at_utc": "2026-10-15T23:44:40Z"
         },
         {
           "artist": "Michael Kiwanuka",
@@ -479,6 +498,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-12T18:49:53Z"
+        },
+        {
+          "artist": "Norah Jones",
+          "album": "Come Away with Me",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-15T18:10:58Z"
         },
         {
           "artist": "Rajery, Ballaké Sissoko & Driss El Maloumi",
@@ -493,6 +519,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-14T23:38:09Z"
+        },
+        {
+          "artist": "Steely Dan",
+          "album": "Aja",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-15T18:08:29Z"
         },
         {
           "artist": "The Beatles",
@@ -553,9 +586,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 606,
-      "unique_artists": 123,
-      "unique_albums": 139,
+      "listen_count": 640,
+      "unique_artists": 128,
+      "unique_albums": 145,
       "listens_without_album": 0,
       "artists": [
         {
@@ -567,6 +600,10 @@
           "listen_count": 32
         },
         {
+          "artist": "Bob Dylan",
+          "listen_count": 30
+        },
+        {
           "artist": "Ahmad Jamal Trio",
           "listen_count": 27
         },
@@ -576,11 +613,7 @@
         },
         {
           "artist": "Anouar Brahem",
-          "listen_count": 20
-        },
-        {
-          "artist": "Bob Dylan",
-          "listen_count": 20
+          "listen_count": 23
         },
         {
           "artist": "Miles Davis",
@@ -667,7 +700,15 @@
           "listen_count": 7
         },
         {
+          "artist": "Fontaines D.C.",
+          "listen_count": 7
+        },
+        {
           "artist": "Nujabes",
+          "listen_count": 7
+        },
+        {
+          "artist": "Vampire Weekend",
           "listen_count": 7
         },
         {
@@ -747,6 +788,10 @@
           "listen_count": 3
         },
         {
+          "artist": "Hiatus Kaiyote",
+          "listen_count": 3
+        },
+        {
           "artist": "Julian Lage",
           "listen_count": 3
         },
@@ -756,6 +801,10 @@
         },
         {
           "artist": "Sissoko Segal Parisien Peirani",
+          "listen_count": 3
+        },
+        {
+          "artist": "Sven Wunder",
           "listen_count": 3
         },
         {
@@ -919,6 +968,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Lianne La Havas",
+          "listen_count": 1
+        },
+        {
           "artist": "Little Simz",
           "listen_count": 1
         },
@@ -936,6 +989,10 @@
         },
         {
           "artist": "Michael Kiwanuka",
+          "listen_count": 1
+        },
+        {
+          "artist": "Norah Jones",
           "listen_count": 1
         },
         {
@@ -972,6 +1029,10 @@
         },
         {
           "artist": "Sokratis Sinopoulos Quartet",
+          "listen_count": 1
+        },
+        {
+          "artist": "Steely Dan",
           "listen_count": 1
         },
         {
@@ -1027,15 +1088,7 @@
           "listen_count": 1
         },
         {
-          "artist": "אביב גדג׳",
-          "listen_count": 1
-        },
-        {
           "artist": "ג'יגה ג'וס",
-          "listen_count": 1
-        },
-        {
-          "artist": "נצ׳י נצ׳",
           "listen_count": 1
         },
         {
@@ -1076,9 +1129,9 @@
         {
           "artist": "Anouar Brahem",
           "album": "The Astounding Eyes Of Rita",
-          "listen_count": 20,
+          "listen_count": 23,
           "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-14T23:24:54Z"
+          "last_listened_at_utc": "2026-10-15T20:58:30Z"
         },
         {
           "artist": "Miles Davis",
@@ -1166,6 +1219,13 @@
         },
         {
           "artist": "Bob Dylan",
+          "album": "Blood on the Tracks",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-10-15T22:34:29Z"
+        },
+        {
+          "artist": "Bob Dylan",
           "album": "Desire",
           "listen_count": 10,
           "unique_tracks": 9,
@@ -1249,6 +1309,13 @@
           "last_listened_at_utc": "2026-10-10T19:57:03Z"
         },
         {
+          "artist": "Fontaines D.C.",
+          "album": "Romance",
+          "listen_count": 7,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-10-16T13:32:34Z"
+        },
+        {
           "artist": "Nujabes",
           "album": "Modal Soul",
           "listen_count": 7,
@@ -1268,6 +1335,13 @@
           "listen_count": 7,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-10-09T22:27:08Z"
+        },
+        {
+          "artist": "Vampire Weekend",
+          "album": "Only God Was Above Us",
+          "listen_count": 7,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-10-15T23:35:26Z"
         },
         {
           "artist": "Hank Mobley",
@@ -1417,6 +1491,13 @@
           "last_listened_at_utc": "2026-10-05T20:52:26Z"
         },
         {
+          "artist": "Hiatus Kaiyote",
+          "album": "Mood Valiant",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-15T23:41:48Z"
+        },
+        {
           "artist": "John Coltrane",
           "album": "Giant Steps",
           "listen_count": 3,
@@ -1450,6 +1531,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-12T21:14:59Z"
+        },
+        {
+          "artist": "Sven Wunder",
+          "album": "Eastern Flowers",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-15T21:43:47Z"
         },
         {
           "artist": "The Smile",
@@ -1760,6 +1848,13 @@
           "last_listened_at_utc": "2026-09-27T22:04:07Z"
         },
         {
+          "artist": "Lianne La Havas",
+          "album": "Lianne La Havas",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-15T23:44:40Z"
+        },
+        {
           "artist": "Little Simz",
           "album": "Sometimes I Might Be Introvert",
           "listen_count": 1,
@@ -1800,6 +1895,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-12T18:49:53Z"
+        },
+        {
+          "artist": "Norah Jones",
+          "album": "Come Away with Me",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-15T18:10:58Z"
         },
         {
           "artist": "Oliver Nelson",
@@ -1863,6 +1965,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-14T23:38:09Z"
+        },
+        {
+          "artist": "Steely Dan",
+          "album": "Aja",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-15T18:08:29Z"
         },
         {
           "artist": "Sting",
@@ -1984,25 +2093,11 @@
           "last_listened_at_utc": "2026-10-03T12:13:31Z"
         },
         {
-          "artist": "אביב גדג׳",
-          "album": "עולם מופלא איפה אתה",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-16T12:37:55Z"
-        },
-        {
           "artist": "ג'יגה ג'וס",
           "album": "מיץ למקס",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-17T12:35:54Z"
-        },
-        {
-          "artist": "נצ׳י נצ׳",
-          "album": "שפל וגאות",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-16T12:42:46Z"
         },
         {
           "artist": "原神玲",
@@ -2028,9 +2123,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1091,
-      "unique_artists": 178,
-      "unique_albums": 230,
+      "listen_count": 1115,
+      "unique_artists": 184,
+      "unique_albums": 236,
       "listens_without_album": 0,
       "artists": [
         {
@@ -2054,12 +2149,12 @@
           "listen_count": 33
         },
         {
-          "artist": "Bob Dylan",
+          "artist": "Cameron Winter",
           "listen_count": 32
         },
         {
-          "artist": "Cameron Winter",
-          "listen_count": 32
+          "artist": "Bob Dylan",
+          "listen_count": 30
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -2078,12 +2173,12 @@
           "listen_count": 25
         },
         {
-          "artist": "Miles Davis",
+          "artist": "Anouar Brahem",
           "listen_count": 23
         },
         {
-          "artist": "Anouar Brahem",
-          "listen_count": 20
+          "artist": "Miles Davis",
+          "listen_count": 23
         },
         {
           "artist": "Kenny Burrell",
@@ -2190,7 +2285,15 @@
           "listen_count": 7
         },
         {
+          "artist": "Fontaines D.C.",
+          "listen_count": 7
+        },
+        {
           "artist": "Nujabes",
+          "listen_count": 7
+        },
+        {
+          "artist": "Vampire Weekend",
           "listen_count": 7
         },
         {
@@ -2290,6 +2393,10 @@
           "listen_count": 3
         },
         {
+          "artist": "Hiatus Kaiyote",
+          "listen_count": 3
+        },
+        {
           "artist": "Kutiman & DEKEL",
           "listen_count": 3
         },
@@ -2299,6 +2406,10 @@
         },
         {
           "artist": "Sissoko Segal Parisien Peirani",
+          "listen_count": 3
+        },
+        {
+          "artist": "Sven Wunder",
           "listen_count": 3
         },
         {
@@ -2363,6 +2474,10 @@
         },
         {
           "artist": "Kiasmos",
+          "listen_count": 2
+        },
+        {
+          "artist": "Norah Jones",
           "listen_count": 2
         },
         {
@@ -2550,6 +2665,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Lianne La Havas",
+          "listen_count": 1
+        },
+        {
           "artist": "Little Simz",
           "listen_count": 1
         },
@@ -2575,10 +2694,6 @@
         },
         {
           "artist": "Nancy Wilson / Cannonball Adderley",
-          "listen_count": 1
-        },
-        {
-          "artist": "Norah Jones",
           "listen_count": 1
         },
         {
@@ -2639,6 +2754,10 @@
         },
         {
           "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+          "listen_count": 1
+        },
+        {
+          "artist": "Steely Dan",
           "listen_count": 1
         },
         {
@@ -2797,6 +2916,13 @@
           "last_listened_at_utc": "2026-09-16T12:42:46Z"
         },
         {
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
+          "listen_count": 23,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-15T20:58:30Z"
+        },
+        {
           "artist": "טונה",
           "album": "רובים ותלתלים",
           "listen_count": 23,
@@ -2823,13 +2949,6 @@
           "listen_count": 21,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-09-14T23:42:36Z"
-        },
-        {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 20,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-14T23:24:54Z"
         },
         {
           "artist": "Miles Davis",
@@ -2916,13 +3035,6 @@
           "last_listened_at_utc": "2026-09-26T21:06:07Z"
         },
         {
-          "artist": "Bob Dylan",
-          "album": "2026-07-16, Boston, MA",
-          "listen_count": 12,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-07-17T18:56:10Z"
-        },
-        {
           "artist": "Chet Baker",
           "album": "Chet",
           "listen_count": 12,
@@ -2991,6 +3103,13 @@
           "listen_count": 10,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-07-26T16:57:01Z"
+        },
+        {
+          "artist": "Bob Dylan",
+          "album": "Blood on the Tracks",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-10-15T22:34:29Z"
         },
         {
           "artist": "Bob Dylan",
@@ -3084,11 +3203,25 @@
           "last_listened_at_utc": "2026-10-10T19:57:03Z"
         },
         {
+          "artist": "Fontaines D.C.",
+          "album": "Romance",
+          "listen_count": 7,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-10-16T13:32:34Z"
+        },
+        {
           "artist": "Nujabes",
           "album": "Modal Soul",
           "listen_count": 7,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-04T20:55:40Z"
+        },
+        {
+          "artist": "Vampire Weekend",
+          "album": "Only God Was Above Us",
+          "listen_count": 7,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-10-15T23:35:26Z"
         },
         {
           "artist": "מוקי",
@@ -3280,6 +3413,13 @@
           "last_listened_at_utc": "2026-10-05T20:52:26Z"
         },
         {
+          "artist": "Hiatus Kaiyote",
+          "album": "Mood Valiant",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-15T23:41:48Z"
+        },
+        {
           "artist": "John Coltrane",
           "album": "Giant Steps",
           "listen_count": 3,
@@ -3327,6 +3467,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-12T21:14:59Z"
+        },
+        {
+          "artist": "Sven Wunder",
+          "album": "Eastern Flowers",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-15T21:43:47Z"
         },
         {
           "artist": "The Smile",
@@ -3453,6 +3600,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-13T23:12:36Z"
+        },
+        {
+          "artist": "Norah Jones",
+          "album": "Come Away with Me",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-15T18:10:58Z"
         },
         {
           "artist": "Oscar Peterson meets Roy Hargrove and Ralph Moore with Niels‐Henning Ørsted Pedersen and Lewis Nash",
@@ -3868,6 +4022,13 @@
           "last_listened_at_utc": "2026-07-26T20:46:27Z"
         },
         {
+          "artist": "Lianne La Havas",
+          "album": "Lianne La Havas",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-15T23:44:40Z"
+        },
+        {
           "artist": "Little Simz",
           "album": "Sometimes I Might Be Introvert",
           "listen_count": 1,
@@ -3943,13 +4104,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-07-26T20:49:54Z"
-        },
-        {
-          "artist": "Norah Jones",
-          "album": "Come Away with Me",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-07T23:01:54Z"
         },
         {
           "artist": "Oliver Nelson",
@@ -4104,6 +4258,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-07-26T19:34:35Z"
+        },
+        {
+          "artist": "Steely Dan",
+          "album": "Aja",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-15T18:08:29Z"
         },
         {
           "artist": "Sting",
@@ -4361,6 +4522,683 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1792157554,
+      "listened_at_utc": "2026-10-16T13:32:34Z",
+      "artist": "Fontaines D.C.",
+      "track": "Motorcycle Boy",
+      "album": "Romance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+        ],
+        "recording_mbid": "ee8eeafd-32e0-4101-9659-d770610977cb",
+        "release_mbid": "aeaaf50f-437f-4d8d-b0db-f616ea09e1cd",
+        "release_group_mbid": "92b095c1-3bbf-456f-9425-2078ad4e9504"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792157367,
+      "listened_at_utc": "2026-10-16T13:29:27Z",
+      "artist": "Fontaines D.C.",
+      "track": "Bug",
+      "album": "Romance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+        ],
+        "recording_mbid": "0b65f319-1752-4ee4-8a81-958416ef3734",
+        "release_mbid": "aeaaf50f-437f-4d8d-b0db-f616ea09e1cd",
+        "release_group_mbid": "92b095c1-3bbf-456f-9425-2078ad4e9504"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792157101,
+      "listened_at_utc": "2026-10-16T13:25:01Z",
+      "artist": "Fontaines D.C.",
+      "track": "In The Modern World",
+      "album": "Romance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+        ],
+        "recording_mbid": "6ca7191a-9803-4899-b655-da88356060a7",
+        "release_mbid": "aeaaf50f-437f-4d8d-b0db-f616ea09e1cd",
+        "release_group_mbid": "92b095c1-3bbf-456f-9425-2078ad4e9504"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792156881,
+      "listened_at_utc": "2026-10-16T13:21:21Z",
+      "artist": "Fontaines D.C.",
+      "track": "Desire",
+      "album": "Romance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+        ],
+        "recording_mbid": "0cd1d7a8-4449-4f8f-b775-0f24f6b9cc90",
+        "release_mbid": "aeaaf50f-437f-4d8d-b0db-f616ea09e1cd",
+        "release_group_mbid": "92b095c1-3bbf-456f-9425-2078ad4e9504"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792156718,
+      "listened_at_utc": "2026-10-16T13:18:38Z",
+      "artist": "Fontaines D.C.",
+      "track": "Here's The Thing",
+      "album": "Romance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+        ],
+        "recording_mbid": "905caf9d-34bc-4e56-8f88-1374087090b8",
+        "release_mbid": "aeaaf50f-437f-4d8d-b0db-f616ea09e1cd",
+        "release_group_mbid": "92b095c1-3bbf-456f-9425-2078ad4e9504"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792156497,
+      "listened_at_utc": "2026-10-16T13:14:57Z",
+      "artist": "Fontaines D.C.",
+      "track": "Starburster",
+      "album": "Romance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+        ],
+        "recording_mbid": "8e0b5508-09db-459e-b02b-55c796a6edbb",
+        "release_mbid": "aeaaf50f-437f-4d8d-b0db-f616ea09e1cd",
+        "release_group_mbid": "92b095c1-3bbf-456f-9425-2078ad4e9504"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792108606,
+      "listened_at_utc": "2026-10-15T23:56:46Z",
+      "artist": "Fontaines D.C.",
+      "track": "Romance",
+      "album": "Romance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+        ],
+        "recording_mbid": "5f5de3c7-a82c-4e3a-9517-2f42ab7b2b93",
+        "release_mbid": "aeaaf50f-437f-4d8d-b0db-f616ea09e1cd",
+        "release_group_mbid": "92b095c1-3bbf-456f-9425-2078ad4e9504"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792107880,
+      "listened_at_utc": "2026-10-15T23:44:40Z",
+      "artist": "Lianne La Havas",
+      "track": "Bittersweet",
+      "album": "Lianne La Havas",
+      "musicbrainz": {
+        "artist_mbids": [
+          "680466d6-f05b-44f6-858d-625d1b5087f6"
+        ],
+        "recording_mbid": "262d98dc-2f19-4db4-b6b5-16d7454e5abe",
+        "release_mbid": "ae72beb7-525a-4066-95b3-3578c9c59cfb",
+        "release_group_mbid": "e58e9147-0d9b-4dab-95f2-ae134542ea26"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792107708,
+      "listened_at_utc": "2026-10-15T23:41:48Z",
+      "artist": "Hiatus Kaiyote",
+      "track": "Chivalry Is Not Dead",
+      "album": "Mood Valiant",
+      "musicbrainz": {
+        "artist_mbids": [
+          "55c03773-59ea-4d4e-9057-87c2ecab005d"
+        ],
+        "recording_mbid": "3f273b0c-ed99-406d-ae60-3cb721a627c1",
+        "release_mbid": "5a37640d-f33d-4601-9b83-2e51fcf7506a",
+        "release_group_mbid": "22440c59-8982-4aa3-b04e-f91973a4d7b2"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792107605,
+      "listened_at_utc": "2026-10-15T23:40:05Z",
+      "artist": "Hiatus Kaiyote",
+      "track": "Sip Into Something Soft",
+      "album": "Mood Valiant",
+      "musicbrainz": {
+        "artist_mbids": [
+          "55c03773-59ea-4d4e-9057-87c2ecab005d"
+        ],
+        "recording_mbid": "18340965-3813-4374-998a-51923195aedd",
+        "release_mbid": "5a37640d-f33d-4601-9b83-2e51fcf7506a",
+        "release_group_mbid": "22440c59-8982-4aa3-b04e-f91973a4d7b2"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792107569,
+      "listened_at_utc": "2026-10-15T23:39:29Z",
+      "artist": "Hiatus Kaiyote",
+      "track": "Flight Of The Tiger Lily",
+      "album": "Mood Valiant",
+      "musicbrainz": {
+        "artist_mbids": [
+          "55c03773-59ea-4d4e-9057-87c2ecab005d"
+        ],
+        "recording_mbid": "c6e1d956-7d75-4233-bf08-6a9ac170f058",
+        "release_mbid": "5a37640d-f33d-4601-9b83-2e51fcf7506a",
+        "release_group_mbid": "22440c59-8982-4aa3-b04e-f91973a4d7b2"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792107326,
+      "listened_at_utc": "2026-10-15T23:35:26Z",
+      "artist": "Vampire Weekend",
+      "track": "Gen-X Cops",
+      "album": "Only God Was Above Us",
+      "musicbrainz": {
+        "artist_mbids": [
+          "af37c51c-0790-4a29-b995-456f98a6b8c9"
+        ],
+        "recording_mbid": "124ea751-01a3-4b8a-b3ee-b240cd87d828",
+        "release_mbid": "66e100e3-4751-4580-9359-319e1c8e4845",
+        "release_group_mbid": "91ee3856-0ee6-467d-b01d-9d529affc9f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792105179,
+      "listened_at_utc": "2026-10-15T22:59:39Z",
+      "artist": "Vampire Weekend",
+      "track": "The Surfer",
+      "album": "Only God Was Above Us",
+      "musicbrainz": {
+        "artist_mbids": [
+          "af37c51c-0790-4a29-b995-456f98a6b8c9"
+        ],
+        "recording_mbid": "6508e61d-99ba-47ec-acd1-d20078b266e7",
+        "release_mbid": "66e100e3-4751-4580-9359-319e1c8e4845",
+        "release_group_mbid": "91ee3856-0ee6-467d-b01d-9d529affc9f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792104945,
+      "listened_at_utc": "2026-10-15T22:55:45Z",
+      "artist": "Vampire Weekend",
+      "track": "Prep-School Gangsters",
+      "album": "Only God Was Above Us",
+      "musicbrainz": {
+        "artist_mbids": [
+          "af37c51c-0790-4a29-b995-456f98a6b8c9"
+        ],
+        "recording_mbid": "3d39cf29-2434-4ebe-afd6-80750bfecc02",
+        "release_mbid": "66e100e3-4751-4580-9359-319e1c8e4845",
+        "release_group_mbid": "91ee3856-0ee6-467d-b01d-9d529affc9f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792104635,
+      "listened_at_utc": "2026-10-15T22:50:35Z",
+      "artist": "Vampire Weekend",
+      "track": "Connect",
+      "album": "Only God Was Above Us",
+      "musicbrainz": {
+        "artist_mbids": [
+          "af37c51c-0790-4a29-b995-456f98a6b8c9"
+        ],
+        "recording_mbid": "f8a2a203-8957-47af-9db4-ff828cab4af4",
+        "release_mbid": "66e100e3-4751-4580-9359-319e1c8e4845",
+        "release_group_mbid": "91ee3856-0ee6-467d-b01d-9d529affc9f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792104384,
+      "listened_at_utc": "2026-10-15T22:46:24Z",
+      "artist": "Vampire Weekend",
+      "track": "Capricorn",
+      "album": "Only God Was Above Us",
+      "musicbrainz": {
+        "artist_mbids": [
+          "af37c51c-0790-4a29-b995-456f98a6b8c9"
+        ],
+        "recording_mbid": "3d0ce4e0-f033-44e6-a2c4-80105a7071fc",
+        "release_mbid": "66e100e3-4751-4580-9359-319e1c8e4845",
+        "release_group_mbid": "91ee3856-0ee6-467d-b01d-9d529affc9f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792104123,
+      "listened_at_utc": "2026-10-15T22:42:03Z",
+      "artist": "Vampire Weekend",
+      "track": "Classical",
+      "album": "Only God Was Above Us",
+      "musicbrainz": {
+        "artist_mbids": [
+          "af37c51c-0790-4a29-b995-456f98a6b8c9"
+        ],
+        "recording_mbid": "276441e5-08ed-4539-acd2-09b6adb352ae",
+        "release_mbid": "66e100e3-4751-4580-9359-319e1c8e4845",
+        "release_group_mbid": "91ee3856-0ee6-467d-b01d-9d529affc9f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792103906,
+      "listened_at_utc": "2026-10-15T22:38:26Z",
+      "artist": "Vampire Weekend",
+      "track": "Ice Cream Piano",
+      "album": "Only God Was Above Us",
+      "musicbrainz": {
+        "artist_mbids": [
+          "af37c51c-0790-4a29-b995-456f98a6b8c9"
+        ],
+        "recording_mbid": "389e8e73-7c75-46aa-945a-f15356a153a3",
+        "release_mbid": "66e100e3-4751-4580-9359-319e1c8e4845",
+        "release_group_mbid": "91ee3856-0ee6-467d-b01d-9d529affc9f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792103669,
+      "listened_at_utc": "2026-10-15T22:34:29Z",
+      "artist": "Bob Dylan",
+      "track": "Buckets of Rain",
+      "album": "Blood on the Tracks",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "recording_mbid": "2bd02152-fa74-46a0-96e6-50705ab8f5fe",
+        "release_mbid": "c7747023-c496-4ee4-be65-c67adcc2ee03",
+        "release_group_mbid": "9c1b8072-eb1d-33d2-af8c-984d46e40902"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792103368,
+      "listened_at_utc": "2026-10-15T22:29:28Z",
+      "artist": "Bob Dylan",
+      "track": "Shelter from the Storm",
+      "album": "Blood on the Tracks",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "recording_mbid": "14704fe6-3e48-4be9-bac1-f57a98c4ebd9",
+        "release_mbid": "c7747023-c496-4ee4-be65-c67adcc2ee03",
+        "release_group_mbid": "9c1b8072-eb1d-33d2-af8c-984d46e40902"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792103080,
+      "listened_at_utc": "2026-10-15T22:24:40Z",
+      "artist": "Bob Dylan",
+      "track": "If You See Her, Say Hello",
+      "album": "Blood on the Tracks",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "recording_mbid": "41681fa3-3720-46a0-a6c8-a050588849c0",
+        "release_mbid": "c7747023-c496-4ee4-be65-c67adcc2ee03",
+        "release_group_mbid": "9c1b8072-eb1d-33d2-af8c-984d46e40902"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792102550,
+      "listened_at_utc": "2026-10-15T22:15:50Z",
+      "artist": "Bob Dylan",
+      "track": "Lily, Rosemary and the Jack of Hearts",
+      "album": "Blood on the Tracks",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "recording_mbid": "9fa20f00-bdcb-4fcc-b85b-0b17601e10e5",
+        "release_mbid": "c7747023-c496-4ee4-be65-c67adcc2ee03",
+        "release_group_mbid": "9c1b8072-eb1d-33d2-af8c-984d46e40902"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792102291,
+      "listened_at_utc": "2026-10-15T22:11:31Z",
+      "artist": "Bob Dylan",
+      "track": "Meet Me in the Morning",
+      "album": "Blood on the Tracks",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "recording_mbid": "2b60ec63-dd95-4ce8-881d-9980428d85c8",
+        "release_mbid": "c7747023-c496-4ee4-be65-c67adcc2ee03",
+        "release_group_mbid": "9c1b8072-eb1d-33d2-af8c-984d46e40902"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792102115,
+      "listened_at_utc": "2026-10-15T22:08:35Z",
+      "artist": "Bob Dylan",
+      "track": "You're Gonna Make Me Lonesome When You Go",
+      "album": "Blood on the Tracks",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "recording_mbid": "2917a32f-6756-445a-8d94-6de589af8bf0",
+        "release_mbid": "c7747023-c496-4ee4-be65-c67adcc2ee03",
+        "release_group_mbid": "9c1b8072-eb1d-33d2-af8c-984d46e40902"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792101651,
+      "listened_at_utc": "2026-10-15T22:00:51Z",
+      "artist": "Bob Dylan",
+      "track": "Idiot Wind",
+      "album": "Blood on the Tracks",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "recording_mbid": "cf9e2966-0165-4daf-b0ff-ce1217b3df0e",
+        "release_mbid": "c7747023-c496-4ee4-be65-c67adcc2ee03",
+        "release_group_mbid": "9c1b8072-eb1d-33d2-af8c-984d46e40902"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792101379,
+      "listened_at_utc": "2026-10-15T21:56:19Z",
+      "artist": "Bob Dylan",
+      "track": "You're a Big Girl Now",
+      "album": "Blood on the Tracks",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "recording_mbid": "11e43295-b007-4222-a4aa-c90576ef3372",
+        "release_mbid": "c7747023-c496-4ee4-be65-c67adcc2ee03",
+        "release_group_mbid": "9c1b8072-eb1d-33d2-af8c-984d46e40902"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792101123,
+      "listened_at_utc": "2026-10-15T21:52:03Z",
+      "artist": "Bob Dylan",
+      "track": "Simple Twist of Fate",
+      "album": "Blood on the Tracks",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "recording_mbid": "bf9fcb18-9ee0-42fb-b9ad-1a72ed52780a",
+        "release_mbid": "c7747023-c496-4ee4-be65-c67adcc2ee03",
+        "release_group_mbid": "9c1b8072-eb1d-33d2-af8c-984d46e40902"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792100783,
+      "listened_at_utc": "2026-10-15T21:46:23Z",
+      "artist": "Bob Dylan",
+      "track": "Tangled Up in Blue",
+      "album": "Blood on the Tracks",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "recording_mbid": "9e5680b3-1a52-4910-9a47-f04f46545b98",
+        "release_mbid": "c7747023-c496-4ee4-be65-c67adcc2ee03",
+        "release_group_mbid": "9c1b8072-eb1d-33d2-af8c-984d46e40902"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792100627,
+      "listened_at_utc": "2026-10-15T21:43:47Z",
+      "artist": "Sven Wunder",
+      "track": "Magnolia",
+      "album": "Eastern Flowers",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b035c36e-1bb5-404b-97df-e8b72e54d215"
+        ],
+        "recording_mbid": "5ae7b2a5-4c70-4547-90e2-91dd7f33de20",
+        "release_mbid": "9504e9c6-c2d1-45f1-9ba9-433bc4456ed0",
+        "release_group_mbid": "5f3dbbcd-e9df-48b2-bd7f-f12d74e86b02"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792100459,
+      "listened_at_utc": "2026-10-15T21:40:59Z",
+      "artist": "Sven Wunder",
+      "track": "Tulip",
+      "album": "Eastern Flowers",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b035c36e-1bb5-404b-97df-e8b72e54d215"
+        ],
+        "recording_mbid": "ed88f32c-af5e-401d-a6f9-ae59c16949da",
+        "release_mbid": "9504e9c6-c2d1-45f1-9ba9-433bc4456ed0",
+        "release_group_mbid": "5f3dbbcd-e9df-48b2-bd7f-f12d74e86b02"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792100286,
+      "listened_at_utc": "2026-10-15T21:38:06Z",
+      "artist": "Sven Wunder",
+      "track": "Black Iris",
+      "album": "Eastern Flowers",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b035c36e-1bb5-404b-97df-e8b72e54d215"
+        ],
+        "recording_mbid": "23180e58-0dba-47a6-bde1-cbf30cb100a1",
+        "release_mbid": "9504e9c6-c2d1-45f1-9ba9-433bc4456ed0",
+        "release_group_mbid": "5f3dbbcd-e9df-48b2-bd7f-f12d74e86b02"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792097910,
+      "listened_at_utc": "2026-10-15T20:58:30Z",
+      "artist": "Anouar Brahem",
+      "track": "Stopover At Djibouti",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "4786bc09-f677-4617-94af-be73a5457897",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792097673,
+      "listened_at_utc": "2026-10-15T20:54:33Z",
+      "artist": "Anouar Brahem",
+      "track": "Dance With Waves",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "03f6efb6-ff76-418a-a3ff-db44963ba01a",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792097209,
+      "listened_at_utc": "2026-10-15T20:46:49Z",
+      "artist": "Anouar Brahem",
+      "track": "The Lover Of Beirut",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "93d00279-3eb5-4717-b2c8-041184c77138",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792087858,
+      "listened_at_utc": "2026-10-15T18:10:58Z",
+      "artist": "Norah Jones",
+      "track": "Don't Know Why (192kHz/24bit)",
+      "album": "Come Away with Me",
+      "musicbrainz": {
+        "artist_mbids": [
+          "985c709c-7771-4de3-9024-7bda29ebe3f9"
+        ],
+        "release_mbid": "a0a8beba-5b3c-37fe-bb01-50527bf72991",
+        "recording_mbid": "727ab502-2691-4fbd-b9da-17e898844eff",
+        "release_group_mbid": "6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792087709,
+      "listened_at_utc": "2026-10-15T18:08:29Z",
+      "artist": "Steely Dan",
+      "track": "Peg",
+      "album": "Aja",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e01c3376-15fa-40d7-b747-5f219bdefdd7"
+        ],
+        "recording_mbid": "dc4d8216-b6e0-41a9-8654-c643b7f31887",
+        "release_mbid": "0871679e-c3b4-489f-a4b2-6353be8fbd4f",
+        "release_group_mbid": "8588c5a5-b491-37a4-8d51-2227346a072e"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1792071489,
       "listened_at_utc": "2026-10-15T13:38:09Z",
@@ -23328,208 +24166,6 @@
         "recording_mbid": "22f76943-da55-41d1-b3ed-0aac28a2dfb8",
         "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
         "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784314570,
-      "listened_at_utc": "2026-07-17T18:56:10Z",
-      "artist": "Bob Dylan",
-      "track": "I've Made Up My Mind to Give Myself to You",
-      "album": "2026-07-16, Boston, MA",
-      "musicbrainz": {
-        "artist_mbids": [
-          "72c536dc-7137-4477-a521-567eeb840fa8"
-        ],
-        "recording_mbid": "f00228c8-34de-4d72-ad35-b0fda1569aa2",
-        "release_mbid": "607df197-df67-4c6a-a3d2-801f05771e3a",
-        "release_group_mbid": "43b12592-d808-44de-a5df-ebd7c6b2b75c"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784314209,
-      "listened_at_utc": "2026-07-17T18:50:09Z",
-      "artist": "Bob Dylan",
-      "track": "Under the Red Sky",
-      "album": "2026-07-16, Boston, MA",
-      "musicbrainz": {
-        "artist_mbids": [
-          "72c536dc-7137-4477-a521-567eeb840fa8"
-        ],
-        "recording_mbid": "e3b8eae8-6ae6-4e9d-af88-7505623e7fca",
-        "release_mbid": "334fdc17-f3ad-30a3-8aa0-c673af334609",
-        "release_group_mbid": "8d231aa3-4a4e-306a-a3f9-4421e846bb1a"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784313951,
-      "listened_at_utc": "2026-07-17T18:45:51Z",
-      "artist": "Bob Dylan",
-      "track": "Soon After Midnight",
-      "album": "2026-07-16, Boston, MA",
-      "musicbrainz": {
-        "artist_mbids": [
-          "72c536dc-7137-4477-a521-567eeb840fa8"
-        ],
-        "recording_mbid": "c45df27f-a649-4c2c-85e2-70c9b2cd5d11",
-        "release_mbid": "697e0332-79f7-408e-994e-674ab66e0dd1",
-        "release_group_mbid": "42555dd2-d671-4c96-85c3-3939232ffc4b"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784313542,
-      "listened_at_utc": "2026-07-17T18:39:02Z",
-      "artist": "Bob Dylan",
-      "track": "Crossing the Rubicon",
-      "album": "2026-07-16, Boston, MA",
-      "musicbrainz": {
-        "artist_mbids": [
-          "72c536dc-7137-4477-a521-567eeb840fa8"
-        ],
-        "recording_mbid": "5c9ab09b-dfa6-4297-a546-dc9b72ba64d2",
-        "release_mbid": "607df197-df67-4c6a-a3d2-801f05771e3a",
-        "release_group_mbid": "43b12592-d808-44de-a5df-ebd7c6b2b75c"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784313309,
-      "listened_at_utc": "2026-07-17T18:35:09Z",
-      "artist": "Bob Dylan",
-      "track": "I'll Make It All Up To You",
-      "album": "2026-07-16, Boston, MA",
-      "musicbrainz": {
-        "artist_mbids": [
-          "72c536dc-7137-4477-a521-567eeb840fa8"
-        ],
-        "recording_mbid": "fbc5be31-b046-497d-9919-41e0802b93b5",
-        "release_mbid": "b208b7df-9254-462c-8f35-db215a7877f7",
-        "release_group_mbid": "01d8c29c-3a1a-4fe2-8067-38aa92ce4e4d"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784312978,
-      "listened_at_utc": "2026-07-17T18:29:38Z",
-      "artist": "Bob Dylan",
-      "track": "When I Paint My Masterpiece",
-      "album": "2026-07-16, Boston, MA",
-      "musicbrainz": {
-        "artist_mbids": [
-          "72c536dc-7137-4477-a521-567eeb840fa8"
-        ],
-        "recording_mbid": "e2585704-7227-4b39-8d9f-b10639588265",
-        "release_mbid": "748b817e-91e2-4592-a738-6f65ed8fcfce",
-        "release_group_mbid": "430c9ba4-f6bf-4170-a84b-9e20051a6d0d"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784312806,
-      "listened_at_utc": "2026-07-17T18:26:46Z",
-      "artist": "Bob Dylan",
-      "track": "Share Your Love with Me (Alfred Braggs & Deadric Malone)",
-      "album": "2026-07-16, Boston, MA",
-      "musicbrainz": {},
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784301972,
-      "listened_at_utc": "2026-07-17T15:26:12Z",
-      "artist": "Bob Dylan",
-      "track": "I Can Tell (Samuel Smith)",
-      "album": "2026-07-16, Boston, MA",
-      "musicbrainz": {},
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784301563,
-      "listened_at_utc": "2026-07-17T15:19:23Z",
-      "artist": "Bob Dylan",
-      "track": "False Prophet",
-      "album": "2026-07-16, Boston, MA",
-      "musicbrainz": {
-        "artist_mbids": [
-          "72c536dc-7137-4477-a521-567eeb840fa8"
-        ],
-        "recording_mbid": "1832910b-0749-494a-8bbc-1c8d2d00a658",
-        "release_mbid": "607df197-df67-4c6a-a3d2-801f05771e3a",
-        "release_group_mbid": "43b12592-d808-44de-a5df-ebd7c6b2b75c"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784301261,
-      "listened_at_utc": "2026-07-17T15:14:21Z",
-      "artist": "Bob Dylan",
-      "track": "Tryin' to Get to Heaven",
-      "album": "2026-07-16, Boston, MA",
-      "musicbrainz": {
-        "artist_mbids": [
-          "72c536dc-7137-4477-a521-567eeb840fa8"
-        ],
-        "recording_mbid": "c76807bb-c356-47a5-98b4-7d74ad14cad3",
-        "release_mbid": "3e812af9-b0e0-3bb8-9738-b51470797d92",
-        "release_group_mbid": "dad1dada-1fda-3186-beb7-3bc80e90f9e0"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784300966,
-      "listened_at_utc": "2026-07-17T15:09:26Z",
-      "artist": "Bob Dylan",
-      "track": "It Ain't Me, Babe",
-      "album": "2026-07-16, Boston, MA",
-      "musicbrainz": {
-        "artist_mbids": [
-          "72c536dc-7137-4477-a521-567eeb840fa8"
-        ],
-        "recording_mbid": "f2ba0813-37de-44fc-bba6-024d2ea7dc3b",
-        "release_mbid": "c54bda7f-a374-49b5-8781-956638d6c171",
-        "release_group_mbid": "b18ef710-0e47-3c10-ab0b-6631533549ee"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1784300689,
-      "listened_at_utc": "2026-07-17T15:04:49Z",
-      "artist": "Bob Dylan",
-      "track": "Man in the Long Black Coat",
-      "album": "2026-07-16, Boston, MA",
-      "musicbrainz": {
-        "artist_mbids": [
-          "72c536dc-7137-4477-a521-567eeb840fa8"
-        ],
-        "recording_mbid": "9c6bc66b-d7d7-46c2-a906-abe11ae413c6",
-        "release_mbid": "b5b1ef1c-c2cd-4573-962d-f81bdd8a9835",
-        "release_group_mbid": "36675813-6c3c-33fa-8eaf-b1cd66d4f006"
       },
       "submission_clients": [
         "ListenBrainz lastfm importer v2"
