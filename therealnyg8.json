@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-16T14:02:14Z",
+  "generated_at_utc": "2026-10-17T13:01:52Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-18T14:02:14Z",
-    "through_utc": "2026-10-16T14:02:14Z",
+    "from_utc": "2026-07-19T13:01:52Z",
+    "through_utc": "2026-10-17T13:01:52Z",
     "complete": true,
     "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 1582,
-    "deduplicated_listen_count": 1115,
-    "duplicates_removed": 467,
+    "raw_listen_count": 1594,
+    "deduplicated_listen_count": 1118,
+    "duplicates_removed": 476,
     "oldest_listen_utc": "2026-07-24T19:08:02Z",
-    "newest_listen_utc": "2026-10-16T13:32:34Z"
+    "newest_listen_utc": "2026-10-16T19:13:02Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,26 +28,18 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 262,
-      "unique_artists": 46,
-      "unique_albums": 52,
+      "listen_count": 225,
+      "unique_artists": 44,
+      "unique_albums": 48,
       "listens_without_album": 0,
       "artists": [
-        {
-          "artist": "Cameron Winter",
-          "listen_count": 29
-        },
         {
           "artist": "Anouar Brahem",
           "listen_count": 23
         },
         {
-          "artist": "Sonny Rollins",
-          "listen_count": 14
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "listen_count": 12
+          "artist": "Cameron Winter",
+          "listen_count": 18
         },
         {
           "artist": "טונה",
@@ -74,6 +66,10 @@
           "listen_count": 9
         },
         {
+          "artist": "Sonny Rollins",
+          "listen_count": 9
+        },
+        {
           "artist": "שב״ק ס׳",
           "listen_count": 9
         },
@@ -94,19 +90,15 @@
           "listen_count": 7
         },
         {
-          "artist": "Kenny Burrell",
-          "listen_count": 7
-        },
-        {
           "artist": "Vampire Weekend",
           "listen_count": 7
         },
         {
-          "artist": "Isao Suzuki Trio / Quartet",
+          "artist": "John Coltrane",
           "listen_count": 6
         },
         {
-          "artist": "John Coltrane",
+          "artist": "Kenny Burrell",
           "listen_count": 6
         },
         {
@@ -116,10 +108,6 @@
         {
           "artist": "Anouar Brahem, Dave Holland, Jack DeJohnette, Django Bates",
           "listen_count": 5
-        },
-        {
-          "artist": "Mikiko Sato",
-          "listen_count": 4
         },
         {
           "artist": "Sababa 5",
@@ -158,6 +146,10 @@
           "listen_count": 2
         },
         {
+          "artist": "Norah Jones",
+          "listen_count": 2
+        },
+        {
           "artist": "Shye Ben-Tzur, Jonny Greenwood and The Rajasthan Express",
           "listen_count": 2
         },
@@ -174,7 +166,7 @@
           "listen_count": 1
         },
         {
-          "artist": "J Dilla",
+          "artist": "Haruomi Hosono",
           "listen_count": 1
         },
         {
@@ -183,10 +175,6 @@
         },
         {
           "artist": "Michael Kiwanuka",
-          "listen_count": 1
-        },
-        {
-          "artist": "Norah Jones",
           "listen_count": 1
         },
         {
@@ -214,24 +202,28 @@
           "listen_count": 1
         },
         {
+          "artist": "Wolf Alice",
+          "listen_count": 1
+        },
+        {
           "artist": "Yosi Horikawa",
           "listen_count": 1
         }
       ],
       "albums": [
         {
-          "artist": "Cameron Winter",
-          "album": "Live at Carnegie Hall",
-          "listen_count": 29,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-14T01:01:48Z"
-        },
-        {
           "artist": "Anouar Brahem",
           "album": "The Astounding Eyes Of Rita",
           "listen_count": 23,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-10-15T20:58:30Z"
+        },
+        {
+          "artist": "Cameron Winter",
+          "album": "Live at Carnegie Hall",
+          "listen_count": 18,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-14T01:01:48Z"
         },
         {
           "artist": "Kikagaku Moyo",
@@ -318,20 +310,6 @@
           "last_listened_at_utc": "2026-10-16T13:32:34Z"
         },
         {
-          "artist": "Kenny Burrell",
-          "album": "Midnight Blue",
-          "listen_count": 7,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-10-10T17:09:44Z"
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Misty",
-          "listen_count": 7,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-10-09T22:27:08Z"
-        },
-        {
           "artist": "Vampire Weekend",
           "album": "Only God Was Above Us",
           "listen_count": 7,
@@ -339,11 +317,11 @@
           "last_listened_at_utc": "2026-10-15T23:35:26Z"
         },
         {
-          "artist": "Isao Suzuki Trio / Quartet",
-          "album": "Blow Up",
+          "artist": "Kenny Burrell",
+          "album": "Midnight Blue",
           "listen_count": 6,
           "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-10T11:55:16Z"
+          "last_listened_at_utc": "2026-10-10T17:09:44Z"
         },
         {
           "artist": "Sampha",
@@ -358,27 +336,6 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-10-11T18:22:47Z"
-        },
-        {
-          "artist": "Sonny Rollins",
-          "album": "Saxophone Colossus",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-09T23:39:47Z"
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Midnight Sugar",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-09T23:05:04Z"
-        },
-        {
-          "artist": "Mikiko Sato",
-          "album": "Mikiko's World",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-10T12:18:37Z"
         },
         {
           "artist": "Sababa 5",
@@ -451,6 +408,13 @@
           "last_listened_at_utc": "2026-10-13T23:12:36Z"
         },
         {
+          "artist": "Norah Jones",
+          "album": "Come Away with Me",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-16T15:32:56Z"
+        },
+        {
           "artist": "Shye Ben-Tzur, Jonny Greenwood and The Rajasthan Express",
           "album": "Junun",
           "listen_count": 2,
@@ -479,11 +443,11 @@
           "last_listened_at_utc": "2026-10-13T22:46:38Z"
         },
         {
-          "artist": "J Dilla",
-          "album": "Donuts",
+          "artist": "Haruomi Hosono",
+          "album": "Yours Sincerely",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-09T21:19:08Z"
+          "last_listened_at_utc": "2026-10-16T15:34:40Z"
         },
         {
           "artist": "Lianne La Havas",
@@ -498,13 +462,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-12T18:49:53Z"
-        },
-        {
-          "artist": "Norah Jones",
-          "album": "Come Away with Me",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-15T18:10:58Z"
         },
         {
           "artist": "Rajery, Ballaké Sissoko & Driss El Maloumi",
@@ -570,6 +527,13 @@
           "last_listened_at_utc": "2026-10-12T18:43:37Z"
         },
         {
+          "artist": "Wolf Alice",
+          "album": "Blue Weekend",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-16T19:13:02Z"
+        },
+        {
           "artist": "Yosi Horikawa",
           "album": "Spaces",
           "listen_count": 1,
@@ -586,14 +550,14 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 640,
-      "unique_artists": 128,
-      "unique_albums": 145,
+      "listen_count": 622,
+      "unique_artists": 126,
+      "unique_albums": 143,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "Haruomi Hosono",
-          "listen_count": 41
+          "listen_count": 42
         },
         {
           "artist": "Cameron Winter",
@@ -622,10 +586,6 @@
         {
           "artist": "טונה",
           "listen_count": 16
-        },
-        {
-          "artist": "Sagol 59",
-          "listen_count": 14
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -728,10 +688,6 @@
           "listen_count": 6
         },
         {
-          "artist": "Shabak Samech",
-          "listen_count": 6
-        },
-        {
           "artist": "Shabaka",
           "listen_count": 6
         },
@@ -792,11 +748,11 @@
           "listen_count": 3
         },
         {
-          "artist": "Julian Lage",
+          "artist": "Nala Sinephro",
           "listen_count": 3
         },
         {
-          "artist": "Nala Sinephro",
+          "artist": "Shabak Samech",
           "listen_count": 3
         },
         {
@@ -857,6 +813,10 @@
         },
         {
           "artist": "Kiasmos",
+          "listen_count": 2
+        },
+        {
+          "artist": "Norah Jones",
           "listen_count": 2
         },
         {
@@ -992,10 +952,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Norah Jones",
-          "listen_count": 1
-        },
-        {
           "artist": "Oliver Nelson",
           "listen_count": 1
         },
@@ -1072,6 +1028,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Wolf Alice",
+          "listen_count": 1
+        },
+        {
           "artist": "Yellow Magic Orchestra",
           "listen_count": 1
         },
@@ -1085,10 +1045,6 @@
         },
         {
           "artist": "mei ehara",
-          "listen_count": 1
-        },
-        {
-          "artist": "ג'יגה ג'וס",
           "listen_count": 1
         },
         {
@@ -1108,9 +1064,9 @@
         {
           "artist": "Haruomi Hosono",
           "album": "Yours Sincerely",
-          "listen_count": 30,
+          "listen_count": 31,
           "unique_tracks": 10,
-          "last_listened_at_utc": "2026-09-25T20:34:25Z"
+          "last_listened_at_utc": "2026-10-16T15:34:40Z"
         },
         {
           "artist": "Cameron Winter",
@@ -1146,13 +1102,6 @@
           "listen_count": 15,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-09T23:39:47Z"
-        },
-        {
-          "artist": "Sagol 59",
-          "album": "שני הצדדים של סגול 59",
-          "listen_count": 14,
-          "unique_tracks": 14,
-          "last_listened_at_utc": "2026-09-16T20:41:32Z"
         },
         {
           "artist": "青葉市子",
@@ -1365,13 +1314,6 @@
           "last_listened_at_utc": "2026-10-13T23:32:56Z"
         },
         {
-          "artist": "Shabak Samech",
-          "album": "כנען 2000",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-09-17T21:23:12Z"
-        },
-        {
           "artist": "Shabaka",
           "album": "Of The Earth",
           "listen_count": 6,
@@ -1512,18 +1454,18 @@
           "last_listened_at_utc": "2026-10-11T17:36:00Z"
         },
         {
-          "artist": "Julian Lage",
-          "album": "Speak To Me",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-16T23:11:55Z"
-        },
-        {
           "artist": "Nala Sinephro",
           "album": "Endlessness",
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-13T20:48:09Z"
+        },
+        {
+          "artist": "Shabak Samech",
+          "album": "כנען 2000",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-09-17T21:23:12Z"
         },
         {
           "artist": "Sissoko Segal Parisien Peirani",
@@ -1629,6 +1571,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-13T23:12:36Z"
+        },
+        {
+          "artist": "Norah Jones",
+          "album": "Come Away with Me",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-16T15:32:56Z"
         },
         {
           "artist": "Pearl & The Oysters",
@@ -1897,13 +1846,6 @@
           "last_listened_at_utc": "2026-10-12T18:49:53Z"
         },
         {
-          "artist": "Norah Jones",
-          "album": "Come Away with Me",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-15T18:10:58Z"
-        },
-        {
           "artist": "Oliver Nelson",
           "album": "The Blues and the Abstract Truth",
           "listen_count": 1,
@@ -2065,6 +2007,13 @@
           "last_listened_at_utc": "2026-09-20T22:33:18Z"
         },
         {
+          "artist": "Wolf Alice",
+          "album": "Blue Weekend",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-16T19:13:02Z"
+        },
+        {
           "artist": "Yellow Magic Orchestra",
           "album": "Solid State Survivor",
           "listen_count": 1,
@@ -2093,13 +2042,6 @@
           "last_listened_at_utc": "2026-10-03T12:13:31Z"
         },
         {
-          "artist": "ג'יגה ג'וס",
-          "album": "מיץ למקס",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-17T12:35:54Z"
-        },
-        {
           "artist": "原神玲",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -2123,9 +2065,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1115,
-      "unique_artists": 184,
-      "unique_albums": 236,
+      "listen_count": 1118,
+      "unique_artists": 185,
+      "unique_albums": 237,
       "listens_without_album": 0,
       "artists": [
         {
@@ -2138,7 +2080,7 @@
         },
         {
           "artist": "Haruomi Hosono",
-          "listen_count": 42
+          "listen_count": 43
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -2405,6 +2347,10 @@
           "listen_count": 3
         },
         {
+          "artist": "Norah Jones",
+          "listen_count": 3
+        },
+        {
           "artist": "Sissoko Segal Parisien Peirani",
           "listen_count": 3
         },
@@ -2474,10 +2420,6 @@
         },
         {
           "artist": "Kiasmos",
-          "listen_count": 2
-        },
-        {
-          "artist": "Norah Jones",
           "listen_count": 2
         },
         {
@@ -2813,6 +2755,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Wolf Alice",
+          "listen_count": 1
+        },
+        {
           "artist": "Yellow Magic Orchestra",
           "listen_count": 1
         },
@@ -2874,18 +2820,18 @@
           "last_listened_at_utc": "2026-10-15T13:01:29Z"
         },
         {
+          "artist": "Haruomi Hosono",
+          "album": "Yours Sincerely",
+          "listen_count": 32,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-10-16T15:34:40Z"
+        },
+        {
           "artist": "Mac DeMarco",
           "album": "Seaplane Dog",
           "listen_count": 32,
           "unique_tracks": 16,
           "last_listened_at_utc": "2026-09-25T21:06:10Z"
-        },
-        {
-          "artist": "Haruomi Hosono",
-          "album": "Yours Sincerely",
-          "listen_count": 31,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-09-25T20:34:25Z"
         },
         {
           "artist": "טונה",
@@ -3448,6 +3394,13 @@
           "last_listened_at_utc": "2026-10-13T20:48:09Z"
         },
         {
+          "artist": "Norah Jones",
+          "album": "Come Away with Me",
+          "listen_count": 3,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-16T15:32:56Z"
+        },
+        {
           "artist": "Olivia Rodrigo",
           "album": "you seem pretty sad for a girl so in love",
           "listen_count": 3,
@@ -3600,13 +3553,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-13T23:12:36Z"
-        },
-        {
-          "artist": "Norah Jones",
-          "album": "Come Away with Me",
-          "listen_count": 2,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-15T18:10:58Z"
         },
         {
           "artist": "Oscar Peterson meets Roy Hargrove and Ralph Moore with Niels‐Henning Ørsted Pedersen and Lewis Nash",
@@ -4414,6 +4360,13 @@
           "last_listened_at_utc": "2026-09-20T22:33:18Z"
         },
         {
+          "artist": "Wolf Alice",
+          "album": "Blue Weekend",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-16T19:13:02Z"
+        },
+        {
           "artist": "Yellow Magic Orchestra",
           "album": "Solid State Survivor",
           "listen_count": 1,
@@ -4523,6 +4476,63 @@
   },
   "recent_listens": [
     {
+      "listened_at": 1792177982,
+      "listened_at_utc": "2026-10-16T19:13:02Z",
+      "artist": "Wolf Alice",
+      "track": "The Beach",
+      "album": "Blue Weekend",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3547f34a-db02-4ab7-b4a0-380e1ef951a9"
+        ],
+        "recording_mbid": "40005f8c-9b80-434e-bdeb-44d21160ccd9",
+        "release_mbid": "1befb08c-8cd4-45f6-8360-9d4cefdba245",
+        "release_group_mbid": "8216c4a1-367e-405e-8d67-9457f6e76c22"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792164880,
+      "listened_at_utc": "2026-10-16T15:34:40Z",
+      "artist": "Haruomi Hosono",
+      "track": "Note of Mothership",
+      "album": "Yours Sincerely",
+      "musicbrainz": {
+        "artist_mbids": [
+          "078be324-de92-4c72-9371-65bdcf324154"
+        ],
+        "recording_mbid": "31e23c5e-a658-41f1-84fb-e6ec724044ab",
+        "release_mbid": "a9b8536a-0932-4354-9633-a6aee5809cff",
+        "release_group_mbid": "bd0bc887-4e29-4559-a607-d5d245ab328e"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792164776,
+      "listened_at_utc": "2026-10-16T15:32:56Z",
+      "artist": "Norah Jones",
+      "track": "Don't Know Why (192kHz/24bit)",
+      "album": "Come Away with Me",
+      "musicbrainz": {
+        "artist_mbids": [
+          "985c709c-7771-4de3-9024-7bda29ebe3f9"
+        ],
+        "release_mbid": "a0a8beba-5b3c-37fe-bb01-50527bf72991",
+        "recording_mbid": "727ab502-2691-4fbd-b9da-17e898844eff",
+        "release_group_mbid": "6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
       "listened_at": 1792157554,
       "listened_at_utc": "2026-10-16T13:32:34Z",
       "artist": "Fontaines D.C.",
@@ -4537,7 +4547,8 @@
         "release_group_mbid": "92b095c1-3bbf-456f-9425-2078ad4e9504"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4555,7 +4566,8 @@
         "release_group_mbid": "92b095c1-3bbf-456f-9425-2078ad4e9504"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4573,7 +4585,8 @@
         "release_group_mbid": "92b095c1-3bbf-456f-9425-2078ad4e9504"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4591,7 +4604,8 @@
         "release_group_mbid": "92b095c1-3bbf-456f-9425-2078ad4e9504"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4609,7 +4623,8 @@
         "release_group_mbid": "92b095c1-3bbf-456f-9425-2078ad4e9504"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4627,7 +4642,8 @@
         "release_group_mbid": "92b095c1-3bbf-456f-9425-2078ad4e9504"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
