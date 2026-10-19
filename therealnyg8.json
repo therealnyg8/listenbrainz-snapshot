@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-18T13:22:14Z",
+  "generated_at_utc": "2026-10-19T16:32:14Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-20T13:22:14Z",
-    "through_utc": "2026-10-18T13:22:14Z",
+    "from_utc": "2026-07-21T16:32:14Z",
+    "through_utc": "2026-10-19T16:32:14Z",
     "complete": true,
     "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 1624,
-    "deduplicated_listen_count": 1134,
-    "duplicates_removed": 490,
+    "raw_listen_count": 1718,
+    "deduplicated_listen_count": 1181,
+    "duplicates_removed": 537,
     "oldest_listen_utc": "2026-07-24T19:08:02Z",
-    "newest_listen_utc": "2026-10-18T12:59:49Z"
+    "newest_listen_utc": "2026-10-19T15:09:22Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,30 +28,30 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 179,
+      "listen_count": 193,
       "unique_artists": 39,
-      "unique_albums": 42,
+      "unique_albums": 45,
       "listens_without_album": 0,
       "artists": [
         {
-          "artist": "Anouar Brahem",
-          "listen_count": 18
+          "artist": "טונה",
+          "listen_count": 26
         },
         {
           "artist": "Cameron Winter",
-          "listen_count": 16
+          "listen_count": 17
         },
         {
-          "artist": "טונה",
-          "listen_count": 12
+          "artist": "Fontaines D.C.",
+          "listen_count": 13
         },
         {
-          "artist": "Kikagaku Moyo",
+          "artist": "Anouar Brahem",
           "listen_count": 11
         },
         {
           "artist": "Bob Dylan",
-          "listen_count": 10
+          "listen_count": 11
         },
         {
           "artist": "שב״ק ס׳",
@@ -66,31 +66,31 @@
           "listen_count": 9
         },
         {
-          "artist": "Fontaines D.C.",
-          "listen_count": 7
+          "artist": "Admas",
+          "listen_count": 8
+        },
+        {
+          "artist": "JID",
+          "listen_count": 8
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "listen_count": 8
         },
         {
           "artist": "Vampire Weekend",
           "listen_count": 7
         },
         {
+          "artist": "Miles Davis",
+          "listen_count": 6
+        },
+        {
           "artist": "Sampha",
           "listen_count": 6
         },
         {
-          "artist": "Anouar Brahem, Dave Holland, Jack DeJohnette, Django Bates",
-          "listen_count": 5
-        },
-        {
-          "artist": "Miles Davis",
-          "listen_count": 5
-        },
-        {
           "artist": "Norah Jones",
-          "listen_count": 4
-        },
-        {
-          "artist": "Sababa 5",
           "listen_count": 4
         },
         {
@@ -98,15 +98,7 @@
           "listen_count": 4
         },
         {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "listen_count": 4
-        },
-        {
           "artist": "Hiatus Kaiyote",
-          "listen_count": 3
-        },
-        {
-          "artist": "John Coltrane",
           "listen_count": 3
         },
         {
@@ -138,11 +130,11 @@
           "listen_count": 2
         },
         {
-          "artist": "Shye Ben-Tzur, Jonny Greenwood and The Rajasthan Express",
-          "listen_count": 2
+          "artist": "Elliphant",
+          "listen_count": 1
         },
         {
-          "artist": "Elliphant",
+          "artist": "Fatoumata Diawara",
           "listen_count": 1
         },
         {
@@ -151,6 +143,10 @@
         },
         {
           "artist": "Foals",
+          "listen_count": 1
+        },
+        {
+          "artist": "Hugh Masekela",
           "listen_count": 1
         },
         {
@@ -174,6 +170,10 @@
           "listen_count": 1
         },
         {
+          "artist": "The Jimi Hendrix Experience",
+          "listen_count": 1
+        },
+        {
           "artist": "Tigran Hamasyan",
           "listen_count": 1
         },
@@ -192,25 +192,25 @@
       ],
       "albums": [
         {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 18,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-17T19:28:51Z"
-        },
-        {
           "artist": "Cameron Winter",
           "album": "Live at Carnegie Hall",
-          "listen_count": 16,
+          "listen_count": 17,
           "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-17T20:28:05Z"
+          "last_listened_at_utc": "2026-10-18T19:11:05Z"
         },
         {
-          "artist": "Kikagaku Moyo",
-          "album": "Kumoyo Island",
+          "artist": "טונה",
+          "album": "מזרח פרוע",
+          "listen_count": 15,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-19T15:09:22Z"
+        },
+        {
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
           "listen_count": 11,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-10-11T21:49:10Z"
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-18T18:44:01Z"
         },
         {
           "artist": "טונה",
@@ -248,11 +248,25 @@
           "last_listened_at_utc": "2026-10-13T22:35:21Z"
         },
         {
+          "artist": "Admas",
+          "album": "Sons of Ethiopia",
+          "listen_count": 8,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-10-18T23:38:03Z"
+        },
+        {
           "artist": "Fontaines D.C.",
           "album": "Romance",
-          "listen_count": 7,
+          "listen_count": 8,
           "unique_tracks": 7,
-          "last_listened_at_utc": "2026-10-16T13:32:34Z"
+          "last_listened_at_utc": "2026-10-18T17:12:27Z"
+        },
+        {
+          "artist": "JID",
+          "album": "The Forever Story (Extended Version)",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-19T13:50:18Z"
         },
         {
           "artist": "Vampire Weekend",
@@ -262,6 +276,13 @@
           "last_listened_at_utc": "2026-10-15T23:35:26Z"
         },
         {
+          "artist": "Miles Davis",
+          "album": "Kind of Blue",
+          "listen_count": 6,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-18T19:34:51Z"
+        },
+        {
           "artist": "Sampha",
           "album": "Lahai",
           "listen_count": 6,
@@ -269,18 +290,11 @@
           "last_listened_at_utc": "2026-10-13T23:32:56Z"
         },
         {
-          "artist": "Anouar Brahem, Dave Holland, Jack DeJohnette, Django Bates",
-          "album": "Blue Maqams",
+          "artist": "Fontaines D.C.",
+          "album": "Dopamine Chamber",
           "listen_count": 5,
           "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-11T18:22:47Z"
-        },
-        {
-          "artist": "Miles Davis",
-          "album": "Kind of Blue",
-          "listen_count": 5,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-18T12:59:49Z"
+          "last_listened_at_utc": "2026-10-19T13:23:46Z"
         },
         {
           "artist": "Norah Jones",
@@ -290,18 +304,18 @@
           "last_listened_at_utc": "2026-10-18T01:43:32Z"
         },
         {
-          "artist": "Sababa 5",
-          "album": "Nadir",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-11T22:11:54Z"
-        },
-        {
           "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
           "album": "Human",
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-12T21:34:28Z"
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Blues for Tee",
+          "listen_count": 4,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-18T20:48:21Z"
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -316,13 +330,6 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-15T23:41:48Z"
-        },
-        {
-          "artist": "John Coltrane",
-          "album": "My Favorite Things",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-11T17:36:00Z"
         },
         {
           "artist": "Nala Sinephro",
@@ -367,11 +374,11 @@
           "last_listened_at_utc": "2026-10-13T23:12:36Z"
         },
         {
-          "artist": "Shye Ben-Tzur, Jonny Greenwood and The Rajasthan Express",
-          "album": "Junun",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-11T17:00:57Z"
+          "artist": "Bob Dylan",
+          "album": "Nashville Skyline",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-18T19:44:10Z"
         },
         {
           "artist": "Elliphant",
@@ -379,6 +386,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-13T22:56:32Z"
+        },
+        {
+          "artist": "Fatoumata Diawara",
+          "album": "Fenfo",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-18T19:40:20Z"
         },
         {
           "artist": "Feist",
@@ -393,6 +407,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-13T22:46:38Z"
+        },
+        {
+          "artist": "Hugh Masekela",
+          "album": "Hope",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-19T02:36:31Z"
         },
         {
           "artist": "Lianne La Havas",
@@ -451,6 +472,13 @@
           "last_listened_at_utc": "2026-10-13T21:34:01Z"
         },
         {
+          "artist": "The Jimi Hendrix Experience",
+          "album": "Axis: Bold As Love",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-19T02:15:11Z"
+        },
+        {
           "artist": "Tigran Hamasyan",
           "album": "An Ancient Observer",
           "listen_count": 1,
@@ -477,32 +505,29 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-12T22:57:21Z"
-        },
-        {
-          "artist": "טונה",
-          "album": "מזרח פרוע",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-15T13:01:29Z"
         }
       ]
     },
     "last_30_days": {
-      "listen_count": 629,
-      "unique_artists": 124,
-      "unique_albums": 140,
+      "listen_count": 654,
+      "unique_artists": 126,
+      "unique_albums": 145,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "Haruomi Hosono",
-          "listen_count": 43
+          "listen_count": 33
         },
         {
           "artist": "Cameron Winter",
-          "listen_count": 31
+          "listen_count": 32
         },
         {
           "artist": "Bob Dylan",
+          "listen_count": 31
+        },
+        {
+          "artist": "טונה",
           "listen_count": 30
         },
         {
@@ -511,27 +536,27 @@
         },
         {
           "artist": "Anouar Brahem",
-          "listen_count": 24
+          "listen_count": 25
         },
         {
           "artist": "Miles Davis",
-          "listen_count": 24
-        },
-        {
-          "artist": "Sonny Rollins",
-          "listen_count": 24
+          "listen_count": 25
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
-          "listen_count": 18
+          "listen_count": 22
         },
         {
-          "artist": "טונה",
-          "listen_count": 16
+          "artist": "Sonny Rollins",
+          "listen_count": 19
         },
         {
           "artist": "青葉市子",
           "listen_count": 14
+        },
+        {
+          "artist": "Fontaines D.C.",
+          "listen_count": 13
         },
         {
           "artist": "Richard & Linda Thompson",
@@ -582,6 +607,14 @@
           "listen_count": 9
         },
         {
+          "artist": "Admas",
+          "listen_count": 8
+        },
+        {
+          "artist": "JID",
+          "listen_count": 8
+        },
+        {
           "artist": "John Coltrane Quartet",
           "listen_count": 8
         },
@@ -595,10 +628,6 @@
         },
         {
           "artist": "Charles Mingus",
-          "listen_count": 7
-        },
-        {
-          "artist": "Fontaines D.C.",
           "listen_count": 7
         },
         {
@@ -631,10 +660,6 @@
         },
         {
           "artist": "Anouar Brahem, Dave Holland, Jack DeJohnette, Django Bates",
-          "listen_count": 5
-        },
-        {
-          "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
           "listen_count": 5
         },
         {
@@ -782,10 +807,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Dave Young",
-          "listen_count": 1
-        },
-        {
           "artist": "Elliphant",
           "listen_count": 1
         },
@@ -799,6 +820,10 @@
         },
         {
           "artist": "Ezra Collective",
+          "listen_count": 1
+        },
+        {
+          "artist": "Fatoumata Diawara",
           "listen_count": 1
         },
         {
@@ -822,6 +847,14 @@
           "listen_count": 1
         },
         {
+          "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
+          "listen_count": 1
+        },
+        {
+          "artist": "Hugh Masekela",
+          "listen_count": 1
+        },
+        {
           "artist": "Jackson Browne",
           "listen_count": 1
         },
@@ -835,10 +868,6 @@
         },
         {
           "artist": "Jerry Paper",
-          "listen_count": 1
-        },
-        {
-          "artist": "Jimmy Smith",
           "listen_count": 1
         },
         {
@@ -934,11 +963,11 @@
           "listen_count": 1
         },
         {
-          "artist": "The Oscar Peterson Trio",
+          "artist": "The Jimi Hendrix Experience",
           "listen_count": 1
         },
         {
-          "artist": "The Quartet of Charlie Parker",
+          "artist": "The Oscar Peterson Trio",
           "listen_count": 1
         },
         {
@@ -992,18 +1021,11 @@
       ],
       "albums": [
         {
-          "artist": "Haruomi Hosono",
-          "album": "Yours Sincerely",
-          "listen_count": 32,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-10-17T19:26:59Z"
-        },
-        {
           "artist": "Cameron Winter",
           "album": "Live at Carnegie Hall",
-          "listen_count": 31,
+          "listen_count": 32,
           "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-17T20:28:05Z"
+          "last_listened_at_utc": "2026-10-18T19:11:05Z"
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -1015,23 +1037,30 @@
         {
           "artist": "Anouar Brahem",
           "album": "The Astounding Eyes Of Rita",
-          "listen_count": 24,
+          "listen_count": 25,
           "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-17T19:28:51Z"
+          "last_listened_at_utc": "2026-10-18T18:44:01Z"
         },
         {
           "artist": "Miles Davis",
           "album": "Kind of Blue",
-          "listen_count": 24,
+          "listen_count": 25,
           "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-18T12:59:49Z"
+          "last_listened_at_utc": "2026-10-18T19:34:51Z"
         },
         {
-          "artist": "Sonny Rollins",
-          "album": "Saxophone Colossus",
-          "listen_count": 15,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-09T23:39:47Z"
+          "artist": "Haruomi Hosono",
+          "album": "Yours Sincerely",
+          "listen_count": 22,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-10-17T19:26:59Z"
+        },
+        {
+          "artist": "טונה",
+          "album": "מזרח פרוע",
+          "listen_count": 19,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-19T15:09:22Z"
         },
         {
           "artist": "青葉市子",
@@ -1139,6 +1168,13 @@
           "last_listened_at_utc": "2026-10-02T19:31:45Z"
         },
         {
+          "artist": "Sonny Rollins",
+          "album": "Saxophone Colossus",
+          "listen_count": 10,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-09T23:39:47Z"
+        },
+        {
           "artist": "Ballaké Sissoko & Vincent Segal",
           "album": "Musique de nuit",
           "listen_count": 9,
@@ -1167,6 +1203,27 @@
           "last_listened_at_utc": "2026-10-10T19:10:57Z"
         },
         {
+          "artist": "Admas",
+          "album": "Sons of Ethiopia",
+          "listen_count": 8,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-10-18T23:38:03Z"
+        },
+        {
+          "artist": "Fontaines D.C.",
+          "album": "Romance",
+          "listen_count": 8,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-10-18T17:12:27Z"
+        },
+        {
+          "artist": "JID",
+          "album": "The Forever Story (Extended Version)",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-19T13:50:18Z"
+        },
+        {
           "artist": "John Coltrane Quartet",
           "album": "Ballads",
           "listen_count": 8,
@@ -1193,13 +1250,6 @@
           "listen_count": 7,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-10-10T19:57:03Z"
-        },
-        {
-          "artist": "Fontaines D.C.",
-          "album": "Romance",
-          "listen_count": 7,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-10-16T13:32:34Z"
         },
         {
           "artist": "Nujabes",
@@ -1258,6 +1308,13 @@
           "last_listened_at_utc": "2026-10-11T18:22:47Z"
         },
         {
+          "artist": "Fontaines D.C.",
+          "album": "Dopamine Chamber",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-19T13:23:46Z"
+        },
+        {
           "artist": "Haruomi Hosono",
           "album": "MEDICINE COMPILATION (2020 Remastering)",
           "listen_count": 5,
@@ -1270,13 +1327,6 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-09-19T18:41:41Z"
-        },
-        {
-          "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
-          "album": "Pacific",
-          "listen_count": 5,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-09-25T20:37:14Z"
         },
         {
           "artist": "J Dilla",
@@ -1298,13 +1348,6 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-09-29T20:16:34Z"
-        },
-        {
-          "artist": "טונה",
-          "album": "מזרח פרוע",
-          "listen_count": 5,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-15T13:01:29Z"
         },
         {
           "artist": "Mikiko Sato",
@@ -1347,6 +1390,13 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-05T20:43:36Z"
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Blues for Tee",
+          "listen_count": 4,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-18T20:48:21Z"
         },
         {
           "artist": "Akusmi",
@@ -1539,6 +1589,13 @@
         },
         {
           "artist": "Bob Dylan",
+          "album": "Nashville Skyline",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-18T19:44:10Z"
+        },
+        {
+          "artist": "Bob Dylan",
           "album": "Oh Mercy",
           "listen_count": 1,
           "unique_tracks": 1,
@@ -1564,13 +1621,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-26T21:16:03Z"
-        },
-        {
-          "artist": "Dave Young",
-          "album": "Two by Two: Piano Bass Duets, Vol. I",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-18T22:29:08Z"
         },
         {
           "artist": "Elliphant",
@@ -1599,6 +1649,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-21T18:15:32Z"
+        },
+        {
+          "artist": "Fatoumata Diawara",
+          "album": "Fenfo",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-18T19:40:20Z"
         },
         {
           "artist": "Feist",
@@ -1643,6 +1700,20 @@
           "last_listened_at_utc": "2026-09-19T19:53:22Z"
         },
         {
+          "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
+          "album": "Pacific",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-09-25T20:37:14Z"
+        },
+        {
+          "artist": "Hugh Masekela",
+          "album": "Hope",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-19T02:36:31Z"
+        },
+        {
           "artist": "Jackson Browne",
           "album": "The Pretender",
           "listen_count": 1,
@@ -1669,13 +1740,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-03T12:22:42Z"
-        },
-        {
-          "artist": "Jimmy Smith",
-          "album": "The Sermon! (Rudy Van Gelder/Remastered)",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-18T22:41:06Z"
         },
         {
           "artist": "Joe Henderson",
@@ -1867,18 +1931,18 @@
           "last_listened_at_utc": "2026-10-13T21:34:01Z"
         },
         {
+          "artist": "The Jimi Hendrix Experience",
+          "album": "Axis: Bold As Love",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-19T02:15:11Z"
+        },
+        {
           "artist": "The Oscar Peterson Trio",
           "album": "We Get Requests",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-11T12:30:50Z"
-        },
-        {
-          "artist": "The Quartet of Charlie Parker",
-          "album": "Now’s The Time: The Genius Of Charlie Parker #3",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-18T22:37:59Z"
         },
         {
           "artist": "Tigran Hamasyan",
@@ -1974,14 +2038,18 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1134,
-      "unique_artists": 185,
-      "unique_albums": 237,
+      "listen_count": 1181,
+      "unique_artists": 190,
+      "unique_albums": 244,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "טונה",
-          "listen_count": 142
+          "listen_count": 156
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "listen_count": 48
         },
         {
           "artist": "רביד פלוטניק",
@@ -1992,12 +2060,8 @@
           "listen_count": 44
         },
         {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "listen_count": 44
-        },
-        {
           "artist": "Cameron Winter",
-          "listen_count": 34
+          "listen_count": 35
         },
         {
           "artist": "Mac DeMarco",
@@ -2005,11 +2069,11 @@
         },
         {
           "artist": "Bob Dylan",
-          "listen_count": 30
+          "listen_count": 31
         },
         {
           "artist": "Miles Davis",
-          "listen_count": 28
+          "listen_count": 29
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -2024,12 +2088,12 @@
           "listen_count": 26
         },
         {
-          "artist": "Julian Lage",
+          "artist": "Anouar Brahem",
           "listen_count": 25
         },
         {
-          "artist": "Anouar Brahem",
-          "listen_count": 24
+          "artist": "Julian Lage",
+          "listen_count": 25
         },
         {
           "artist": "Kenny Burrell",
@@ -2061,6 +2125,10 @@
         },
         {
           "artist": "Bill Evans Trio",
+          "listen_count": 13
+        },
+        {
+          "artist": "Fontaines D.C.",
           "listen_count": 13
         },
         {
@@ -2120,6 +2188,14 @@
           "listen_count": 9
         },
         {
+          "artist": "Admas",
+          "listen_count": 8
+        },
+        {
+          "artist": "JID",
+          "listen_count": 8
+        },
+        {
           "artist": "John Coltrane",
           "listen_count": 8
         },
@@ -2133,10 +2209,6 @@
         },
         {
           "artist": "Charles Mingus",
-          "listen_count": 7
-        },
-        {
-          "artist": "Fontaines D.C.",
           "listen_count": 7
         },
         {
@@ -2440,6 +2512,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Fatoumata Diawara",
+          "listen_count": 1
+        },
+        {
           "artist": "Feist",
           "listen_count": 1
         },
@@ -2465,6 +2541,10 @@
         },
         {
           "artist": "Gonzalo Rubalcaba, Ron Carter & Jack DeJohnette",
+          "listen_count": 1
+        },
+        {
+          "artist": "Hugh Masekela",
           "listen_count": 1
         },
         {
@@ -2628,6 +2708,10 @@
           "listen_count": 1
         },
         {
+          "artist": "The Jimi Hendrix Experience",
+          "listen_count": 1
+        },
+        {
           "artist": "The Legendary Oscar Peterson Trio",
           "listen_count": 1
         },
@@ -2724,9 +2808,9 @@
         {
           "artist": "טונה",
           "album": "מזרח פרוע",
-          "listen_count": 49,
+          "listen_count": 63,
           "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-15T13:01:29Z"
+          "last_listened_at_utc": "2026-10-19T15:09:22Z"
         },
         {
           "artist": "Haruomi Hosono",
@@ -2736,18 +2820,18 @@
           "last_listened_at_utc": "2026-10-17T19:26:59Z"
         },
         {
+          "artist": "Cameron Winter",
+          "album": "Live at Carnegie Hall",
+          "listen_count": 32,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-18T19:11:05Z"
+        },
+        {
           "artist": "Mac DeMarco",
           "album": "Seaplane Dog",
           "listen_count": 32,
           "unique_tracks": 16,
           "last_listened_at_utc": "2026-09-25T21:06:10Z"
-        },
-        {
-          "artist": "Cameron Winter",
-          "album": "Live at Carnegie Hall",
-          "listen_count": 31,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-17T20:28:05Z"
         },
         {
           "artist": "טונה",
@@ -2766,16 +2850,16 @@
         {
           "artist": "Miles Davis",
           "album": "Kind of Blue",
-          "listen_count": 25,
+          "listen_count": 26,
           "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-18T12:59:49Z"
+          "last_listened_at_utc": "2026-10-18T19:34:51Z"
         },
         {
           "artist": "Anouar Brahem",
           "album": "The Astounding Eyes Of Rita",
-          "listen_count": 24,
+          "listen_count": 25,
           "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-17T19:28:51Z"
+          "last_listened_at_utc": "2026-10-18T18:44:01Z"
         },
         {
           "artist": "נצ׳י נצ׳",
@@ -3044,6 +3128,27 @@
           "last_listened_at_utc": "2026-09-01T21:54:18Z"
         },
         {
+          "artist": "Admas",
+          "album": "Sons of Ethiopia",
+          "listen_count": 8,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-10-18T23:38:03Z"
+        },
+        {
+          "artist": "Fontaines D.C.",
+          "album": "Romance",
+          "listen_count": 8,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-10-18T17:12:27Z"
+        },
+        {
+          "artist": "JID",
+          "album": "The Forever Story (Extended Version)",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-19T13:50:18Z"
+        },
+        {
           "artist": "Songs: Ohia",
           "album": "The Magnolia Electric Co.",
           "listen_count": 8,
@@ -3058,18 +3163,18 @@
           "last_listened_at_utc": "2026-10-10T19:57:03Z"
         },
         {
-          "artist": "Fontaines D.C.",
-          "album": "Romance",
-          "listen_count": 7,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-10-16T13:32:34Z"
-        },
-        {
           "artist": "Nujabes",
           "album": "Modal Soul",
           "listen_count": 7,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-04T20:55:40Z"
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Blues for Tee",
+          "listen_count": 7,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-18T20:48:21Z"
         },
         {
           "artist": "Vampire Weekend",
@@ -3140,6 +3245,13 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-09-07T22:40:29Z"
+        },
+        {
+          "artist": "Fontaines D.C.",
+          "album": "Dopamine Chamber",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-19T13:23:46Z"
         },
         {
           "artist": "Haruomi Hosono",
@@ -3350,13 +3462,6 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-08T21:18:35Z"
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Blues for Tee",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-08T22:25:36Z"
         },
         {
           "artist": "Ty Segall",
@@ -3598,6 +3703,13 @@
         },
         {
           "artist": "Bob Dylan",
+          "album": "Nashville Skyline",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-18T19:44:10Z"
+        },
+        {
+          "artist": "Bob Dylan",
           "album": "Oh Mercy",
           "listen_count": 1,
           "unique_tracks": 1,
@@ -3716,6 +3828,13 @@
           "last_listened_at_utc": "2026-09-21T18:15:32Z"
         },
         {
+          "artist": "Fatoumata Diawara",
+          "album": "Fenfo",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-18T19:40:20Z"
+        },
+        {
           "artist": "Feist",
           "album": "One Evening",
           "listen_count": 1,
@@ -3770,6 +3889,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-19T19:53:22Z"
+        },
+        {
+          "artist": "Hugh Masekela",
+          "album": "Hope",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-19T02:36:31Z"
         },
         {
           "artist": "Jackson Browne",
@@ -4185,6 +4311,13 @@
           "last_listened_at_utc": "2026-07-26T21:26:17Z"
         },
         {
+          "artist": "The Jimi Hendrix Experience",
+          "album": "Axis: Bold As Love",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-19T02:15:11Z"
+        },
+        {
           "artist": "The Legendary Oscar Peterson Trio",
           "album": "Live At The Blue Note (Live At The Blue Note, New York City, NY / March 16, 1990)",
           "listen_count": 1,
@@ -4385,6 +4518,897 @@
   },
   "recent_listens": [
     {
+      "listened_at": 1792422562,
+      "listened_at_utc": "2026-10-19T15:09:22Z",
+      "artist": "טונה",
+      "track": "כל הכוכבים",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "83e76432-8835-4d62-b0b9-121e2cee01be",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792421819,
+      "listened_at_utc": "2026-10-19T14:56:59Z",
+      "artist": "טונה",
+      "track": "שובו של מרדכי",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398",
+          "efb391b6-85a5-45d8-a11a-980aeefeb1ce",
+          "01a0e070-c304-49ff-b1c6-62ba3d11e592"
+        ],
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792419826,
+      "listened_at_utc": "2026-10-19T14:23:46Z",
+      "artist": "טונה",
+      "track": "כל הכוכבים",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "83e76432-8835-4d62-b0b9-121e2cee01be",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792417818,
+      "listened_at_utc": "2026-10-19T13:50:18Z",
+      "artist": "JID",
+      "track": "Bruddanem",
+      "album": "The Forever Story (Extended Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d616b606-cf6a-4b6e-ab0f-e253b8db6610",
+          "c9cd225b-4883-428e-82c2-73e0b6282fb6"
+        ],
+        "recording_mbid": "982ddd8a-4c82-44b8-a0e7-031a60a8ec96",
+        "release_mbid": "6acf7bd3-182f-4dcf-8f8b-ec728546b3e2",
+        "release_group_mbid": "9817edbb-b1a1-419d-afab-b0ee3f214550"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792417589,
+      "listened_at_utc": "2026-10-19T13:46:29Z",
+      "artist": "JID",
+      "track": "Kody Blu 31",
+      "album": "The Forever Story (Extended Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d616b606-cf6a-4b6e-ab0f-e253b8db6610"
+        ],
+        "recording_mbid": "8ba33578-8128-484a-b255-c6e2b9e078eb",
+        "release_mbid": "6acf7bd3-182f-4dcf-8f8b-ec728546b3e2",
+        "release_group_mbid": "9817edbb-b1a1-419d-afab-b0ee3f214550"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792417359,
+      "listened_at_utc": "2026-10-19T13:42:39Z",
+      "artist": "JID",
+      "track": "Surround Sound",
+      "album": "The Forever Story (Extended Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d616b606-cf6a-4b6e-ab0f-e253b8db6610"
+        ],
+        "recording_mbid": "bd287b20-ecbf-45f7-8e88-be171d4c2123",
+        "release_mbid": "b215aa5f-387e-4bef-a788-95a19ce367ff",
+        "release_group_mbid": "0c5ace63-ebe9-4adb-a981-447713dcffe0"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792417155,
+      "listened_at_utc": "2026-10-19T13:39:15Z",
+      "artist": "JID",
+      "track": "Can't Punk Me",
+      "album": "The Forever Story (Extended Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d616b606-cf6a-4b6e-ab0f-e253b8db6610",
+          "383005e1-657d-468b-a448-08ecf35b3943"
+        ],
+        "recording_mbid": "a16c1d19-9af2-4fce-8c48-6fb9a91be1bd",
+        "release_mbid": "6acf7bd3-182f-4dcf-8f8b-ec728546b3e2",
+        "release_group_mbid": "9817edbb-b1a1-419d-afab-b0ee3f214550"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792416984,
+      "listened_at_utc": "2026-10-19T13:36:24Z",
+      "artist": "JID",
+      "track": "Crack Sandwich",
+      "album": "The Forever Story (Extended Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d616b606-cf6a-4b6e-ab0f-e253b8db6610"
+        ],
+        "recording_mbid": "0a7b3844-0830-4a4f-bf19-4147aa94255f",
+        "release_mbid": "6acf7bd3-182f-4dcf-8f8b-ec728546b3e2",
+        "release_group_mbid": "9817edbb-b1a1-419d-afab-b0ee3f214550"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792416756,
+      "listened_at_utc": "2026-10-19T13:32:36Z",
+      "artist": "JID",
+      "track": "Dance Now",
+      "album": "The Forever Story (Extended Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d616b606-cf6a-4b6e-ab0f-e253b8db6610",
+          "42c5e9b5-5cff-41fc-aca7-fb0bcf555bc7"
+        ],
+        "recording_mbid": "40e73510-02e1-4669-8581-a97aa3f0e5a4",
+        "release_mbid": "6acf7bd3-182f-4dcf-8f8b-ec728546b3e2",
+        "release_group_mbid": "9817edbb-b1a1-419d-afab-b0ee3f214550"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792416552,
+      "listened_at_utc": "2026-10-19T13:29:12Z",
+      "artist": "JID",
+      "track": "Raydar",
+      "album": "The Forever Story (Extended Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d616b606-cf6a-4b6e-ab0f-e253b8db6610"
+        ],
+        "recording_mbid": "77460b74-0a35-4f6a-a026-4ce6ed787fbf",
+        "release_mbid": "6acf7bd3-182f-4dcf-8f8b-ec728546b3e2",
+        "release_group_mbid": "9817edbb-b1a1-419d-afab-b0ee3f214550"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792416499,
+      "listened_at_utc": "2026-10-19T13:28:19Z",
+      "artist": "JID",
+      "track": "Galaxy",
+      "album": "The Forever Story (Extended Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d616b606-cf6a-4b6e-ab0f-e253b8db6610"
+        ],
+        "recording_mbid": "71fe6ddf-a3ec-45c6-b5be-1faf2eba9a73",
+        "release_mbid": "6acf7bd3-182f-4dcf-8f8b-ec728546b3e2",
+        "release_group_mbid": "9817edbb-b1a1-419d-afab-b0ee3f214550"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792416226,
+      "listened_at_utc": "2026-10-19T13:23:46Z",
+      "artist": "Fontaines D.C.",
+      "track": "Demolition",
+      "album": "Dopamine Chamber",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+        ],
+        "recording_mbid": "4e4cb108-9b60-4899-b1d1-16506d1cbfde",
+        "release_mbid": "532d9b99-48a8-45af-8552-5f697fe5e8dd",
+        "release_group_mbid": "8897af6d-f344-4ad4-af70-83cb425d8397"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792415998,
+      "listened_at_utc": "2026-10-19T13:19:58Z",
+      "artist": "Fontaines D.C.",
+      "track": "Happy For You",
+      "album": "Dopamine Chamber",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+        ],
+        "recording_mbid": "6dbeca9f-2173-4f1f-900d-e9cbf1d65544",
+        "release_mbid": "532d9b99-48a8-45af-8552-5f697fe5e8dd",
+        "release_group_mbid": "8897af6d-f344-4ad4-af70-83cb425d8397"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792415740,
+      "listened_at_utc": "2026-10-19T13:15:40Z",
+      "artist": "Fontaines D.C.",
+      "track": "Mimesis",
+      "album": "Dopamine Chamber",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+        ],
+        "recording_mbid": "daeabecc-7acc-4c1d-a694-f210bce325ab",
+        "release_mbid": "532d9b99-48a8-45af-8552-5f697fe5e8dd",
+        "release_group_mbid": "8897af6d-f344-4ad4-af70-83cb425d8397"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792415514,
+      "listened_at_utc": "2026-10-19T13:11:54Z",
+      "artist": "Fontaines D.C.",
+      "track": "Marianne",
+      "album": "Dopamine Chamber",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+        ],
+        "recording_mbid": "1e1e91a6-56d2-4c8d-92ce-775220faf7f4",
+        "release_mbid": "532d9b99-48a8-45af-8552-5f697fe5e8dd",
+        "release_group_mbid": "8897af6d-f344-4ad4-af70-83cb425d8397"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792415217,
+      "listened_at_utc": "2026-10-19T13:06:57Z",
+      "artist": "Fontaines D.C.",
+      "track": "Six Shot Morning",
+      "album": "Dopamine Chamber",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+        ],
+        "recording_mbid": "73eae8a2-5eb5-45e2-a25b-25142b407ada",
+        "release_mbid": "532d9b99-48a8-45af-8552-5f697fe5e8dd",
+        "release_group_mbid": "8897af6d-f344-4ad4-af70-83cb425d8397"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792377391,
+      "listened_at_utc": "2026-10-19T02:36:31Z",
+      "artist": "Hugh Masekela",
+      "track": "Abangoma (The Healers)",
+      "album": "Hope",
+      "musicbrainz": {
+        "artist_mbids": [
+          "83a2e0fb-3d9b-46ff-b383-3dde54c15297"
+        ],
+        "recording_mbid": "3eeb1a8e-85c5-4f0d-9588-60cfe3d4454e",
+        "release_mbid": "5545f702-18b1-40fe-8460-fd171aac25f0",
+        "release_group_mbid": "aa41cd74-99ff-3567-a3ea-6cf58bb349b1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792377109,
+      "listened_at_utc": "2026-10-19T02:31:49Z",
+      "artist": "טונה",
+      "track": "כל הכוכבים",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "83e76432-8835-4d62-b0b9-121e2cee01be",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792376111,
+      "listened_at_utc": "2026-10-19T02:15:11Z",
+      "artist": "The Jimi Hendrix Experience",
+      "track": "Exp",
+      "album": "Axis: Bold As Love",
+      "musicbrainz": {
+        "artist_mbids": [
+          "33b3c323-77c2-417c-a5b4-af7e6a111cc9"
+        ],
+        "recording_mbid": "45efc6c9-3272-49ac-b53e-5c2adf63ee85",
+        "release_mbid": "d0eb220f-bc99-3297-b396-84125f12698f",
+        "release_group_mbid": "d0b1e21e-cef6-4575-8d92-1afea1894ca3"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792369426,
+      "listened_at_utc": "2026-10-19T00:23:46Z",
+      "artist": "טונה",
+      "track": "היי בייב",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "6a86dabd-e4de-43dc-bb07-66f878f2dace",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792369223,
+      "listened_at_utc": "2026-10-19T00:20:23Z",
+      "artist": "טונה",
+      "track": "יודעת לסובב",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "ccd8a710-6f36-4e50-addd-5f64d63bbb27",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792368953,
+      "listened_at_utc": "2026-10-19T00:15:53Z",
+      "artist": "טונה",
+      "track": "שובו של מרדכי",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398",
+          "efb391b6-85a5-45d8-a11a-980aeefeb1ce",
+          "01a0e070-c304-49ff-b1c6-62ba3d11e592"
+        ],
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "recording_mbid": "4b4caac8-b65d-4fe5-8035-23bb3a542a76",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792368792,
+      "listened_at_utc": "2026-10-19T00:13:12Z",
+      "artist": "טונה",
+      "track": "כל הכוכבים",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "83e76432-8835-4d62-b0b9-121e2cee01be",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792366683,
+      "listened_at_utc": "2026-10-18T23:38:03Z",
+      "artist": "Admas",
+      "track": "Astawesalehu",
+      "album": "Sons of Ethiopia",
+      "musicbrainz": {
+        "artist_mbids": [
+          "203fa511-5748-4c22-bd55-29aa55e41c18"
+        ],
+        "recording_mbid": "c684ea49-3eca-4c0d-b668-1a2f6aa0e2e3",
+        "release_mbid": "580d9f30-e683-4db6-af03-baa260b93f55",
+        "release_group_mbid": "5ae24a2f-e1d6-4d9f-a5e7-a4cf2b99579b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792366400,
+      "listened_at_utc": "2026-10-18T23:33:20Z",
+      "artist": "Admas",
+      "track": "Samba shegitu",
+      "album": "Sons of Ethiopia",
+      "musicbrainz": {
+        "artist_mbids": [
+          "203fa511-5748-4c22-bd55-29aa55e41c18"
+        ],
+        "recording_mbid": "eeb12ba6-f984-4982-834f-01b1009203c7",
+        "release_mbid": "580d9f30-e683-4db6-af03-baa260b93f55",
+        "release_group_mbid": "5ae24a2f-e1d6-4d9f-a5e7-a4cf2b99579b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792366105,
+      "listened_at_utc": "2026-10-18T23:28:25Z",
+      "artist": "Admas",
+      "track": "Wed enate",
+      "album": "Sons of Ethiopia",
+      "musicbrainz": {
+        "artist_mbids": [
+          "203fa511-5748-4c22-bd55-29aa55e41c18"
+        ],
+        "recording_mbid": "83d01259-d68e-44f9-8f72-4c562d5c303c",
+        "release_mbid": "580d9f30-e683-4db6-af03-baa260b93f55",
+        "release_group_mbid": "5ae24a2f-e1d6-4d9f-a5e7-a4cf2b99579b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792365779,
+      "listened_at_utc": "2026-10-18T23:22:59Z",
+      "artist": "Admas",
+      "track": "Kalatashew waga",
+      "album": "Sons of Ethiopia",
+      "musicbrainz": {
+        "artist_mbids": [
+          "203fa511-5748-4c22-bd55-29aa55e41c18"
+        ],
+        "recording_mbid": "6a870a38-9104-464e-aaca-a597b49c1071",
+        "release_mbid": "580d9f30-e683-4db6-af03-baa260b93f55",
+        "release_group_mbid": "5ae24a2f-e1d6-4d9f-a5e7-a4cf2b99579b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792365306,
+      "listened_at_utc": "2026-10-18T23:15:06Z",
+      "artist": "Admas",
+      "track": "Tez alegn yetintu",
+      "album": "Sons of Ethiopia",
+      "musicbrainz": {
+        "artist_mbids": [
+          "203fa511-5748-4c22-bd55-29aa55e41c18"
+        ],
+        "recording_mbid": "09b81792-b65a-4f77-acb1-efea7576db87",
+        "release_mbid": "580d9f30-e683-4db6-af03-baa260b93f55",
+        "release_group_mbid": "5ae24a2f-e1d6-4d9f-a5e7-a4cf2b99579b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792364946,
+      "listened_at_utc": "2026-10-18T23:09:06Z",
+      "artist": "Admas",
+      "track": "Bahta's Highlife",
+      "album": "Sons of Ethiopia",
+      "musicbrainz": {
+        "artist_mbids": [
+          "203fa511-5748-4c22-bd55-29aa55e41c18"
+        ],
+        "recording_mbid": "561e8b0c-92eb-47fe-a26e-0f4f3f2f60c6",
+        "release_mbid": "580d9f30-e683-4db6-af03-baa260b93f55",
+        "release_group_mbid": "5ae24a2f-e1d6-4d9f-a5e7-a4cf2b99579b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792364451,
+      "listened_at_utc": "2026-10-18T23:00:51Z",
+      "artist": "Admas",
+      "track": "Bahta's Highlife",
+      "album": "Sons of Ethiopia",
+      "musicbrainz": {
+        "artist_mbids": [
+          "203fa511-5748-4c22-bd55-29aa55e41c18"
+        ],
+        "recording_mbid": "561e8b0c-92eb-47fe-a26e-0f4f3f2f60c6",
+        "release_mbid": "580d9f30-e683-4db6-af03-baa260b93f55",
+        "release_group_mbid": "5ae24a2f-e1d6-4d9f-a5e7-a4cf2b99579b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792364132,
+      "listened_at_utc": "2026-10-18T22:55:32Z",
+      "artist": "Admas",
+      "track": "Anchi Bale Game",
+      "album": "Sons of Ethiopia",
+      "musicbrainz": {
+        "artist_mbids": [
+          "203fa511-5748-4c22-bd55-29aa55e41c18"
+        ],
+        "recording_mbid": "4c9fd8c8-54b6-402c-ad5c-50e22749c68d",
+        "release_mbid": "580d9f30-e683-4db6-af03-baa260b93f55",
+        "release_group_mbid": "5ae24a2f-e1d6-4d9f-a5e7-a4cf2b99579b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792358229,
+      "listened_at_utc": "2026-10-18T21:17:09Z",
+      "artist": "טונה",
+      "track": "כל הכוכבים",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "83e76432-8835-4d62-b0b9-121e2cee01be",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792356501,
+      "listened_at_utc": "2026-10-18T20:48:21Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "Blues For Tee",
+      "album": "Blues for Tee",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "release_mbid": "412a1167-2ebc-4312-b2ee-88382e3984ae"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792354210,
+      "listened_at_utc": "2026-10-18T20:10:10Z",
+      "artist": "טונה",
+      "track": "כל הכוכבים",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "83e76432-8835-4d62-b0b9-121e2cee01be",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792353631,
+      "listened_at_utc": "2026-10-18T20:00:31Z",
+      "artist": "טונה",
+      "track": "יודעת לסובב",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "ccd8a710-6f36-4e50-addd-5f64d63bbb27",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792353355,
+      "listened_at_utc": "2026-10-18T19:55:55Z",
+      "artist": "טונה",
+      "track": "שובו של מרדכי",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398",
+          "efb391b6-85a5-45d8-a11a-980aeefeb1ce",
+          "01a0e070-c304-49ff-b1c6-62ba3d11e592"
+        ],
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "recording_mbid": "4b4caac8-b65d-4fe5-8035-23bb3a542a76",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792353184,
+      "listened_at_utc": "2026-10-18T19:53:04Z",
+      "artist": "טונה",
+      "track": "כל הכוכבים",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "83e76432-8835-4d62-b0b9-121e2cee01be",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792352650,
+      "listened_at_utc": "2026-10-18T19:44:10Z",
+      "artist": "Bob Dylan",
+      "track": "Girl From The North Country (with Johnny Cash)",
+      "album": "Nashville Skyline",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8",
+          "d43d12a1-2dc9-4257-a2fd-0a3bb1081b86"
+        ],
+        "release_mbid": "f6a2aae7-1456-4108-885d-21de871faab7",
+        "recording_mbid": "fc28d433-f724-4b5a-ae15-c83cf06d7449",
+        "release_group_mbid": "2ca28746-8987-3015-b54c-75b3aa8ca1a1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792352566,
+      "listened_at_utc": "2026-10-18T19:42:46Z",
+      "artist": "טונה",
+      "track": "כל הכוכבים",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "83e76432-8835-4d62-b0b9-121e2cee01be",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792352420,
+      "listened_at_utc": "2026-10-18T19:40:20Z",
+      "artist": "Fatoumata Diawara",
+      "track": "Nterini",
+      "album": "Fenfo",
+      "musicbrainz": {
+        "artist_mbids": [
+          "6f5064bb-7dbb-4a44-bac5-04c467394817"
+        ],
+        "recording_mbid": "ceb281e4-83a4-4343-a9d3-ec5cfd3dd03d",
+        "release_mbid": "acce4bc2-d6fb-431b-90c0-80370eb0015d",
+        "release_group_mbid": "85f7f854-7356-4a21-9fad-4b99db73bf80"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792352091,
+      "listened_at_utc": "2026-10-18T19:34:51Z",
+      "artist": "Miles Davis",
+      "track": "So What",
+      "album": "Kind of Blue",
+      "musicbrainz": {
+        "artist_mbids": [
+          "561d854a-6a28-4aa7-8c99-323e6ce46c2a"
+        ],
+        "recording_mbid": "60f750f4-d222-46b7-ad5c-905334c9a48a",
+        "release_mbid": "46c3472f-1cb0-481b-9dc9-da67b62bb89b",
+        "release_group_mbid": "8e8a594f-2175-38c7-a871-abb68ec363e7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792350665,
+      "listened_at_utc": "2026-10-18T19:11:05Z",
+      "artist": "Cameron Winter",
+      "track": "It All Fell in the River (Live at Carnegie Hall)",
+      "album": "Live at Carnegie Hall",
+      "musicbrainz": {
+        "artist_mbids": [
+          "79c6b6f4-cb92-4f03-a1ef-82e7aa4eddbb"
+        ],
+        "release_mbid": "fa00ee67-184f-4c6a-81f2-c8bf7e8f0be4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792349041,
+      "listened_at_utc": "2026-10-18T18:44:01Z",
+      "artist": "Anouar Brahem",
+      "track": "The Lover Of Beirut",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "93d00279-3eb5-4717-b2c8-041184c77138",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792343547,
+      "listened_at_utc": "2026-10-18T17:12:27Z",
+      "artist": "Fontaines D.C.",
+      "track": "Romance",
+      "album": "Romance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+        ],
+        "recording_mbid": "5f5de3c7-a82c-4e3a-9517-2f42ab7b2b93",
+        "release_mbid": "aeaaf50f-437f-4d8d-b0db-f616ea09e1cd",
+        "release_group_mbid": "92b095c1-3bbf-456f-9425-2078ad4e9504"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792343138,
+      "listened_at_utc": "2026-10-18T17:05:38Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "Speed Ball Blues",
+      "album": "Blues for Tee",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "release_mbid": "412a1167-2ebc-4312-b2ee-88382e3984ae"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792342688,
+      "listened_at_utc": "2026-10-18T16:58:08Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "I'm Glad There Is You",
+      "album": "Blues for Tee",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "recording_mbid": "9f181550-9df9-4721-9d0d-9397205e51f7",
+        "release_mbid": "d8e4a129-d8f5-4b80-8414-3da3f8ad91dc",
+        "release_group_mbid": "4890f61a-9b84-42e9-aaf3-c0899c019bcf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792341646,
+      "listened_at_utc": "2026-10-18T16:40:46Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "Blues For Tee",
+      "album": "Blues for Tee",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "release_mbid": "412a1167-2ebc-4312-b2ee-88382e3984ae"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
       "listened_at": 1792328389,
       "listened_at_utc": "2026-10-18T12:59:49Z",
       "artist": "Miles Davis",
@@ -4399,7 +5423,8 @@
         "release_group_mbid": "8e8a594f-2175-38c7-a871-abb68ec363e7"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4417,7 +5442,8 @@
         "release_group_mbid": "8e8a594f-2175-38c7-a871-abb68ec363e7"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
