@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-21T14:32:19Z",
+  "generated_at_utc": "2026-10-22T14:33:53Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-23T14:32:19Z",
-    "through_utc": "2026-10-21T14:32:19Z",
+    "from_utc": "2026-07-24T14:33:53Z",
+    "through_utc": "2026-10-22T14:33:53Z",
     "complete": true,
     "pages_fetched": 2,
     "max_pages": 10,
-    "raw_listen_count": 1873,
-    "deduplicated_listen_count": 1266,
-    "duplicates_removed": 607,
+    "raw_listen_count": 1955,
+    "deduplicated_listen_count": 1305,
+    "duplicates_removed": 650,
     "oldest_listen_utc": "2026-07-24T19:08:02Z",
-    "newest_listen_utc": "2026-10-21T14:02:40Z"
+    "newest_listen_utc": "2026-10-22T13:26:52Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,14 +28,14 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 206,
-      "unique_artists": 33,
-      "unique_albums": 40,
+      "listen_count": 226,
+      "unique_artists": 42,
+      "unique_albums": 48,
       "listens_without_album": 0,
       "artists": [
         {
-          "artist": "טונה",
-          "listen_count": 28
+          "artist": "Parquet Courts",
+          "listen_count": 26
         },
         {
           "artist": "Bob Dylan",
@@ -46,8 +46,8 @@
           "listen_count": 19
         },
         {
-          "artist": "Parquet Courts",
-          "listen_count": 13
+          "artist": "טונה",
+          "listen_count": 16
         },
         {
           "artist": "Admas",
@@ -58,8 +58,8 @@
           "listen_count": 12
         },
         {
-          "artist": "Anouar Brahem",
-          "listen_count": 11
+          "artist": "Songhoy Blues",
+          "listen_count": 10
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -86,8 +86,16 @@
           "listen_count": 6
         },
         {
+          "artist": "Michael Kiwanuka",
+          "listen_count": 6
+        },
+        {
           "artist": "Miles Davis",
           "listen_count": 6
+        },
+        {
+          "artist": "Anouar Brahem",
+          "listen_count": 5
         },
         {
           "artist": "Avishai Cohen",
@@ -122,6 +130,10 @@
           "listen_count": 2
         },
         {
+          "artist": "Beth Gibbons",
+          "listen_count": 2
+        },
+        {
           "artist": "Emily A. Sprague",
           "listen_count": 2
         },
@@ -132,6 +144,22 @@
         {
           "artist": "Young Fathers",
           "listen_count": 2
+        },
+        {
+          "artist": "中村照夫",
+          "listen_count": 2
+        },
+        {
+          "artist": "Avishai Cohen Trio",
+          "listen_count": 1
+        },
+        {
+          "artist": "Deerhunter",
+          "listen_count": 1
+        },
+        {
+          "artist": "Emmet Cohen",
+          "listen_count": 1
         },
         {
           "artist": "Fatoumata Diawara",
@@ -146,7 +174,11 @@
           "listen_count": 1
         },
         {
-          "artist": "Sokratis Sinopoulos Quartet",
+          "artist": "SPRINTS",
+          "listen_count": 1
+        },
+        {
+          "artist": "Squid",
           "listen_count": 1
         },
         {
@@ -155,6 +187,10 @@
         },
         {
           "artist": "The Jimi Hendrix Experience",
+          "listen_count": 1
+        },
+        {
+          "artist": "The Weather Station",
           "listen_count": 1
         },
         {
@@ -168,18 +204,18 @@
       ],
       "albums": [
         {
-          "artist": "טונה",
-          "album": "מזרח פרוע",
-          "listen_count": 16,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-19T16:59:41Z"
-        },
-        {
           "artist": "Parquet Courts",
           "album": "Wide Awake!",
-          "listen_count": 13,
+          "listen_count": 26,
           "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-21T13:55:01Z"
+          "last_listened_at_utc": "2026-10-21T20:19:04Z"
+        },
+        {
+          "artist": "טונה",
+          "album": "מזרח פרוע",
+          "listen_count": 15,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-19T16:59:41Z"
         },
         {
           "artist": "Admas",
@@ -196,20 +232,6 @@
           "last_listened_at_utc": "2026-10-20T13:24:54Z"
         },
         {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 11,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-18T18:44:01Z"
-        },
-        {
-          "artist": "טונה",
-          "album": "ראפ מטורף",
-          "listen_count": 11,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-10-15T13:38:09Z"
-        },
-        {
           "artist": "Bob Dylan",
           "album": "Blood on the Tracks",
           "listen_count": 10,
@@ -222,6 +244,13 @@
           "listen_count": 10,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-10-19T22:48:33Z"
+        },
+        {
+          "artist": "Songhoy Blues",
+          "album": "Résistance",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-10-22T13:26:52Z"
         },
         {
           "artist": "JID",
@@ -273,11 +302,25 @@
           "last_listened_at_utc": "2026-10-20T13:12:53Z"
         },
         {
+          "artist": "Michael Kiwanuka",
+          "album": "Love & Hate",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-22T00:49:03Z"
+        },
+        {
           "artist": "Miles Davis",
           "album": "Kind of Blue",
           "listen_count": 6,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-18T19:34:51Z"
+        },
+        {
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
+          "listen_count": 5,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-18T18:44:01Z"
         },
         {
           "artist": "Avishai Cohen",
@@ -357,6 +400,13 @@
           "last_listened_at_utc": "2026-10-21T14:02:40Z"
         },
         {
+          "artist": "Beth Gibbons",
+          "album": "Lives Outgrown",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-22T00:05:26Z"
+        },
+        {
           "artist": "Emily A. Sprague",
           "album": "Cyano",
           "listen_count": 2,
@@ -378,11 +428,39 @@
           "last_listened_at_utc": "2026-10-20T21:38:34Z"
         },
         {
+          "artist": "中村照夫",
+          "album": "Unicorn",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-21T22:14:32Z"
+        },
+        {
+          "artist": "Avishai Cohen Trio",
+          "album": "Gently Disturbed",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-22T00:15:20Z"
+        },
+        {
           "artist": "Bob Dylan",
           "album": "Nashville Skyline",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-18T19:44:10Z"
+        },
+        {
+          "artist": "Deerhunter",
+          "album": "Monomania",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-21T20:26:57Z"
+        },
+        {
+          "artist": "Emmet Cohen",
+          "album": "Future Stride",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-21T20:30:07Z"
         },
         {
           "artist": "Fatoumata Diawara",
@@ -406,11 +484,18 @@
           "last_listened_at_utc": "2026-10-15T23:44:40Z"
         },
         {
-          "artist": "Sokratis Sinopoulos Quartet",
-          "album": "Metamodal",
+          "artist": "SPRINTS",
+          "album": "Letter to Self",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-14T23:38:09Z"
+          "last_listened_at_utc": "2026-10-22T12:51:16Z"
+        },
+        {
+          "artist": "Squid",
+          "album": "Town Centre",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-21T20:23:22Z"
         },
         {
           "artist": "Steely Dan",
@@ -425,6 +510,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-19T02:15:11Z"
+        },
+        {
+          "artist": "The Weather Station",
+          "album": "How Is It That I Should Look At The Stars",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-22T00:08:50Z"
         },
         {
           "artist": "Wolf Alice",
@@ -450,9 +542,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 682,
-      "unique_artists": 127,
-      "unique_albums": 143,
+      "listen_count": 717,
+      "unique_artists": 132,
+      "unique_albums": 150,
       "listens_without_album": 0,
       "artists": [
         {
@@ -466,6 +558,10 @@
         {
           "artist": "Ahmad Jamal Trio",
           "listen_count": 27
+        },
+        {
+          "artist": "Parquet Courts",
+          "listen_count": 26
         },
         {
           "artist": "Anouar Brahem",
@@ -494,10 +590,6 @@
         {
           "artist": "青葉市子",
           "listen_count": 14
-        },
-        {
-          "artist": "Parquet Courts",
-          "listen_count": 13
         },
         {
           "artist": "Richard & Linda Thompson",
@@ -552,6 +644,10 @@
           "listen_count": 10
         },
         {
+          "artist": "Songhoy Blues",
+          "listen_count": 10
+        },
+        {
           "artist": "Ballaké Sissoko & Vincent Segal",
           "listen_count": 9
         },
@@ -581,6 +677,10 @@
         },
         {
           "artist": "Kenny Burrell",
+          "listen_count": 7
+        },
+        {
+          "artist": "Michael Kiwanuka",
           "listen_count": 7
         },
         {
@@ -676,6 +776,10 @@
           "listen_count": 3
         },
         {
+          "artist": "Avishai Cohen Trio",
+          "listen_count": 3
+        },
+        {
           "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
           "listen_count": 3
         },
@@ -697,6 +801,10 @@
         },
         {
           "artist": "Sissoko Segal Parisien Peirani",
+          "listen_count": 3
+        },
+        {
+          "artist": "Squid",
           "listen_count": 3
         },
         {
@@ -724,10 +832,6 @@
           "listen_count": 3
         },
         {
-          "artist": "מיכאל סוויסה וסלימפים",
-          "listen_count": 3
-        },
-        {
           "artist": "Ahmad Jamal",
           "listen_count": 2
         },
@@ -736,7 +840,7 @@
           "listen_count": 2
         },
         {
-          "artist": "Avishai Cohen Trio",
+          "artist": "Beth Gibbons",
           "listen_count": 2
         },
         {
@@ -764,11 +868,11 @@
           "listen_count": 2
         },
         {
-          "artist": "Squid",
+          "artist": "Young Fathers",
           "listen_count": 2
         },
         {
-          "artist": "Young Fathers",
+          "artist": "中村照夫",
           "listen_count": 2
         },
         {
@@ -784,15 +888,19 @@
           "listen_count": 1
         },
         {
+          "artist": "Deerhunter",
+          "listen_count": 1
+        },
+        {
           "artist": "Elliphant",
           "listen_count": 1
         },
         {
-          "artist": "Eric Dolphy",
+          "artist": "Emmet Cohen",
           "listen_count": 1
         },
         {
-          "artist": "Ezra Collective",
+          "artist": "Eric Dolphy",
           "listen_count": 1
         },
         {
@@ -868,10 +976,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Michael Kiwanuka",
-          "listen_count": 1
-        },
-        {
           "artist": "Oliver Nelson",
           "listen_count": 1
         },
@@ -885,6 +989,10 @@
         },
         {
           "artist": "SE SO NEON",
+          "listen_count": 1
+        },
+        {
+          "artist": "SPRINTS",
           "listen_count": 1
         },
         {
@@ -917,6 +1025,10 @@
         },
         {
           "artist": "The Oscar Peterson Trio",
+          "listen_count": 1
+        },
+        {
+          "artist": "The Weather Station",
           "listen_count": 1
         },
         {
@@ -980,6 +1092,13 @@
           "last_listened_at_utc": "2026-10-05T23:27:27Z"
         },
         {
+          "artist": "Parquet Courts",
+          "album": "Wide Awake!",
+          "listen_count": 26,
+          "unique_tracks": 13,
+          "last_listened_at_utc": "2026-10-21T20:19:04Z"
+        },
+        {
           "artist": "Anouar Brahem",
           "album": "The Astounding Eyes Of Rita",
           "listen_count": 25,
@@ -1006,13 +1125,6 @@
           "listen_count": 14,
           "unique_tracks": 14,
           "last_listened_at_utc": "2026-09-29T22:48:47Z"
-        },
-        {
-          "artist": "Parquet Courts",
-          "album": "Wide Awake!",
-          "listen_count": 13,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-21T13:55:01Z"
         },
         {
           "artist": "Richard & Linda Thompson",
@@ -1125,6 +1237,13 @@
           "listen_count": 10,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-10-02T19:31:45Z"
+        },
+        {
+          "artist": "Songhoy Blues",
+          "album": "Résistance",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-10-22T13:26:52Z"
         },
         {
           "artist": "Sonny Rollins",
@@ -1267,6 +1386,13 @@
           "last_listened_at_utc": "2026-10-10T11:55:16Z"
         },
         {
+          "artist": "Michael Kiwanuka",
+          "album": "Love & Hate",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-22T00:49:03Z"
+        },
+        {
           "artist": "Sampha",
           "album": "Lahai",
           "listen_count": 6,
@@ -1386,6 +1512,13 @@
           "last_listened_at_utc": "2026-10-07T22:49:37Z"
         },
         {
+          "artist": "Avishai Cohen Trio",
+          "album": "Gently Disturbed",
+          "listen_count": 3,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-22T00:15:20Z"
+        },
+        {
           "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
           "album": "Waltz for Debby [1962]",
           "listen_count": 3,
@@ -1477,13 +1610,6 @@
           "last_listened_at_utc": "2026-10-09T12:33:53Z"
         },
         {
-          "artist": "מיכאל סוויסה וסלימפים",
-          "album": "עזים על עצים",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-09-22T12:44:22Z"
-        },
-        {
           "artist": "Arctic Monkeys",
           "album": "Whatever People Say I Am, That's What I'm Not (Arctic Monkeys)",
           "listen_count": 2,
@@ -1491,11 +1617,11 @@
           "last_listened_at_utc": "2026-10-21T14:02:40Z"
         },
         {
-          "artist": "Avishai Cohen Trio",
-          "album": "Gently Disturbed",
+          "artist": "Beth Gibbons",
+          "album": "Lives Outgrown",
           "listen_count": 2,
           "unique_tracks": 2,
-          "last_listened_at_utc": "2026-09-29T23:01:28Z"
+          "last_listened_at_utc": "2026-10-22T00:05:26Z"
         },
         {
           "artist": "Cornelius",
@@ -1568,6 +1694,13 @@
           "last_listened_at_utc": "2026-10-20T21:38:34Z"
         },
         {
+          "artist": "中村照夫",
+          "album": "Unicorn",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-21T22:14:32Z"
+        },
+        {
           "artist": "Ahmad Jamal",
           "album": "Ahmad's Blues",
           "listen_count": 1,
@@ -1610,6 +1743,13 @@
           "last_listened_at_utc": "2026-09-26T21:16:03Z"
         },
         {
+          "artist": "Deerhunter",
+          "album": "Monomania",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-21T20:26:57Z"
+        },
+        {
           "artist": "Elliphant",
           "album": "Living Life Golden",
           "listen_count": 1,
@@ -1617,18 +1757,18 @@
           "last_listened_at_utc": "2026-10-13T22:56:32Z"
         },
         {
+          "artist": "Emmet Cohen",
+          "album": "Future Stride",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-21T20:30:07Z"
+        },
+        {
           "artist": "Eric Dolphy",
           "album": "Out To Lunch (96kHz/24bit)",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-27T22:14:28Z"
-        },
-        {
-          "artist": "Ezra Collective",
-          "album": "Here Because of Hope",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-21T18:15:32Z"
         },
         {
           "artist": "Fatoumata Diawara",
@@ -1799,6 +1939,13 @@
           "last_listened_at_utc": "2026-10-03T12:27:17Z"
         },
         {
+          "artist": "SPRINTS",
+          "album": "Letter to Self",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-22T12:51:16Z"
+        },
+        {
           "artist": "Sam Gendel",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -1818,6 +1965,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-14T23:38:09Z"
+        },
+        {
+          "artist": "Squid",
+          "album": "Town Centre",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-21T20:23:22Z"
         },
         {
           "artist": "Steely Dan",
@@ -1874,6 +2028,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-11T12:30:50Z"
+        },
+        {
+          "artist": "The Weather Station",
+          "album": "How Is It That I Should Look At The Stars",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-22T00:08:50Z"
         },
         {
           "artist": "Tigran Hamasyan",
@@ -1969,9 +2130,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1266,
-      "unique_artists": 197,
-      "unique_albums": 253,
+      "listen_count": 1305,
+      "unique_artists": 204,
+      "unique_albums": 262,
       "listens_without_album": 0,
       "artists": [
         {
@@ -2013,6 +2174,10 @@
         {
           "artist": "Sonny Rollins",
           "listen_count": 27
+        },
+        {
+          "artist": "Parquet Courts",
+          "listen_count": 26
         },
         {
           "artist": "נצ׳י נצ׳",
@@ -2067,10 +2232,6 @@
           "listen_count": 13
         },
         {
-          "artist": "Parquet Courts",
-          "listen_count": 13
-        },
-        {
           "artist": "Richard & Linda Thompson",
           "listen_count": 13
         },
@@ -2115,6 +2276,10 @@
           "listen_count": 10
         },
         {
+          "artist": "Songhoy Blues",
+          "listen_count": 10
+        },
+        {
           "artist": "Ballaké Sissoko & Vincent Segal",
           "listen_count": 9
         },
@@ -2152,6 +2317,10 @@
         },
         {
           "artist": "English Teacher",
+          "listen_count": 7
+        },
+        {
+          "artist": "Michael Kiwanuka",
           "listen_count": 7
         },
         {
@@ -2271,6 +2440,10 @@
           "listen_count": 3
         },
         {
+          "artist": "Avishai Cohen Trio",
+          "listen_count": 3
+        },
+        {
           "artist": "Emily A. Sprague",
           "listen_count": 3
         },
@@ -2292,6 +2465,10 @@
         },
         {
           "artist": "Sissoko Segal Parisien Peirani",
+          "listen_count": 3
+        },
+        {
+          "artist": "Squid",
           "listen_count": 3
         },
         {
@@ -2335,7 +2512,7 @@
           "listen_count": 2
         },
         {
-          "artist": "Avishai Cohen Trio",
+          "artist": "Beth Gibbons",
           "listen_count": 2
         },
         {
@@ -2383,10 +2560,6 @@
           "listen_count": 2
         },
         {
-          "artist": "Squid",
-          "listen_count": 2
-        },
-        {
           "artist": "Stan Getz",
           "listen_count": 2
         },
@@ -2408,6 +2581,10 @@
         },
         {
           "artist": "ハリー細野 & Tin Pan Alley",
+          "listen_count": 2
+        },
+        {
+          "artist": "中村照夫",
           "listen_count": 2
         },
         {
@@ -2455,11 +2632,19 @@
           "listen_count": 1
         },
         {
+          "artist": "Deerhunter",
+          "listen_count": 1
+        },
+        {
           "artist": "Diana Krall",
           "listen_count": 1
         },
         {
           "artist": "Elliphant",
+          "listen_count": 1
+        },
+        {
+          "artist": "Emmet Cohen",
           "listen_count": 1
         },
         {
@@ -2579,10 +2764,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Michael Kiwanuka",
-          "listen_count": 1
-        },
-        {
           "artist": "Nancy Wilson / Cannonball Adderley",
           "listen_count": 1
         },
@@ -2608,6 +2789,10 @@
         },
         {
           "artist": "SE SO NEON",
+          "listen_count": 1
+        },
+        {
+          "artist": "SPRINTS",
           "listen_count": 1
         },
         {
@@ -2684,6 +2869,10 @@
         },
         {
           "artist": "The Ray Brown Trio",
+          "listen_count": 1
+        },
+        {
+          "artist": "The Weather Station",
           "listen_count": 1
         },
         {
@@ -2821,6 +3010,13 @@
           "last_listened_at_utc": "2026-10-18T19:34:51Z"
         },
         {
+          "artist": "Parquet Courts",
+          "album": "Wide Awake!",
+          "listen_count": 26,
+          "unique_tracks": 13,
+          "last_listened_at_utc": "2026-10-21T20:19:04Z"
+        },
+        {
           "artist": "Anouar Brahem",
           "album": "The Astounding Eyes Of Rita",
           "listen_count": 25,
@@ -2924,13 +3120,6 @@
           "listen_count": 13,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-09-25T20:37:14Z"
-        },
-        {
-          "artist": "Parquet Courts",
-          "album": "Wide Awake!",
-          "listen_count": 13,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-21T13:55:01Z"
         },
         {
           "artist": "Richard & Linda Thompson",
@@ -3057,6 +3246,13 @@
           "listen_count": 10,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-10-02T19:31:45Z"
+        },
+        {
+          "artist": "Songhoy Blues",
+          "album": "Résistance",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-10-22T13:26:52Z"
         },
         {
           "artist": "Ballaké Sissoko & Vincent Segal",
@@ -3211,6 +3407,13 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-10T11:55:16Z"
+        },
+        {
+          "artist": "Michael Kiwanuka",
+          "album": "Love & Hate",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-22T00:49:03Z"
         },
         {
           "artist": "Sampha",
@@ -3381,6 +3584,13 @@
           "last_listened_at_utc": "2026-10-07T22:49:37Z"
         },
         {
+          "artist": "Avishai Cohen Trio",
+          "album": "Gently Disturbed",
+          "listen_count": 3,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-22T00:15:20Z"
+        },
+        {
           "artist": "Cameron Winter",
           "album": "Heavy Metal",
           "listen_count": 3,
@@ -3514,11 +3724,11 @@
           "last_listened_at_utc": "2026-10-21T14:02:40Z"
         },
         {
-          "artist": "Avishai Cohen Trio",
-          "album": "Gently Disturbed",
+          "artist": "Beth Gibbons",
+          "album": "Lives Outgrown",
           "listen_count": 2,
           "unique_tracks": 2,
-          "last_listened_at_utc": "2026-09-29T23:01:28Z"
+          "last_listened_at_utc": "2026-10-22T00:05:26Z"
         },
         {
           "artist": "Bill Evans & Jim Hall",
@@ -3652,6 +3862,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-09-19T19:50:03Z"
+        },
+        {
+          "artist": "中村照夫",
+          "album": "Unicorn",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-21T22:14:32Z"
         },
         {
           "artist": "Ahmad Jamal",
@@ -3822,6 +4039,13 @@
           "last_listened_at_utc": "2026-09-18T22:29:08Z"
         },
         {
+          "artist": "Deerhunter",
+          "album": "Monomania",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-21T20:26:57Z"
+        },
+        {
           "artist": "Diana Krall",
           "album": "Only Trust Your Heart",
           "listen_count": 1,
@@ -3834,6 +4058,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-13T22:56:32Z"
+        },
+        {
+          "artist": "Emmet Cohen",
+          "album": "Future Stride",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-21T20:30:07Z"
         },
         {
           "artist": "Eric Dolphy",
@@ -4172,6 +4403,13 @@
           "last_listened_at_utc": "2026-10-03T12:27:17Z"
         },
         {
+          "artist": "SPRINTS",
+          "album": "Letter to Self",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-22T12:51:16Z"
+        },
+        {
           "artist": "Sam Gendel",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -4226,6 +4464,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-07-26T23:16:02Z"
+        },
+        {
+          "artist": "Squid",
+          "album": "Town Centre",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-21T20:23:22Z"
         },
         {
           "artist": "Stan Getz",
@@ -4380,6 +4625,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-07-26T22:58:06Z"
+        },
+        {
+          "artist": "The Weather Station",
+          "album": "How Is It That I Should Look At The Stars",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-22T00:08:50Z"
         },
         {
           "artist": "Tigran Hamasyan",
@@ -4540,6 +4792,736 @@
   },
   "recent_listens": [
     {
+      "listened_at": 1792675612,
+      "listened_at_utc": "2026-10-22T13:26:52Z",
+      "artist": "Songhoy Blues",
+      "track": "Mali Nord",
+      "album": "Résistance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "acc25e07-3392-437a-b409-ed73b47f3d59"
+        ],
+        "recording_mbid": "2de46f71-6008-4c67-8bd0-d726c5d29611",
+        "release_mbid": "5a7e116a-a255-41ea-95f7-a39db2246bd2",
+        "release_group_mbid": "8e387b18-5a39-4ac9-b123-def23051ef21"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792675416,
+      "listened_at_utc": "2026-10-22T13:23:36Z",
+      "artist": "Songhoy Blues",
+      "track": "Ir Ma Sobay",
+      "album": "Résistance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "acc25e07-3392-437a-b409-ed73b47f3d59"
+        ],
+        "recording_mbid": "75a86f23-27a3-498d-82ff-6f79abccb472",
+        "release_mbid": "1b9c30ff-f9a3-4d8d-8338-7a9a15172898",
+        "release_group_mbid": "28784824-ea38-4044-9720-e68bfb70ff1f"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792675188,
+      "listened_at_utc": "2026-10-22T13:19:48Z",
+      "artist": "Songhoy Blues",
+      "track": "Ici Bas",
+      "album": "Résistance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "acc25e07-3392-437a-b409-ed73b47f3d59"
+        ],
+        "recording_mbid": "2d7be853-07bb-4b8d-b8c2-61aea269025a",
+        "release_mbid": "1b9c30ff-f9a3-4d8d-8338-7a9a15172898",
+        "release_group_mbid": "28784824-ea38-4044-9720-e68bfb70ff1f"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792675001,
+      "listened_at_utc": "2026-10-22T13:16:41Z",
+      "artist": "Songhoy Blues",
+      "track": "Dabari",
+      "album": "Résistance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "acc25e07-3392-437a-b409-ed73b47f3d59"
+        ],
+        "recording_mbid": "4c1f5d21-0111-4196-a152-e40c5b24806c",
+        "release_mbid": "1b9c30ff-f9a3-4d8d-8338-7a9a15172898",
+        "release_group_mbid": "28784824-ea38-4044-9720-e68bfb70ff1f"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792674759,
+      "listened_at_utc": "2026-10-22T13:12:39Z",
+      "artist": "Songhoy Blues",
+      "track": "Badji",
+      "album": "Résistance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "acc25e07-3392-437a-b409-ed73b47f3d59"
+        ],
+        "recording_mbid": "4491d3e9-aa20-407c-bd2c-7a31850ea0f7",
+        "release_mbid": "1b9c30ff-f9a3-4d8d-8338-7a9a15172898",
+        "release_group_mbid": "28784824-ea38-4044-9720-e68bfb70ff1f"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792674459,
+      "listened_at_utc": "2026-10-22T13:07:39Z",
+      "artist": "Songhoy Blues",
+      "track": "Hometown",
+      "album": "Résistance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "acc25e07-3392-437a-b409-ed73b47f3d59"
+        ],
+        "recording_mbid": "bd2a5c0d-13f6-489d-a582-65f559cfca92",
+        "release_mbid": "1b9c30ff-f9a3-4d8d-8338-7a9a15172898",
+        "release_group_mbid": "28784824-ea38-4044-9720-e68bfb70ff1f"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792674229,
+      "listened_at_utc": "2026-10-22T13:03:49Z",
+      "artist": "Songhoy Blues",
+      "track": "Yersi Yadda",
+      "album": "Résistance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "acc25e07-3392-437a-b409-ed73b47f3d59"
+        ],
+        "recording_mbid": "03dca789-6dfc-4780-bb76-038ff1206d64",
+        "release_mbid": "1b9c30ff-f9a3-4d8d-8338-7a9a15172898",
+        "release_group_mbid": "28784824-ea38-4044-9720-e68bfb70ff1f"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792674045,
+      "listened_at_utc": "2026-10-22T13:00:45Z",
+      "artist": "Songhoy Blues",
+      "track": "Sahara",
+      "album": "Résistance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "acc25e07-3392-437a-b409-ed73b47f3d59"
+        ],
+        "recording_mbid": "2bf05d42-ae72-4ffb-b313-c47e4fdfa47e",
+        "release_mbid": "3fd5f77b-51ac-410f-bfdd-919ab437ed40",
+        "release_group_mbid": "45fdada0-3a89-41dc-9859-dcc0a26d95ac"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792673824,
+      "listened_at_utc": "2026-10-22T12:57:04Z",
+      "artist": "Songhoy Blues",
+      "track": "Bamako",
+      "album": "Résistance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "acc25e07-3392-437a-b409-ed73b47f3d59"
+        ],
+        "recording_mbid": "ccd34046-7ef4-4df5-bb17-1b68c54d6828",
+        "release_mbid": "1b9c30ff-f9a3-4d8d-8338-7a9a15172898",
+        "release_group_mbid": "28784824-ea38-4044-9720-e68bfb70ff1f"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792673625,
+      "listened_at_utc": "2026-10-22T12:53:45Z",
+      "artist": "Songhoy Blues",
+      "track": "Voter",
+      "album": "Résistance",
+      "musicbrainz": {
+        "artist_mbids": [
+          "acc25e07-3392-437a-b409-ed73b47f3d59"
+        ],
+        "recording_mbid": "cbf99af1-3cf9-4562-a2f9-4f44c5a73fd3",
+        "release_mbid": "1b9c30ff-f9a3-4d8d-8338-7a9a15172898",
+        "release_group_mbid": "28784824-ea38-4044-9720-e68bfb70ff1f"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792673476,
+      "listened_at_utc": "2026-10-22T12:51:16Z",
+      "artist": "SPRINTS",
+      "track": "Ticking",
+      "album": "Letter to Self",
+      "musicbrainz": {
+        "artist_mbids": [
+          "256e0b36-88cb-453a-9ce4-7b73cb6b882f"
+        ],
+        "recording_mbid": "a8670317-e0dd-4867-a204-866089369459",
+        "release_mbid": "202a6b08-2419-48dc-b86d-d9df8667538b",
+        "release_group_mbid": "3801c47e-f902-49d2-8b0f-608ec03d8a6d"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1792630143,
+      "listened_at_utc": "2026-10-22T00:49:03Z",
+      "artist": "Michael Kiwanuka",
+      "track": "One More Night",
+      "album": "Love & Hate",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11f570ff-44d9-4e9c-8812-e6d56103c5c1"
+        ],
+        "recording_mbid": "a139c964-c1bd-474d-88ff-74f7d4097e48",
+        "release_mbid": "9450beeb-512c-4fd1-bab7-1d84982a8002",
+        "release_group_mbid": "c51bb243-59ac-4de0-9a51-4ead3d4e1bf8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792629716,
+      "listened_at_utc": "2026-10-22T00:41:56Z",
+      "artist": "Michael Kiwanuka",
+      "track": "Love & Hate",
+      "album": "Love & Hate",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11f570ff-44d9-4e9c-8812-e6d56103c5c1"
+        ],
+        "recording_mbid": "f3fb423d-58ad-4be3-9bf9-33ad19b2014d",
+        "release_mbid": "9450beeb-512c-4fd1-bab7-1d84982a8002",
+        "release_group_mbid": "c51bb243-59ac-4de0-9a51-4ead3d4e1bf8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792629429,
+      "listened_at_utc": "2026-10-22T00:37:09Z",
+      "artist": "Michael Kiwanuka",
+      "track": "Place I Belong",
+      "album": "Love & Hate",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11f570ff-44d9-4e9c-8812-e6d56103c5c1"
+        ],
+        "recording_mbid": "7baa701d-49fe-472e-a11a-188e542a5c5d",
+        "release_mbid": "9450beeb-512c-4fd1-bab7-1d84982a8002",
+        "release_group_mbid": "c51bb243-59ac-4de0-9a51-4ead3d4e1bf8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792629173,
+      "listened_at_utc": "2026-10-22T00:32:53Z",
+      "artist": "Michael Kiwanuka",
+      "track": "Falling",
+      "album": "Love & Hate",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11f570ff-44d9-4e9c-8812-e6d56103c5c1"
+        ],
+        "recording_mbid": "e4ab68cb-3a43-4a55-8e31-54f43b31a51d",
+        "release_mbid": "9450beeb-512c-4fd1-bab7-1d84982a8002",
+        "release_group_mbid": "c51bb243-59ac-4de0-9a51-4ead3d4e1bf8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792628913,
+      "listened_at_utc": "2026-10-22T00:28:33Z",
+      "artist": "Michael Kiwanuka",
+      "track": "Black Man In A White World",
+      "album": "Love & Hate",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11f570ff-44d9-4e9c-8812-e6d56103c5c1"
+        ],
+        "recording_mbid": "e3c9420c-abaf-457d-b1d6-8d9063254e11",
+        "release_mbid": "9450beeb-512c-4fd1-bab7-1d84982a8002",
+        "release_group_mbid": "c51bb243-59ac-4de0-9a51-4ead3d4e1bf8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792628316,
+      "listened_at_utc": "2026-10-22T00:18:36Z",
+      "artist": "Michael Kiwanuka",
+      "track": "Cold Little Heart",
+      "album": "Love & Hate",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11f570ff-44d9-4e9c-8812-e6d56103c5c1"
+        ],
+        "recording_mbid": "ab189369-0e04-4390-924e-5fe5c79278bc",
+        "release_mbid": "9450beeb-512c-4fd1-bab7-1d84982a8002",
+        "release_group_mbid": "c51bb243-59ac-4de0-9a51-4ead3d4e1bf8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792628120,
+      "listened_at_utc": "2026-10-22T00:15:20Z",
+      "artist": "Avishai Cohen Trio",
+      "track": "Seattle",
+      "album": "Gently Disturbed",
+      "musicbrainz": {
+        "artist_mbids": [
+          "05da8a7c-676d-4d8a-a514-e25ee526a98f"
+        ],
+        "recording_mbid": "5732b66a-1ffb-4a82-8f81-6bbf4562a773",
+        "release_mbid": "49fb9e66-158c-4e1e-915c-c9c7f3eb966b",
+        "release_group_mbid": "68001e0a-a670-4973-b77e-6e95df7eb9a7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792627730,
+      "listened_at_utc": "2026-10-22T00:08:50Z",
+      "artist": "The Weather Station",
+      "track": "Marsh",
+      "album": "How Is It That I Should Look At The Stars",
+      "musicbrainz": {
+        "artist_mbids": [
+          "eda7da10-0b65-41df-ac36-9c83b7017f7a"
+        ],
+        "recording_mbid": "01f7f783-ce22-4393-9682-24fbd711414a",
+        "release_mbid": "1265c533-20b9-4a59-9033-0afc187c816b",
+        "release_group_mbid": "6041cc8a-6e77-48be-8aef-93480d3fdd3d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792627526,
+      "listened_at_utc": "2026-10-22T00:05:26Z",
+      "artist": "Beth Gibbons",
+      "track": "Floating On A Moment",
+      "album": "Lives Outgrown",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5adcb9d9-5ea2-428d-af46-ef626966e106"
+        ],
+        "recording_mbid": "d3a3429a-9a29-4e96-88dc-821f0d2fd35c",
+        "release_mbid": "bfed01a0-4a39-4147-8f4f-2f7453d29552",
+        "release_group_mbid": "eaa72e4a-0e22-471f-bc92-97fd5d93d7d3"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792627290,
+      "listened_at_utc": "2026-10-22T00:01:30Z",
+      "artist": "Beth Gibbons",
+      "track": "Tell Me Who You Are Today",
+      "album": "Lives Outgrown",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5adcb9d9-5ea2-428d-af46-ef626966e106"
+        ],
+        "recording_mbid": "305615ec-4166-43fb-a35a-d4560c16f5fd",
+        "release_mbid": "bfed01a0-4a39-4147-8f4f-2f7453d29552",
+        "release_group_mbid": "eaa72e4a-0e22-471f-bc92-97fd5d93d7d3"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792620872,
+      "listened_at_utc": "2026-10-21T22:14:32Z",
+      "artist": "中村照夫",
+      "track": "Understanding",
+      "album": "Unicorn",
+      "musicbrainz": {
+        "artist_mbids": [
+          "05d7c76c-1762-40cf-8413-7cb492c21d38"
+        ],
+        "recording_mbid": "69afc18f-9aa9-492c-a124-7c670957dfba",
+        "release_mbid": "a5453f9f-1d33-407f-9bf7-5478bc893a60",
+        "release_group_mbid": "6b9653af-864c-4767-ad97-430ae0d7f054"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792620552,
+      "listened_at_utc": "2026-10-21T22:09:12Z",
+      "artist": "中村照夫",
+      "track": "Unicorn Lady",
+      "album": "Unicorn",
+      "musicbrainz": {
+        "artist_mbids": [
+          "05d7c76c-1762-40cf-8413-7cb492c21d38"
+        ],
+        "recording_mbid": "279f8f47-fadf-45d1-a141-30a2a4bb2ca8",
+        "release_mbid": "a5453f9f-1d33-407f-9bf7-5478bc893a60",
+        "release_group_mbid": "6b9653af-864c-4767-ad97-430ae0d7f054"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792614607,
+      "listened_at_utc": "2026-10-21T20:30:07Z",
+      "artist": "Emmet Cohen",
+      "track": "Symphonic Raps",
+      "album": "Future Stride",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5aa14aa3-a36a-4b2e-b4c3-3c85d6964a5c"
+        ],
+        "recording_mbid": "fa0ac01b-95a7-454c-bbdc-5a4317139fdb",
+        "release_mbid": "badcefa0-c10e-473c-be47-4e4f4be11041",
+        "release_group_mbid": "49f1661c-4ce3-4963-bb66-0b50ad0394a7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792614417,
+      "listened_at_utc": "2026-10-21T20:26:57Z",
+      "artist": "Deerhunter",
+      "track": "Leather Jacket II",
+      "album": "Monomania",
+      "musicbrainz": {
+        "artist_mbids": [
+          "4f416ed7-dda2-45de-a6f1-b986e861cf4b"
+        ],
+        "recording_mbid": "9360ce6b-45d8-4a8c-85a0-ab24c39054c4",
+        "release_mbid": "df0f66d1-aad5-4fe1-b758-3fd5aa5908b7",
+        "release_group_mbid": "ddee6c28-e113-4437-8dcf-bb412ec5c9d4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792614202,
+      "listened_at_utc": "2026-10-21T20:23:22Z",
+      "artist": "Squid",
+      "track": "Match Bet",
+      "album": "Town Centre",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5422ef5d-00d4-4c7a-81ab-03cb8fc3cc45"
+        ],
+        "recording_mbid": "0152d4c8-0fd8-4815-a9b8-f7442b17a21a",
+        "release_mbid": "2c9a9803-fed4-48b9-8454-20096ec4141e",
+        "release_group_mbid": "c35941a2-4d19-4bf4-83a7-9a6b1a32ec64"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792613944,
+      "listened_at_utc": "2026-10-21T20:19:04Z",
+      "artist": "Parquet Courts",
+      "track": "Tenderness",
+      "album": "Wide Awake!",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c"
+        ],
+        "recording_mbid": "83cf9c38-e524-4f10-ac90-4748db710e23",
+        "release_mbid": "bd05eb7b-9418-4bce-b3b8-02dcc1f7fef3",
+        "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792613758,
+      "listened_at_utc": "2026-10-21T20:15:58Z",
+      "artist": "Parquet Courts",
+      "track": "Death Will Bring Change",
+      "album": "Wide Awake!",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c"
+        ],
+        "recording_mbid": "de994c04-2d4f-40ed-9444-d0ac648083ec",
+        "release_mbid": "bd05eb7b-9418-4bce-b3b8-02dcc1f7fef3",
+        "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792613595,
+      "listened_at_utc": "2026-10-21T20:13:15Z",
+      "artist": "Parquet Courts",
+      "track": "Extinction",
+      "album": "Wide Awake!",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c"
+        ],
+        "recording_mbid": "f258e08e-5ed2-4868-90ee-7ad7b56fe14d",
+        "release_mbid": "bd05eb7b-9418-4bce-b3b8-02dcc1f7fef3",
+        "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792613493,
+      "listened_at_utc": "2026-10-21T20:11:33Z",
+      "artist": "Parquet Courts",
+      "track": "NYC Observation",
+      "album": "Wide Awake!",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c"
+        ],
+        "recording_mbid": "43ed22f1-3ef7-4242-b82c-9745923e446c",
+        "release_mbid": "bd05eb7b-9418-4bce-b3b8-02dcc1f7fef3",
+        "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792613411,
+      "listened_at_utc": "2026-10-21T20:10:11Z",
+      "artist": "Parquet Courts",
+      "track": "Wide Awake",
+      "album": "Wide Awake!",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c"
+        ],
+        "recording_mbid": "8fdb8302-6fec-449e-84f9-f193a608a5c6",
+        "release_mbid": "bd05eb7b-9418-4bce-b3b8-02dcc1f7fef3",
+        "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792613252,
+      "listened_at_utc": "2026-10-21T20:07:32Z",
+      "artist": "Parquet Courts",
+      "track": "Back to Earth",
+      "album": "Wide Awake!",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c"
+        ],
+        "recording_mbid": "f69cad2b-c71a-4c8c-afe2-3b48f26bac66",
+        "release_mbid": "bd05eb7b-9418-4bce-b3b8-02dcc1f7fef3",
+        "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792613018,
+      "listened_at_utc": "2026-10-21T20:03:38Z",
+      "artist": "Parquet Courts",
+      "track": "Normalisation",
+      "album": "Wide Awake!",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c"
+        ],
+        "recording_mbid": "7a631dfd-6006-43fe-affe-831312cae89d",
+        "release_mbid": "bd05eb7b-9418-4bce-b3b8-02dcc1f7fef3",
+        "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792612886,
+      "listened_at_utc": "2026-10-21T20:01:26Z",
+      "artist": "Parquet Courts",
+      "track": "Freebird II",
+      "album": "Wide Awake!",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c"
+        ],
+        "recording_mbid": "9c90ef58-52b8-4398-96fa-d32fc938fe79",
+        "release_mbid": "bd05eb7b-9418-4bce-b3b8-02dcc1f7fef3",
+        "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792612711,
+      "listened_at_utc": "2026-10-21T19:58:31Z",
+      "artist": "Parquet Courts",
+      "track": "Almost Had to Start a Fight/In and Out of Patience",
+      "album": "Wide Awake!",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c"
+        ],
+        "recording_mbid": "2d1d1659-ebd4-45d4-90cd-41a47f7ad9a4",
+        "release_mbid": "bd05eb7b-9418-4bce-b3b8-02dcc1f7fef3",
+        "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792612517,
+      "listened_at_utc": "2026-10-21T19:55:17Z",
+      "artist": "Parquet Courts",
+      "track": "Mardi Gras Beads",
+      "album": "Wide Awake!",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c"
+        ],
+        "recording_mbid": "dd23a6bb-dfa5-43cd-b784-2a81cd976e6f",
+        "release_mbid": "bd05eb7b-9418-4bce-b3b8-02dcc1f7fef3",
+        "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792612353,
+      "listened_at_utc": "2026-10-21T19:52:33Z",
+      "artist": "Parquet Courts",
+      "track": "Before the Water Gets Too High",
+      "album": "Wide Awake!",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c"
+        ],
+        "recording_mbid": "06ddd7df-4f2e-493b-8b2a-cedc493578a2",
+        "release_mbid": "bd05eb7b-9418-4bce-b3b8-02dcc1f7fef3",
+        "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792612108,
+      "listened_at_utc": "2026-10-21T19:48:28Z",
+      "artist": "Parquet Courts",
+      "track": "Violence",
+      "album": "Wide Awake!",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c"
+        ],
+        "recording_mbid": "9c1bd19f-77d0-472f-9407-9b6bb932b1da",
+        "release_mbid": "bd05eb7b-9418-4bce-b3b8-02dcc1f7fef3",
+        "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792611862,
+      "listened_at_utc": "2026-10-21T19:44:22Z",
+      "artist": "Parquet Courts",
+      "track": "Total Football",
+      "album": "Wide Awake!",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c"
+        ],
+        "recording_mbid": "3d702872-db88-4570-bd4f-4b8d1c991b9b",
+        "release_mbid": "bd05eb7b-9418-4bce-b3b8-02dcc1f7fef3",
+        "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
       "listened_at": 1792591360,
       "listened_at_utc": "2026-10-21T14:02:40Z",
       "artist": "Arctic Monkeys",
@@ -4554,7 +5536,8 @@
         "release_group_mbid": "6c9c4985-3628-3070-b956-b538f30c9bea"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4572,7 +5555,8 @@
         "release_group_mbid": "6c9c4985-3628-3070-b956-b538f30c9bea"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4590,7 +5574,8 @@
         "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4608,7 +5593,8 @@
         "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4626,7 +5612,8 @@
         "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4644,7 +5631,8 @@
         "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4662,7 +5650,8 @@
         "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4680,7 +5669,8 @@
         "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4698,7 +5688,8 @@
         "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4716,7 +5707,8 @@
         "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4734,7 +5726,8 @@
         "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4752,7 +5745,8 @@
         "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4770,7 +5764,8 @@
         "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4788,7 +5783,8 @@
         "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4806,7 +5802,8 @@
         "release_group_mbid": "053742a1-ac6a-4a0d-ad40-d1d3b904d5c9"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
