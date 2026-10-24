@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-23T14:17:53Z",
+  "generated_at_utc": "2026-10-24T13:23:48Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-25T14:17:53Z",
-    "through_utc": "2026-10-23T14:17:53Z",
+    "from_utc": "2026-07-26T13:23:48Z",
+    "through_utc": "2026-10-24T13:23:48Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
-    "raw_listen_count": 2042,
-    "deduplicated_listen_count": 1333,
-    "duplicates_removed": 709,
+    "raw_listen_count": 2094,
+    "deduplicated_listen_count": 1359,
+    "duplicates_removed": 735,
     "oldest_listen_utc": "2026-07-26T15:30:18Z",
-    "newest_listen_utc": "2026-10-23T13:23:41Z"
+    "newest_listen_utc": "2026-10-24T12:28:18Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,9 +28,9 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 238,
-      "unique_artists": 44,
-      "unique_albums": 50,
+      "listen_count": 261,
+      "unique_artists": 45,
+      "unique_albums": 52,
       "listens_without_album": 0,
       "artists": [
         {
@@ -40,6 +40,14 @@
         {
           "artist": "טונה",
           "listen_count": 21
+        },
+        {
+          "artist": "Djo",
+          "listen_count": 19
+        },
+        {
+          "artist": "Norah Jones",
+          "listen_count": 13
         },
         {
           "artist": "Roy Hargrove Quintet",
@@ -94,20 +102,12 @@
           "listen_count": 6
         },
         {
-          "artist": "Norah Jones",
-          "listen_count": 6
-        },
-        {
           "artist": "Avishai Cohen",
           "listen_count": 5
         },
         {
           "artist": "ג'יגה ג'וס",
           "listen_count": 5
-        },
-        {
-          "artist": "Djo",
-          "listen_count": 4
         },
         {
           "artist": "Liraz",
@@ -142,7 +142,7 @@
           "listen_count": 2
         },
         {
-          "artist": "Haruomi Hosono",
+          "artist": "Mulatu Astatke",
           "listen_count": 2
         },
         {
@@ -182,6 +182,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Haruomi Hosono",
+          "listen_count": 1
+        },
+        {
           "artist": "Hugh Masekela",
           "listen_count": 1
         },
@@ -194,15 +198,15 @@
           "listen_count": 1
         },
         {
+          "artist": "Stephanie Stephanou",
+          "listen_count": 1
+        },
+        {
           "artist": "The Jimi Hendrix Experience",
           "listen_count": 1
         },
         {
           "artist": "The Weather Station",
-          "listen_count": 1
-        },
-        {
-          "artist": "Wolf Alice",
           "listen_count": 1
         },
         {
@@ -219,11 +223,25 @@
           "last_listened_at_utc": "2026-10-23T13:23:41Z"
         },
         {
+          "artist": "Djo",
+          "album": "The Crux Deluxe",
+          "listen_count": 16,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-23T23:18:40Z"
+        },
+        {
           "artist": "טונה",
           "album": "מזרח פרוע",
           "listen_count": 15,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-19T16:59:41Z"
+        },
+        {
+          "artist": "Norah Jones",
+          "album": "Come Away with Me",
+          "listen_count": 13,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-23T15:02:02Z"
         },
         {
           "artist": "Roy Hargrove Quintet",
@@ -310,13 +328,6 @@
           "last_listened_at_utc": "2026-10-18T19:34:51Z"
         },
         {
-          "artist": "Norah Jones",
-          "album": "Come Away with Me",
-          "listen_count": 6,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-22T23:40:06Z"
-        },
-        {
           "artist": "Avishai Cohen",
           "album": "Shifting Sands",
           "listen_count": 5,
@@ -359,13 +370,6 @@
           "last_listened_at_utc": "2026-10-19T23:32:45Z"
         },
         {
-          "artist": "Djo",
-          "album": "The Crux Deluxe",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-22T23:31:01Z"
-        },
-        {
           "artist": "Liraz",
           "album": "Roya",
           "listen_count": 4,
@@ -401,6 +405,13 @@
           "last_listened_at_utc": "2026-10-18T19:11:05Z"
         },
         {
+          "artist": "Djo",
+          "album": "DECIDE",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-23T19:47:47Z"
+        },
+        {
           "artist": "Anouar Brahem",
           "album": "The Astounding Eyes Of Rita",
           "listen_count": 2,
@@ -429,11 +440,11 @@
           "last_listened_at_utc": "2026-10-19T23:13:40Z"
         },
         {
-          "artist": "Haruomi Hosono",
-          "album": "Yours Sincerely",
+          "artist": "Mulatu Astatke",
+          "album": "Ethiopiques, Vol. 4 : Ethio Jazz & Musique Instrumentale (1969-1974)",
           "listen_count": 2,
           "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-17T19:26:59Z"
+          "last_listened_at_utc": "2026-10-23T21:47:59Z"
         },
         {
           "artist": "Young Fathers",
@@ -506,6 +517,13 @@
           "last_listened_at_utc": "2026-10-22T17:52:43Z"
         },
         {
+          "artist": "Haruomi Hosono",
+          "album": "Yours Sincerely",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-17T19:26:59Z"
+        },
+        {
           "artist": "Hugh Masekela",
           "album": "Hope",
           "listen_count": 1,
@@ -527,6 +545,13 @@
           "last_listened_at_utc": "2026-10-21T20:23:22Z"
         },
         {
+          "artist": "Stephanie Stephanou",
+          "album": "Beirut City Pop (Habibi Funk 035)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-24T12:28:18Z"
+        },
+        {
           "artist": "The Jimi Hendrix Experience",
           "album": "Axis: Bold As Love",
           "listen_count": 1,
@@ -539,13 +564,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-22T00:08:50Z"
-        },
-        {
-          "artist": "Wolf Alice",
-          "album": "Blue Weekend",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-16T19:13:02Z"
         },
         {
           "artist": "טונה",
@@ -564,9 +582,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 765,
-      "unique_artists": 139,
-      "unique_albums": 157,
+      "listen_count": 791,
+      "unique_artists": 141,
+      "unique_albums": 160,
       "listens_without_album": 0,
       "artists": [
         {
@@ -602,12 +620,20 @@
           "listen_count": 21
         },
         {
+          "artist": "Djo",
+          "listen_count": 19
+        },
+        {
           "artist": "Fontaines D.C.",
           "listen_count": 19
         },
         {
           "artist": "Sonny Rollins",
           "listen_count": 19
+        },
+        {
+          "artist": "Norah Jones",
+          "listen_count": 15
         },
         {
           "artist": "青葉市子",
@@ -710,10 +736,6 @@
           "listen_count": 7
         },
         {
-          "artist": "Norah Jones",
-          "listen_count": 7
-        },
-        {
           "artist": "Nujabes",
           "listen_count": 7
         },
@@ -775,10 +797,6 @@
         },
         {
           "artist": "Cornelius",
-          "listen_count": 4
-        },
-        {
-          "artist": "Djo",
           "listen_count": 4
         },
         {
@@ -895,6 +913,10 @@
         },
         {
           "artist": "Kiasmos",
+          "listen_count": 2
+        },
+        {
+          "artist": "Mulatu Astatke",
           "listen_count": 2
         },
         {
@@ -1062,6 +1084,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Stephanie Stephanou",
+          "listen_count": 1
+        },
+        {
           "artist": "TOWA TEI",
           "listen_count": 1
         },
@@ -1170,11 +1196,25 @@
           "last_listened_at_utc": "2026-10-19T16:59:41Z"
         },
         {
+          "artist": "Djo",
+          "album": "The Crux Deluxe",
+          "listen_count": 16,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-23T23:18:40Z"
+        },
+        {
           "artist": "טונה",
           "album": "ראפ מטורף",
           "listen_count": 16,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-10-22T20:49:22Z"
+        },
+        {
+          "artist": "Norah Jones",
+          "album": "Come Away with Me",
+          "listen_count": 15,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-23T15:02:02Z"
         },
         {
           "artist": "青葉市子",
@@ -1387,13 +1427,6 @@
           "last_listened_at_utc": "2026-10-10T17:09:44Z"
         },
         {
-          "artist": "Norah Jones",
-          "album": "Come Away with Me",
-          "listen_count": 7,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-22T23:40:06Z"
-        },
-        {
           "artist": "Nujabes",
           "album": "Modal Soul",
           "listen_count": 7,
@@ -1520,13 +1553,6 @@
           "last_listened_at_utc": "2026-10-19T23:32:45Z"
         },
         {
-          "artist": "Djo",
-          "album": "The Crux Deluxe",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-22T23:31:01Z"
-        },
-        {
           "artist": "Liraz",
           "album": "Roya",
           "listen_count": 4,
@@ -1602,6 +1628,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-20T21:55:07Z"
+        },
+        {
+          "artist": "Djo",
+          "album": "DECIDE",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-23T19:47:47Z"
         },
         {
           "artist": "Emily A. Sprague",
@@ -1742,6 +1775,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-13T23:12:36Z"
+        },
+        {
+          "artist": "Mulatu Astatke",
+          "album": "Ethiopiques, Vol. 4 : Ethio Jazz & Musique Instrumentale (1969-1974)",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-23T21:47:59Z"
         },
         {
           "artist": "Pearl & The Oysters",
@@ -2080,6 +2120,13 @@
           "last_listened_at_utc": "2026-10-15T18:08:29Z"
         },
         {
+          "artist": "Stephanie Stephanou",
+          "album": "Beirut City Pop (Habibi Funk 035)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-24T12:28:18Z"
+        },
+        {
           "artist": "TOWA TEI",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -2229,9 +2276,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1333,
-      "unique_artists": 207,
-      "unique_albums": 264,
+      "listen_count": 1359,
+      "unique_artists": 209,
+      "unique_albums": 267,
       "listens_without_album": 0,
       "artists": [
         {
@@ -2287,6 +2334,10 @@
           "listen_count": 25
         },
         {
+          "artist": "Djo",
+          "listen_count": 19
+        },
+        {
           "artist": "Fontaines D.C.",
           "listen_count": 19
         },
@@ -2304,6 +2355,10 @@
         },
         {
           "artist": "John Coltrane Quartet",
+          "listen_count": 16
+        },
+        {
+          "artist": "Norah Jones",
           "listen_count": 16
         },
         {
@@ -2407,10 +2462,6 @@
           "listen_count": 8
         },
         {
-          "artist": "Norah Jones",
-          "listen_count": 8
-        },
-        {
           "artist": "Songs: Ohia",
           "listen_count": 8
         },
@@ -2496,10 +2547,6 @@
         },
         {
           "artist": "Cornelius",
-          "listen_count": 4
-        },
-        {
-          "artist": "Djo",
           "listen_count": 4
         },
         {
@@ -2648,6 +2695,10 @@
         },
         {
           "artist": "Kiasmos",
+          "listen_count": 2
+        },
+        {
+          "artist": "Mulatu Astatke",
           "listen_count": 2
         },
         {
@@ -2947,6 +2998,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Stephanie Stephanou",
+          "listen_count": 1
+        },
+        {
           "artist": "Sting",
           "listen_count": 1
         },
@@ -3191,11 +3246,25 @@
           "last_listened_at_utc": "2026-10-20T21:55:07Z"
         },
         {
+          "artist": "Djo",
+          "album": "The Crux Deluxe",
+          "listen_count": 16,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-23T23:18:40Z"
+        },
+        {
           "artist": "John Coltrane Quartet",
           "album": "Ballads",
           "listen_count": 16,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-11T12:27:39Z"
+        },
+        {
+          "artist": "Norah Jones",
+          "album": "Come Away with Me",
+          "listen_count": 16,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-23T15:02:02Z"
         },
         {
           "artist": "Sonny Rollins",
@@ -3443,13 +3512,6 @@
           "last_listened_at_utc": "2026-10-19T13:50:18Z"
         },
         {
-          "artist": "Norah Jones",
-          "album": "Come Away with Me",
-          "listen_count": 8,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-22T23:40:06Z"
-        },
-        {
           "artist": "Songs: Ohia",
           "album": "The Magnolia Electric Co.",
           "listen_count": 8,
@@ -3625,13 +3687,6 @@
           "last_listened_at_utc": "2026-09-29T20:16:34Z"
         },
         {
-          "artist": "Djo",
-          "album": "The Crux Deluxe",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-22T23:31:01Z"
-        },
-        {
           "artist": "Julian Lage",
           "album": "Speak To Me",
           "listen_count": 4,
@@ -3714,6 +3769,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-09-18T12:47:15Z"
+        },
+        {
+          "artist": "Djo",
+          "album": "DECIDE",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-23T19:47:47Z"
         },
         {
           "artist": "Emily A. Sprague",
@@ -3917,6 +3979,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-13T23:12:36Z"
+        },
+        {
+          "artist": "Mulatu Astatke",
+          "album": "Ethiopiques, Vol. 4 : Ethio Jazz & Musique Instrumentale (1969-1974)",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-23T21:47:59Z"
         },
         {
           "artist": "Oscar Peterson meets Roy Hargrove and Ralph Moore with Niels‐Henning Ørsted Pedersen and Lewis Nash",
@@ -4640,6 +4709,13 @@
           "last_listened_at_utc": "2026-10-15T18:08:29Z"
         },
         {
+          "artist": "Stephanie Stephanou",
+          "album": "Beirut City Pop (Habibi Funk 035)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-24T12:28:18Z"
+        },
+        {
           "artist": "Sting",
           "album": "The Dream Of The Blue Turtles",
           "listen_count": 1,
@@ -4916,6 +4992,499 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1792844898,
+      "listened_at_utc": "2026-10-24T12:28:18Z",
+      "artist": "Stephanie Stephanou",
+      "track": "You Turn Me On",
+      "album": "Beirut City Pop (Habibi Funk 035)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "01a55b87-0914-484f-b5da-527aa7caa2a8"
+        ],
+        "recording_mbid": "36446636-4a37-4005-9869-9c475e24bf19",
+        "release_mbid": "90fa507d-c42d-4766-9245-41213e310297"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792797520,
+      "listened_at_utc": "2026-10-23T23:18:40Z",
+      "artist": "Djo",
+      "track": "Awake",
+      "album": "The Crux Deluxe",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d"
+        ],
+        "recording_mbid": "08967134-5d1e-4dcc-8d40-7349cbc10005",
+        "release_mbid": "90879c1a-1bfc-4a0c-9772-bd14d8ea5919",
+        "release_group_mbid": "e9e68b97-c02e-4ed1-ac94-4f9369e563ff"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792797301,
+      "listened_at_utc": "2026-10-23T23:15:01Z",
+      "artist": "Djo",
+      "track": "Thich Nhat Hanh",
+      "album": "The Crux Deluxe",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d"
+        ],
+        "recording_mbid": "81df1228-1ff9-4679-8f5a-a4c610444a05",
+        "release_mbid": "90879c1a-1bfc-4a0c-9772-bd14d8ea5919",
+        "release_group_mbid": "e9e68b97-c02e-4ed1-ac94-4f9369e563ff"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792797125,
+      "listened_at_utc": "2026-10-23T23:12:05Z",
+      "artist": "Djo",
+      "track": "They Don't Know What's Right",
+      "album": "The Crux Deluxe",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d"
+        ],
+        "recording_mbid": "feb9fade-50c8-4a8b-9bfe-ea9aa7188ec4",
+        "release_mbid": "90879c1a-1bfc-4a0c-9772-bd14d8ea5919",
+        "release_group_mbid": "e9e68b97-c02e-4ed1-ac94-4f9369e563ff"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792796957,
+      "listened_at_utc": "2026-10-23T23:09:17Z",
+      "artist": "Djo",
+      "track": "Try Me",
+      "album": "The Crux Deluxe",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d"
+        ],
+        "recording_mbid": "2d16207c-ab67-4b54-9291-cc0c853a0d65",
+        "release_mbid": "90879c1a-1bfc-4a0c-9772-bd14d8ea5919",
+        "release_group_mbid": "e9e68b97-c02e-4ed1-ac94-4f9369e563ff"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792796742,
+      "listened_at_utc": "2026-10-23T23:05:42Z",
+      "artist": "Djo",
+      "track": "Grime Of The World",
+      "album": "The Crux Deluxe",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d"
+        ],
+        "recording_mbid": "ba44ef2b-a615-41c1-98ff-e41e61298cb5",
+        "release_mbid": "90879c1a-1bfc-4a0c-9772-bd14d8ea5919",
+        "release_group_mbid": "e9e68b97-c02e-4ed1-ac94-4f9369e563ff"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792796513,
+      "listened_at_utc": "2026-10-23T23:01:53Z",
+      "artist": "Djo",
+      "track": "Who You Are",
+      "album": "The Crux Deluxe",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d"
+        ],
+        "recording_mbid": "0a72718d-3778-4be5-953a-d12dbf34b5bc",
+        "release_mbid": "90879c1a-1bfc-4a0c-9772-bd14d8ea5919",
+        "release_group_mbid": "e9e68b97-c02e-4ed1-ac94-4f9369e563ff"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792796264,
+      "listened_at_utc": "2026-10-23T22:57:44Z",
+      "artist": "Djo",
+      "track": "Purgatory Silverstar",
+      "album": "The Crux Deluxe",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d"
+        ],
+        "recording_mbid": "3b11afdb-05bf-4c8e-a680-a88bcb68680c",
+        "release_mbid": "90879c1a-1bfc-4a0c-9772-bd14d8ea5919",
+        "release_group_mbid": "e9e68b97-c02e-4ed1-ac94-4f9369e563ff"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792796058,
+      "listened_at_utc": "2026-10-23T22:54:18Z",
+      "artist": "Djo",
+      "track": "It's Over",
+      "album": "The Crux Deluxe",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d"
+        ],
+        "recording_mbid": "c3350493-c20c-4f29-be1b-a934a132c957",
+        "release_mbid": "90879c1a-1bfc-4a0c-9772-bd14d8ea5919",
+        "release_group_mbid": "e9e68b97-c02e-4ed1-ac94-4f9369e563ff"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792795911,
+      "listened_at_utc": "2026-10-23T22:51:51Z",
+      "artist": "Djo",
+      "track": "Carry The Name",
+      "album": "The Crux Deluxe",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d"
+        ],
+        "recording_mbid": "b8cb6d3c-c73f-4278-91b8-a4cb6b8b6809",
+        "release_mbid": "6f0cd484-ea06-4b2e-89e1-b5eb4812e46f",
+        "release_group_mbid": "e9e68b97-c02e-4ed1-ac94-4f9369e563ff"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792795599,
+      "listened_at_utc": "2026-10-23T22:46:39Z",
+      "artist": "Djo",
+      "track": "Mr. Mountebank",
+      "album": "The Crux Deluxe",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d"
+        ],
+        "recording_mbid": "435ff771-8aa2-4088-9fb3-28136f166119",
+        "release_mbid": "90879c1a-1bfc-4a0c-9772-bd14d8ea5919",
+        "release_group_mbid": "e9e68b97-c02e-4ed1-ac94-4f9369e563ff"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792795309,
+      "listened_at_utc": "2026-10-23T22:41:49Z",
+      "artist": "Djo",
+      "track": "Love Can't Break The Spell",
+      "album": "The Crux Deluxe",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d"
+        ],
+        "recording_mbid": "00519cce-6ab6-4ade-8bb3-c2375a6c5902",
+        "release_mbid": "90879c1a-1bfc-4a0c-9772-bd14d8ea5919",
+        "release_group_mbid": "e9e68b97-c02e-4ed1-ac94-4f9369e563ff"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792795118,
+      "listened_at_utc": "2026-10-23T22:38:38Z",
+      "artist": "Djo",
+      "track": "T. Rex Is Loud",
+      "album": "The Crux Deluxe",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d"
+        ],
+        "recording_mbid": "5ae1c7fc-d91b-4762-9e6b-c7d4d7af5937",
+        "release_mbid": "90879c1a-1bfc-4a0c-9772-bd14d8ea5919",
+        "release_group_mbid": "e9e68b97-c02e-4ed1-ac94-4f9369e563ff"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792792079,
+      "listened_at_utc": "2026-10-23T21:47:59Z",
+      "artist": "Mulatu Astatke",
+      "track": "Mètché Dershé (When Am I Going to Reach There?)",
+      "album": "Ethiopiques, Vol. 4 : Ethio Jazz & Musique Instrumentale (1969-1974)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67f0c7ca-14e8-47a3-be0e-bd2f2ffe25bb"
+        ],
+        "release_mbid": "aba08d8c-9098-4d62-9a0d-7715968d5205",
+        "recording_mbid": "fa5575af-be0c-4108-a392-6923bf56222d",
+        "release_group_mbid": "48552bdf-5920-4780-a765-31a8a5f3e569"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792791823,
+      "listened_at_utc": "2026-10-23T21:43:43Z",
+      "artist": "Mulatu Astatke",
+      "track": "Yèkèrmo Sèw (A Man of Experience and Wisdom)",
+      "album": "Ethiopiques, Vol. 4 : Ethio Jazz & Musique Instrumentale (1969-1974)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67f0c7ca-14e8-47a3-be0e-bd2f2ffe25bb"
+        ],
+        "recording_mbid": "5e769d17-20b4-4868-a417-b7a2ac1fa684",
+        "release_mbid": "fd9f4a10-01df-4657-994a-ee177e3d54ed",
+        "release_group_mbid": "3c2e2c55-e3ff-4f40-9146-0ae02a2ce836"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792784867,
+      "listened_at_utc": "2026-10-23T19:47:47Z",
+      "artist": "Djo",
+      "track": "Half Life",
+      "album": "DECIDE",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d"
+        ],
+        "recording_mbid": "1f71e993-f3b0-458b-b5cd-0153269a8ec3",
+        "release_mbid": "14fb2b78-9625-44b1-9f42-861950e088b6",
+        "release_group_mbid": "de1ae079-0167-4ea4-96c9-a7a109ba1a56"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792784742,
+      "listened_at_utc": "2026-10-23T19:45:42Z",
+      "artist": "Djo",
+      "track": "Gloom",
+      "album": "DECIDE",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d"
+        ],
+        "recording_mbid": "4c8390bf-31c3-4b12-a5f6-8c445763ffeb",
+        "release_mbid": "14fb2b78-9625-44b1-9f42-861950e088b6",
+        "release_group_mbid": "de1ae079-0167-4ea4-96c9-a7a109ba1a56"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792784483,
+      "listened_at_utc": "2026-10-23T19:41:23Z",
+      "artist": "Djo",
+      "track": "Runner",
+      "album": "DECIDE",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d"
+        ],
+        "recording_mbid": "ca9c7d9a-a5a2-4801-a9a9-f595d15efcbe",
+        "release_mbid": "14fb2b78-9625-44b1-9f42-861950e088b6",
+        "release_group_mbid": "de1ae079-0167-4ea4-96c9-a7a109ba1a56"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792767722,
+      "listened_at_utc": "2026-10-23T15:02:02Z",
+      "artist": "Norah Jones",
+      "track": "Lonestar (192kHz/24bit)",
+      "album": "Come Away with Me",
+      "musicbrainz": {
+        "artist_mbids": [
+          "985c709c-7771-4de3-9024-7bda29ebe3f9"
+        ],
+        "release_mbid": "a0a8beba-5b3c-37fe-bb01-50527bf72991",
+        "recording_mbid": "1dde4d14-3ba9-4ca9-9aec-fb95ef743c20",
+        "release_group_mbid": "6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792767562,
+      "listened_at_utc": "2026-10-23T14:59:22Z",
+      "artist": "Norah Jones",
+      "track": "Turn Me On (192kHz/24bit)",
+      "album": "Come Away with Me",
+      "musicbrainz": {
+        "artist_mbids": [
+          "985c709c-7771-4de3-9024-7bda29ebe3f9"
+        ],
+        "release_mbid": "a0a8beba-5b3c-37fe-bb01-50527bf72991",
+        "recording_mbid": "147ad117-4415-4e22-8da3-97dec1a14b19",
+        "release_group_mbid": "6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792767325,
+      "listened_at_utc": "2026-10-23T14:55:25Z",
+      "artist": "Norah Jones",
+      "track": "Shoot The Moon (192kHz/24bit)",
+      "album": "Come Away with Me",
+      "musicbrainz": {
+        "artist_mbids": [
+          "985c709c-7771-4de3-9024-7bda29ebe3f9"
+        ],
+        "release_mbid": "a0a8beba-5b3c-37fe-bb01-50527bf72991",
+        "recording_mbid": "3eeb9a69-7a1b-4256-b207-ba0a53f4b55c",
+        "release_group_mbid": "6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792767126,
+      "listened_at_utc": "2026-10-23T14:52:06Z",
+      "artist": "Norah Jones",
+      "track": "Come Away With Me (192kHz/24bit)",
+      "album": "Come Away with Me",
+      "musicbrainz": {
+        "artist_mbids": [
+          "985c709c-7771-4de3-9024-7bda29ebe3f9"
+        ],
+        "release_mbid": "a0a8beba-5b3c-37fe-bb01-50527bf72991",
+        "recording_mbid": "a38c28ee-4430-4429-b3e7-e7920895b2d2",
+        "release_group_mbid": "6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792766949,
+      "listened_at_utc": "2026-10-23T14:49:09Z",
+      "artist": "Norah Jones",
+      "track": "Feelin' The Same Way (192kHz/24bit)",
+      "album": "Come Away with Me",
+      "musicbrainz": {
+        "artist_mbids": [
+          "985c709c-7771-4de3-9024-7bda29ebe3f9"
+        ],
+        "release_mbid": "a0a8beba-5b3c-37fe-bb01-50527bf72991",
+        "recording_mbid": "f83a83aa-698e-4b07-a491-4fc62ac259eb",
+        "release_group_mbid": "6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792766730,
+      "listened_at_utc": "2026-10-23T14:45:30Z",
+      "artist": "Norah Jones",
+      "track": "Cold, Cold Heart",
+      "album": "Come Away with Me",
+      "musicbrainz": {
+        "artist_mbids": [
+          "985c709c-7771-4de3-9024-7bda29ebe3f9"
+        ],
+        "recording_mbid": "8f9329ce-fddd-43a3-ba3a-a97b84b83529",
+        "release_mbid": "919328e3-0e7d-464a-8586-e2f5466b65b4",
+        "release_group_mbid": "6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792766585,
+      "listened_at_utc": "2026-10-23T14:43:05Z",
+      "artist": "Norah Jones",
+      "track": "Seven Years (192kHz/24bit)",
+      "album": "Come Away with Me",
+      "musicbrainz": {
+        "artist_mbids": [
+          "985c709c-7771-4de3-9024-7bda29ebe3f9"
+        ],
+        "release_mbid": "a0a8beba-5b3c-37fe-bb01-50527bf72991",
+        "recording_mbid": "a17cd653-af0a-4399-9192-57cf780ba79a",
+        "release_group_mbid": "6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792766398,
+      "listened_at_utc": "2026-10-23T14:39:58Z",
+      "artist": "Norah Jones",
+      "track": "Don't Know Why (192kHz/24bit)",
+      "album": "Come Away with Me",
+      "musicbrainz": {
+        "artist_mbids": [
+          "985c709c-7771-4de3-9024-7bda29ebe3f9"
+        ],
+        "release_mbid": "a0a8beba-5b3c-37fe-bb01-50527bf72991",
+        "recording_mbid": "727ab502-2691-4fbd-b9da-17e898844eff",
+        "release_group_mbid": "6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1792761821,
       "listened_at_utc": "2026-10-23T13:23:41Z",
