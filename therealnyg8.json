@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-25T13:45:46Z",
+  "generated_at_utc": "2026-10-26T16:12:06Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-27T13:45:46Z",
-    "through_utc": "2026-10-25T13:45:46Z",
+    "from_utc": "2026-07-28T16:12:06Z",
+    "through_utc": "2026-10-26T16:12:06Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
-    "raw_listen_count": 2147,
-    "deduplicated_listen_count": 1345,
-    "duplicates_removed": 802,
+    "raw_listen_count": 2193,
+    "deduplicated_listen_count": 1367,
+    "duplicates_removed": 826,
     "oldest_listen_utc": "2026-07-28T18:58:13Z",
-    "newest_listen_utc": "2026-10-25T13:04:39Z"
+    "newest_listen_utc": "2026-10-26T15:50:33Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,18 +28,14 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 315,
-      "unique_artists": 56,
-      "unique_albums": 64,
+      "listen_count": 290,
+      "unique_artists": 54,
+      "unique_albums": 60,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "Parquet Courts",
           "listen_count": 38
-        },
-        {
-          "artist": "טונה",
-          "listen_count": 21
         },
         {
           "artist": "Djo",
@@ -62,11 +58,7 @@
           "listen_count": 13
         },
         {
-          "artist": "Admas",
-          "listen_count": 12
-        },
-        {
-          "artist": "Fontaines D.C.",
+          "artist": "The Roots",
           "listen_count": 12
         },
         {
@@ -74,12 +66,12 @@
           "listen_count": 12
         },
         {
-          "artist": "Bob Dylan",
+          "artist": "Norah Jones",
           "listen_count": 11
         },
         {
-          "artist": "Norah Jones",
-          "listen_count": 11
+          "artist": "Bob Dylan",
+          "listen_count": 10
         },
         {
           "artist": "Songhoy Blues",
@@ -90,11 +82,15 @@
           "listen_count": 8
         },
         {
-          "artist": "JID",
+          "artist": "Cymande",
           "listen_count": 8
         },
         {
           "artist": "English Teacher",
+          "listen_count": 7
+        },
+        {
+          "artist": "טונה",
           "listen_count": 7
         },
         {
@@ -110,16 +106,20 @@
           "listen_count": 6
         },
         {
-          "artist": "Avishai Cohen",
-          "listen_count": 5
+          "artist": "Fontaines D.C.",
+          "listen_count": 6
         },
         {
-          "artist": "Tsuyoshi Yamamoto Trio",
+          "artist": "Avishai Cohen",
           "listen_count": 5
         },
         {
           "artist": "ג'יגה ג'וס",
           "listen_count": 5
+        },
+        {
+          "artist": "Admas",
+          "listen_count": 4
         },
         {
           "artist": "Liraz",
@@ -147,10 +147,6 @@
         },
         {
           "artist": "Beth Gibbons",
-          "listen_count": 2
-        },
-        {
-          "artist": "Cameron Winter",
           "listen_count": 2
         },
         {
@@ -194,6 +190,14 @@
           "listen_count": 1
         },
         {
+          "artist": "Cameron Winter",
+          "listen_count": 1
+        },
+        {
+          "artist": "Cartoons",
+          "listen_count": 1
+        },
+        {
           "artist": "Charles Earland",
           "listen_count": 1
         },
@@ -202,15 +206,7 @@
           "listen_count": 1
         },
         {
-          "artist": "Fatoumata Diawara",
-          "listen_count": 1
-        },
-        {
           "artist": "Greg Abate",
-          "listen_count": 1
-        },
-        {
-          "artist": "Hugh Masekela",
           "listen_count": 1
         },
         {
@@ -219,10 +215,6 @@
         },
         {
           "artist": "Julian Lage",
-          "listen_count": 1
-        },
-        {
-          "artist": "Miles Davis",
           "listen_count": 1
         },
         {
@@ -246,15 +238,15 @@
           "listen_count": 1
         },
         {
-          "artist": "The Jimi Hendrix Experience",
-          "listen_count": 1
-        },
-        {
           "artist": "The National",
           "listen_count": 1
         },
         {
           "artist": "The Weather Station",
+          "listen_count": 1
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
           "listen_count": 1
         }
       ],
@@ -272,13 +264,6 @@
           "listen_count": 16,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-10-23T23:18:40Z"
-        },
-        {
-          "artist": "טונה",
-          "album": "מזרח פרוע",
-          "listen_count": 15,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-19T16:59:41Z"
         },
         {
           "artist": "Cortex",
@@ -302,11 +287,11 @@
           "last_listened_at_utc": "2026-10-22T17:49:41Z"
         },
         {
-          "artist": "Admas",
-          "album": "Sons of Ethiopia",
+          "artist": "The Roots",
+          "album": "Things Fall Apart (Deluxe Edition)",
           "listen_count": 12,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-10-20T23:19:38Z"
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-26T13:39:15Z"
         },
         {
           "artist": "Michael Kiwanuka",
@@ -344,11 +329,11 @@
           "last_listened_at_utc": "2026-10-24T23:17:44Z"
         },
         {
-          "artist": "JID",
-          "album": "The Forever Story (Extended Version)",
+          "artist": "Cymande",
+          "album": "Cymande",
           "listen_count": 8,
           "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-19T13:50:18Z"
+          "last_listened_at_utc": "2026-10-25T16:21:18Z"
         },
         {
           "artist": "English Teacher",
@@ -356,13 +341,6 @@
           "listen_count": 7,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-10-19T17:25:39Z"
-        },
-        {
-          "artist": "Fontaines D.C.",
-          "album": "Dopamine Chamber",
-          "listen_count": 7,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-20T21:43:32Z"
         },
         {
           "artist": "רביד פלוטניק",
@@ -407,13 +385,6 @@
           "last_listened_at_utc": "2026-10-20T18:19:31Z"
         },
         {
-          "artist": "Fontaines D.C.",
-          "album": "Romance",
-          "listen_count": 5,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-20T13:24:54Z"
-        },
-        {
           "artist": "ג'יגה ג'וס",
           "album": "מיץ למקס",
           "listen_count": 5,
@@ -435,6 +406,20 @@
           "last_listened_at_utc": "2026-10-19T23:32:45Z"
         },
         {
+          "artist": "Admas",
+          "album": "Sons of Ethiopia",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-20T23:19:38Z"
+        },
+        {
+          "artist": "Fontaines D.C.",
+          "album": "Romance",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-20T13:24:54Z"
+        },
+        {
           "artist": "Liraz",
           "album": "Roya",
           "listen_count": 4,
@@ -454,13 +439,6 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-24T14:28:54Z"
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Blues for Tee",
-          "listen_count": 4,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-18T20:48:21Z"
         },
         {
           "artist": "Alvvays",
@@ -498,13 +476,6 @@
           "last_listened_at_utc": "2026-10-22T00:05:26Z"
         },
         {
-          "artist": "Cameron Winter",
-          "album": "Live at Carnegie Hall",
-          "listen_count": 2,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-24T23:23:35Z"
-        },
-        {
           "artist": "Emily A. Sprague",
           "album": "Cyano",
           "listen_count": 2,
@@ -517,6 +488,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-24T14:13:36Z"
+        },
+        {
+          "artist": "Fontaines D.C.",
+          "album": "Dopamine Chamber",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-20T21:43:32Z"
         },
         {
           "artist": "Julia Holter",
@@ -565,7 +543,7 @@
           "album": "The Astounding Eyes Of Rita",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-18T18:44:01Z"
+          "last_listened_at_utc": "2026-10-26T15:50:33Z"
         },
         {
           "artist": "Avishai Cohen Trio",
@@ -575,11 +553,18 @@
           "last_listened_at_utc": "2026-10-22T00:15:20Z"
         },
         {
-          "artist": "Bob Dylan",
-          "album": "Nashville Skyline",
+          "artist": "Cameron Winter",
+          "album": "Live at Carnegie Hall",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-18T19:44:10Z"
+          "last_listened_at_utc": "2026-10-24T23:23:35Z"
+        },
+        {
+          "artist": "Cartoons",
+          "album": "Witch Doctor",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-25T23:11:30Z"
         },
         {
           "artist": "Charles Earland",
@@ -596,25 +581,11 @@
           "last_listened_at_utc": "2026-10-21T20:26:57Z"
         },
         {
-          "artist": "Fatoumata Diawara",
-          "album": "Fenfo",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-18T19:40:20Z"
-        },
-        {
           "artist": "Greg Abate",
           "album": "Magic Dance: The Music of Kenny Barron",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-22T17:52:43Z"
-        },
-        {
-          "artist": "Hugh Masekela",
-          "album": "Hope",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-19T02:36:31Z"
         },
         {
           "artist": "Janko Nilović",
@@ -629,13 +600,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-24T23:43:09Z"
-        },
-        {
-          "artist": "Miles Davis",
-          "album": "Kind of Blue",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-18T19:34:51Z"
         },
         {
           "artist": "Ricardo Marrero",
@@ -673,13 +637,6 @@
           "last_listened_at_utc": "2026-10-24T23:22:34Z"
         },
         {
-          "artist": "The Jimi Hendrix Experience",
-          "album": "Axis: Bold As Love",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-19T02:15:11Z"
-        },
-        {
           "artist": "The National",
           "album": "Boxer",
           "listen_count": 1,
@@ -702,6 +659,13 @@
         },
         {
           "artist": "טונה",
+          "album": "מזרח פרוע",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-19T16:59:41Z"
+        },
+        {
+          "artist": "טונה",
           "album": "קיסריה אנפלאגד 2022",
           "listen_count": 1,
           "unique_tracks": 1,
@@ -710,8 +674,8 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 861,
-      "unique_artists": 153,
+      "listen_count": 862,
+      "unique_artists": 154,
       "unique_albums": 173,
       "listens_without_album": 0,
       "artists": [
@@ -733,7 +697,7 @@
         },
         {
           "artist": "Anouar Brahem",
-          "listen_count": 25
+          "listen_count": 26
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -796,7 +760,7 @@
           "listen_count": 12
         },
         {
-          "artist": "Haruomi Hosono",
+          "artist": "The Roots",
           "listen_count": 12
         },
         {
@@ -828,10 +792,6 @@
           "listen_count": 10
         },
         {
-          "artist": "Mac DeMarco",
-          "listen_count": 10
-        },
-        {
           "artist": "Nils Frahm",
           "listen_count": 10
         },
@@ -846,6 +806,10 @@
         {
           "artist": "Destroyer",
           "listen_count": 9
+        },
+        {
+          "artist": "Cymande",
+          "listen_count": 8
         },
         {
           "artist": "JID",
@@ -1056,6 +1020,10 @@
           "listen_count": 2
         },
         {
+          "artist": "Haruomi Hosono",
+          "listen_count": 2
+        },
+        {
           "artist": "Jeff Parker ETA IVtet",
           "listen_count": 2
         },
@@ -1101,6 +1069,10 @@
         },
         {
           "artist": "Bill Evans Trio",
+          "listen_count": 1
+        },
+        {
+          "artist": "Cartoons",
           "listen_count": 1
         },
         {
@@ -1156,10 +1128,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
-          "listen_count": 1
-        },
-        {
           "artist": "Hugh Masekela",
           "listen_count": 1
         },
@@ -1201,6 +1169,10 @@
         },
         {
           "artist": "Loudon Wainwright III, Iris DeMent",
+          "listen_count": 1
+        },
+        {
+          "artist": "Mac DeMarco",
           "listen_count": 1
         },
         {
@@ -1300,10 +1272,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Yellow Magic Orchestra",
-          "listen_count": 1
-        },
-        {
           "artist": "Yosi Horikawa",
           "listen_count": 1
         },
@@ -1353,9 +1321,9 @@
         {
           "artist": "Anouar Brahem",
           "album": "The Astounding Eyes Of Rita",
-          "listen_count": 25,
+          "listen_count": 26,
           "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-18T18:44:01Z"
+          "last_listened_at_utc": "2026-10-26T15:50:33Z"
         },
         {
           "artist": "Miles Davis",
@@ -1442,11 +1410,11 @@
           "last_listened_at_utc": "2026-10-20T13:24:54Z"
         },
         {
-          "artist": "Haruomi Hosono",
-          "album": "Yours Sincerely",
+          "artist": "The Roots",
+          "album": "Things Fall Apart (Deluxe Edition)",
           "listen_count": 12,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-10-17T19:26:59Z"
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-26T13:39:15Z"
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -1561,18 +1529,18 @@
           "last_listened_at_utc": "2026-10-13T22:35:21Z"
         },
         {
-          "artist": "Mac DeMarco",
-          "album": "Seaplane Dog",
-          "listen_count": 9,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-09-25T21:06:10Z"
-        },
-        {
           "artist": "Sonny Rollins",
           "album": "Way Out West",
           "listen_count": 9,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-10-10T19:10:57Z"
+        },
+        {
+          "artist": "Cymande",
+          "album": "Cymande",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-25T16:21:18Z"
         },
         {
           "artist": "JID",
@@ -1981,6 +1949,13 @@
           "last_listened_at_utc": "2026-10-24T14:13:36Z"
         },
         {
+          "artist": "Haruomi Hosono",
+          "album": "Yours Sincerely",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-17T19:26:59Z"
+        },
+        {
           "artist": "Jeff Parker ETA IVtet",
           "album": "The Way Out of Easy",
           "listen_count": 2,
@@ -2093,6 +2068,13 @@
           "last_listened_at_utc": "2026-10-18T19:44:10Z"
         },
         {
+          "artist": "Cartoons",
+          "album": "Witch Doctor",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-25T23:11:30Z"
+        },
+        {
           "artist": "Charles Earland",
           "album": "Leaving This Planet",
           "listen_count": 1,
@@ -2182,13 +2164,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-22T17:52:43Z"
-        },
-        {
-          "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
-          "album": "Pacific",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-25T20:37:14Z"
         },
         {
           "artist": "Hugh Masekela",
@@ -2485,13 +2460,6 @@
           "last_listened_at_utc": "2026-10-16T19:13:02Z"
         },
         {
-          "artist": "Yellow Magic Orchestra",
-          "album": "Solid State Survivor",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-25T20:41:21Z"
-        },
-        {
           "artist": "Yosi Horikawa",
           "album": "Spaces",
           "listen_count": 1,
@@ -2543,9 +2511,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1345,
-      "unique_artists": 194,
-      "unique_albums": 235,
+      "listen_count": 1367,
+      "unique_artists": 197,
+      "unique_albums": 238,
       "listens_without_album": 0,
       "artists": [
         {
@@ -2585,12 +2553,12 @@
           "listen_count": 33
         },
         {
-          "artist": "נצ׳י נצ׳",
+          "artist": "Anouar Brahem",
           "listen_count": 26
         },
         {
-          "artist": "Anouar Brahem",
-          "listen_count": 25
+          "artist": "נצ׳י נצ׳",
+          "listen_count": 26
         },
         {
           "artist": "Miles Davis",
@@ -2673,6 +2641,10 @@
           "listen_count": 12
         },
         {
+          "artist": "The Roots",
+          "listen_count": 12
+        },
+        {
           "artist": "Bullion",
           "listen_count": 11
         },
@@ -2719,6 +2691,10 @@
         {
           "artist": "ג'יגה ג'וס",
           "listen_count": 9
+        },
+        {
+          "artist": "Cymande",
+          "listen_count": 8
         },
         {
           "artist": "JID",
@@ -3018,6 +2994,10 @@
         },
         {
           "artist": "Bill Evans Trio Featuring Scott LaFaro",
+          "listen_count": 1
+        },
+        {
+          "artist": "Cartoons",
           "listen_count": 1
         },
         {
@@ -3385,9 +3365,9 @@
         {
           "artist": "Anouar Brahem",
           "album": "The Astounding Eyes Of Rita",
-          "listen_count": 25,
+          "listen_count": 26,
           "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-18T18:44:01Z"
+          "last_listened_at_utc": "2026-10-26T15:50:33Z"
         },
         {
           "artist": "Miles Davis",
@@ -3558,6 +3538,13 @@
           "last_listened_at_utc": "2026-09-05T20:40:45Z"
         },
         {
+          "artist": "The Roots",
+          "album": "Things Fall Apart (Deluxe Edition)",
+          "listen_count": 12,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-26T13:39:15Z"
+        },
+        {
           "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
           "album": "Compassion",
           "listen_count": 12,
@@ -3710,6 +3697,13 @@
           "listen_count": 9,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-19T23:32:45Z"
+        },
+        {
+          "artist": "Cymande",
+          "album": "Cymande",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-25T16:21:18Z"
         },
         {
           "artist": "JID",
@@ -4340,6 +4334,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-20T21:23:42Z"
+        },
+        {
+          "artist": "Cartoons",
+          "album": "Witch Doctor",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-25T23:11:30Z"
         },
         {
           "artist": "Charles Earland",
@@ -4976,6 +4977,423 @@
   },
   "recent_listens": [
     {
+      "listened_at": 1793029833,
+      "listened_at_utc": "2026-10-26T15:50:33Z",
+      "artist": "Anouar Brahem",
+      "track": "The Lover Of Beirut",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "93d00279-3eb5-4717-b2c8-041184c77138",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793021955,
+      "listened_at_utc": "2026-10-26T13:39:15Z",
+      "artist": "The Roots",
+      "track": "Diedre Vs. Dice",
+      "album": "Things Fall Apart (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "80b3cf5e-18fe-4c59-98c7-e5bb87210710"
+        ],
+        "recording_mbid": "93a8adc3-b6ea-47c9-a41c-1b86efe0409d",
+        "release_mbid": "3fcda3e3-5902-43e6-8e15-95500e9d14ee",
+        "release_group_mbid": "8f341430-85b9-3a66-875f-ed1202868393"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793021722,
+      "listened_at_utc": "2026-10-26T13:35:22Z",
+      "artist": "The Roots",
+      "track": "100% Dundee",
+      "album": "Things Fall Apart (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "80b3cf5e-18fe-4c59-98c7-e5bb87210710"
+        ],
+        "recording_mbid": "896ee3b5-7925-435e-aea3-c74f9184eefb",
+        "release_mbid": "45b0cfa6-826c-4736-9c74-f0b73ec14bc7",
+        "release_group_mbid": "8f341430-85b9-3a66-875f-ed1202868393"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793021428,
+      "listened_at_utc": "2026-10-26T13:30:28Z",
+      "artist": "The Roots",
+      "track": "Act Too (Love Of My Life)",
+      "album": "Things Fall Apart (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "80b3cf5e-18fe-4c59-98c7-e5bb87210710"
+        ],
+        "recording_mbid": "cd2369e4-82af-4e61-9a4f-88d46d07b7b3",
+        "release_mbid": "3fcda3e3-5902-43e6-8e15-95500e9d14ee",
+        "release_group_mbid": "8f341430-85b9-3a66-875f-ed1202868393"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793021080,
+      "listened_at_utc": "2026-10-26T13:24:40Z",
+      "artist": "The Roots",
+      "track": "Double Trouble",
+      "album": "Things Fall Apart (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "80b3cf5e-18fe-4c59-98c7-e5bb87210710"
+        ],
+        "recording_mbid": "b110f947-af84-4ef0-8cf6-bb5575f078f7",
+        "release_mbid": "45b0cfa6-826c-4736-9c74-f0b73ec14bc7",
+        "release_group_mbid": "8f341430-85b9-3a66-875f-ed1202868393"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793020806,
+      "listened_at_utc": "2026-10-26T13:20:06Z",
+      "artist": "The Roots",
+      "track": "Ain't Sayin' Nothin' New",
+      "album": "Things Fall Apart (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "80b3cf5e-18fe-4c59-98c7-e5bb87210710"
+        ],
+        "recording_mbid": "7e525b8d-c005-486e-8127-137a2d50a640",
+        "release_mbid": "45b0cfa6-826c-4736-9c74-f0b73ec14bc7",
+        "release_group_mbid": "8f341430-85b9-3a66-875f-ed1202868393"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793020552,
+      "listened_at_utc": "2026-10-26T13:15:52Z",
+      "artist": "The Roots",
+      "track": "Without A Doubt",
+      "album": "Things Fall Apart (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "80b3cf5e-18fe-4c59-98c7-e5bb87210710"
+        ],
+        "recording_mbid": "4bb8e8ee-bf22-4d18-97fb-9ce830c36383",
+        "release_mbid": "45b0cfa6-826c-4736-9c74-f0b73ec14bc7",
+        "release_group_mbid": "8f341430-85b9-3a66-875f-ed1202868393"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793020266,
+      "listened_at_utc": "2026-10-26T13:11:06Z",
+      "artist": "The Roots",
+      "track": "Dynamite!",
+      "album": "Things Fall Apart (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "80b3cf5e-18fe-4c59-98c7-e5bb87210710"
+        ],
+        "recording_mbid": "6c381013-5b0b-4b4f-ac8d-588d3b7e7245",
+        "release_mbid": "45b0cfa6-826c-4736-9c74-f0b73ec14bc7",
+        "release_group_mbid": "8f341430-85b9-3a66-875f-ed1202868393"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793020035,
+      "listened_at_utc": "2026-10-26T13:07:15Z",
+      "artist": "The Roots",
+      "track": "The Spark",
+      "album": "Things Fall Apart (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "80b3cf5e-18fe-4c59-98c7-e5bb87210710"
+        ],
+        "recording_mbid": "3b1e856e-1a39-4c41-b5af-a5b16cc83293",
+        "release_mbid": "45b0cfa6-826c-4736-9c74-f0b73ec14bc7",
+        "release_group_mbid": "8f341430-85b9-3a66-875f-ed1202868393"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793019866,
+      "listened_at_utc": "2026-10-26T13:04:26Z",
+      "artist": "The Roots",
+      "track": "Step Into The Realm",
+      "album": "Things Fall Apart (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "80b3cf5e-18fe-4c59-98c7-e5bb87210710"
+        ],
+        "recording_mbid": "19b5ba1f-312b-4540-9760-dcc3735effec",
+        "release_mbid": "45b0cfa6-826c-4736-9c74-f0b73ec14bc7",
+        "release_group_mbid": "8f341430-85b9-3a66-875f-ed1202868393"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793019616,
+      "listened_at_utc": "2026-10-26T13:00:16Z",
+      "artist": "The Roots",
+      "track": "The Next Movement",
+      "album": "Things Fall Apart (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "80b3cf5e-18fe-4c59-98c7-e5bb87210710"
+        ],
+        "recording_mbid": "88f248ac-2df4-4664-b7ea-570b1e1ac4d8",
+        "release_mbid": "45b0cfa6-826c-4736-9c74-f0b73ec14bc7",
+        "release_group_mbid": "8f341430-85b9-3a66-875f-ed1202868393"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793019398,
+      "listened_at_utc": "2026-10-26T12:56:38Z",
+      "artist": "The Roots",
+      "track": "Table Of Contents (Pts 1 & 2)",
+      "album": "Things Fall Apart (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "80b3cf5e-18fe-4c59-98c7-e5bb87210710"
+        ],
+        "release_mbid": "bf3a571a-f35a-4e76-8454-cc43f97d3550",
+        "recording_mbid": "a50f04da-7bc6-4859-8335-48e4c1ac43e8",
+        "release_group_mbid": "6708cd7d-e7e8-3380-875f-69a805803e4a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793019344,
+      "listened_at_utc": "2026-10-26T12:55:44Z",
+      "artist": "The Roots",
+      "track": "Act Won (Things Fall Apart)",
+      "album": "Things Fall Apart (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "80b3cf5e-18fe-4c59-98c7-e5bb87210710"
+        ],
+        "recording_mbid": "b3caafda-756b-4e97-a27f-5762d1be644f",
+        "release_mbid": "45b0cfa6-826c-4736-9c74-f0b73ec14bc7",
+        "release_group_mbid": "8f341430-85b9-3a66-875f-ed1202868393"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792969890,
+      "listened_at_utc": "2026-10-25T23:11:30Z",
+      "artist": "Cartoons",
+      "track": "Witch Doctor",
+      "album": "Witch Doctor",
+      "musicbrainz": {
+        "artist_mbids": [
+          "81b1c0b1-6735-4b20-911a-c738fdee2646"
+        ],
+        "recording_mbid": "73bfc055-d1a4-4006-9f0a-ff2ee0f920ed",
+        "release_mbid": "faf7af34-432a-4002-b955-5d74ebeb4b65",
+        "release_group_mbid": "ab692c24-4586-3628-b4eb-ef50e99da0a9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792945278,
+      "listened_at_utc": "2026-10-25T16:21:18Z",
+      "artist": "Cymande",
+      "track": "The Message",
+      "album": "Cymande",
+      "musicbrainz": {
+        "artist_mbids": [
+          "21c5fb53-6fbc-4080-989a-b26d4540f4fd"
+        ],
+        "recording_mbid": "231e991f-a83a-40dd-bbeb-5e999267d930",
+        "release_mbid": "e09c8880-849b-4f9f-b933-b9ee1290a668",
+        "release_group_mbid": "df26277b-ccea-3f53-a4ae-226535859a22"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792944972,
+      "listened_at_utc": "2026-10-25T16:16:12Z",
+      "artist": "Cymande",
+      "track": "Bra",
+      "album": "Cymande",
+      "musicbrainz": {
+        "artist_mbids": [
+          "21c5fb53-6fbc-4080-989a-b26d4540f4fd"
+        ],
+        "recording_mbid": "620872da-1783-43b9-81aa-131ad79483bc",
+        "release_mbid": "e09c8880-849b-4f9f-b933-b9ee1290a668",
+        "release_group_mbid": "df26277b-ccea-3f53-a4ae-226535859a22"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792944316,
+      "listened_at_utc": "2026-10-25T16:05:16Z",
+      "artist": "Cymande",
+      "track": "Dove",
+      "album": "Cymande",
+      "musicbrainz": {
+        "artist_mbids": [
+          "21c5fb53-6fbc-4080-989a-b26d4540f4fd"
+        ],
+        "recording_mbid": "e9eb22f7-ed7d-48f4-951d-78000753da7e",
+        "release_mbid": "e09c8880-849b-4f9f-b933-b9ee1290a668",
+        "release_group_mbid": "df26277b-ccea-3f53-a4ae-226535859a22"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792943962,
+      "listened_at_utc": "2026-10-25T15:59:22Z",
+      "artist": "Cymande",
+      "track": "Rickshaw",
+      "album": "Cymande",
+      "musicbrainz": {
+        "artist_mbids": [
+          "21c5fb53-6fbc-4080-989a-b26d4540f4fd"
+        ],
+        "recording_mbid": "09f2af75-08ee-4e20-9c1f-971229f4b8ba",
+        "release_mbid": "e09c8880-849b-4f9f-b933-b9ee1290a668",
+        "release_group_mbid": "df26277b-ccea-3f53-a4ae-226535859a22"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792943681,
+      "listened_at_utc": "2026-10-25T15:54:41Z",
+      "artist": "Cymande",
+      "track": "Listen",
+      "album": "Cymande",
+      "musicbrainz": {
+        "artist_mbids": [
+          "21c5fb53-6fbc-4080-989a-b26d4540f4fd"
+        ],
+        "recording_mbid": "ad49891b-af5a-40e5-af40-315e0f10a8bb",
+        "release_mbid": "e09c8880-849b-4f9f-b933-b9ee1290a668",
+        "release_group_mbid": "df26277b-ccea-3f53-a4ae-226535859a22"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792943423,
+      "listened_at_utc": "2026-10-25T15:50:23Z",
+      "artist": "Cymande",
+      "track": "Getting It Back",
+      "album": "Cymande",
+      "musicbrainz": {
+        "artist_mbids": [
+          "21c5fb53-6fbc-4080-989a-b26d4540f4fd"
+        ],
+        "recording_mbid": "441cbf98-7b79-487a-b40c-34cde24295c4",
+        "release_mbid": "e09c8880-849b-4f9f-b933-b9ee1290a668",
+        "release_group_mbid": "df26277b-ccea-3f53-a4ae-226535859a22"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792943237,
+      "listened_at_utc": "2026-10-25T15:47:17Z",
+      "artist": "Cymande",
+      "track": "One More",
+      "album": "Cymande",
+      "musicbrainz": {
+        "artist_mbids": [
+          "21c5fb53-6fbc-4080-989a-b26d4540f4fd"
+        ],
+        "recording_mbid": "ceaf23dd-4a00-4ec1-951e-be2afa53c561",
+        "release_mbid": "e09c8880-849b-4f9f-b933-b9ee1290a668",
+        "release_group_mbid": "df26277b-ccea-3f53-a4ae-226535859a22"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1792943027,
+      "listened_at_utc": "2026-10-25T15:43:47Z",
+      "artist": "Cymande",
+      "track": "Zion I",
+      "album": "Cymande",
+      "musicbrainz": {
+        "artist_mbids": [
+          "21c5fb53-6fbc-4080-989a-b26d4540f4fd"
+        ],
+        "recording_mbid": "2e2b7f77-dc9b-432d-b082-3c51894c545f",
+        "release_mbid": "e09c8880-849b-4f9f-b933-b9ee1290a668",
+        "release_group_mbid": "df26277b-ccea-3f53-a4ae-226535859a22"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
       "listened_at": 1792933479,
       "listened_at_utc": "2026-10-25T13:04:39Z",
       "artist": "Ricardo Marrero",
@@ -4987,7 +5405,8 @@
         ]
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5005,7 +5424,8 @@
         "release_group_mbid": "eba51dee-5f79-4f93-aea5-5308dba7f131"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5023,7 +5443,8 @@
         "release_group_mbid": "17beaab5-7f01-3511-848a-7b981d4d92ff"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
