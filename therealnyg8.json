@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-29T16:14:50Z",
+  "generated_at_utc": "2026-10-30T16:01:20Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-07-31T16:14:50Z",
-    "through_utc": "2026-10-29T16:14:50Z",
+    "from_utc": "2026-08-01T16:01:20Z",
+    "through_utc": "2026-10-30T16:01:20Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
-    "raw_listen_count": 2286,
-    "deduplicated_listen_count": 1407,
-    "duplicates_removed": 879,
+    "raw_listen_count": 2302,
+    "deduplicated_listen_count": 1415,
+    "duplicates_removed": 887,
     "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-10-28T23:25:14Z"
+    "newest_listen_utc": "2026-10-30T13:28:19Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,14 +28,14 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 218,
-      "unique_artists": 40,
-      "unique_albums": 41,
+      "listen_count": 170,
+      "unique_artists": 32,
+      "unique_albums": 33,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "Djo",
-          "listen_count": 23
+          "listen_count": 19
         },
         {
           "artist": "The Raconteurs",
@@ -50,14 +50,6 @@
           "listen_count": 13
         },
         {
-          "artist": "Roy Hargrove Quintet",
-          "listen_count": 13
-        },
-        {
-          "artist": "Parquet Courts",
-          "listen_count": 12
-        },
-        {
           "artist": "The Roots",
           "listen_count": 12
         },
@@ -67,10 +59,6 @@
         },
         {
           "artist": "Michael Kiwanuka",
-          "listen_count": 11
-        },
-        {
-          "artist": "Norah Jones",
           "listen_count": 11
         },
         {
@@ -86,6 +74,10 @@
           "listen_count": 8
         },
         {
+          "artist": "Funkadelic",
+          "listen_count": 8
+        },
+        {
           "artist": "Brad Mehldau Trio",
           "listen_count": 6
         },
@@ -94,24 +86,12 @@
           "listen_count": 6
         },
         {
-          "artist": "ג'יגה ג'וס",
-          "listen_count": 5
-        },
-        {
-          "artist": "טונה",
-          "listen_count": 5
-        },
-        {
           "artist": "Hailu Mergia",
           "listen_count": 4
         },
         {
           "artist": "Olivia Rodrigo",
           "listen_count": 4
-        },
-        {
-          "artist": "Alvvays",
-          "listen_count": 3
         },
         {
           "artist": "Ginger Root",
@@ -134,10 +114,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Ambrose Akinmusire",
-          "listen_count": 1
-        },
-        {
           "artist": "Anouar Brahem",
           "listen_count": 1
         },
@@ -150,19 +126,11 @@
           "listen_count": 1
         },
         {
-          "artist": "Charles Earland",
-          "listen_count": 1
-        },
-        {
           "artist": "Childish Gambino",
           "listen_count": 1
         },
         {
           "artist": "Emmet Cohen",
-          "listen_count": 1
-        },
-        {
-          "artist": "Greg Abate",
           "listen_count": 1
         },
         {
@@ -198,7 +166,7 @@
         {
           "artist": "Djo",
           "album": "The Crux Deluxe",
-          "listen_count": 20,
+          "listen_count": 16,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-10-27T21:25:32Z"
         },
@@ -224,20 +192,6 @@
           "last_listened_at_utc": "2026-10-24T17:31:10Z"
         },
         {
-          "artist": "Roy Hargrove Quintet",
-          "album": "Earfood",
-          "listen_count": 13,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-22T17:49:41Z"
-        },
-        {
-          "artist": "Parquet Courts",
-          "album": "Wide Awake!",
-          "listen_count": 12,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-23T13:23:41Z"
-        },
-        {
           "artist": "The Roots",
           "album": "Things Fall Apart (Deluxe Edition)",
           "listen_count": 12,
@@ -257,13 +211,6 @@
           "listen_count": 11,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-10-24T18:26:33Z"
-        },
-        {
-          "artist": "Norah Jones",
-          "album": "Come Away with Me",
-          "listen_count": 11,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-23T15:02:02Z"
         },
         {
           "artist": "The Zombies",
@@ -287,6 +234,13 @@
           "last_listened_at_utc": "2026-10-25T16:21:18Z"
         },
         {
+          "artist": "Funkadelic",
+          "album": "Cosmic Slop",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-30T13:28:19Z"
+        },
+        {
           "artist": "Brad Mehldau Trio",
           "album": "Blues and Ballads",
           "listen_count": 6,
@@ -301,20 +255,6 @@
           "last_listened_at_utc": "2026-10-28T21:03:10Z"
         },
         {
-          "artist": "ג'יגה ג'וס",
-          "album": "מיץ למקס",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-22T21:08:20Z"
-        },
-        {
-          "artist": "טונה",
-          "album": "ראפ מטורף",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-22T20:49:22Z"
-        },
-        {
           "artist": "Hailu Mergia",
           "album": "Lala Belu",
           "listen_count": 4,
@@ -327,13 +267,6 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-24T23:38:51Z"
-        },
-        {
-          "artist": "Alvvays",
-          "album": "Blue Rev",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-22T20:32:17Z"
         },
         {
           "artist": "Djo",
@@ -378,13 +311,6 @@
           "last_listened_at_utc": "2026-10-28T22:15:58Z"
         },
         {
-          "artist": "Ambrose Akinmusire",
-          "album": "Owl Song",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-22T17:56:31Z"
-        },
-        {
           "artist": "Anouar Brahem",
           "album": "The Astounding Eyes Of Rita",
           "listen_count": 1,
@@ -406,13 +332,6 @@
           "last_listened_at_utc": "2026-10-25T23:11:30Z"
         },
         {
-          "artist": "Charles Earland",
-          "album": "Leaving This Planet",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-22T18:01:42Z"
-        },
-        {
           "artist": "Childish Gambino",
           "album": "Bando Stone and The New World",
           "listen_count": 1,
@@ -425,13 +344,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-24T14:13:36Z"
-        },
-        {
-          "artist": "Greg Abate",
-          "album": "Magic Dance: The Music of Kenny Barron",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-22T17:52:43Z"
         },
         {
           "artist": "Janko Nilović",
@@ -485,9 +397,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 846,
-      "unique_artists": 146,
-      "unique_albums": 162,
+      "listen_count": 814,
+      "unique_artists": 142,
+      "unique_albums": 158,
       "listens_without_album": 0,
       "artists": [
         {
@@ -496,7 +408,7 @@
         },
         {
           "artist": "טונה",
-          "listen_count": 37
+          "listen_count": 34
         },
         {
           "artist": "Cameron Winter",
@@ -544,10 +456,6 @@
         },
         {
           "artist": "The Raconteurs",
-          "listen_count": 14
-        },
-        {
-          "artist": "青葉市子",
           "listen_count": 14
         },
         {
@@ -611,10 +519,6 @@
           "listen_count": 10
         },
         {
-          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
-          "listen_count": 10
-        },
-        {
           "artist": "שב״ק ס׳",
           "listen_count": 10
         },
@@ -628,6 +532,10 @@
         },
         {
           "artist": "Cymande",
+          "listen_count": 8
+        },
+        {
+          "artist": "Funkadelic",
           "listen_count": 8
         },
         {
@@ -699,14 +607,6 @@
           "listen_count": 5
         },
         {
-          "artist": "The Fred Hersch Trio",
-          "listen_count": 5
-        },
-        {
-          "artist": "Tord Gustavsen Trio",
-          "listen_count": 5
-        },
-        {
           "artist": "ג'יגה ג'וס",
           "listen_count": 5
         },
@@ -748,10 +648,6 @@
         },
         {
           "artist": "Alvvays",
-          "listen_count": 3
-        },
-        {
-          "artist": "Avishai Cohen Trio",
           "listen_count": 3
         },
         {
@@ -883,6 +779,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Avishai Cohen Trio",
+          "listen_count": 1
+        },
+        {
           "artist": "Cartoons",
           "listen_count": 1
         },
@@ -992,10 +892,6 @@
         },
         {
           "artist": "Sam Gendel",
-          "listen_count": 1
-        },
-        {
-          "artist": "Smerz",
           "listen_count": 1
         },
         {
@@ -1114,7 +1010,7 @@
         {
           "artist": "טונה",
           "album": "מזרח פרוע",
-          "listen_count": 20,
+          "listen_count": 17,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-19T16:59:41Z"
         },
@@ -1145,13 +1041,6 @@
           "listen_count": 14,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-10-27T19:50:08Z"
-        },
-        {
-          "artist": "青葉市子",
-          "album": "Windswept Adan",
-          "listen_count": 14,
-          "unique_tracks": 14,
-          "last_listened_at_utc": "2026-09-29T22:48:47Z"
         },
         {
           "artist": "Cortex",
@@ -1294,13 +1183,6 @@
           "last_listened_at_utc": "2026-10-09T23:39:47Z"
         },
         {
-          "artist": "Vijay Iyer, Linda May Han Oh, Tyshawn Sorey",
-          "album": "Compassion",
-          "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-09-29T19:43:36Z"
-        },
-        {
           "artist": "שב״ק ס׳",
           "album": "שבק ס",
           "listen_count": 10,
@@ -1334,6 +1216,13 @@
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-25T16:21:18Z"
+        },
+        {
+          "artist": "Funkadelic",
+          "album": "Cosmic Slop",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-30T13:28:19Z"
         },
         {
           "artist": "JID",
@@ -1476,20 +1365,6 @@
           "last_listened_at_utc": "2026-10-09T21:19:08Z"
         },
         {
-          "artist": "The Fred Hersch Trio",
-          "album": "Sunday Night at the Vanguard",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-09-29T20:47:09Z"
-        },
-        {
-          "artist": "Tord Gustavsen Trio",
-          "album": "The Ground",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-09-29T20:16:34Z"
-        },
-        {
           "artist": "ג'יגה ג'וס",
           "album": "מיץ למקס",
           "listen_count": 5,
@@ -1579,13 +1454,6 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-22T20:32:17Z"
-        },
-        {
-          "artist": "Avishai Cohen Trio",
-          "album": "Gently Disturbed",
-          "listen_count": 3,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-22T00:15:20Z"
         },
         {
           "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
@@ -1826,6 +1694,13 @@
           "last_listened_at_utc": "2026-10-22T17:56:31Z"
         },
         {
+          "artist": "Avishai Cohen Trio",
+          "album": "Gently Disturbed",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-22T00:15:20Z"
+        },
+        {
           "artist": "Bob Dylan",
           "album": "Nashville Skyline",
           "listen_count": 1,
@@ -2036,13 +1911,6 @@
           "last_listened_at_utc": "2026-10-03T16:23:44Z"
         },
         {
-          "artist": "Smerz",
-          "album": "Big city life EDITS",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-09-29T22:54:57Z"
-        },
-        {
           "artist": "Sokratis Sinopoulos Quartet",
           "album": "Metamodal",
           "listen_count": 1,
@@ -2213,9 +2081,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1407,
-      "unique_artists": 204,
-      "unique_albums": 245,
+      "listen_count": 1415,
+      "unique_artists": 205,
+      "unique_albums": 246,
       "listens_without_album": 0,
       "artists": [
         {
@@ -2404,6 +2272,10 @@
         },
         {
           "artist": "Cymande",
+          "listen_count": 8
+        },
+        {
+          "artist": "Funkadelic",
           "listen_count": 8
         },
         {
@@ -3448,6 +3320,13 @@
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-25T16:21:18Z"
+        },
+        {
+          "artist": "Funkadelic",
+          "album": "Cosmic Slop",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-30T13:28:19Z"
         },
         {
           "artist": "JID",
@@ -4755,6 +4634,158 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1793366899,
+      "listened_at_utc": "2026-10-30T13:28:19Z",
+      "artist": "Funkadelic",
+      "track": "Trash A-Go-Go",
+      "album": "Cosmic Slop",
+      "musicbrainz": {
+        "artist_mbids": [
+          "cf042013-3edd-46c4-9b0e-a62faac98d0b"
+        ],
+        "recording_mbid": "3f2b26b5-95e4-43d7-9cb3-3378aa5a048c",
+        "release_mbid": "10159ac7-a70b-4150-a713-d58c904817ac",
+        "release_group_mbid": "3337c981-c416-3513-a02b-6d6065b9316b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793366679,
+      "listened_at_utc": "2026-10-30T13:24:39Z",
+      "artist": "Funkadelic",
+      "track": "This Broken Heart",
+      "album": "Cosmic Slop",
+      "musicbrainz": {
+        "artist_mbids": [
+          "cf042013-3edd-46c4-9b0e-a62faac98d0b"
+        ],
+        "recording_mbid": "b0fb967d-ddf3-4f09-b1b0-28c7c7230ca2",
+        "release_mbid": "10159ac7-a70b-4150-a713-d58c904817ac",
+        "release_group_mbid": "3337c981-c416-3513-a02b-6d6065b9316b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793366493,
+      "listened_at_utc": "2026-10-30T13:21:33Z",
+      "artist": "Funkadelic",
+      "track": "No Compute",
+      "album": "Cosmic Slop",
+      "musicbrainz": {
+        "artist_mbids": [
+          "cf042013-3edd-46c4-9b0e-a62faac98d0b"
+        ],
+        "recording_mbid": "cf0eb1bf-6031-40ce-8282-2b80b25e0460",
+        "release_mbid": "10159ac7-a70b-4150-a713-d58c904817ac",
+        "release_group_mbid": "3337c981-c416-3513-a02b-6d6065b9316b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793366173,
+      "listened_at_utc": "2026-10-30T13:16:13Z",
+      "artist": "Funkadelic",
+      "track": "Cosmic Slop",
+      "album": "Cosmic Slop",
+      "musicbrainz": {
+        "artist_mbids": [
+          "cf042013-3edd-46c4-9b0e-a62faac98d0b"
+        ],
+        "recording_mbid": "66e1f77f-5ff1-417b-9e53-3f4d88bc215f",
+        "release_mbid": "10159ac7-a70b-4150-a713-d58c904817ac",
+        "release_group_mbid": "3337c981-c416-3513-a02b-6d6065b9316b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793365920,
+      "listened_at_utc": "2026-10-30T13:12:00Z",
+      "artist": "Funkadelic",
+      "track": "Let's Make It Last",
+      "album": "Cosmic Slop",
+      "musicbrainz": {
+        "artist_mbids": [
+          "cf042013-3edd-46c4-9b0e-a62faac98d0b"
+        ],
+        "recording_mbid": "d7f8ddec-348f-4752-b789-90085e542e0b",
+        "release_mbid": "10159ac7-a70b-4150-a713-d58c904817ac",
+        "release_group_mbid": "3337c981-c416-3513-a02b-6d6065b9316b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793365559,
+      "listened_at_utc": "2026-10-30T13:05:59Z",
+      "artist": "Funkadelic",
+      "track": "March To The Witch's Castle",
+      "album": "Cosmic Slop",
+      "musicbrainz": {
+        "artist_mbids": [
+          "cf042013-3edd-46c4-9b0e-a62faac98d0b"
+        ],
+        "recording_mbid": "d48c45e2-920a-4384-bda1-5cf73dd760b3",
+        "release_mbid": "10159ac7-a70b-4150-a713-d58c904817ac",
+        "release_group_mbid": "3337c981-c416-3513-a02b-6d6065b9316b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793365372,
+      "listened_at_utc": "2026-10-30T13:02:52Z",
+      "artist": "Funkadelic",
+      "track": "You Can't Miss What You Can't Measure",
+      "album": "Cosmic Slop",
+      "musicbrainz": {
+        "artist_mbids": [
+          "cf042013-3edd-46c4-9b0e-a62faac98d0b"
+        ],
+        "recording_mbid": "615dbc31-2baa-46f7-8d89-dd27a8e9fd93",
+        "release_mbid": "10159ac7-a70b-4150-a713-d58c904817ac",
+        "release_group_mbid": "3337c981-c416-3513-a02b-6d6065b9316b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793365097,
+      "listened_at_utc": "2026-10-30T12:58:17Z",
+      "artist": "Funkadelic",
+      "track": "Nappy Dugout",
+      "album": "Cosmic Slop",
+      "musicbrainz": {
+        "artist_mbids": [
+          "cf042013-3edd-46c4-9b0e-a62faac98d0b"
+        ],
+        "recording_mbid": "068f703d-dba6-42fb-936a-14009051e027",
+        "release_mbid": "10159ac7-a70b-4150-a713-d58c904817ac",
+        "release_group_mbid": "3337c981-c416-3513-a02b-6d6065b9316b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1793229914,
       "listened_at_utc": "2026-10-28T23:25:14Z",
