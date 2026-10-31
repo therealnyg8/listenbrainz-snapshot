@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-30T16:01:20Z",
+  "generated_at_utc": "2026-10-31T15:24:10Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-01T16:01:20Z",
-    "through_utc": "2026-10-30T16:01:20Z",
+    "from_utc": "2026-08-02T15:24:10Z",
+    "through_utc": "2026-10-31T15:24:10Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
-    "raw_listen_count": 2302,
-    "deduplicated_listen_count": 1415,
-    "duplicates_removed": 887,
+    "raw_listen_count": 2366,
+    "deduplicated_listen_count": 1447,
+    "duplicates_removed": 919,
     "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-10-30T13:28:19Z"
+    "newest_listen_utc": "2026-10-30T22:54:23Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,25 +28,17 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 170,
-      "unique_artists": 32,
+      "listen_count": 177,
+      "unique_artists": 33,
       "unique_albums": 33,
       "listens_without_album": 0,
       "artists": [
         {
-          "artist": "Djo",
-          "listen_count": 19
-        },
-        {
-          "artist": "The Raconteurs",
-          "listen_count": 14
+          "artist": "Fine",
+          "listen_count": 24
         },
         {
           "artist": "Cortex",
-          "listen_count": 13
-        },
-        {
-          "artist": "Fine",
           "listen_count": 13
         },
         {
@@ -64,6 +56,10 @@
         {
           "artist": "The Zombies",
           "listen_count": 11
+        },
+        {
+          "artist": "The Raconteurs",
+          "listen_count": 10
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -86,12 +82,36 @@
           "listen_count": 6
         },
         {
+          "artist": "טונה",
+          "listen_count": 6
+        },
+        {
+          "artist": "Norah Jones",
+          "listen_count": 5
+        },
+        {
+          "artist": "TV on the Radio",
+          "listen_count": 5
+        },
+        {
+          "artist": "Djo",
+          "listen_count": 4
+        },
+        {
           "artist": "Hailu Mergia",
           "listen_count": 4
         },
         {
           "artist": "Olivia Rodrigo",
           "listen_count": 4
+        },
+        {
+          "artist": "Tracy Chapman",
+          "listen_count": 3
+        },
+        {
+          "artist": "Anouar Brahem",
+          "listen_count": 2
         },
         {
           "artist": "Ginger Root",
@@ -102,19 +122,7 @@
           "listen_count": 2
         },
         {
-          "artist": "Mulatu Astatke",
-          "listen_count": 2
-        },
-        {
-          "artist": "shame",
-          "listen_count": 2
-        },
-        {
           "artist": "Allen Toussaint",
-          "listen_count": 1
-        },
-        {
-          "artist": "Anouar Brahem",
           "listen_count": 1
         },
         {
@@ -127,10 +135,6 @@
         },
         {
           "artist": "Childish Gambino",
-          "listen_count": 1
-        },
-        {
-          "artist": "Emmet Cohen",
           "listen_count": 1
         },
         {
@@ -150,32 +154,25 @@
           "listen_count": 1
         },
         {
-          "artist": "Stephanie Stephanou",
-          "listen_count": 1
-        },
-        {
           "artist": "The Avalanches",
           "listen_count": 1
         },
         {
           "artist": "The National",
           "listen_count": 1
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "listen_count": 1
         }
       ],
       "albums": [
         {
-          "artist": "Djo",
-          "album": "The Crux Deluxe",
-          "listen_count": 16,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-27T21:25:32Z"
-        },
-        {
-          "artist": "The Raconteurs",
-          "album": "Consolers of the Lonely",
-          "listen_count": 14,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-27T19:50:08Z"
+          "artist": "Fine",
+          "album": "Jazz dreams",
+          "listen_count": 24,
+          "unique_tracks": 13,
+          "last_listened_at_utc": "2026-10-30T22:54:23Z"
         },
         {
           "artist": "Cortex",
@@ -183,13 +180,6 @@
           "listen_count": 13,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-25T12:58:33Z"
-        },
-        {
-          "artist": "Fine",
-          "album": "Jazz dreams",
-          "listen_count": 13,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-24T17:31:10Z"
         },
         {
           "artist": "The Roots",
@@ -218,6 +208,13 @@
           "listen_count": 11,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-10-26T23:29:34Z"
+        },
+        {
+          "artist": "The Raconteurs",
+          "album": "Consolers of the Lonely",
+          "listen_count": 10,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-10-27T19:50:08Z"
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -255,6 +252,34 @@
           "last_listened_at_utc": "2026-10-28T21:03:10Z"
         },
         {
+          "artist": "טונה",
+          "album": "מזרח פרוע",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-30T19:08:12Z"
+        },
+        {
+          "artist": "Norah Jones",
+          "album": "Come Away with Me",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-30T18:38:05Z"
+        },
+        {
+          "artist": "TV on the Radio",
+          "album": "Dear Science (Bonus Track Version)",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-30T19:33:36Z"
+        },
+        {
+          "artist": "Djo",
+          "album": "The Crux Deluxe",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-27T21:25:32Z"
+        },
+        {
           "artist": "Hailu Mergia",
           "album": "Lala Belu",
           "listen_count": 4,
@@ -269,11 +294,18 @@
           "last_listened_at_utc": "2026-10-24T23:38:51Z"
         },
         {
-          "artist": "Djo",
-          "album": "DECIDE",
+          "artist": "Tracy Chapman",
+          "album": "Tracy Chapman",
           "listen_count": 3,
           "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-23T19:47:47Z"
+          "last_listened_at_utc": "2026-10-30T18:22:59Z"
+        },
+        {
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-30T18:06:42Z"
         },
         {
           "artist": "Ginger Root",
@@ -290,32 +322,11 @@
           "last_listened_at_utc": "2026-10-24T21:08:55Z"
         },
         {
-          "artist": "Mulatu Astatke",
-          "album": "Ethiopiques, Vol. 4 : Ethio Jazz & Musique Instrumentale (1969-1974)",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-23T21:47:59Z"
-        },
-        {
-          "artist": "shame",
-          "album": "Food for Worms",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-24T13:38:13Z"
-        },
-        {
           "artist": "Allen Toussaint",
           "album": "Southern Nights (2003 Remaster)",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-28T22:15:58Z"
-        },
-        {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-26T15:50:33Z"
         },
         {
           "artist": "Cameron Winter",
@@ -337,13 +348,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-28T23:00:58Z"
-        },
-        {
-          "artist": "Emmet Cohen",
-          "album": "Future Stride",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-24T14:13:36Z"
         },
         {
           "artist": "Janko Nilović",
@@ -374,13 +378,6 @@
           "last_listened_at_utc": "2026-10-25T13:04:39Z"
         },
         {
-          "artist": "Stephanie Stephanou",
-          "album": "Beirut City Pop (Habibi Funk 035)",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-24T12:28:18Z"
-        },
-        {
           "artist": "The Avalanches",
           "album": "No Bad Memories",
           "listen_count": 1,
@@ -393,22 +390,29 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-24T19:21:42Z"
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Midnight Sugar",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-30T18:44:10Z"
         }
       ]
     },
     "last_30_days": {
-      "listen_count": 814,
-      "unique_artists": 142,
-      "unique_albums": 158,
+      "listen_count": 834,
+      "unique_artists": 143,
+      "unique_albums": 159,
       "listens_without_album": 0,
       "artists": [
         {
-          "artist": "Parquet Courts",
-          "listen_count": 38
+          "artist": "טונה",
+          "listen_count": 40
         },
         {
-          "artist": "טונה",
-          "listen_count": 34
+          "artist": "Parquet Courts",
+          "listen_count": 38
         },
         {
           "artist": "Cameron Winter",
@@ -420,19 +424,27 @@
         },
         {
           "artist": "Anouar Brahem",
-          "listen_count": 26
+          "listen_count": 27
+        },
+        {
+          "artist": "Fine",
+          "listen_count": 24
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "listen_count": 24
         },
         {
           "artist": "Djo",
           "listen_count": 23
         },
         {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "listen_count": 23
-        },
-        {
           "artist": "Bob Dylan",
           "listen_count": 21
+        },
+        {
+          "artist": "Norah Jones",
+          "listen_count": 20
         },
         {
           "artist": "Fontaines D.C.",
@@ -447,10 +459,6 @@
           "listen_count": 18
         },
         {
-          "artist": "Norah Jones",
-          "listen_count": 15
-        },
-        {
           "artist": "Ahmad Jamal Trio",
           "listen_count": 14
         },
@@ -460,10 +468,6 @@
         },
         {
           "artist": "Cortex",
-          "listen_count": 13
-        },
-        {
-          "artist": "Fine",
           "listen_count": 13
         },
         {
@@ -504,10 +508,6 @@
         },
         {
           "artist": "Chet Baker",
-          "listen_count": 10
-        },
-        {
-          "artist": "Hermanos Gutiérrez",
           "listen_count": 10
         },
         {
@@ -607,6 +607,10 @@
           "listen_count": 5
         },
         {
+          "artist": "TV on the Radio",
+          "listen_count": 5
+        },
+        {
           "artist": "ג'יגה ג'וס",
           "listen_count": 5
         },
@@ -695,6 +699,10 @@
           "listen_count": 3
         },
         {
+          "artist": "Tracy Chapman",
+          "listen_count": 3
+        },
+        {
           "artist": "Ty Segall",
           "listen_count": 3
         },
@@ -708,10 +716,6 @@
         },
         {
           "artist": "Beth Gibbons",
-          "listen_count": 2
-        },
-        {
-          "artist": "Cornelius",
           "listen_count": 2
         },
         {
@@ -748,10 +752,6 @@
         },
         {
           "artist": "Mulatu Astatke",
-          "listen_count": 2
-        },
-        {
-          "artist": "Pearl & The Oysters",
           "listen_count": 2
         },
         {
@@ -792,6 +792,10 @@
         },
         {
           "artist": "Childish Gambino",
+          "listen_count": 1
+        },
+        {
+          "artist": "Cornelius",
           "listen_count": 1
         },
         {
@@ -872,6 +876,10 @@
         },
         {
           "artist": "Oliver Nelson",
+          "listen_count": 1
+        },
+        {
+          "artist": "Pearl & The Oysters",
           "listen_count": 1
         },
         {
@@ -996,9 +1004,23 @@
         {
           "artist": "Anouar Brahem",
           "album": "The Astounding Eyes Of Rita",
-          "listen_count": 26,
+          "listen_count": 27,
           "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-26T15:50:33Z"
+          "last_listened_at_utc": "2026-10-30T18:06:42Z"
+        },
+        {
+          "artist": "Fine",
+          "album": "Jazz dreams",
+          "listen_count": 24,
+          "unique_tracks": 13,
+          "last_listened_at_utc": "2026-10-30T22:54:23Z"
+        },
+        {
+          "artist": "טונה",
+          "album": "מזרח פרוע",
+          "listen_count": 23,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-30T19:08:12Z"
         },
         {
           "artist": "Djo",
@@ -1008,11 +1030,11 @@
           "last_listened_at_utc": "2026-10-27T21:25:32Z"
         },
         {
-          "artist": "טונה",
-          "album": "מזרח פרוע",
-          "listen_count": 17,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-19T16:59:41Z"
+          "artist": "Norah Jones",
+          "album": "Come Away with Me",
+          "listen_count": 20,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-30T18:38:05Z"
         },
         {
           "artist": "טונה",
@@ -1020,13 +1042,6 @@
           "listen_count": 16,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-10-22T20:49:22Z"
-        },
-        {
-          "artist": "Norah Jones",
-          "album": "Come Away with Me",
-          "listen_count": 15,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-23T15:02:02Z"
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -1050,18 +1065,18 @@
           "last_listened_at_utc": "2026-10-25T12:58:33Z"
         },
         {
-          "artist": "Fine",
-          "album": "Jazz dreams",
-          "listen_count": 13,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-24T17:31:10Z"
-        },
-        {
           "artist": "Roy Hargrove Quintet",
           "album": "Earfood",
           "listen_count": 13,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-22T17:49:41Z"
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Midnight Sugar",
+          "listen_count": 13,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-30T18:44:10Z"
         },
         {
           "artist": "Admas",
@@ -1090,13 +1105,6 @@
           "listen_count": 12,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-10-28T22:57:32Z"
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Midnight Sugar",
-          "listen_count": 12,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-19T22:53:42Z"
         },
         {
           "artist": "Bullion",
@@ -1153,13 +1161,6 @@
           "listen_count": 10,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-10-10T17:57:54Z"
-        },
-        {
-          "artist": "Hermanos Gutiérrez",
-          "album": "Los Ojos Del Cóndor",
-          "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-09-30T22:18:29Z"
         },
         {
           "artist": "Nils Frahm",
@@ -1365,6 +1366,13 @@
           "last_listened_at_utc": "2026-10-09T21:19:08Z"
         },
         {
+          "artist": "TV on the Radio",
+          "album": "Dear Science (Bonus Track Version)",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-30T19:33:36Z"
+        },
+        {
           "artist": "ג'יגה ג'וס",
           "album": "מיץ למקס",
           "listen_count": 5,
@@ -1540,6 +1548,13 @@
           "last_listened_at_utc": "2026-10-08T21:18:35Z"
         },
         {
+          "artist": "Tracy Chapman",
+          "album": "Tracy Chapman",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-30T18:22:59Z"
+        },
+        {
           "artist": "Ty Segall",
           "album": "Chrome",
           "listen_count": 3,
@@ -1566,13 +1581,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-22T00:05:26Z"
-        },
-        {
-          "artist": "Cornelius",
-          "album": "Hosono House Revisited",
-          "listen_count": 2,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T16:28:43Z"
         },
         {
           "artist": "Dhafer Youssef",
@@ -1636,13 +1644,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-23T21:47:59Z"
-        },
-        {
-          "artist": "Pearl & The Oysters",
-          "album": "Hosono House Revisited",
-          "listen_count": 2,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:10:39Z"
         },
         {
           "artist": "Shye Ben-Tzur, Jonny Greenwood and The Rajasthan Express",
@@ -1727,6 +1728,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-28T23:00:58Z"
+        },
+        {
+          "artist": "Cornelius",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T16:28:43Z"
         },
         {
           "artist": "Deerhunter",
@@ -1874,6 +1882,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-04T22:25:29Z"
+        },
+        {
+          "artist": "Pearl & The Oysters",
+          "album": "Hosono House Revisited",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-03T12:10:39Z"
         },
         {
           "artist": "Rajery, Ballaké Sissoko & Driss El Maloumi",
@@ -2081,14 +2096,14 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1415,
-      "unique_artists": 205,
-      "unique_albums": 246,
+      "listen_count": 1447,
+      "unique_artists": 207,
+      "unique_albums": 248,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "טונה",
-          "listen_count": 163
+          "listen_count": 169
         },
         {
           "artist": "רביד פלוטניק",
@@ -2104,7 +2119,7 @@
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
-          "listen_count": 40
+          "listen_count": 41
         },
         {
           "artist": "Parquet Courts",
@@ -2128,11 +2143,15 @@
         },
         {
           "artist": "Anouar Brahem",
-          "listen_count": 26
+          "listen_count": 27
         },
         {
           "artist": "נצ׳י נצ׳",
           "listen_count": 26
+        },
+        {
+          "artist": "Fine",
+          "listen_count": 24
         },
         {
           "artist": "Sonny Rollins",
@@ -2141,6 +2160,10 @@
         {
           "artist": "Djo",
           "listen_count": 23
+        },
+        {
+          "artist": "Norah Jones",
+          "listen_count": 21
         },
         {
           "artist": "Fontaines D.C.",
@@ -2156,10 +2179,6 @@
         },
         {
           "artist": "John Coltrane Quartet",
-          "listen_count": 16
-        },
-        {
-          "artist": "Norah Jones",
           "listen_count": 16
         },
         {
@@ -2184,10 +2203,6 @@
         },
         {
           "artist": "Cortex",
-          "listen_count": 13
-        },
-        {
-          "artist": "Fine",
           "listen_count": 13
         },
         {
@@ -2371,6 +2386,10 @@
           "listen_count": 5
         },
         {
+          "artist": "TV on the Radio",
+          "listen_count": 5
+        },
+        {
           "artist": "The Fred Hersch Trio",
           "listen_count": 5
         },
@@ -2472,6 +2491,10 @@
         },
         {
           "artist": "Tortoise",
+          "listen_count": 3
+        },
+        {
+          "artist": "Tracy Chapman",
           "listen_count": 3
         },
         {
@@ -2911,9 +2934,9 @@
         {
           "artist": "טונה",
           "album": "מזרח פרוע",
-          "listen_count": 64,
+          "listen_count": 70,
           "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-19T16:59:41Z"
+          "last_listened_at_utc": "2026-10-30T19:08:12Z"
         },
         {
           "artist": "Parquet Courts",
@@ -2974,9 +2997,16 @@
         {
           "artist": "Anouar Brahem",
           "album": "The Astounding Eyes Of Rita",
-          "listen_count": 26,
+          "listen_count": 27,
           "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-26T15:50:33Z"
+          "last_listened_at_utc": "2026-10-30T18:06:42Z"
+        },
+        {
+          "artist": "Fine",
+          "album": "Jazz dreams",
+          "listen_count": 24,
+          "unique_tracks": 13,
+          "last_listened_at_utc": "2026-10-30T22:54:23Z"
         },
         {
           "artist": "נצ׳י נצ׳",
@@ -3000,6 +3030,13 @@
           "last_listened_at_utc": "2026-09-13T16:16:38Z"
         },
         {
+          "artist": "Norah Jones",
+          "album": "Come Away with Me",
+          "listen_count": 21,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-30T18:38:05Z"
+        },
+        {
           "artist": "Djo",
           "album": "The Crux Deluxe",
           "listen_count": 20,
@@ -3015,6 +3052,13 @@
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Midnight Sugar",
+          "listen_count": 17,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-10-30T18:44:10Z"
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
           "album": "Misty",
           "listen_count": 17,
           "unique_tracks": 9,
@@ -3026,20 +3070,6 @@
           "listen_count": 16,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-11T12:27:39Z"
-        },
-        {
-          "artist": "Norah Jones",
-          "album": "Come Away with Me",
-          "listen_count": 16,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-23T15:02:02Z"
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Midnight Sugar",
-          "listen_count": 16,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-10-19T22:53:42Z"
         },
         {
           "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
@@ -3096,13 +3126,6 @@
           "listen_count": 13,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-25T12:58:33Z"
-        },
-        {
-          "artist": "Fine",
-          "album": "Jazz dreams",
-          "listen_count": 13,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-24T17:31:10Z"
         },
         {
           "artist": "Haruomi Hosono、Shigeru Suzuki、Tatsuro Yamashita",
@@ -3511,6 +3534,13 @@
           "last_listened_at_utc": "2026-10-09T21:19:08Z"
         },
         {
+          "artist": "TV on the Radio",
+          "album": "Dear Science (Bonus Track Version)",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-30T19:33:36Z"
+        },
+        {
           "artist": "The Fred Hersch Trio",
           "album": "Sunday Night at the Vanguard",
           "listen_count": 5,
@@ -3719,6 +3749,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-08T21:18:35Z"
+        },
+        {
+          "artist": "Tracy Chapman",
+          "album": "Tracy Chapman",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-10-30T18:22:59Z"
         },
         {
           "artist": "Ty Segall",
@@ -4634,6 +4671,616 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1793400863,
+      "listened_at_utc": "2026-10-30T22:54:23Z",
+      "artist": "Fine",
+      "track": "Everything in the shade",
+      "album": "Jazz dreams",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8d50e39f-d7b1-405b-bd16-08ed4e5a398a"
+        ],
+        "recording_mbid": "9d8bcb16-f0a1-477b-a3a3-61ef74ce7629",
+        "release_mbid": "92227a33-b9f1-46a2-881a-a20e69899495",
+        "release_group_mbid": "a240c522-0cb8-4a81-b099-4f32849eb6f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793400723,
+      "listened_at_utc": "2026-10-30T22:52:03Z",
+      "artist": "Fine",
+      "track": "Moment",
+      "album": "Jazz dreams",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8d50e39f-d7b1-405b-bd16-08ed4e5a398a"
+        ],
+        "recording_mbid": "639ac2e0-7729-4e30-b549-dc660736be07",
+        "release_mbid": "92227a33-b9f1-46a2-881a-a20e69899495",
+        "release_group_mbid": "a240c522-0cb8-4a81-b099-4f32849eb6f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793400507,
+      "listened_at_utc": "2026-10-30T22:48:27Z",
+      "artist": "Fine",
+      "track": "Run",
+      "album": "Jazz dreams",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8d50e39f-d7b1-405b-bd16-08ed4e5a398a"
+        ],
+        "recording_mbid": "ed818ca1-9e8e-4d27-895f-7b30e86a8c98",
+        "release_mbid": "92227a33-b9f1-46a2-881a-a20e69899495",
+        "release_group_mbid": "a240c522-0cb8-4a81-b099-4f32849eb6f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793400416,
+      "listened_at_utc": "2026-10-30T22:46:56Z",
+      "artist": "Fine",
+      "track": "Sometimes I rush",
+      "album": "Jazz dreams",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8d50e39f-d7b1-405b-bd16-08ed4e5a398a"
+        ],
+        "recording_mbid": "c8050302-bc4a-489d-9c32-b278b8246fa5",
+        "release_mbid": "92227a33-b9f1-46a2-881a-a20e69899495",
+        "release_group_mbid": "a240c522-0cb8-4a81-b099-4f32849eb6f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793400254,
+      "listened_at_utc": "2026-10-30T22:44:14Z",
+      "artist": "Fine",
+      "track": "Million years",
+      "album": "Jazz dreams",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8d50e39f-d7b1-405b-bd16-08ed4e5a398a"
+        ],
+        "recording_mbid": "8c615271-853e-4191-b8fa-4604f5600379",
+        "release_mbid": "92227a33-b9f1-46a2-881a-a20e69899495",
+        "release_group_mbid": "a240c522-0cb8-4a81-b099-4f32849eb6f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793400113,
+      "listened_at_utc": "2026-10-30T22:41:53Z",
+      "artist": "Fine",
+      "track": "Any minute",
+      "album": "Jazz dreams",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8d50e39f-d7b1-405b-bd16-08ed4e5a398a"
+        ],
+        "recording_mbid": "1f193619-6711-40b6-9b10-ac73ce0edcba",
+        "release_mbid": "92227a33-b9f1-46a2-881a-a20e69899495",
+        "release_group_mbid": "a240c522-0cb8-4a81-b099-4f32849eb6f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793399900,
+      "listened_at_utc": "2026-10-30T22:38:20Z",
+      "artist": "Fine",
+      "track": "Get in",
+      "album": "Jazz dreams",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8d50e39f-d7b1-405b-bd16-08ed4e5a398a"
+        ],
+        "recording_mbid": "aa89b1ce-1cca-4726-9a13-aabdd913b3d3",
+        "release_mbid": "92227a33-b9f1-46a2-881a-a20e69899495",
+        "release_group_mbid": "a240c522-0cb8-4a81-b099-4f32849eb6f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793399730,
+      "listened_at_utc": "2026-10-30T22:35:30Z",
+      "artist": "Fine",
+      "track": "Goodbye brain",
+      "album": "Jazz dreams",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8d50e39f-d7b1-405b-bd16-08ed4e5a398a"
+        ],
+        "recording_mbid": "87f08bdd-f410-4ee2-a475-1d9e36815629",
+        "release_mbid": "92227a33-b9f1-46a2-881a-a20e69899495",
+        "release_group_mbid": "a240c522-0cb8-4a81-b099-4f32849eb6f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793399574,
+      "listened_at_utc": "2026-10-30T22:32:54Z",
+      "artist": "Fine",
+      "track": "I could",
+      "album": "Jazz dreams",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8d50e39f-d7b1-405b-bd16-08ed4e5a398a"
+        ],
+        "recording_mbid": "5da3ee51-57b2-45de-9fae-61183236f0d8",
+        "release_mbid": "92227a33-b9f1-46a2-881a-a20e69899495",
+        "release_group_mbid": "a240c522-0cb8-4a81-b099-4f32849eb6f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793399356,
+      "listened_at_utc": "2026-10-30T22:29:16Z",
+      "artist": "Fine",
+      "track": "If you wanna come down",
+      "album": "Jazz dreams",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8d50e39f-d7b1-405b-bd16-08ed4e5a398a"
+        ],
+        "recording_mbid": "a9ec489b-82f4-4b4b-a081-deac75fbb809",
+        "release_mbid": "92227a33-b9f1-46a2-881a-a20e69899495",
+        "release_group_mbid": "a240c522-0cb8-4a81-b099-4f32849eb6f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793399228,
+      "listened_at_utc": "2026-10-30T22:27:08Z",
+      "artist": "Fine",
+      "track": "The thing",
+      "album": "Jazz dreams",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8d50e39f-d7b1-405b-bd16-08ed4e5a398a"
+        ],
+        "recording_mbid": "f80731bb-f384-4b87-99f5-edc90b76e583",
+        "release_mbid": "92227a33-b9f1-46a2-881a-a20e69899495",
+        "release_group_mbid": "a240c522-0cb8-4a81-b099-4f32849eb6f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793388816,
+      "listened_at_utc": "2026-10-30T19:33:36Z",
+      "artist": "TV on the Radio",
+      "track": "Golden Age",
+      "album": "Dear Science (Bonus Track Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "eb872766-98f6-453d-883f-2ae908a18315"
+        ],
+        "recording_mbid": "cf9cfe91-60e1-47bf-befa-40c957f83a83",
+        "release_mbid": "7a866f52-4d74-4ac6-b83f-caaae156da0c",
+        "release_group_mbid": "572aeb84-6e76-3dc6-aea0-bf37ae6584c6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793388575,
+      "listened_at_utc": "2026-10-30T19:29:35Z",
+      "artist": "TV on the Radio",
+      "track": "Stork & Owl",
+      "album": "Dear Science (Bonus Track Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "eb872766-98f6-453d-883f-2ae908a18315"
+        ],
+        "recording_mbid": "cc918c3c-11b3-4c9c-b471-46fa6f8836c1",
+        "release_mbid": "7a866f52-4d74-4ac6-b83f-caaae156da0c",
+        "release_group_mbid": "572aeb84-6e76-3dc6-aea0-bf37ae6584c6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793388397,
+      "listened_at_utc": "2026-10-30T19:26:37Z",
+      "artist": "TV on the Radio",
+      "track": "Dancing Choose",
+      "album": "Dear Science (Bonus Track Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "eb872766-98f6-453d-883f-2ae908a18315"
+        ],
+        "recording_mbid": "c06109b5-f8c5-4b89-94b1-a6173cb5f7c0",
+        "release_mbid": "7a866f52-4d74-4ac6-b83f-caaae156da0c",
+        "release_group_mbid": "572aeb84-6e76-3dc6-aea0-bf37ae6584c6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793388012,
+      "listened_at_utc": "2026-10-30T19:20:12Z",
+      "artist": "TV on the Radio",
+      "track": "Crying",
+      "album": "Dear Science (Bonus Track Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "eb872766-98f6-453d-883f-2ae908a18315"
+        ],
+        "recording_mbid": "a6d80620-2c4f-4bf8-8c81-0ddb6e2bb4d3",
+        "release_mbid": "7a866f52-4d74-4ac6-b83f-caaae156da0c",
+        "release_group_mbid": "572aeb84-6e76-3dc6-aea0-bf37ae6584c6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793387679,
+      "listened_at_utc": "2026-10-30T19:14:39Z",
+      "artist": "TV on the Radio",
+      "track": "Halfway Home",
+      "album": "Dear Science (Bonus Track Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "eb872766-98f6-453d-883f-2ae908a18315"
+        ],
+        "recording_mbid": "3948f8db-5ee7-46ed-af18-996e16d29797",
+        "release_mbid": "7a866f52-4d74-4ac6-b83f-caaae156da0c",
+        "release_group_mbid": "572aeb84-6e76-3dc6-aea0-bf37ae6584c6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793387292,
+      "listened_at_utc": "2026-10-30T19:08:12Z",
+      "artist": "טונה",
+      "track": "שימי",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "9ac87777-2349-4936-b739-57360225da88",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793387047,
+      "listened_at_utc": "2026-10-30T19:04:07Z",
+      "artist": "טונה",
+      "track": "סהרה",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "8690b8c2-76eb-4775-ace6-b6349ccb4dcf",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793386859,
+      "listened_at_utc": "2026-10-30T19:00:59Z",
+      "artist": "טונה",
+      "track": "היי בייב",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "6a86dabd-e4de-43dc-bb07-66f878f2dace",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793386653,
+      "listened_at_utc": "2026-10-30T18:57:33Z",
+      "artist": "טונה",
+      "track": "יודעת לסובב",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "ccd8a710-6f36-4e50-addd-5f64d63bbb27",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793386378,
+      "listened_at_utc": "2026-10-30T18:52:58Z",
+      "artist": "טונה",
+      "track": "שובו של מרדכי",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398",
+          "efb391b6-85a5-45d8-a11a-980aeefeb1ce",
+          "01a0e070-c304-49ff-b1c6-62ba3d11e592"
+        ],
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "recording_mbid": "4b4caac8-b65d-4fe5-8035-23bb3a542a76",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793386195,
+      "listened_at_utc": "2026-10-30T18:49:55Z",
+      "artist": "טונה",
+      "track": "כל הכוכבים",
+      "album": "מזרח פרוע",
+      "musicbrainz": {
+        "artist_mbids": [
+          "662de377-4958-4b47-a0af-47d80c708398"
+        ],
+        "recording_mbid": "83e76432-8835-4d62-b0b9-121e2cee01be",
+        "release_mbid": "622de01d-113f-4f5c-b326-d5a0edb3b937",
+        "release_group_mbid": "cd167864-8854-4632-85ce-dfa497d01072"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793385850,
+      "listened_at_utc": "2026-10-30T18:44:10Z",
+      "artist": "Tsuyoshi Yamamoto Trio",
+      "track": "Midnight Sugar",
+      "album": "Midnight Sugar",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
+        ],
+        "recording_mbid": "073e8f6d-efc8-49e0-8cb3-b4d091b402a3",
+        "release_mbid": "d8e4a129-d8f5-4b80-8414-3da3f8ad91dc",
+        "release_group_mbid": "4890f61a-9b84-42e9-aaf3-c0899c019bcf"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793385485,
+      "listened_at_utc": "2026-10-30T18:38:05Z",
+      "artist": "Norah Jones",
+      "track": "Come Away With Me (192kHz/24bit)",
+      "album": "Come Away with Me",
+      "musicbrainz": {
+        "artist_mbids": [
+          "985c709c-7771-4de3-9024-7bda29ebe3f9"
+        ],
+        "release_mbid": "a0a8beba-5b3c-37fe-bb01-50527bf72991",
+        "recording_mbid": "a38c28ee-4430-4429-b3e7-e7920895b2d2",
+        "release_group_mbid": "6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793385308,
+      "listened_at_utc": "2026-10-30T18:35:08Z",
+      "artist": "Norah Jones",
+      "track": "Feelin' The Same Way (192kHz/24bit)",
+      "album": "Come Away with Me",
+      "musicbrainz": {
+        "artist_mbids": [
+          "985c709c-7771-4de3-9024-7bda29ebe3f9"
+        ],
+        "release_mbid": "a0a8beba-5b3c-37fe-bb01-50527bf72991",
+        "recording_mbid": "f83a83aa-698e-4b07-a491-4fc62ac259eb",
+        "release_group_mbid": "6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793385085,
+      "listened_at_utc": "2026-10-30T18:31:25Z",
+      "artist": "Norah Jones",
+      "track": "Cold, Cold Heart",
+      "album": "Come Away with Me",
+      "musicbrainz": {
+        "artist_mbids": [
+          "985c709c-7771-4de3-9024-7bda29ebe3f9"
+        ],
+        "recording_mbid": "8f9329ce-fddd-43a3-ba3a-a97b84b83529",
+        "release_mbid": "919328e3-0e7d-464a-8586-e2f5466b65b4",
+        "release_group_mbid": "6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793384939,
+      "listened_at_utc": "2026-10-30T18:28:59Z",
+      "artist": "Norah Jones",
+      "track": "Seven Years (192kHz/24bit)",
+      "album": "Come Away with Me",
+      "musicbrainz": {
+        "artist_mbids": [
+          "985c709c-7771-4de3-9024-7bda29ebe3f9"
+        ],
+        "release_mbid": "a0a8beba-5b3c-37fe-bb01-50527bf72991",
+        "recording_mbid": "a17cd653-af0a-4399-9192-57cf780ba79a",
+        "release_group_mbid": "6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793384747,
+      "listened_at_utc": "2026-10-30T18:25:47Z",
+      "artist": "Norah Jones",
+      "track": "Don't Know Why (192kHz/24bit)",
+      "album": "Come Away with Me",
+      "musicbrainz": {
+        "artist_mbids": [
+          "985c709c-7771-4de3-9024-7bda29ebe3f9"
+        ],
+        "release_mbid": "a0a8beba-5b3c-37fe-bb01-50527bf72991",
+        "recording_mbid": "727ab502-2691-4fbd-b9da-17e898844eff",
+        "release_group_mbid": "6ccac9d2-22ed-33de-bd5d-f2aadcacf7f8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793384579,
+      "listened_at_utc": "2026-10-30T18:22:59Z",
+      "artist": "Tracy Chapman",
+      "track": "Baby Can I Hold You",
+      "album": "Tracy Chapman",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1129817c-488a-4096-80c1-77fc1b107c93"
+        ],
+        "recording_mbid": "19dc6206-5102-4ff0-b1e6-a5c1a24aceb5",
+        "release_mbid": "df581a5d-f0f1-33c0-8e2d-4e7637e53bb1",
+        "release_group_mbid": "a738bdf1-f610-30aa-9ae7-9a4f90d6f2d7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793384344,
+      "listened_at_utc": "2026-10-30T18:19:04Z",
+      "artist": "Tracy Chapman",
+      "track": "Across the Lines",
+      "album": "Tracy Chapman",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1129817c-488a-4096-80c1-77fc1b107c93"
+        ],
+        "recording_mbid": "e8360d3b-75d3-4ae4-ba63-6da06bbf41f4",
+        "release_mbid": "df581a5d-f0f1-33c0-8e2d-4e7637e53bb1",
+        "release_group_mbid": "a738bdf1-f610-30aa-9ae7-9a4f90d6f2d7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793384045,
+      "listened_at_utc": "2026-10-30T18:14:05Z",
+      "artist": "Tracy Chapman",
+      "track": "Fast Car",
+      "album": "Tracy Chapman",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1129817c-488a-4096-80c1-77fc1b107c93"
+        ],
+        "recording_mbid": "883821fc-9bbc-4e04-be79-b4b12c4c4a4e",
+        "release_mbid": "df581a5d-f0f1-33c0-8e2d-4e7637e53bb1",
+        "release_group_mbid": "a738bdf1-f610-30aa-9ae7-9a4f90d6f2d7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793383602,
+      "listened_at_utc": "2026-10-30T18:06:42Z",
+      "artist": "Anouar Brahem",
+      "track": "Al Birwa",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "5f86bf21-e688-4b1f-a930-94c682038d9c",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1793366899,
       "listened_at_utc": "2026-10-30T13:28:19Z",
