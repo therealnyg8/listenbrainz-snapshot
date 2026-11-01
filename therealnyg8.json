@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-10-31T15:24:10Z",
+  "generated_at_utc": "2026-11-01T16:07:41Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-02T15:24:10Z",
-    "through_utc": "2026-10-31T15:24:10Z",
+    "from_utc": "2026-08-03T16:07:41Z",
+    "through_utc": "2026-11-01T16:07:41Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
-    "raw_listen_count": 2366,
-    "deduplicated_listen_count": 1447,
-    "duplicates_removed": 919,
+    "raw_listen_count": 2395,
+    "deduplicated_listen_count": 1463,
+    "duplicates_removed": 932,
     "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-10-30T22:54:23Z"
+    "newest_listen_utc": "2026-11-01T14:55:28Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,18 +28,14 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 177,
-      "unique_artists": 33,
-      "unique_albums": 33,
+      "listen_count": 124,
+      "unique_artists": 24,
+      "unique_albums": 24,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "Fine",
-          "listen_count": 24
-        },
-        {
-          "artist": "Cortex",
-          "listen_count": 13
+          "listen_count": 12
         },
         {
           "artist": "The Roots",
@@ -50,31 +46,19 @@
           "listen_count": 12
         },
         {
-          "artist": "Michael Kiwanuka",
+          "artist": "The Zombies",
           "listen_count": 11
         },
         {
-          "artist": "The Zombies",
-          "listen_count": 11
+          "artist": "Funkadelic",
+          "listen_count": 10
         },
         {
           "artist": "The Raconteurs",
           "listen_count": 10
         },
         {
-          "artist": "Ahmad Jamal Trio",
-          "listen_count": 8
-        },
-        {
-          "artist": "Cymande",
-          "listen_count": 8
-        },
-        {
-          "artist": "Funkadelic",
-          "listen_count": 8
-        },
-        {
-          "artist": "Brad Mehldau Trio",
+          "artist": "Clairo",
           "listen_count": 6
         },
         {
@@ -102,8 +86,12 @@
           "listen_count": 4
         },
         {
-          "artist": "Olivia Rodrigo",
+          "artist": "Taeko Onuki",
           "listen_count": 4
+        },
+        {
+          "artist": "Talk Talk",
+          "listen_count": 3
         },
         {
           "artist": "Tracy Chapman",
@@ -114,19 +102,15 @@
           "listen_count": 2
         },
         {
+          "artist": "Cymande",
+          "listen_count": 2
+        },
+        {
           "artist": "Ginger Root",
           "listen_count": 2
         },
         {
-          "artist": "Julia Holter",
-          "listen_count": 2
-        },
-        {
           "artist": "Allen Toussaint",
-          "listen_count": 1
-        },
-        {
-          "artist": "Cameron Winter",
           "listen_count": 1
         },
         {
@@ -138,27 +122,7 @@
           "listen_count": 1
         },
         {
-          "artist": "Janko Nilović",
-          "listen_count": 1
-        },
-        {
-          "artist": "Julian Lage",
-          "listen_count": 1
-        },
-        {
           "artist": "Metric",
-          "listen_count": 1
-        },
-        {
-          "artist": "Ricardo Marrero",
-          "listen_count": 1
-        },
-        {
-          "artist": "The Avalanches",
-          "listen_count": 1
-        },
-        {
-          "artist": "The National",
           "listen_count": 1
         },
         {
@@ -170,16 +134,9 @@
         {
           "artist": "Fine",
           "album": "Jazz dreams",
-          "listen_count": 24,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-30T22:54:23Z"
-        },
-        {
-          "artist": "Cortex",
-          "album": "Troupeau bleu",
-          "listen_count": 13,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-25T12:58:33Z"
+          "listen_count": 12,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-10-31T15:54:26Z"
         },
         {
           "artist": "The Roots",
@@ -196,18 +153,18 @@
           "last_listened_at_utc": "2026-10-28T22:57:32Z"
         },
         {
-          "artist": "Michael Kiwanuka",
-          "album": "FUDGE",
-          "listen_count": 11,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-10-24T18:26:33Z"
-        },
-        {
           "artist": "The Zombies",
           "album": "Odessey and Oracle (Mono Remastered)",
           "listen_count": 11,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-10-26T23:29:34Z"
+        },
+        {
+          "artist": "Funkadelic",
+          "album": "Cosmic Slop",
+          "listen_count": 10,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-31T18:11:35Z"
         },
         {
           "artist": "The Raconteurs",
@@ -217,32 +174,11 @@
           "last_listened_at_utc": "2026-10-27T19:50:08Z"
         },
         {
-          "artist": "Ahmad Jamal Trio",
-          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-24T23:17:44Z"
-        },
-        {
-          "artist": "Cymande",
-          "album": "Cymande",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-25T16:21:18Z"
-        },
-        {
-          "artist": "Funkadelic",
-          "album": "Cosmic Slop",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-30T13:28:19Z"
-        },
-        {
-          "artist": "Brad Mehldau Trio",
-          "album": "Blues and Ballads",
+          "artist": "Clairo",
+          "album": "Charm",
           "listen_count": 6,
           "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-24T20:01:30Z"
+          "last_listened_at_utc": "2026-10-31T16:33:39Z"
         },
         {
           "artist": "Miles Davis",
@@ -287,11 +223,18 @@
           "last_listened_at_utc": "2026-10-28T23:25:14Z"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "album": "SOUR",
+          "artist": "Taeko Onuki",
+          "album": "Mignonne (Mastered by Bernie Grundman)",
           "listen_count": 4,
           "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-24T23:38:51Z"
+          "last_listened_at_utc": "2026-10-31T16:09:54Z"
+        },
+        {
+          "artist": "Talk Talk",
+          "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-11-01T14:55:28Z"
         },
         {
           "artist": "Tracy Chapman",
@@ -308,6 +251,13 @@
           "last_listened_at_utc": "2026-10-30T18:06:42Z"
         },
         {
+          "artist": "Cymande",
+          "album": "Cymande",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-25T16:21:18Z"
+        },
+        {
           "artist": "Ginger Root",
           "album": "SHINBANGUMI",
           "listen_count": 2,
@@ -315,25 +265,11 @@
           "last_listened_at_utc": "2026-10-28T22:18:20Z"
         },
         {
-          "artist": "Julia Holter",
-          "album": "Have You In My Wilderness",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-24T21:08:55Z"
-        },
-        {
           "artist": "Allen Toussaint",
           "album": "Southern Nights (2003 Remaster)",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-28T22:15:58Z"
-        },
-        {
-          "artist": "Cameron Winter",
-          "album": "Live at Carnegie Hall",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-24T23:23:35Z"
         },
         {
           "artist": "Cartoons",
@@ -350,46 +286,11 @@
           "last_listened_at_utc": "2026-10-28T23:00:58Z"
         },
         {
-          "artist": "Janko Nilović",
-          "album": "Chorus",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-25T13:01:26Z"
-        },
-        {
-          "artist": "Julian Lage",
-          "album": "Scenes From Above",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-24T23:43:09Z"
-        },
-        {
           "artist": "Metric",
           "album": "Live It Out",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-27T13:00:42Z"
-        },
-        {
-          "artist": "Ricardo Marrero",
-          "album": "Time",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-25T13:04:39Z"
-        },
-        {
-          "artist": "The Avalanches",
-          "album": "No Bad Memories",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-24T23:22:34Z"
-        },
-        {
-          "artist": "The National",
-          "album": "Boxer",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-24T19:21:42Z"
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -401,14 +302,14 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 834,
-      "unique_artists": 143,
-      "unique_albums": 159,
+      "listen_count": 846,
+      "unique_artists": 146,
+      "unique_albums": 162,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "טונה",
-          "listen_count": 40
+          "listen_count": 39
         },
         {
           "artist": "Parquet Courts",
@@ -428,7 +329,7 @@
         },
         {
           "artist": "Fine",
-          "listen_count": 24
+          "listen_count": 25
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -491,10 +392,6 @@
           "listen_count": 12
         },
         {
-          "artist": "Bullion",
-          "listen_count": 11
-        },
-        {
           "artist": "Erykah Badu",
           "listen_count": 11
         },
@@ -508,6 +405,10 @@
         },
         {
           "artist": "Chet Baker",
+          "listen_count": 10
+        },
+        {
+          "artist": "Funkadelic",
           "listen_count": 10
         },
         {
@@ -531,11 +432,11 @@
           "listen_count": 9
         },
         {
-          "artist": "Cymande",
+          "artist": "Bullion",
           "listen_count": 8
         },
         {
-          "artist": "Funkadelic",
+          "artist": "Cymande",
           "listen_count": 8
         },
         {
@@ -576,6 +477,10 @@
         },
         {
           "artist": "Bruce Springsteen",
+          "listen_count": 6
+        },
+        {
+          "artist": "Clairo",
           "listen_count": 6
         },
         {
@@ -643,6 +548,10 @@
           "listen_count": 4
         },
         {
+          "artist": "Taeko Onuki",
+          "listen_count": 4
+        },
+        {
           "artist": "Tinashe",
           "listen_count": 4
         },
@@ -684,6 +593,10 @@
         },
         {
           "artist": "Sven Wunder",
+          "listen_count": 3
+        },
+        {
+          "artist": "Talk Talk",
           "listen_count": 3
         },
         {
@@ -1011,14 +924,14 @@
         {
           "artist": "Fine",
           "album": "Jazz dreams",
-          "listen_count": 24,
+          "listen_count": 25,
           "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-30T22:54:23Z"
+          "last_listened_at_utc": "2026-10-31T15:54:26Z"
         },
         {
           "artist": "טונה",
           "album": "מזרח פרוע",
-          "listen_count": 23,
+          "listen_count": 22,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-30T19:08:12Z"
         },
@@ -1107,13 +1020,6 @@
           "last_listened_at_utc": "2026-10-28T22:57:32Z"
         },
         {
-          "artist": "Bullion",
-          "album": "Nearly",
-          "listen_count": 11,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-03T12:08:00Z"
-        },
-        {
           "artist": "Erykah Badu",
           "album": "New Amerykah Part One (4th World War)",
           "listen_count": 11,
@@ -1161,6 +1067,13 @@
           "listen_count": 10,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-10-10T17:57:54Z"
+        },
+        {
+          "artist": "Funkadelic",
+          "album": "Cosmic Slop",
+          "listen_count": 10,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-31T18:11:35Z"
         },
         {
           "artist": "Nils Frahm",
@@ -1212,18 +1125,18 @@
           "last_listened_at_utc": "2026-10-10T19:10:57Z"
         },
         {
+          "artist": "Bullion",
+          "album": "Nearly",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-03T12:08:00Z"
+        },
+        {
           "artist": "Cymande",
           "album": "Cymande",
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-25T16:21:18Z"
-        },
-        {
-          "artist": "Funkadelic",
-          "album": "Cosmic Slop",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-30T13:28:19Z"
         },
         {
           "artist": "JID",
@@ -1315,6 +1228,13 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-20T13:12:53Z"
+        },
+        {
+          "artist": "Clairo",
+          "album": "Charm",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-31T16:33:39Z"
         },
         {
           "artist": "Isao Suzuki Trio / Quartet",
@@ -1436,6 +1356,13 @@
           "last_listened_at_utc": "2026-10-12T21:34:28Z"
         },
         {
+          "artist": "Taeko Onuki",
+          "album": "Mignonne (Mastered by Bernie Grundman)",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-31T16:09:54Z"
+        },
+        {
           "artist": "Tinashe",
           "album": "Popstar",
           "listen_count": 4,
@@ -1532,6 +1459,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-15T21:43:47Z"
+        },
+        {
+          "artist": "Talk Talk",
+          "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-11-01T14:55:28Z"
         },
         {
           "artist": "The Smile",
@@ -2096,9 +2030,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1447,
-      "unique_artists": 207,
-      "unique_albums": 248,
+      "listen_count": 1463,
+      "unique_artists": 210,
+      "unique_albums": 251,
       "listens_without_album": 0,
       "artists": [
         {
@@ -2151,7 +2085,7 @@
         },
         {
           "artist": "Fine",
-          "listen_count": 24
+          "listen_count": 25
         },
         {
           "artist": "Sonny Rollins",
@@ -2258,6 +2192,10 @@
           "listen_count": 10
         },
         {
+          "artist": "Funkadelic",
+          "listen_count": 10
+        },
+        {
           "artist": "Hermanos Gutiérrez",
           "listen_count": 10
         },
@@ -2287,10 +2225,6 @@
         },
         {
           "artist": "Cymande",
-          "listen_count": 8
-        },
-        {
-          "artist": "Funkadelic",
           "listen_count": 8
         },
         {
@@ -2339,6 +2273,10 @@
         },
         {
           "artist": "Brad Mehldau Trio",
+          "listen_count": 6
+        },
+        {
+          "artist": "Clairo",
           "listen_count": 6
         },
         {
@@ -2434,6 +2372,10 @@
           "listen_count": 4
         },
         {
+          "artist": "Taeko Onuki",
+          "listen_count": 4
+        },
+        {
           "artist": "Tinashe",
           "listen_count": 4
         },
@@ -2479,6 +2421,10 @@
         },
         {
           "artist": "Sven Wunder",
+          "listen_count": 3
+        },
+        {
+          "artist": "Talk Talk",
           "listen_count": 3
         },
         {
@@ -3004,9 +2950,9 @@
         {
           "artist": "Fine",
           "album": "Jazz dreams",
-          "listen_count": 24,
+          "listen_count": 25,
           "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-30T22:54:23Z"
+          "last_listened_at_utc": "2026-10-31T15:54:26Z"
         },
         {
           "artist": "נצ׳י נצ׳",
@@ -3261,6 +3207,13 @@
           "last_listened_at_utc": "2026-10-10T17:57:54Z"
         },
         {
+          "artist": "Funkadelic",
+          "album": "Cosmic Slop",
+          "listen_count": 10,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-31T18:11:35Z"
+        },
+        {
           "artist": "Hermanos Gutiérrez",
           "album": "Los Ojos Del Cóndor",
           "listen_count": 10,
@@ -3345,13 +3298,6 @@
           "last_listened_at_utc": "2026-10-25T16:21:18Z"
         },
         {
-          "artist": "Funkadelic",
-          "album": "Cosmic Slop",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-30T13:28:19Z"
-        },
-        {
           "artist": "JID",
           "album": "The Forever Story (Extended Version)",
           "listen_count": 8,
@@ -3434,6 +3380,13 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-20T13:12:53Z"
+        },
+        {
+          "artist": "Clairo",
+          "album": "Charm",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-31T16:33:39Z"
         },
         {
           "artist": "Hank Mobley",
@@ -3611,6 +3564,13 @@
           "last_listened_at_utc": "2026-10-12T21:34:28Z"
         },
         {
+          "artist": "Taeko Onuki",
+          "album": "Mignonne (Mastered by Bernie Grundman)",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-31T16:09:54Z"
+        },
+        {
           "artist": "Tinashe",
           "album": "Popstar",
           "listen_count": 4,
@@ -3735,6 +3695,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-15T21:43:47Z"
+        },
+        {
+          "artist": "Talk Talk",
+          "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-11-01T14:55:28Z"
         },
         {
           "artist": "The Smile",
@@ -4671,6 +4638,299 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1793544928,
+      "listened_at_utc": "2026-11-01T14:55:28Z",
+      "artist": "Talk Talk",
+      "track": "Life's What You Make It",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "7e175255-060a-4980-932b-7a4c56127446",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793544658,
+      "listened_at_utc": "2026-11-01T14:50:58Z",
+      "artist": "Talk Talk",
+      "track": "I Don't Believe in You",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "9bbc4b0e-bfff-4b07-9130-fabbb63a70d2",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793544354,
+      "listened_at_utc": "2026-11-01T14:45:54Z",
+      "artist": "Talk Talk",
+      "track": "Happiness Is Easy",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "0c41ae1a-c2fa-4893-ab29-e77e741fa4fd",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793470295,
+      "listened_at_utc": "2026-10-31T18:11:35Z",
+      "artist": "Funkadelic",
+      "track": "You Can't Miss What You Can't Measure",
+      "album": "Cosmic Slop",
+      "musicbrainz": {
+        "artist_mbids": [
+          "cf042013-3edd-46c4-9b0e-a62faac98d0b"
+        ],
+        "recording_mbid": "615dbc31-2baa-46f7-8d89-dd27a8e9fd93",
+        "release_mbid": "10159ac7-a70b-4150-a713-d58c904817ac",
+        "release_group_mbid": "3337c981-c416-3513-a02b-6d6065b9316b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793470108,
+      "listened_at_utc": "2026-10-31T18:08:28Z",
+      "artist": "Funkadelic",
+      "track": "Nappy Dugout",
+      "album": "Cosmic Slop",
+      "musicbrainz": {
+        "artist_mbids": [
+          "cf042013-3edd-46c4-9b0e-a62faac98d0b"
+        ],
+        "recording_mbid": "068f703d-dba6-42fb-936a-14009051e027",
+        "release_mbid": "10159ac7-a70b-4150-a713-d58c904817ac",
+        "release_group_mbid": "3337c981-c416-3513-a02b-6d6065b9316b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793464419,
+      "listened_at_utc": "2026-10-31T16:33:39Z",
+      "artist": "Clairo",
+      "track": "Terrapin",
+      "album": "Charm",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d786f59b-1836-4ddb-8393-ab753edbe984"
+        ],
+        "recording_mbid": "4be2aed9-3719-4655-951c-51f7e488a569",
+        "release_mbid": "aad443c7-a041-4fc5-9874-2c258673eca6",
+        "release_group_mbid": "6fb46378-9cb7-4693-b76d-a62f2cc09214"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793464208,
+      "listened_at_utc": "2026-10-31T16:30:08Z",
+      "artist": "Clairo",
+      "track": "Thank You",
+      "album": "Charm",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d786f59b-1836-4ddb-8393-ab753edbe984"
+        ],
+        "recording_mbid": "1fdb1f10-6047-4464-a5af-3e109c4e91f7",
+        "release_mbid": "aad443c7-a041-4fc5-9874-2c258673eca6",
+        "release_group_mbid": "6fb46378-9cb7-4693-b76d-a62f2cc09214"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793463974,
+      "listened_at_utc": "2026-10-31T16:26:14Z",
+      "artist": "Clairo",
+      "track": "Slow Dance",
+      "album": "Charm",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d786f59b-1836-4ddb-8393-ab753edbe984"
+        ],
+        "recording_mbid": "b073c842-791f-4a8b-8073-2ab3d58dc770",
+        "release_mbid": "aad443c7-a041-4fc5-9874-2c258673eca6",
+        "release_group_mbid": "6fb46378-9cb7-4693-b76d-a62f2cc09214"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793463746,
+      "listened_at_utc": "2026-10-31T16:22:26Z",
+      "artist": "Clairo",
+      "track": "Second Nature",
+      "album": "Charm",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d786f59b-1836-4ddb-8393-ab753edbe984"
+        ],
+        "recording_mbid": "0280ccfd-b3a7-46b1-a4a6-18aa1d340c51",
+        "release_mbid": "aad443c7-a041-4fc5-9874-2c258673eca6",
+        "release_group_mbid": "6fb46378-9cb7-4693-b76d-a62f2cc09214"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793463539,
+      "listened_at_utc": "2026-10-31T16:18:59Z",
+      "artist": "Clairo",
+      "track": "Sexy to Someone",
+      "album": "Charm",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d786f59b-1836-4ddb-8393-ab753edbe984"
+        ],
+        "recording_mbid": "4b4e3304-8655-4e2e-a91c-192a0f486134",
+        "release_mbid": "aad443c7-a041-4fc5-9874-2c258673eca6",
+        "release_group_mbid": "6fb46378-9cb7-4693-b76d-a62f2cc09214"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793463307,
+      "listened_at_utc": "2026-10-31T16:15:07Z",
+      "artist": "Clairo",
+      "track": "Nomad",
+      "album": "Charm",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d786f59b-1836-4ddb-8393-ab753edbe984"
+        ],
+        "recording_mbid": "0a90854e-6735-4242-89d7-5c33cf36cb01",
+        "release_mbid": "aad443c7-a041-4fc5-9874-2c258673eca6",
+        "release_group_mbid": "6fb46378-9cb7-4693-b76d-a62f2cc09214"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793462994,
+      "listened_at_utc": "2026-10-31T16:09:54Z",
+      "artist": "Taeko Onuki",
+      "track": "Sora Wo Tobetara",
+      "album": "Mignonne (Mastered by Bernie Grundman)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8370abe0-dbe1-48f4-99d5-6646ff2d8264"
+        ],
+        "release_mbid": "7952952c-25d8-4480-9cfd-66b901d4fb5e"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793462771,
+      "listened_at_utc": "2026-10-31T16:06:11Z",
+      "artist": "Taeko Onuki",
+      "track": "Tasogare",
+      "album": "Mignonne (Mastered by Bernie Grundman)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8370abe0-dbe1-48f4-99d5-6646ff2d8264"
+        ],
+        "release_mbid": "7952952c-25d8-4480-9cfd-66b901d4fb5e"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793462564,
+      "listened_at_utc": "2026-10-31T16:02:44Z",
+      "artist": "Taeko Onuki",
+      "track": "Yokogao",
+      "album": "Mignonne (Mastered by Bernie Grundman)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8370abe0-dbe1-48f4-99d5-6646ff2d8264"
+        ],
+        "release_mbid": "7952952c-25d8-4480-9cfd-66b901d4fb5e"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793462287,
+      "listened_at_utc": "2026-10-31T15:58:07Z",
+      "artist": "Taeko Onuki",
+      "track": "Jajauma Musume",
+      "album": "Mignonne (Mastered by Bernie Grundman)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8370abe0-dbe1-48f4-99d5-6646ff2d8264"
+        ],
+        "release_mbid": "7952952c-25d8-4480-9cfd-66b901d4fb5e"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793462066,
+      "listened_at_utc": "2026-10-31T15:54:26Z",
+      "artist": "Fine",
+      "track": "The thing",
+      "album": "Jazz dreams",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8d50e39f-d7b1-405b-bd16-08ed4e5a398a"
+        ],
+        "recording_mbid": "f80731bb-f384-4b87-99f5-edc90b76e583",
+        "release_mbid": "92227a33-b9f1-46a2-881a-a20e69899495",
+        "release_group_mbid": "a240c522-0cb8-4a81-b099-4f32849eb6f4"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1793400863,
       "listened_at_utc": "2026-10-30T22:54:23Z",
