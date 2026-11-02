@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-01T16:07:41Z",
+  "generated_at_utc": "2026-11-02T19:35:55Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-03T16:07:41Z",
-    "through_utc": "2026-11-01T16:07:41Z",
+    "from_utc": "2026-08-04T19:35:55Z",
+    "through_utc": "2026-11-02T19:35:55Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
-    "raw_listen_count": 2395,
-    "deduplicated_listen_count": 1463,
-    "duplicates_removed": 932,
+    "raw_listen_count": 2424,
+    "deduplicated_listen_count": 1476,
+    "duplicates_removed": 948,
     "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-11-01T14:55:28Z"
+    "newest_listen_utc": "2026-11-02T18:26:11Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,17 +28,17 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 124,
-      "unique_artists": 24,
-      "unique_albums": 24,
+      "listen_count": 121,
+      "unique_artists": 22,
+      "unique_albums": 22,
       "listens_without_album": 0,
       "artists": [
         {
-          "artist": "Fine",
-          "listen_count": 12
+          "artist": "Talk Talk",
+          "listen_count": 15
         },
         {
-          "artist": "The Roots",
+          "artist": "Fine",
           "listen_count": 12
         },
         {
@@ -90,20 +90,8 @@
           "listen_count": 4
         },
         {
-          "artist": "Talk Talk",
-          "listen_count": 3
-        },
-        {
           "artist": "Tracy Chapman",
           "listen_count": 3
-        },
-        {
-          "artist": "Anouar Brahem",
-          "listen_count": 2
-        },
-        {
-          "artist": "Cymande",
-          "listen_count": 2
         },
         {
           "artist": "Ginger Root",
@@ -114,11 +102,15 @@
           "listen_count": 1
         },
         {
-          "artist": "Cartoons",
+          "artist": "Anouar Brahem",
           "listen_count": 1
         },
         {
           "artist": "Childish Gambino",
+          "listen_count": 1
+        },
+        {
+          "artist": "Fripp & Eno",
           "listen_count": 1
         },
         {
@@ -132,18 +124,18 @@
       ],
       "albums": [
         {
+          "artist": "Talk Talk",
+          "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+          "listen_count": 15,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-11-02T18:26:11Z"
+        },
+        {
           "artist": "Fine",
           "album": "Jazz dreams",
           "listen_count": 12,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-10-31T15:54:26Z"
-        },
-        {
-          "artist": "The Roots",
-          "album": "Things Fall Apart (Deluxe Edition)",
-          "listen_count": 12,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-26T13:39:15Z"
         },
         {
           "artist": "Thee Sacred Souls",
@@ -230,32 +222,11 @@
           "last_listened_at_utc": "2026-10-31T16:09:54Z"
         },
         {
-          "artist": "Talk Talk",
-          "album": "The Colour Of Spring (Remastered Hi-Res Version)",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-11-01T14:55:28Z"
-        },
-        {
           "artist": "Tracy Chapman",
           "album": "Tracy Chapman",
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-30T18:22:59Z"
-        },
-        {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-30T18:06:42Z"
-        },
-        {
-          "artist": "Cymande",
-          "album": "Cymande",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-25T16:21:18Z"
         },
         {
           "artist": "Ginger Root",
@@ -272,11 +243,11 @@
           "last_listened_at_utc": "2026-10-28T22:15:58Z"
         },
         {
-          "artist": "Cartoons",
-          "album": "Witch Doctor",
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-25T23:11:30Z"
+          "last_listened_at_utc": "2026-10-30T18:06:42Z"
         },
         {
           "artist": "Childish Gambino",
@@ -284,6 +255,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-28T23:00:58Z"
+        },
+        {
+          "artist": "Fripp & Eno",
+          "album": "Evening Star",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-01T22:24:24Z"
         },
         {
           "artist": "Metric",
@@ -302,9 +280,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 846,
-      "unique_artists": 146,
-      "unique_albums": 162,
+      "listen_count": 822,
+      "unique_artists": 131,
+      "unique_albums": 147,
       "listens_without_album": 0,
       "artists": [
         {
@@ -332,12 +310,12 @@
           "listen_count": 25
         },
         {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "listen_count": 24
-        },
-        {
           "artist": "Djo",
           "listen_count": 23
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "listen_count": 22
         },
         {
           "artist": "Bob Dylan",
@@ -358,6 +336,10 @@
         {
           "artist": "Michael Kiwanuka",
           "listen_count": 18
+        },
+        {
+          "artist": "Talk Talk",
+          "listen_count": 15
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -392,10 +374,6 @@
           "listen_count": 12
         },
         {
-          "artist": "Erykah Badu",
-          "listen_count": 11
-        },
-        {
           "artist": "Kikagaku Moyo",
           "listen_count": 11
         },
@@ -409,10 +387,6 @@
         },
         {
           "artist": "Funkadelic",
-          "listen_count": 10
-        },
-        {
-          "artist": "Nils Frahm",
           "listen_count": 10
         },
         {
@@ -432,11 +406,11 @@
           "listen_count": 9
         },
         {
-          "artist": "Bullion",
+          "artist": "Cymande",
           "listen_count": 8
         },
         {
-          "artist": "Cymande",
+          "artist": "Erykah Badu",
           "listen_count": 8
         },
         {
@@ -596,10 +570,6 @@
           "listen_count": 3
         },
         {
-          "artist": "Talk Talk",
-          "listen_count": 3
-        },
-        {
           "artist": "The Beatles",
           "listen_count": 3
         },
@@ -708,10 +678,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Cornelius",
-          "listen_count": 1
-        },
-        {
           "artist": "Deerhunter",
           "listen_count": 1
         },
@@ -740,6 +706,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Fripp & Eno",
+          "listen_count": 1
+        },
+        {
           "artist": "Greg Abate",
           "listen_count": 1
         },
@@ -748,19 +718,7 @@
           "listen_count": 1
         },
         {
-          "artist": "James Blake",
-          "listen_count": 1
-        },
-        {
           "artist": "Janko Nilović",
-          "listen_count": 1
-        },
-        {
-          "artist": "Jerry Paper",
-          "listen_count": 1
-        },
-        {
-          "artist": "John Carroll Kirby, Mizuhara Sisters",
           "listen_count": 1
         },
         {
@@ -776,10 +734,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Mac DeMarco",
-          "listen_count": 1
-        },
-        {
           "artist": "Marcus Miller",
           "listen_count": 1
         },
@@ -792,10 +746,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Pearl & The Oysters",
-          "listen_count": 1
-        },
-        {
           "artist": "Rajery, Ballaké Sissoko & Driss El Maloumi",
           "listen_count": 1
         },
@@ -804,15 +754,7 @@
           "listen_count": 1
         },
         {
-          "artist": "SE SO NEON",
-          "listen_count": 1
-        },
-        {
           "artist": "SPRINTS",
-          "listen_count": 1
-        },
-        {
-          "artist": "Sam Gendel",
           "listen_count": 1
         },
         {
@@ -825,10 +767,6 @@
         },
         {
           "artist": "Stephanie Stephanou",
-          "listen_count": 1
-        },
-        {
-          "artist": "TOWA TEI",
           "listen_count": 1
         },
         {
@@ -869,26 +807,6 @@
         },
         {
           "artist": "Yosi Horikawa",
-          "listen_count": 1
-        },
-        {
-          "artist": "kukuku",
-          "listen_count": 1
-        },
-        {
-          "artist": "mei ehara",
-          "listen_count": 1
-        },
-        {
-          "artist": "原神玲",
-          "listen_count": 1
-        },
-        {
-          "artist": "安部勇磨",
-          "listen_count": 1
-        },
-        {
-          "artist": "矢野顕子",
           "listen_count": 1
         }
       ],
@@ -957,6 +875,13 @@
           "last_listened_at_utc": "2026-10-22T20:49:22Z"
         },
         {
+          "artist": "Talk Talk",
+          "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+          "listen_count": 15,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-11-02T18:26:11Z"
+        },
+        {
           "artist": "Ahmad Jamal Trio",
           "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
           "listen_count": 14,
@@ -983,13 +908,6 @@
           "listen_count": 13,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-22T17:49:41Z"
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Midnight Sugar",
-          "listen_count": 13,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-30T18:44:10Z"
         },
         {
           "artist": "Admas",
@@ -1020,13 +938,6 @@
           "last_listened_at_utc": "2026-10-28T22:57:32Z"
         },
         {
-          "artist": "Erykah Badu",
-          "album": "New Amerykah Part One (4th World War)",
-          "listen_count": 11,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-10-03T22:00:58Z"
-        },
-        {
           "artist": "Kikagaku Moyo",
           "album": "Kumoyo Island",
           "listen_count": 11,
@@ -1046,6 +957,13 @@
           "listen_count": 11,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-10-26T23:29:34Z"
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Midnight Sugar",
+          "listen_count": 11,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-30T18:44:10Z"
         },
         {
           "artist": "Bob Dylan",
@@ -1074,13 +992,6 @@
           "listen_count": 10,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-31T18:11:35Z"
-        },
-        {
-          "artist": "Nils Frahm",
-          "album": "All Melody",
-          "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-10-02T19:31:45Z"
         },
         {
           "artist": "Songhoy Blues",
@@ -1125,18 +1036,18 @@
           "last_listened_at_utc": "2026-10-10T19:10:57Z"
         },
         {
-          "artist": "Bullion",
-          "album": "Nearly",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-03T12:08:00Z"
-        },
-        {
           "artist": "Cymande",
           "album": "Cymande",
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-25T16:21:18Z"
+        },
+        {
+          "artist": "Erykah Badu",
+          "album": "New Amerykah Part One (4th World War)",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-03T22:00:58Z"
         },
         {
           "artist": "JID",
@@ -1461,13 +1372,6 @@
           "last_listened_at_utc": "2026-10-15T21:43:47Z"
         },
         {
-          "artist": "Talk Talk",
-          "album": "The Colour Of Spring (Remastered Hi-Res Version)",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-11-01T14:55:28Z"
-        },
-        {
           "artist": "The Smile",
           "album": "Wall Of Eyes",
           "listen_count": 3,
@@ -1664,13 +1568,6 @@
           "last_listened_at_utc": "2026-10-28T23:00:58Z"
         },
         {
-          "artist": "Cornelius",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T16:28:43Z"
-        },
-        {
           "artist": "Deerhunter",
           "album": "Monomania",
           "listen_count": 1,
@@ -1720,6 +1617,13 @@
           "last_listened_at_utc": "2026-10-13T22:46:38Z"
         },
         {
+          "artist": "Fripp & Eno",
+          "album": "Evening Star",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-01T22:24:24Z"
+        },
+        {
           "artist": "Greg Abate",
           "album": "Magic Dance: The Music of Kenny Barron",
           "listen_count": 1,
@@ -1734,32 +1638,11 @@
           "last_listened_at_utc": "2026-10-19T02:36:31Z"
         },
         {
-          "artist": "James Blake",
-          "album": "Overgrown",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-02T22:14:19Z"
-        },
-        {
           "artist": "Janko Nilović",
           "album": "Chorus",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-25T13:01:26Z"
-        },
-        {
-          "artist": "Jerry Paper",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:22:42Z"
-        },
-        {
-          "artist": "John Carroll Kirby, Mizuhara Sisters",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:20:14Z"
         },
         {
           "artist": "Julian Lage",
@@ -1781,13 +1664,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-03T22:07:26Z"
-        },
-        {
-          "artist": "Mac DeMarco",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:34:17Z"
         },
         {
           "artist": "Marcus Miller",
@@ -1818,13 +1694,6 @@
           "last_listened_at_utc": "2026-10-04T22:25:29Z"
         },
         {
-          "artist": "Pearl & The Oysters",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:10:39Z"
-        },
-        {
           "artist": "Rajery, Ballaké Sissoko & Driss El Maloumi",
           "album": "3MA",
           "listen_count": 1,
@@ -1839,25 +1708,11 @@
           "last_listened_at_utc": "2026-10-25T13:04:39Z"
         },
         {
-          "artist": "SE SO NEON",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:27:17Z"
-        },
-        {
           "artist": "SPRINTS",
           "album": "Letter to Self",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-22T12:51:16Z"
-        },
-        {
-          "artist": "Sam Gendel",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T16:23:44Z"
         },
         {
           "artist": "Sokratis Sinopoulos Quartet",
@@ -1886,13 +1741,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-24T12:28:18Z"
-        },
-        {
-          "artist": "TOWA TEI",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T16:33:06Z"
         },
         {
           "artist": "The Avalanches",
@@ -1986,53 +1834,18 @@
           "last_listened_at_utc": "2026-10-12T22:57:21Z"
         },
         {
-          "artist": "kukuku",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:37:08Z"
-        },
-        {
-          "artist": "mei ehara",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:13:31Z"
-        },
-        {
           "artist": "טונה",
           "album": "קיסריה אנפלאגד 2022",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-19T23:05:51Z"
-        },
-        {
-          "artist": "原神玲",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:16:54Z"
-        },
-        {
-          "artist": "安部勇磨",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T12:30:12Z"
-        },
-        {
-          "artist": "矢野顕子",
-          "album": "Hosono House Revisited",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T16:19:36Z"
         }
       ]
     },
     "last_90_days": {
-      "listen_count": 1463,
-      "unique_artists": 210,
-      "unique_albums": 251,
+      "listen_count": 1476,
+      "unique_artists": 211,
+      "unique_albums": 252,
       "listens_without_album": 0,
       "artists": [
         {
@@ -2121,6 +1934,10 @@
         },
         {
           "artist": "Kenny Burrell",
+          "listen_count": 15
+        },
+        {
+          "artist": "Talk Talk",
           "listen_count": 15
         },
         {
@@ -2424,10 +2241,6 @@
           "listen_count": 3
         },
         {
-          "artist": "Talk Talk",
-          "listen_count": 3
-        },
-        {
           "artist": "The Beatles",
           "listen_count": 3
         },
@@ -2617,6 +2430,10 @@
         },
         {
           "artist": "Foals",
+          "listen_count": 1
+        },
+        {
+          "artist": "Fripp & Eno",
           "listen_count": 1
         },
         {
@@ -3037,6 +2854,13 @@
           "listen_count": 15,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-09T23:39:47Z"
+        },
+        {
+          "artist": "Talk Talk",
+          "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+          "listen_count": 15,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-11-02T18:26:11Z"
         },
         {
           "artist": "שב״ק ס׳",
@@ -3697,13 +3521,6 @@
           "last_listened_at_utc": "2026-10-15T21:43:47Z"
         },
         {
-          "artist": "Talk Talk",
-          "album": "The Colour Of Spring (Remastered Hi-Res Version)",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-11-01T14:55:28Z"
-        },
-        {
           "artist": "The Smile",
           "album": "Wall Of Eyes",
           "listen_count": 3,
@@ -4087,6 +3904,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-13T22:46:38Z"
+        },
+        {
+          "artist": "Fripp & Eno",
+          "album": "Evening Star",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-01T22:24:24Z"
         },
         {
           "artist": "Gary Peacock / Ralph Towner",
@@ -4639,6 +4463,253 @@
   },
   "recent_listens": [
     {
+      "listened_at": 1793643971,
+      "listened_at_utc": "2026-11-02T18:26:11Z",
+      "artist": "Talk Talk",
+      "track": "Life's What You Make It",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "7e175255-060a-4980-932b-7a4c56127446",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793643662,
+      "listened_at_utc": "2026-11-02T18:21:02Z",
+      "artist": "Talk Talk",
+      "track": "I Don't Believe in You",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "9bbc4b0e-bfff-4b07-9130-fabbb63a70d2",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793643267,
+      "listened_at_utc": "2026-11-02T18:14:27Z",
+      "artist": "Talk Talk",
+      "track": "Happiness Is Easy",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "0c41ae1a-c2fa-4893-ab29-e77e741fa4fd",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793571864,
+      "listened_at_utc": "2026-11-01T22:24:24Z",
+      "artist": "Fripp & Eno",
+      "track": "Wind On Wind",
+      "album": "Evening Star",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1327beb8-ed6b-4c26-a8b7-5209eb01ce2c"
+        ],
+        "recording_mbid": "e890581c-2c18-40f5-8649-0b907c5efbec",
+        "release_mbid": "61dfd17f-c561-4c31-b454-b87574a43327",
+        "release_group_mbid": "55b52d50-a2e4-3147-abb4-7bc1537c1e06"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793571511,
+      "listened_at_utc": "2026-11-01T22:18:31Z",
+      "artist": "Talk Talk",
+      "track": "It's Getting Late in the Evening",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "5d5e2f40-5432-445f-a37b-171e1ff62958",
+        "release_mbid": "9ffb6c10-1cc2-4f47-aef6-31239bfe78d9",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793571014,
+      "listened_at_utc": "2026-11-01T22:10:14Z",
+      "artist": "Talk Talk",
+      "track": "Time It's Time",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "bd1061f8-82af-434b-9ff7-76af401cffc2",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793570813,
+      "listened_at_utc": "2026-11-01T22:06:53Z",
+      "artist": "Talk Talk",
+      "track": "Chameleon Day",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "4fe76034-c65f-42b4-a8e9-8c58791d3ea7",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793570495,
+      "listened_at_utc": "2026-11-01T22:01:35Z",
+      "artist": "Talk Talk",
+      "track": "Give It Up",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "7f0df0ae-461e-4d1b-8f5f-e0deff5c432b",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793570075,
+      "listened_at_utc": "2026-11-01T21:54:35Z",
+      "artist": "Talk Talk",
+      "track": "Living in Another World",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "3b7dd41e-d5d1-46ab-89ac-14d86807c55c",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793569723,
+      "listened_at_utc": "2026-11-01T21:48:43Z",
+      "artist": "Talk Talk",
+      "track": "April 5th",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "34b4218b-d68a-4b89-8256-2b919c6f1554",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793569453,
+      "listened_at_utc": "2026-11-01T21:44:13Z",
+      "artist": "Talk Talk",
+      "track": "Life's What You Make It",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "7e175255-060a-4980-932b-7a4c56127446",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793569150,
+      "listened_at_utc": "2026-11-01T21:39:10Z",
+      "artist": "Talk Talk",
+      "track": "I Don't Believe in You",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "9bbc4b0e-bfff-4b07-9130-fabbb63a70d2",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793568758,
+      "listened_at_utc": "2026-11-01T21:32:38Z",
+      "artist": "Talk Talk",
+      "track": "Happiness Is Easy",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "0c41ae1a-c2fa-4893-ab29-e77e741fa4fd",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
       "listened_at": 1793544928,
       "listened_at_utc": "2026-11-01T14:55:28Z",
       "artist": "Talk Talk",
@@ -4653,7 +4724,8 @@
         "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4671,7 +4743,8 @@
         "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4689,7 +4762,8 @@
         "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
