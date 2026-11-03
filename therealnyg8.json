@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-02T19:35:55Z",
+  "generated_at_utc": "2026-11-03T17:09:38Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-04T19:35:55Z",
-    "through_utc": "2026-11-02T19:35:55Z",
+    "from_utc": "2026-08-05T17:09:38Z",
+    "through_utc": "2026-11-03T17:09:38Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
-    "raw_listen_count": 2424,
-    "deduplicated_listen_count": 1476,
-    "duplicates_removed": 948,
+    "raw_listen_count": 2484,
+    "deduplicated_listen_count": 1506,
+    "duplicates_removed": 978,
     "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-11-02T18:26:11Z"
+    "newest_listen_utc": "2026-11-03T00:44:31Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,14 +28,18 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 121,
-      "unique_artists": 22,
-      "unique_albums": 22,
+      "listen_count": 130,
+      "unique_artists": 32,
+      "unique_albums": 33,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "Talk Talk",
-          "listen_count": 15
+          "listen_count": 22
+        },
+        {
+          "artist": "Diana Krall",
+          "listen_count": 12
         },
         {
           "artist": "Fine",
@@ -46,15 +50,7 @@
           "listen_count": 12
         },
         {
-          "artist": "The Zombies",
-          "listen_count": 11
-        },
-        {
           "artist": "Funkadelic",
-          "listen_count": 10
-        },
-        {
-          "artist": "The Raconteurs",
           "listen_count": 10
         },
         {
@@ -106,7 +102,23 @@
           "listen_count": 1
         },
         {
+          "artist": "Chantal Chamberland",
+          "listen_count": 1
+        },
+        {
           "artist": "Childish Gambino",
+          "listen_count": 1
+        },
+        {
+          "artist": "Chuck Redd with John Di Martino, Nicki Parrott, Lewis Nash and Jerry Weldon",
+          "listen_count": 1
+        },
+        {
+          "artist": "David Sylvian",
+          "listen_count": 1
+        },
+        {
+          "artist": "Dizzy Gillespie",
           "listen_count": 1
         },
         {
@@ -114,7 +126,35 @@
           "listen_count": 1
         },
         {
-          "artist": "Metric",
+          "artist": "Harry Connick, Jr.",
+          "listen_count": 1
+        },
+        {
+          "artist": "Hugh Masekela",
+          "listen_count": 1
+        },
+        {
+          "artist": "Jeffery Smith",
+          "listen_count": 1
+        },
+        {
+          "artist": "Kurt Elling & Yellowjackets",
+          "listen_count": 1
+        },
+        {
+          "artist": "Leo Sidran",
+          "listen_count": 1
+        },
+        {
+          "artist": "Madeleine Peyroux",
+          "listen_count": 1
+        },
+        {
+          "artist": "Metropole Orkest/Vince Mendoza",
+          "listen_count": 1
+        },
+        {
+          "artist": "The Raconteurs",
           "listen_count": 1
         },
         {
@@ -126,9 +166,16 @@
         {
           "artist": "Talk Talk",
           "album": "The Colour Of Spring (Remastered Hi-Res Version)",
-          "listen_count": 15,
+          "listen_count": 21,
           "unique_tracks": 9,
-          "last_listened_at_utc": "2026-11-02T18:26:11Z"
+          "last_listened_at_utc": "2026-11-02T21:46:48Z"
+        },
+        {
+          "artist": "Diana Krall",
+          "album": "Live in Paris",
+          "listen_count": 12,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-11-02T23:54:36Z"
         },
         {
           "artist": "Fine",
@@ -145,25 +192,11 @@
           "last_listened_at_utc": "2026-10-28T22:57:32Z"
         },
         {
-          "artist": "The Zombies",
-          "album": "Odessey and Oracle (Mono Remastered)",
-          "listen_count": 11,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-10-26T23:29:34Z"
-        },
-        {
           "artist": "Funkadelic",
           "album": "Cosmic Slop",
           "listen_count": 10,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-31T18:11:35Z"
-        },
-        {
-          "artist": "The Raconteurs",
-          "album": "Consolers of the Lonely",
-          "listen_count": 10,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-27T19:50:08Z"
         },
         {
           "artist": "Clairo",
@@ -250,11 +283,39 @@
           "last_listened_at_utc": "2026-10-30T18:06:42Z"
         },
         {
+          "artist": "Chantal Chamberland",
+          "album": "Temptation",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:15:55Z"
+        },
+        {
           "artist": "Childish Gambino",
           "album": "Bando Stone and The New World",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-28T23:00:58Z"
+        },
+        {
+          "artist": "Chuck Redd with John Di Martino, Nicki Parrott, Lewis Nash and Jerry Weldon",
+          "album": "Groove City",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:28:43Z"
+        },
+        {
+          "artist": "David Sylvian",
+          "album": "Dead Bees On A Cake (Expanded Edition; Deluxe Edition)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-02T21:58:48Z"
+        },
+        {
+          "artist": "Dizzy Gillespie",
+          "album": "Dizzy 100",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:44:31Z"
         },
         {
           "artist": "Fripp & Eno",
@@ -264,11 +325,67 @@
           "last_listened_at_utc": "2026-11-01T22:24:24Z"
         },
         {
-          "artist": "Metric",
-          "album": "Live It Out",
+          "artist": "Harry Connick, Jr.",
+          "album": "Harry Connick, Jr. (Album Version)",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-27T13:00:42Z"
+          "last_listened_at_utc": "2026-11-03T00:08:03Z"
+        },
+        {
+          "artist": "Hugh Masekela",
+          "album": "Hope",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:23:30Z"
+        },
+        {
+          "artist": "Jeffery Smith",
+          "album": "Reflections",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:03:13Z"
+        },
+        {
+          "artist": "Kurt Elling & Yellowjackets",
+          "album": "Play Weather Report: Alive in Europe + Bonus Studio Recordings",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:34:23Z"
+        },
+        {
+          "artist": "Leo Sidran",
+          "album": "The Art of Conversation",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:11:28Z"
+        },
+        {
+          "artist": "Madeleine Peyroux",
+          "album": "Dreamland",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-02T23:59:41Z"
+        },
+        {
+          "artist": "Metropole Orkest/Vince Mendoza",
+          "album": "Perfect Vision: The Esquivel Sound",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:20:54Z"
+        },
+        {
+          "artist": "Talk Talk",
+          "album": "Essential",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-02T21:52:41Z"
+        },
+        {
+          "artist": "The Raconteurs",
+          "album": "Consolers of the Lonely",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-27T19:50:08Z"
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -280,9 +397,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 822,
-      "unique_artists": 131,
-      "unique_albums": 147,
+      "listen_count": 837,
+      "unique_artists": 140,
+      "unique_albums": 157,
       "listens_without_album": 0,
       "artists": [
         {
@@ -314,6 +431,10 @@
           "listen_count": 23
         },
         {
+          "artist": "Talk Talk",
+          "listen_count": 22
+        },
+        {
           "artist": "Tsuyoshi Yamamoto Trio",
           "listen_count": 22
         },
@@ -338,10 +459,6 @@
           "listen_count": 18
         },
         {
-          "artist": "Talk Talk",
-          "listen_count": 15
-        },
-        {
           "artist": "Ahmad Jamal Trio",
           "listen_count": 14
         },
@@ -359,6 +476,10 @@
         },
         {
           "artist": "Admas",
+          "listen_count": 12
+        },
+        {
+          "artist": "Diana Krall",
           "listen_count": 12
         },
         {
@@ -410,10 +531,6 @@
           "listen_count": 8
         },
         {
-          "artist": "Erykah Badu",
-          "listen_count": 8
-        },
-        {
           "artist": "JID",
           "listen_count": 8
         },
@@ -431,10 +548,6 @@
         },
         {
           "artist": "Kenny Burrell",
-          "listen_count": 7
-        },
-        {
-          "artist": "Nujabes",
           "listen_count": 7
         },
         {
@@ -618,6 +731,10 @@
           "listen_count": 2
         },
         {
+          "artist": "Hugh Masekela",
+          "listen_count": 2
+        },
+        {
           "artist": "Jeff Parker ETA IVtet",
           "listen_count": 2
         },
@@ -670,6 +787,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Chantal Chamberland",
+          "listen_count": 1
+        },
+        {
           "artist": "Charles Earland",
           "listen_count": 1
         },
@@ -678,7 +799,19 @@
           "listen_count": 1
         },
         {
+          "artist": "Chuck Redd with John Di Martino, Nicki Parrott, Lewis Nash and Jerry Weldon",
+          "listen_count": 1
+        },
+        {
+          "artist": "David Sylvian",
+          "listen_count": 1
+        },
+        {
           "artist": "Deerhunter",
+          "listen_count": 1
+        },
+        {
+          "artist": "Dizzy Gillespie",
           "listen_count": 1
         },
         {
@@ -714,7 +847,7 @@
           "listen_count": 1
         },
         {
-          "artist": "Hugh Masekela",
+          "artist": "Harry Connick, Jr.",
           "listen_count": 1
         },
         {
@@ -722,7 +855,19 @@
           "listen_count": 1
         },
         {
+          "artist": "Jeffery Smith",
+          "listen_count": 1
+        },
+        {
           "artist": "Julian Lage",
+          "listen_count": 1
+        },
+        {
+          "artist": "Kurt Elling & Yellowjackets",
+          "listen_count": 1
+        },
+        {
+          "artist": "Leo Sidran",
           "listen_count": 1
         },
         {
@@ -730,7 +875,7 @@
           "listen_count": 1
         },
         {
-          "artist": "Little Simz",
+          "artist": "Madeleine Peyroux",
           "listen_count": 1
         },
         {
@@ -739,6 +884,14 @@
         },
         {
           "artist": "Metric",
+          "listen_count": 1
+        },
+        {
+          "artist": "Metropole Orkest/Vince Mendoza",
+          "listen_count": 1
+        },
+        {
+          "artist": "Nujabes",
           "listen_count": 1
         },
         {
@@ -854,6 +1007,13 @@
           "last_listened_at_utc": "2026-10-30T19:08:12Z"
         },
         {
+          "artist": "Talk Talk",
+          "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+          "listen_count": 21,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-11-02T21:46:48Z"
+        },
+        {
           "artist": "Djo",
           "album": "The Crux Deluxe",
           "listen_count": 20,
@@ -873,13 +1033,6 @@
           "listen_count": 16,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-10-22T20:49:22Z"
-        },
-        {
-          "artist": "Talk Talk",
-          "album": "The Colour Of Spring (Remastered Hi-Res Version)",
-          "listen_count": 15,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-11-02T18:26:11Z"
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -915,6 +1068,13 @@
           "listen_count": 12,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-10-20T23:19:38Z"
+        },
+        {
+          "artist": "Diana Krall",
+          "album": "Live in Paris",
+          "listen_count": 12,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-11-02T23:54:36Z"
         },
         {
           "artist": "Fontaines D.C.",
@@ -1043,13 +1203,6 @@
           "last_listened_at_utc": "2026-10-25T16:21:18Z"
         },
         {
-          "artist": "Erykah Badu",
-          "album": "New Amerykah Part One (4th World War)",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-03T22:00:58Z"
-        },
-        {
           "artist": "JID",
           "album": "The Forever Story (Extended Version)",
           "listen_count": 8,
@@ -1090,13 +1243,6 @@
           "listen_count": 7,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-10-10T17:09:44Z"
-        },
-        {
-          "artist": "Nujabes",
-          "album": "Modal Soul",
-          "listen_count": 7,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-04T20:55:40Z"
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -1449,6 +1595,13 @@
           "last_listened_at_utc": "2026-10-17T19:26:59Z"
         },
         {
+          "artist": "Hugh Masekela",
+          "album": "Hope",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-03T00:23:30Z"
+        },
+        {
           "artist": "Jeff Parker ETA IVtet",
           "album": "The Way Out of Easy",
           "listen_count": 2,
@@ -1554,6 +1707,13 @@
           "last_listened_at_utc": "2026-10-25T23:11:30Z"
         },
         {
+          "artist": "Chantal Chamberland",
+          "album": "Temptation",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:15:55Z"
+        },
+        {
           "artist": "Charles Earland",
           "album": "Leaving This Planet",
           "listen_count": 1,
@@ -1568,11 +1728,32 @@
           "last_listened_at_utc": "2026-10-28T23:00:58Z"
         },
         {
+          "artist": "Chuck Redd with John Di Martino, Nicki Parrott, Lewis Nash and Jerry Weldon",
+          "album": "Groove City",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:28:43Z"
+        },
+        {
+          "artist": "David Sylvian",
+          "album": "Dead Bees On A Cake (Expanded Edition; Deluxe Edition)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-02T21:58:48Z"
+        },
+        {
           "artist": "Deerhunter",
           "album": "Monomania",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-21T20:26:57Z"
+        },
+        {
+          "artist": "Dizzy Gillespie",
+          "album": "Dizzy 100",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:44:31Z"
         },
         {
           "artist": "Elliphant",
@@ -1631,11 +1812,11 @@
           "last_listened_at_utc": "2026-10-22T17:52:43Z"
         },
         {
-          "artist": "Hugh Masekela",
-          "album": "Hope",
+          "artist": "Harry Connick, Jr.",
+          "album": "Harry Connick, Jr. (Album Version)",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-19T02:36:31Z"
+          "last_listened_at_utc": "2026-11-03T00:08:03Z"
         },
         {
           "artist": "Janko Nilović",
@@ -1645,11 +1826,32 @@
           "last_listened_at_utc": "2026-10-25T13:01:26Z"
         },
         {
+          "artist": "Jeffery Smith",
+          "album": "Reflections",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:03:13Z"
+        },
+        {
           "artist": "Julian Lage",
           "album": "Scenes From Above",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-24T23:43:09Z"
+        },
+        {
+          "artist": "Kurt Elling & Yellowjackets",
+          "album": "Play Weather Report: Alive in Europe + Bonus Studio Recordings",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:34:23Z"
+        },
+        {
+          "artist": "Leo Sidran",
+          "album": "The Art of Conversation",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:11:28Z"
         },
         {
           "artist": "Lianne La Havas",
@@ -1659,11 +1861,11 @@
           "last_listened_at_utc": "2026-10-15T23:44:40Z"
         },
         {
-          "artist": "Little Simz",
-          "album": "Sometimes I Might Be Introvert",
+          "artist": "Madeleine Peyroux",
+          "album": "Dreamland",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-03T22:07:26Z"
+          "last_listened_at_utc": "2026-11-02T23:59:41Z"
         },
         {
           "artist": "Marcus Miller",
@@ -1680,11 +1882,25 @@
           "last_listened_at_utc": "2026-10-27T13:00:42Z"
         },
         {
+          "artist": "Metropole Orkest/Vince Mendoza",
+          "album": "Perfect Vision: The Esquivel Sound",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:20:54Z"
+        },
+        {
           "artist": "Michael Kiwanuka",
           "album": "Small Changes",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-12T18:49:53Z"
+        },
+        {
+          "artist": "Nujabes",
+          "album": "Modal Soul",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-04T20:55:40Z"
         },
         {
           "artist": "Oliver Nelson",
@@ -1741,6 +1957,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-24T12:28:18Z"
+        },
+        {
+          "artist": "Talk Talk",
+          "album": "Essential",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-02T21:52:41Z"
         },
         {
           "artist": "The Avalanches",
@@ -1843,9 +2066,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1476,
-      "unique_artists": 211,
-      "unique_albums": 252,
+      "listen_count": 1506,
+      "unique_artists": 222,
+      "unique_albums": 264,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1909,6 +2132,10 @@
           "listen_count": 23
         },
         {
+          "artist": "Talk Talk",
+          "listen_count": 22
+        },
+        {
           "artist": "Norah Jones",
           "listen_count": 21
         },
@@ -1934,10 +2161,6 @@
         },
         {
           "artist": "Kenny Burrell",
-          "listen_count": 15
-        },
-        {
-          "artist": "Talk Talk",
           "listen_count": 15
         },
         {
@@ -1974,6 +2197,10 @@
         },
         {
           "artist": "Admas",
+          "listen_count": 12
+        },
+        {
+          "artist": "Diana Krall",
           "listen_count": 12
         },
         {
@@ -2305,6 +2532,10 @@
           "listen_count": 2
         },
         {
+          "artist": "Hugh Masekela",
+          "listen_count": 2
+        },
+        {
           "artist": "Jeff Parker ETA IVtet",
           "listen_count": 2
         },
@@ -2377,6 +2608,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Chantal Chamberland",
+          "listen_count": 1
+        },
+        {
           "artist": "Charles Earland",
           "listen_count": 1
         },
@@ -2389,6 +2624,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Chuck Redd with John Di Martino, Nicki Parrott, Lewis Nash and Jerry Weldon",
+          "listen_count": 1
+        },
+        {
           "artist": "Crosby, Stills & Nash",
           "listen_count": 1
         },
@@ -2397,7 +2636,15 @@
           "listen_count": 1
         },
         {
+          "artist": "David Sylvian",
+          "listen_count": 1
+        },
+        {
           "artist": "Deerhunter",
+          "listen_count": 1
+        },
+        {
+          "artist": "Dizzy Gillespie",
           "listen_count": 1
         },
         {
@@ -2449,7 +2696,7 @@
           "listen_count": 1
         },
         {
-          "artist": "Hugh Masekela",
+          "artist": "Harry Connick, Jr.",
           "listen_count": 1
         },
         {
@@ -2466,6 +2713,10 @@
         },
         {
           "artist": "Jeff Beck",
+          "listen_count": 1
+        },
+        {
+          "artist": "Jeffery Smith",
           "listen_count": 1
         },
         {
@@ -2489,7 +2740,15 @@
           "listen_count": 1
         },
         {
+          "artist": "Kurt Elling & Yellowjackets",
+          "listen_count": 1
+        },
+        {
           "artist": "Lee Konitz, Brad Mehldau, Charlie Haden & Paul Motian",
+          "listen_count": 1
+        },
+        {
+          "artist": "Leo Sidran",
           "listen_count": 1
         },
         {
@@ -2502,6 +2761,10 @@
         },
         {
           "artist": "Loudon Wainwright III, Iris DeMent",
+          "listen_count": 1
+        },
+        {
+          "artist": "Madeleine Peyroux",
           "listen_count": 1
         },
         {
@@ -2518,6 +2781,10 @@
         },
         {
           "artist": "Metric",
+          "listen_count": 1
+        },
+        {
+          "artist": "Metropole Orkest/Vince Mendoza",
           "listen_count": 1
         },
         {
@@ -2800,6 +3067,13 @@
           "last_listened_at_utc": "2026-10-30T18:38:05Z"
         },
         {
+          "artist": "Talk Talk",
+          "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+          "listen_count": 21,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-11-02T21:46:48Z"
+        },
+        {
           "artist": "Djo",
           "album": "The Crux Deluxe",
           "listen_count": 20,
@@ -2854,13 +3128,6 @@
           "listen_count": 15,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-09T23:39:47Z"
-        },
-        {
-          "artist": "Talk Talk",
-          "album": "The Colour Of Spring (Remastered Hi-Res Version)",
-          "listen_count": 15,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-11-02T18:26:11Z"
         },
         {
           "artist": "שב״ק ס׳",
@@ -2924,6 +3191,13 @@
           "listen_count": 12,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-10-20T23:19:38Z"
+        },
+        {
+          "artist": "Diana Krall",
+          "album": "Live in Paris",
+          "listen_count": 12,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-11-02T23:54:36Z"
         },
         {
           "artist": "Fontaines D.C.",
@@ -3633,6 +3907,13 @@
           "last_listened_at_utc": "2026-10-28T22:18:20Z"
         },
         {
+          "artist": "Hugh Masekela",
+          "album": "Hope",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-03T00:23:30Z"
+        },
+        {
           "artist": "Jeff Parker ETA IVtet",
           "album": "The Way Out of Easy",
           "listen_count": 2,
@@ -3808,6 +4089,13 @@
           "last_listened_at_utc": "2026-10-25T23:11:30Z"
         },
         {
+          "artist": "Chantal Chamberland",
+          "album": "Temptation",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:15:55Z"
+        },
+        {
           "artist": "Charles Earland",
           "album": "Leaving This Planet",
           "listen_count": 1,
@@ -3829,6 +4117,13 @@
           "last_listened_at_utc": "2026-09-27T22:00:26Z"
         },
         {
+          "artist": "Chuck Redd with John Di Martino, Nicki Parrott, Lewis Nash and Jerry Weldon",
+          "album": "Groove City",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:28:43Z"
+        },
+        {
           "artist": "Crosby, Stills & Nash",
           "album": "Replay",
           "listen_count": 1,
@@ -3843,11 +4138,25 @@
           "last_listened_at_utc": "2026-09-18T22:29:08Z"
         },
         {
+          "artist": "David Sylvian",
+          "album": "Dead Bees On A Cake (Expanded Edition; Deluxe Edition)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-02T21:58:48Z"
+        },
+        {
           "artist": "Deerhunter",
           "album": "Monomania",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-21T20:26:57Z"
+        },
+        {
+          "artist": "Dizzy Gillespie",
+          "album": "Dizzy 100",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:44:31Z"
         },
         {
           "artist": "Elliphant",
@@ -3934,18 +4243,18 @@
           "last_listened_at_utc": "2026-10-22T17:52:43Z"
         },
         {
+          "artist": "Harry Connick, Jr.",
+          "album": "Harry Connick, Jr. (Album Version)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:08:03Z"
+        },
+        {
           "artist": "Haruomi Hosono",
           "album": "omni Sight Seeing (2020 Remastering)",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-19T19:53:22Z"
-        },
-        {
-          "artist": "Hugh Masekela",
-          "album": "Hope",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-19T02:36:31Z"
         },
         {
           "artist": "Jackson Browne",
@@ -3974,6 +4283,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-20T22:19:53Z"
+        },
+        {
+          "artist": "Jeffery Smith",
+          "album": "Reflections",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:03:13Z"
         },
         {
           "artist": "Jerry Paper",
@@ -4018,11 +4334,25 @@
           "last_listened_at_utc": "2026-10-24T23:43:09Z"
         },
         {
+          "artist": "Kurt Elling & Yellowjackets",
+          "album": "Play Weather Report: Alive in Europe + Bonus Studio Recordings",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:34:23Z"
+        },
+        {
           "artist": "Lee Konitz, Brad Mehldau, Charlie Haden & Paul Motian",
           "album": "Live At Birdland",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-27T22:04:07Z"
+        },
+        {
+          "artist": "Leo Sidran",
+          "album": "The Art of Conversation",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:11:28Z"
         },
         {
           "artist": "Lianne La Havas",
@@ -4053,6 +4383,13 @@
           "last_listened_at_utc": "2026-10-03T12:34:17Z"
         },
         {
+          "artist": "Madeleine Peyroux",
+          "album": "Dreamland",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-02T23:59:41Z"
+        },
+        {
           "artist": "Marcus Miller",
           "album": "Marshall (Original Motion Picture Soundtrack)",
           "listen_count": 1,
@@ -4079,6 +4416,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-27T13:00:42Z"
+        },
+        {
+          "artist": "Metropole Orkest/Vince Mendoza",
+          "album": "Perfect Vision: The Esquivel Sound",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:20:54Z"
         },
         {
           "artist": "Michael Kiwanuka",
@@ -4233,6 +4577,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-03T16:33:06Z"
+        },
+        {
+          "artist": "Talk Talk",
+          "album": "Essential",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-02T21:52:41Z"
         },
         {
           "artist": "The Ahmad Jamal Trio",
@@ -4462,6 +4813,564 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1793666671,
+      "listened_at_utc": "2026-11-03T00:44:31Z",
+      "artist": "Dizzy Gillespie",
+      "track": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+      "album": "Dizzy 100",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e9ba8ccb-505f-4e5c-b909-65998d0d35b5"
+        ],
+        "recording_mbid": "4917b29a-0443-41a8-a80e-d41e44bdbe39",
+        "release_mbid": "3a384f9e-ba6c-4cc5-b905-49c4782ea65f",
+        "release_group_mbid": "e25d55fb-025b-4101-afb6-3890e5bcc16a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793666063,
+      "listened_at_utc": "2026-11-03T00:34:23Z",
+      "artist": "Kurt Elling & Yellowjackets",
+      "track": "Pallas' Palace (Palladium) (Alive in Europe)",
+      "album": "Play Weather Report: Alive in Europe + Bonus Studio Recordings",
+      "musicbrainz": {
+        "artist_mbids": [
+          "4d39b9be-128d-49a4-a1d3-52727c496343",
+          "1243d99e-8f5a-4f7e-810c-5a1d20f41065"
+        ],
+        "recording_mbid": "282c941d-e0b3-47b4-ae5c-6b27eb175fb2",
+        "release_mbid": "6047e55f-62b7-4514-be1e-b62093817bb9",
+        "release_group_mbid": "e1b8f159-1bf6-4600-bdf8-533f1af9d043"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793665723,
+      "listened_at_utc": "2026-11-03T00:28:43Z",
+      "artist": "Chuck Redd with John Di Martino, Nicki Parrott, Lewis Nash and Jerry Weldon",
+      "track": "Tide",
+      "album": "Groove City",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e4a9a411-65d9-46fe-a019-60f72942bc03",
+          "c6a296f9-2dd6-470a-a7a7-824aee6fd498",
+          "0099f861-7490-4898-ac27-be0f29794d22",
+          "6b4804fa-9a98-4557-a327-a97dbad9ae93",
+          "f92b7d26-5d02-407a-ae7d-1db62b6e55eb"
+        ],
+        "recording_mbid": "4f26d799-6af9-4ec5-9960-5503884fd88b",
+        "release_mbid": "d148815f-2766-4454-9eae-5f1e349eb79b",
+        "release_group_mbid": "9f6e1055-a85b-4c20-80fd-fe581f47f1f2"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793665410,
+      "listened_at_utc": "2026-11-03T00:23:30Z",
+      "artist": "Hugh Masekela",
+      "track": "Mandela (Bring Him Back Home!)",
+      "album": "Hope",
+      "musicbrainz": {
+        "artist_mbids": [
+          "83a2e0fb-3d9b-46ff-b383-3dde54c15297"
+        ],
+        "recording_mbid": "9d876b6f-f82c-4d0e-8e5b-469bd057a05b",
+        "release_mbid": "5545f702-18b1-40fe-8460-fd171aac25f0",
+        "release_group_mbid": "aa41cd74-99ff-3567-a3ea-6cf58bb349b1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793665254,
+      "listened_at_utc": "2026-11-03T00:20:54Z",
+      "artist": "Metropole Orkest/Vince Mendoza",
+      "track": "Jalousie (Jealousy)",
+      "album": "Perfect Vision: The Esquivel Sound",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9f2ae371-63ad-496e-95ca-f90bad9b5b23"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793664955,
+      "listened_at_utc": "2026-11-03T00:15:55Z",
+      "artist": "Chantal Chamberland",
+      "track": "I Put a Spell On You",
+      "album": "Temptation",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3885f3f5-7fe1-4262-ace2-d25766b7b6eb"
+        ],
+        "recording_mbid": "3f260a5f-6d43-4b03-89a6-ef7de1f14dd2",
+        "release_mbid": "b4a1002b-0046-4464-b575-0d8225c72e47",
+        "release_group_mbid": "db5fbd44-c238-40e0-9c31-2781e3e45177"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793664688,
+      "listened_at_utc": "2026-11-03T00:11:28Z",
+      "artist": "Leo Sidran",
+      "track": "The Art of Conversation",
+      "album": "The Art of Conversation",
+      "musicbrainz": {
+        "artist_mbids": [
+          "4e0a5fd0-1c8b-4469-bdd5-652645031da9",
+          "98b42b24-6db9-4de6-bd0c-16d4b86c3724"
+        ],
+        "release_mbid": "ebb5159b-16ae-4e8e-9b9c-e4871c76cc32",
+        "recording_mbid": "e36a2297-9a36-4f1e-a556-d798713e502f",
+        "release_group_mbid": "17e21516-1d5b-4b9a-8551-a359a0cf873d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793664483,
+      "listened_at_utc": "2026-11-03T00:08:03Z",
+      "artist": "Harry Connick, Jr.",
+      "track": "On The Sunny Side Of The Street (Album Version)",
+      "album": "Harry Connick, Jr. (Album Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd23e684-270f-4507-9cb0-a0e0d7854d16"
+        ],
+        "release_mbid": "a764587d-51fd-338b-a158-62f81c9059fe"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793664193,
+      "listened_at_utc": "2026-11-03T00:03:13Z",
+      "artist": "Jeffery Smith",
+      "track": "Jazz Party",
+      "album": "Reflections",
+      "musicbrainz": {
+        "artist_mbids": [
+          "7f97583c-c913-4932-8ee8-f359a60c92b2"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793663981,
+      "listened_at_utc": "2026-11-02T23:59:41Z",
+      "artist": "Madeleine Peyroux",
+      "track": "Muddy Water (LP Version)",
+      "album": "Dreamland",
+      "musicbrainz": {
+        "artist_mbids": [
+          "7f260b9c-bea7-469b-9ba8-0daec7d2c85c"
+        ],
+        "release_mbid": "d8ed0c02-924d-4747-bb65-a018739d4311",
+        "recording_mbid": "7288ec08-a72b-4b9f-9554-59e973dde25c",
+        "release_group_mbid": "a4f97e3b-b47d-3a90-b59f-8545a59d824f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793663676,
+      "listened_at_utc": "2026-11-02T23:54:36Z",
+      "artist": "Diana Krall",
+      "track": "Just the Way You Are",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "recording_mbid": "7d37d6e8-eef8-4a49-8cff-1a5e4be913f5",
+        "release_mbid": "14a4a70d-8a85-4861-a415-35933837e3cb",
+        "release_group_mbid": "b7d8dca0-6748-470c-9eb0-eb6d72091273"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793663252,
+      "listened_at_utc": "2026-11-02T23:47:32Z",
+      "artist": "Diana Krall",
+      "track": "A Case Of You (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20",
+        "recording_mbid": "ee404900-07f2-4481-908d-c4f72e255334",
+        "release_group_mbid": "4a44e66c-ba78-4635-8e36-e36ef8b615ae"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793662887,
+      "listened_at_utc": "2026-11-02T23:41:27Z",
+      "artist": "Diana Krall",
+      "track": "Fly Me To The Moon (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20",
+        "recording_mbid": "0dfb1c01-cdd6-4f36-9ae9-e99367f15826",
+        "release_group_mbid": "b954c8b6-7388-3c94-8c1e-216d0df1907b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793662527,
+      "listened_at_utc": "2026-11-02T23:35:27Z",
+      "artist": "Diana Krall",
+      "track": "'S Wonderful (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793662179,
+      "listened_at_utc": "2026-11-02T23:29:39Z",
+      "artist": "Diana Krall",
+      "track": "Maybe You'll Be There (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20",
+        "recording_mbid": "8b26ef5f-d50d-4074-8518-963f7dba19b9",
+        "release_group_mbid": "1e482680-d0b1-3ed1-9de7-2e3c7649f956"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793661767,
+      "listened_at_utc": "2026-11-02T23:22:47Z",
+      "artist": "Diana Krall",
+      "track": "Devil May Care (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20",
+        "recording_mbid": "77291399-2dfa-41f8-9427-b6b2e46e65b4",
+        "release_group_mbid": "02f1069d-bf57-312b-9d2e-519b0e4366f6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793661323,
+      "listened_at_utc": "2026-11-02T23:15:23Z",
+      "artist": "Diana Krall",
+      "track": "I've Got You Under My Skin (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20",
+        "recording_mbid": "ece00374-7c6d-44d7-a125-49f7cf283225",
+        "release_group_mbid": "b7d8dca0-6748-470c-9eb0-eb6d72091273"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793660964,
+      "listened_at_utc": "2026-11-02T23:09:24Z",
+      "artist": "Diana Krall",
+      "track": "East Of The Sun (West Of The Moon) [Live In Paris, France/2001]",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20",
+        "recording_mbid": "56120e7b-be17-4a37-9fb0-a387b7abeea8",
+        "release_group_mbid": "b954c8b6-7388-3c94-8c1e-216d0df1907b"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793660664,
+      "listened_at_utc": "2026-11-02T23:04:24Z",
+      "artist": "Diana Krall",
+      "track": "The Look Of Love (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793660347,
+      "listened_at_utc": "2026-11-02T22:59:07Z",
+      "artist": "Diana Krall",
+      "track": "Deed I Do (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793660072,
+      "listened_at_utc": "2026-11-02T22:54:32Z",
+      "artist": "Diana Krall",
+      "track": "Let's Fall In Love (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793659760,
+      "listened_at_utc": "2026-11-02T22:49:20Z",
+      "artist": "Diana Krall",
+      "track": "I Love Being Here With You (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793656728,
+      "listened_at_utc": "2026-11-02T21:58:48Z",
+      "artist": "David Sylvian",
+      "track": "Thalheim",
+      "album": "Dead Bees On A Cake (Expanded Edition; Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "719db6b1-0d91-458c-8d18-875ec44105bf"
+        ],
+        "recording_mbid": "97b8e04a-ab3b-4cc9-be79-bb44ad31e3ae",
+        "release_mbid": "94e8d28b-7563-4d8a-9112-aebdff755c42",
+        "release_group_mbid": "e3271cfe-012c-32e0-b9d6-2e58a42bdf9e"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793656361,
+      "listened_at_utc": "2026-11-02T21:52:41Z",
+      "artist": "Talk Talk",
+      "track": "I Believe in You",
+      "album": "Essential",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "f3de9a8d-d455-4fa9-a369-21b6110b5b2a",
+        "release_mbid": "f95a4d58-aeaa-4e5c-b198-5e2145020d61",
+        "release_group_mbid": "fd29e2cd-9bd7-32c6-adf9-ce80ab1cadfc"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793656008,
+      "listened_at_utc": "2026-11-02T21:46:48Z",
+      "artist": "Talk Talk",
+      "track": "It's Getting Late in the Evening",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "5d5e2f40-5432-445f-a37b-171e1ff62958",
+        "release_mbid": "9ffb6c10-1cc2-4f47-aef6-31239bfe78d9",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793651084,
+      "listened_at_utc": "2026-11-02T20:24:44Z",
+      "artist": "Talk Talk",
+      "track": "Time It's Time",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "bd1061f8-82af-434b-9ff7-76af401cffc2",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793650882,
+      "listened_at_utc": "2026-11-02T20:21:22Z",
+      "artist": "Talk Talk",
+      "track": "Chameleon Day",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "4fe76034-c65f-42b4-a8e9-8c58791d3ea7",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793650564,
+      "listened_at_utc": "2026-11-02T20:16:04Z",
+      "artist": "Talk Talk",
+      "track": "Give It Up",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "7f0df0ae-461e-4d1b-8f5f-e0deff5c432b",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793650145,
+      "listened_at_utc": "2026-11-02T20:09:05Z",
+      "artist": "Talk Talk",
+      "track": "Living in Another World",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "3b7dd41e-d5d1-46ab-89ac-14d86807c55c",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793649793,
+      "listened_at_utc": "2026-11-02T20:03:13Z",
+      "artist": "Talk Talk",
+      "track": "April 5th",
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03"
+        ],
+        "recording_mbid": "34b4218b-d68a-4b89-8256-2b919c6f1554",
+        "release_mbid": "e673b9e5-31a2-4bbf-bcff-5e380695b511",
+        "release_group_mbid": "072ec17c-aa60-3070-99ab-fce9e9009d97"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1793643971,
       "listened_at_utc": "2026-11-02T18:26:11Z",
