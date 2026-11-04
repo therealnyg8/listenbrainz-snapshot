@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-03T17:09:38Z",
+  "generated_at_utc": "2026-11-04T17:21:35Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-05T17:09:38Z",
-    "through_utc": "2026-11-03T17:09:38Z",
+    "from_utc": "2026-08-06T17:21:35Z",
+    "through_utc": "2026-11-04T17:21:35Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
-    "raw_listen_count": 2484,
-    "deduplicated_listen_count": 1506,
-    "duplicates_removed": 978,
+    "raw_listen_count": 2578,
+    "deduplicated_listen_count": 1553,
+    "duplicates_removed": 1025,
     "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-11-03T00:44:31Z"
+    "newest_listen_utc": "2026-11-04T16:47:39Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,11 +28,15 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 130,
-      "unique_artists": 32,
-      "unique_albums": 33,
+      "listen_count": 172,
+      "unique_artists": 35,
+      "unique_albums": 36,
       "listens_without_album": 0,
       "artists": [
+        {
+          "artist": "Morphine",
+          "listen_count": 25
+        },
         {
           "artist": "Talk Talk",
           "listen_count": 22
@@ -54,6 +58,14 @@
           "listen_count": 10
         },
         {
+          "artist": "Arooj Aftab",
+          "listen_count": 8
+        },
+        {
+          "artist": "Little Simz",
+          "listen_count": 8
+        },
+        {
           "artist": "Clairo",
           "listen_count": 6
         },
@@ -66,16 +78,16 @@
           "listen_count": 6
         },
         {
+          "artist": "Charlie Hunter Quartet",
+          "listen_count": 5
+        },
+        {
           "artist": "Norah Jones",
           "listen_count": 5
         },
         {
           "artist": "TV on the Radio",
           "listen_count": 5
-        },
-        {
-          "artist": "Djo",
-          "listen_count": 4
         },
         {
           "artist": "Hailu Mergia",
@@ -154,7 +166,7 @@
           "listen_count": 1
         },
         {
-          "artist": "The Raconteurs",
+          "artist": "The Blue Nile",
           "listen_count": 1
         },
         {
@@ -163,6 +175,13 @@
         }
       ],
       "albums": [
+        {
+          "artist": "Morphine",
+          "album": "Cure for Pain (Deluxe Edition)",
+          "listen_count": 25,
+          "unique_tracks": 20,
+          "last_listened_at_utc": "2026-11-04T16:47:39Z"
+        },
         {
           "artist": "Talk Talk",
           "album": "The Colour Of Spring (Remastered Hi-Res Version)",
@@ -199,6 +218,20 @@
           "last_listened_at_utc": "2026-10-31T18:11:35Z"
         },
         {
+          "artist": "Arooj Aftab",
+          "album": "Vulture Prince (Deluxe Edition)",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-03T18:58:23Z"
+        },
+        {
+          "artist": "Little Simz",
+          "album": "GREY Area",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-04T14:30:27Z"
+        },
+        {
           "artist": "Clairo",
           "album": "Charm",
           "listen_count": 6,
@@ -220,6 +253,13 @@
           "last_listened_at_utc": "2026-10-30T19:08:12Z"
         },
         {
+          "artist": "Charlie Hunter Quartet",
+          "album": "Songs From The Analog Playground",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-11-03T19:23:20Z"
+        },
+        {
           "artist": "Norah Jones",
           "album": "Come Away with Me",
           "listen_count": 5,
@@ -232,13 +272,6 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-10-30T19:33:36Z"
-        },
-        {
-          "artist": "Djo",
-          "album": "The Crux Deluxe",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-27T21:25:32Z"
         },
         {
           "artist": "Hailu Mergia",
@@ -381,11 +414,11 @@
           "last_listened_at_utc": "2026-11-02T21:52:41Z"
         },
         {
-          "artist": "The Raconteurs",
-          "album": "Consolers of the Lonely",
+          "artist": "The Blue Nile",
+          "album": "Hats (Deluxe Version)",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-27T19:50:08Z"
+          "last_listened_at_utc": "2026-11-04T02:46:41Z"
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -397,9 +430,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 837,
-      "unique_artists": 140,
-      "unique_albums": 157,
+      "listen_count": 874,
+      "unique_artists": 142,
+      "unique_albums": 159,
       "listens_without_album": 0,
       "artists": [
         {
@@ -427,6 +460,10 @@
           "listen_count": 25
         },
         {
+          "artist": "Morphine",
+          "listen_count": 25
+        },
+        {
           "artist": "Djo",
           "listen_count": 23
         },
@@ -451,15 +488,15 @@
           "listen_count": 19
         },
         {
-          "artist": "Sonny Rollins",
-          "listen_count": 19
-        },
-        {
           "artist": "Michael Kiwanuka",
           "listen_count": 18
         },
         {
           "artist": "Ahmad Jamal Trio",
+          "listen_count": 14
+        },
+        {
+          "artist": "Sonny Rollins",
           "listen_count": 14
         },
         {
@@ -527,6 +564,10 @@
           "listen_count": 9
         },
         {
+          "artist": "Arooj Aftab",
+          "listen_count": 8
+        },
+        {
           "artist": "Cymande",
           "listen_count": 8
         },
@@ -536,6 +577,10 @@
         },
         {
           "artist": "John Coltrane Quartet",
+          "listen_count": 8
+        },
+        {
+          "artist": "Little Simz",
           "listen_count": 8
         },
         {
@@ -592,6 +637,10 @@
         },
         {
           "artist": "Avishai Cohen",
+          "listen_count": 5
+        },
+        {
+          "artist": "Charlie Hunter Quartet",
           "listen_count": 5
         },
         {
@@ -696,10 +745,6 @@
         },
         {
           "artist": "Tracy Chapman",
-          "listen_count": 3
-        },
-        {
-          "artist": "Ty Segall",
           "listen_count": 3
         },
         {
@@ -891,14 +936,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Nujabes",
-          "listen_count": 1
-        },
-        {
-          "artist": "Oliver Nelson",
-          "listen_count": 1
-        },
-        {
           "artist": "Rajery, Ballaké Sissoko & Driss El Maloumi",
           "listen_count": 1
         },
@@ -927,6 +964,10 @@
           "listen_count": 1
         },
         {
+          "artist": "The Blue Nile",
+          "listen_count": 1
+        },
+        {
           "artist": "The Jimi Hendrix Experience",
           "listen_count": 1
         },
@@ -947,11 +988,11 @@
           "listen_count": 1
         },
         {
-          "artist": "Tommy Flanagan",
+          "artist": "Toumani Diabaté, Danny Thompson",
           "listen_count": 1
         },
         {
-          "artist": "Toumani Diabaté, Danny Thompson",
+          "artist": "Ty Segall",
           "listen_count": 1
         },
         {
@@ -998,6 +1039,13 @@
           "listen_count": 25,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-31T15:54:26Z"
+        },
+        {
+          "artist": "Morphine",
+          "album": "Cure for Pain (Deluxe Edition)",
+          "listen_count": 25,
+          "unique_tracks": 20,
+          "last_listened_at_utc": "2026-11-04T16:47:39Z"
         },
         {
           "artist": "טונה",
@@ -1161,13 +1209,6 @@
           "last_listened_at_utc": "2026-10-22T13:26:52Z"
         },
         {
-          "artist": "Sonny Rollins",
-          "album": "Saxophone Colossus",
-          "listen_count": 10,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-09T23:39:47Z"
-        },
-        {
           "artist": "שב״ק ס׳",
           "album": "שבק ס",
           "listen_count": 10,
@@ -1196,6 +1237,13 @@
           "last_listened_at_utc": "2026-10-10T19:10:57Z"
         },
         {
+          "artist": "Arooj Aftab",
+          "album": "Vulture Prince (Deluxe Edition)",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-03T18:58:23Z"
+        },
+        {
           "artist": "Cymande",
           "album": "Cymande",
           "listen_count": 8,
@@ -1215,6 +1263,13 @@
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-11T12:27:39Z"
+        },
+        {
+          "artist": "Little Simz",
+          "album": "GREY Area",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-04T14:30:27Z"
         },
         {
           "artist": "Charles Mingus",
@@ -1336,11 +1391,25 @@
           "last_listened_at_utc": "2026-10-20T18:19:31Z"
         },
         {
+          "artist": "Charlie Hunter Quartet",
+          "album": "Songs From The Analog Playground",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-11-03T19:23:20Z"
+        },
+        {
           "artist": "J Dilla",
           "album": "Donuts",
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-10-09T21:19:08Z"
+        },
+        {
+          "artist": "Sonny Rollins",
+          "album": "Saxophone Colossus",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-09T23:39:47Z"
         },
         {
           "artist": "TV on the Radio",
@@ -1537,13 +1606,6 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-30T18:22:59Z"
-        },
-        {
-          "artist": "Ty Segall",
-          "album": "Chrome",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-06T12:34:33Z"
         },
         {
           "artist": "YĪN YĪN",
@@ -1896,20 +1958,6 @@
           "last_listened_at_utc": "2026-10-12T18:49:53Z"
         },
         {
-          "artist": "Nujabes",
-          "album": "Modal Soul",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-04T20:55:40Z"
-        },
-        {
-          "artist": "Oliver Nelson",
-          "album": "The Blues and the Abstract Truth",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-04T22:25:29Z"
-        },
-        {
           "artist": "Rajery, Ballaké Sissoko & Driss El Maloumi",
           "album": "3MA",
           "listen_count": 1,
@@ -1994,6 +2042,13 @@
           "last_listened_at_utc": "2026-10-13T21:34:01Z"
         },
         {
+          "artist": "The Blue Nile",
+          "album": "Hats (Deluxe Version)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-04T02:46:41Z"
+        },
+        {
           "artist": "The Jimi Hendrix Experience",
           "album": "Axis: Bold As Love",
           "listen_count": 1,
@@ -2029,18 +2084,18 @@
           "last_listened_at_utc": "2026-10-13T20:26:11Z"
         },
         {
-          "artist": "Tommy Flanagan",
-          "album": "Ballads & Blues",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-04T21:43:48Z"
-        },
-        {
           "artist": "Toumani Diabaté, Danny Thompson",
           "album": "Los Jóvenes Flamencos, Vol. 1",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-12T18:43:37Z"
+        },
+        {
+          "artist": "Ty Segall",
+          "album": "Chrome",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-06T12:34:33Z"
         },
         {
           "artist": "Wolf Alice",
@@ -2066,9 +2121,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1506,
-      "unique_artists": 222,
-      "unique_albums": 264,
+      "listen_count": 1553,
+      "unique_artists": 226,
+      "unique_albums": 269,
       "listens_without_album": 0,
       "artists": [
         {
@@ -2121,6 +2176,10 @@
         },
         {
           "artist": "Fine",
+          "listen_count": 25
+        },
+        {
+          "artist": "Morphine",
           "listen_count": 25
         },
         {
@@ -2264,8 +2323,16 @@
           "listen_count": 9
         },
         {
+          "artist": "Little Simz",
+          "listen_count": 9
+        },
+        {
           "artist": "ג'יגה ג'וס",
           "listen_count": 9
+        },
+        {
+          "artist": "Arooj Aftab",
+          "listen_count": 8
         },
         {
           "artist": "Cymande",
@@ -2361,6 +2428,10 @@
         },
         {
           "artist": "Avishai Cohen",
+          "listen_count": 5
+        },
+        {
+          "artist": "Charlie Hunter Quartet",
           "listen_count": 5
         },
         {
@@ -2756,10 +2827,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Little Simz",
-          "listen_count": 1
-        },
-        {
           "artist": "Loudon Wainwright III, Iris DeMent",
           "listen_count": 1
         },
@@ -2861,6 +2928,10 @@
         },
         {
           "artist": "The Avalanches",
+          "listen_count": 1
+        },
+        {
+          "artist": "The Blue Nile",
           "listen_count": 1
         },
         {
@@ -3037,6 +3108,13 @@
           "listen_count": 25,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-31T15:54:26Z"
+        },
+        {
+          "artist": "Morphine",
+          "album": "Cure for Pain (Deluxe Edition)",
+          "listen_count": 25,
+          "unique_tracks": 20,
+          "last_listened_at_utc": "2026-11-04T16:47:39Z"
         },
         {
           "artist": "נצ׳י נצ׳",
@@ -3389,6 +3467,13 @@
           "last_listened_at_utc": "2026-10-19T23:32:45Z"
         },
         {
+          "artist": "Arooj Aftab",
+          "album": "Vulture Prince (Deluxe Edition)",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-03T18:58:23Z"
+        },
+        {
           "artist": "Cymande",
           "album": "Cymande",
           "listen_count": 8,
@@ -3401,6 +3486,13 @@
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-19T13:50:18Z"
+        },
+        {
+          "artist": "Little Simz",
+          "album": "GREY Area",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-04T14:30:27Z"
         },
         {
           "artist": "Songs: Ohia",
@@ -3562,6 +3654,13 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-09-07T22:40:29Z"
+        },
+        {
+          "artist": "Charlie Hunter Quartet",
+          "album": "Songs From The Analog Playground",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-11-03T19:23:20Z"
         },
         {
           "artist": "Haruomi Hosono",
@@ -4621,6 +4720,13 @@
           "last_listened_at_utc": "2026-10-13T21:34:01Z"
         },
         {
+          "artist": "The Blue Nile",
+          "album": "Hats (Deluxe Version)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-04T02:46:41Z"
+        },
+        {
           "artist": "The Jimi Hendrix Experience",
           "album": "Axis: Bold As Love",
           "listen_count": 1,
@@ -4813,6 +4919,893 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1793810859,
+      "listened_at_utc": "2026-11-04T16:47:39Z",
+      "artist": "Morphine",
+      "track": "I Can Do That",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793810471,
+      "listened_at_utc": "2026-11-04T16:41:11Z",
+      "artist": "Morphine",
+      "track": "Miles Davis' Funeral (Alternate Fast Version)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "recording_mbid": "ff5ec86d-0edb-4253-82a5-154966e9852c",
+        "release_mbid": "5c129c33-ccd9-4f9c-b800-38f913b9df59",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793802627,
+      "listened_at_utc": "2026-11-04T14:30:27Z",
+      "artist": "Little Simz",
+      "track": "Sherbet Sunset",
+      "album": "GREY Area",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3cdb40fe-a63e-4bb9-b40d-17cda5f50979"
+        ],
+        "recording_mbid": "d7e9e70c-d3a2-42e9-aeec-a6dacd03fe01",
+        "release_mbid": "00ea99ef-68f9-4445-8b02-ce80b8b7fdb3",
+        "release_group_mbid": "c41347b7-c93c-42d8-825b-529c7de0bed2"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793802427,
+      "listened_at_utc": "2026-11-04T14:27:07Z",
+      "artist": "Little Simz",
+      "track": "Therapy",
+      "album": "GREY Area",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3cdb40fe-a63e-4bb9-b40d-17cda5f50979"
+        ],
+        "recording_mbid": "65759f11-b8f2-4ade-8505-cf5931aece7c",
+        "release_mbid": "00ea99ef-68f9-4445-8b02-ce80b8b7fdb3",
+        "release_group_mbid": "c41347b7-c93c-42d8-825b-529c7de0bed2"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793802220,
+      "listened_at_utc": "2026-11-04T14:23:40Z",
+      "artist": "Little Simz",
+      "track": "Pressure",
+      "album": "GREY Area",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3cdb40fe-a63e-4bb9-b40d-17cda5f50979",
+          "c8a9ae11-63bf-409b-8bf3-a96b3712a2ff"
+        ],
+        "recording_mbid": "fbd8cab9-99e4-466a-81d1-de83c9ff29bc",
+        "release_mbid": "00ea99ef-68f9-4445-8b02-ce80b8b7fdb3",
+        "release_group_mbid": "c41347b7-c93c-42d8-825b-529c7de0bed2"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793802028,
+      "listened_at_utc": "2026-11-04T14:20:28Z",
+      "artist": "Little Simz",
+      "track": "101 FM",
+      "album": "GREY Area",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3cdb40fe-a63e-4bb9-b40d-17cda5f50979"
+        ],
+        "recording_mbid": "8de3dd26-c231-4d4a-a147-fdc053767cc6",
+        "release_mbid": "00ea99ef-68f9-4445-8b02-ce80b8b7fdb3",
+        "release_group_mbid": "c41347b7-c93c-42d8-825b-529c7de0bed2"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793801874,
+      "listened_at_utc": "2026-11-04T14:17:54Z",
+      "artist": "Little Simz",
+      "track": "Venom",
+      "album": "GREY Area",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3cdb40fe-a63e-4bb9-b40d-17cda5f50979"
+        ],
+        "recording_mbid": "be71b58a-7e41-4076-8c1a-a789441bfa0e",
+        "release_mbid": "00ea99ef-68f9-4445-8b02-ce80b8b7fdb3",
+        "release_group_mbid": "c41347b7-c93c-42d8-825b-529c7de0bed2"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793801642,
+      "listened_at_utc": "2026-11-04T14:14:02Z",
+      "artist": "Little Simz",
+      "track": "Selfish",
+      "album": "GREY Area",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3cdb40fe-a63e-4bb9-b40d-17cda5f50979",
+          "37e87694-b263-4ff4-839f-463f78cfef54"
+        ],
+        "recording_mbid": "5a370a48-960c-42a8-bc91-c2dd3889bf87",
+        "release_mbid": "00ea99ef-68f9-4445-8b02-ce80b8b7fdb3",
+        "release_group_mbid": "c41347b7-c93c-42d8-825b-529c7de0bed2"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793801457,
+      "listened_at_utc": "2026-11-04T14:10:57Z",
+      "artist": "Little Simz",
+      "track": "Boss",
+      "album": "GREY Area",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3cdb40fe-a63e-4bb9-b40d-17cda5f50979"
+        ],
+        "recording_mbid": "e4b4af05-6c90-4237-8062-297e1e0dd97a",
+        "release_mbid": "00ea99ef-68f9-4445-8b02-ce80b8b7fdb3",
+        "release_group_mbid": "c41347b7-c93c-42d8-825b-529c7de0bed2"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793801288,
+      "listened_at_utc": "2026-11-04T14:08:08Z",
+      "artist": "Little Simz",
+      "track": "Offence",
+      "album": "GREY Area",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3cdb40fe-a63e-4bb9-b40d-17cda5f50979"
+        ],
+        "recording_mbid": "72121492-474c-46c4-82e0-a853ec29d325",
+        "release_mbid": "00ea99ef-68f9-4445-8b02-ce80b8b7fdb3",
+        "release_group_mbid": "c41347b7-c93c-42d8-825b-529c7de0bed2"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793761339,
+      "listened_at_utc": "2026-11-04T03:02:19Z",
+      "artist": "Morphine",
+      "track": "All Wrong (Alternate Early Version)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "recording_mbid": "ea238c1b-dd0b-4187-af02-6cabde8e6ad3",
+        "release_mbid": "5c129c33-ccd9-4f9c-b800-38f913b9df59",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793761145,
+      "listened_at_utc": "2026-11-04T02:59:05Z",
+      "artist": "Morphine",
+      "track": "Bo's Veranda",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "recording_mbid": "c395f430-c049-44ad-99d0-07e3c50ecc7a",
+        "release_mbid": "5c129c33-ccd9-4f9c-b800-38f913b9df59",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793760962,
+      "listened_at_utc": "2026-11-04T02:56:02Z",
+      "artist": "Morphine",
+      "track": "Mile High",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "recording_mbid": "5563cdbf-9384-482b-8c30-d035a2c4c08b",
+        "release_mbid": "5c129c33-ccd9-4f9c-b800-38f913b9df59",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793760862,
+      "listened_at_utc": "2026-11-04T02:54:22Z",
+      "artist": "Morphine",
+      "track": "Miles Davis' Funeral (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793760401,
+      "listened_at_utc": "2026-11-04T02:46:41Z",
+      "artist": "The Blue Nile",
+      "track": "Over the Hillside",
+      "album": "Hats (Deluxe Version)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "13453b40-1d9c-4281-b73f-b7c1b45c7ebd"
+        ],
+        "recording_mbid": "3d22ff59-e940-4214-a05a-18d6e4c155ff",
+        "release_mbid": "691a663e-adca-3f72-b3c3-4d06299f1417",
+        "release_group_mbid": "231b6ff2-b493-3f73-947e-4dc9b42c3fe0"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793760320,
+      "listened_at_utc": "2026-11-04T02:45:20Z",
+      "artist": "Morphine",
+      "track": "Dawna (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "70b2821a-fc4d-4a89-b164-9c4c5c801407",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793744047,
+      "listened_at_utc": "2026-11-03T22:14:07Z",
+      "artist": "Morphine",
+      "track": "Down Love's Tributaries",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "recording_mbid": "33c730ca-a81c-4620-ac03-f4cef5e03e46",
+        "release_mbid": "5c129c33-ccd9-4f9c-b800-38f913b9df59",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793743943,
+      "listened_at_utc": "2026-11-03T22:12:23Z",
+      "artist": "Morphine",
+      "track": "Third Stone From The Sun",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "recording_mbid": "06257451-99ec-40df-9223-6208a6db8063",
+        "release_mbid": "5c129c33-ccd9-4f9c-b800-38f913b9df59",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793743737,
+      "listened_at_utc": "2026-11-03T22:08:57Z",
+      "artist": "Morphine",
+      "track": "All Wrong (Alternate Early Version)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "recording_mbid": "ea238c1b-dd0b-4187-af02-6cabde8e6ad3",
+        "release_mbid": "5c129c33-ccd9-4f9c-b800-38f913b9df59",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793743543,
+      "listened_at_utc": "2026-11-03T22:05:43Z",
+      "artist": "Morphine",
+      "track": "Bo's Veranda",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "recording_mbid": "c395f430-c049-44ad-99d0-07e3c50ecc7a",
+        "release_mbid": "5c129c33-ccd9-4f9c-b800-38f913b9df59",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793743360,
+      "listened_at_utc": "2026-11-03T22:02:40Z",
+      "artist": "Morphine",
+      "track": "Mile High",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "recording_mbid": "5563cdbf-9384-482b-8c30-d035a2c4c08b",
+        "release_mbid": "5c129c33-ccd9-4f9c-b800-38f913b9df59",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793743260,
+      "listened_at_utc": "2026-11-03T22:01:00Z",
+      "artist": "Morphine",
+      "track": "Miles Davis' Funeral (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793743091,
+      "listened_at_utc": "2026-11-03T21:58:11Z",
+      "artist": "Morphine",
+      "track": "Sheila (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793742910,
+      "listened_at_utc": "2026-11-03T21:55:10Z",
+      "artist": "Morphine",
+      "track": "Let's Take a Trip Together (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "dee1d32d-27a5-4faf-9883-c73f9d32d547",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793742761,
+      "listened_at_utc": "2026-11-03T21:52:41Z",
+      "artist": "Morphine",
+      "track": "Mary Won't You Call My Name? (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793742566,
+      "listened_at_utc": "2026-11-03T21:49:26Z",
+      "artist": "Morphine",
+      "track": "Cure for Pain (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "a2d2aa7a-174c-432b-8d68-bc5f5839301d",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793742360,
+      "listened_at_utc": "2026-11-03T21:46:00Z",
+      "artist": "Morphine",
+      "track": "Thursday (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "63b6dcb6-20b8-488f-b4c0-e3c84d7aaff5",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793742205,
+      "listened_at_utc": "2026-11-03T21:43:25Z",
+      "artist": "Morphine",
+      "track": "In Spite of Me (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793741986,
+      "listened_at_utc": "2026-11-03T21:39:46Z",
+      "artist": "Morphine",
+      "track": "A Head With Wings (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "10eb4556-d29d-4d43-aadf-fde66c6c5606",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793741788,
+      "listened_at_utc": "2026-11-03T21:36:28Z",
+      "artist": "Morphine",
+      "track": "Candy (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "2c51564b-8771-4882-93c9-1add2016324c",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793741568,
+      "listened_at_utc": "2026-11-03T21:32:48Z",
+      "artist": "Morphine",
+      "track": "All Wrong (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "cbc36137-6de1-48d6-bfef-c70715aa9c6d",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793741363,
+      "listened_at_utc": "2026-11-03T21:29:23Z",
+      "artist": "Morphine",
+      "track": "I'm Free Now (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "9064ff7e-3686-40af-82b0-90fa0585d58b",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793741156,
+      "listened_at_utc": "2026-11-03T21:25:56Z",
+      "artist": "Morphine",
+      "track": "Buena (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "8c502831-3eab-43c0-afc1-b340b53b6a58",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793741105,
+      "listened_at_utc": "2026-11-03T21:25:05Z",
+      "artist": "Morphine",
+      "track": "Dawna (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "70b2821a-fc4d-4a89-b164-9c4c5c801407",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793733800,
+      "listened_at_utc": "2026-11-03T19:23:20Z",
+      "artist": "Charlie Hunter Quartet",
+      "track": "More Than This",
+      "album": "Songs From The Analog Playground",
+      "musicbrainz": {
+        "artist_mbids": [
+          "60c02ac7-8a05-4103-9799-7986fb3d9335",
+          "985c709c-7771-4de3-9024-7bda29ebe3f9",
+          "a89487ab-c852-4459-ab65-95be7492b8be"
+        ],
+        "release_mbid": "6974e9c5-57bf-4fc1-b5a4-8f5dddef9e66"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793733429,
+      "listened_at_utc": "2026-11-03T19:17:09Z",
+      "artist": "Charlie Hunter Quartet",
+      "track": "Mitch Better Have My Bunny",
+      "album": "Songs From The Analog Playground",
+      "musicbrainz": {
+        "artist_mbids": [
+          "60c02ac7-8a05-4103-9799-7986fb3d9335"
+        ],
+        "recording_mbid": "19511667-8bfe-4a59-8b9a-73dbe95b1b74",
+        "release_mbid": "6974e9c5-57bf-4fc1-b5a4-8f5dddef9e66",
+        "release_group_mbid": "ed84bcb1-0cdd-393c-a0d4-c5920e0c97a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793733198,
+      "listened_at_utc": "2026-11-03T19:13:18Z",
+      "artist": "Charlie Hunter Quartet",
+      "track": "Mighty Mighty",
+      "album": "Songs From The Analog Playground",
+      "musicbrainz": {
+        "artist_mbids": [
+          "60c02ac7-8a05-4103-9799-7986fb3d9335"
+        ],
+        "recording_mbid": "bb5a8aaf-906b-4803-b81e-8f132203b028",
+        "release_mbid": "f4865846-fcfe-4683-be1a-099e23f0eb0f",
+        "release_group_mbid": "853312ff-8f41-48a0-a88a-ec69c934dfd9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793732840,
+      "listened_at_utc": "2026-11-03T19:07:20Z",
+      "artist": "Charlie Hunter Quartet",
+      "track": "Rhythm Music Rides Again",
+      "album": "Songs From The Analog Playground",
+      "musicbrainz": {
+        "artist_mbids": [
+          "60c02ac7-8a05-4103-9799-7986fb3d9335"
+        ],
+        "recording_mbid": "f3c2f2e9-ec79-4a02-a904-d2761cd83501",
+        "release_mbid": "6974e9c5-57bf-4fc1-b5a4-8f5dddef9e66",
+        "release_group_mbid": "ed84bcb1-0cdd-393c-a0d4-c5920e0c97a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793732687,
+      "listened_at_utc": "2026-11-03T19:04:47Z",
+      "artist": "Charlie Hunter Quartet",
+      "track": "Street Sounds",
+      "album": "Songs From The Analog Playground",
+      "musicbrainz": {
+        "artist_mbids": [
+          "60c02ac7-8a05-4103-9799-7986fb3d9335",
+          "f5c4c27e-5902-4fc0-adfb-7775da3d5363",
+          "a89487ab-c852-4459-ab65-95be7492b8be"
+        ],
+        "release_mbid": "6974e9c5-57bf-4fc1-b5a4-8f5dddef9e66",
+        "recording_mbid": "65d13e06-3eaa-4fee-a617-76cbdcd9e7d6",
+        "release_group_mbid": "ed84bcb1-0cdd-393c-a0d4-c5920e0c97a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793732303,
+      "listened_at_utc": "2026-11-03T18:58:23Z",
+      "artist": "Arooj Aftab",
+      "track": "Udhero Na",
+      "album": "Vulture Prince (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "12d0b276-b102-4779-ac35-6939c584d9da",
+          "40ee8fa3-c6d7-4556-b4e2-9f4114565043"
+        ],
+        "release_mbid": "4f7fc8ac-b4c8-4d1b-9e49-60940ef32905",
+        "recording_mbid": "fb1afa84-3322-4c73-b3f3-ea5d92d29897",
+        "release_group_mbid": "68f7ceb6-e159-4326-8ec1-90dddcb2342c"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793731990,
+      "listened_at_utc": "2026-11-03T18:53:10Z",
+      "artist": "Arooj Aftab",
+      "track": "Suroor",
+      "album": "Vulture Prince (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "12d0b276-b102-4779-ac35-6939c584d9da"
+        ],
+        "recording_mbid": "0152064d-23ca-40c5-b0cd-361b38667e00",
+        "release_mbid": "4f7fc8ac-b4c8-4d1b-9e49-60940ef32905",
+        "release_group_mbid": "68f7ceb6-e159-4326-8ec1-90dddcb2342c"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793731539,
+      "listened_at_utc": "2026-11-03T18:45:39Z",
+      "artist": "Arooj Aftab",
+      "track": "Saans Lo",
+      "album": "Vulture Prince (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "12d0b276-b102-4779-ac35-6939c584d9da"
+        ],
+        "recording_mbid": "8bb935c3-2bec-4d77-af5a-e3468a70046b",
+        "release_mbid": "4f7fc8ac-b4c8-4d1b-9e49-60940ef32905",
+        "release_group_mbid": "68f7ceb6-e159-4326-8ec1-90dddcb2342c"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793731076,
+      "listened_at_utc": "2026-11-03T18:37:56Z",
+      "artist": "Arooj Aftab",
+      "track": "Mohabbat",
+      "album": "Vulture Prince (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "12d0b276-b102-4779-ac35-6939c584d9da"
+        ],
+        "recording_mbid": "2e300955-6eb6-4398-89c5-5d6705ce62bb",
+        "release_mbid": "4f7fc8ac-b4c8-4d1b-9e49-60940ef32905",
+        "release_group_mbid": "68f7ceb6-e159-4326-8ec1-90dddcb2342c"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793730718,
+      "listened_at_utc": "2026-11-03T18:31:58Z",
+      "artist": "Arooj Aftab",
+      "track": "Last Night",
+      "album": "Vulture Prince (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "12d0b276-b102-4779-ac35-6939c584d9da"
+        ],
+        "recording_mbid": "0bf39e63-31d1-4ea8-91d6-1a876d728014",
+        "release_mbid": "4f7fc8ac-b4c8-4d1b-9e49-60940ef32905",
+        "release_group_mbid": "68f7ceb6-e159-4326-8ec1-90dddcb2342c"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793730250,
+      "listened_at_utc": "2026-11-03T18:24:10Z",
+      "artist": "Arooj Aftab",
+      "track": "Inayaat",
+      "album": "Vulture Prince (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "12d0b276-b102-4779-ac35-6939c584d9da"
+        ],
+        "recording_mbid": "d4a4b51a-c4ff-45b7-97d1-70c9a8b60277",
+        "release_mbid": "4f7fc8ac-b4c8-4d1b-9e49-60940ef32905",
+        "release_group_mbid": "68f7ceb6-e159-4326-8ec1-90dddcb2342c"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793729853,
+      "listened_at_utc": "2026-11-03T18:17:33Z",
+      "artist": "Arooj Aftab",
+      "track": "Diya Hai",
+      "album": "Vulture Prince (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "12d0b276-b102-4779-ac35-6939c584d9da",
+          "572813ae-736f-47c9-9755-0ec0a550ddd5"
+        ],
+        "release_mbid": "4f7fc8ac-b4c8-4d1b-9e49-60940ef32905",
+        "recording_mbid": "e950d472-3895-44d8-8009-fa7b9448129d",
+        "release_group_mbid": "68f7ceb6-e159-4326-8ec1-90dddcb2342c"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793729443,
+      "listened_at_utc": "2026-11-03T18:10:43Z",
+      "artist": "Arooj Aftab",
+      "track": "Baghon Main",
+      "album": "Vulture Prince (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "12d0b276-b102-4779-ac35-6939c584d9da"
+        ],
+        "recording_mbid": "93b3d9b5-9a73-4a69-8b20-8157d9d1b18d",
+        "release_mbid": "3e95f76a-1b50-47dd-8196-e56751c784dc",
+        "release_group_mbid": "91ffc78d-2f44-47ae-95e6-cd4aceb4fd50"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1793666671,
       "listened_at_utc": "2026-11-03T00:44:31Z",
