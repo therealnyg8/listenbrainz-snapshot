@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-04T17:21:35Z",
+  "generated_at_utc": "2026-11-05T17:28:46Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-06T17:21:35Z",
-    "through_utc": "2026-11-04T17:21:35Z",
+    "from_utc": "2026-08-07T17:28:46Z",
+    "through_utc": "2026-11-05T17:28:46Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
-    "raw_listen_count": 2578,
-    "deduplicated_listen_count": 1553,
-    "duplicates_removed": 1025,
+    "raw_listen_count": 2638,
+    "deduplicated_listen_count": 1583,
+    "duplicates_removed": 1055,
     "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-11-04T16:47:39Z"
+    "newest_listen_utc": "2026-11-04T23:40:01Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,29 +28,25 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 172,
-      "unique_artists": 35,
-      "unique_albums": 36,
+      "listen_count": 176,
+      "unique_artists": 29,
+      "unique_albums": 31,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "Morphine",
-          "listen_count": 25
+          "listen_count": 44
+        },
+        {
+          "artist": "Diana Krall",
+          "listen_count": 23
         },
         {
           "artist": "Talk Talk",
           "listen_count": 22
         },
         {
-          "artist": "Diana Krall",
-          "listen_count": 12
-        },
-        {
           "artist": "Fine",
-          "listen_count": 12
-        },
-        {
-          "artist": "Thee Sacred Souls",
           "listen_count": 12
         },
         {
@@ -70,10 +66,6 @@
           "listen_count": 6
         },
         {
-          "artist": "Miles Davis",
-          "listen_count": 6
-        },
-        {
           "artist": "טונה",
           "listen_count": 6
         },
@@ -90,10 +82,6 @@
           "listen_count": 5
         },
         {
-          "artist": "Hailu Mergia",
-          "listen_count": 4
-        },
-        {
           "artist": "Taeko Onuki",
           "listen_count": 4
         },
@@ -102,23 +90,11 @@
           "listen_count": 3
         },
         {
-          "artist": "Ginger Root",
-          "listen_count": 2
-        },
-        {
-          "artist": "Allen Toussaint",
-          "listen_count": 1
-        },
-        {
           "artist": "Anouar Brahem",
           "listen_count": 1
         },
         {
           "artist": "Chantal Chamberland",
-          "listen_count": 1
-        },
-        {
-          "artist": "Childish Gambino",
           "listen_count": 1
         },
         {
@@ -178,9 +154,9 @@
         {
           "artist": "Morphine",
           "album": "Cure for Pain (Deluxe Edition)",
-          "listen_count": 25,
+          "listen_count": 44,
           "unique_tracks": 20,
-          "last_listened_at_utc": "2026-11-04T16:47:39Z"
+          "last_listened_at_utc": "2026-11-04T22:07:48Z"
         },
         {
           "artist": "Talk Talk",
@@ -204,11 +180,11 @@
           "last_listened_at_utc": "2026-10-31T15:54:26Z"
         },
         {
-          "artist": "Thee Sacred Souls",
-          "album": "Got a Story to Tell",
-          "listen_count": 12,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-28T22:57:32Z"
+          "artist": "Diana Krall",
+          "album": "The Girl In The Other Room",
+          "listen_count": 11,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-11-04T23:40:01Z"
         },
         {
           "artist": "Funkadelic",
@@ -239,13 +215,6 @@
           "last_listened_at_utc": "2026-10-31T16:33:39Z"
         },
         {
-          "artist": "Miles Davis",
-          "album": "Kind of Blue",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-28T21:03:10Z"
-        },
-        {
           "artist": "טונה",
           "album": "מזרח פרוע",
           "listen_count": 6,
@@ -274,13 +243,6 @@
           "last_listened_at_utc": "2026-10-30T19:33:36Z"
         },
         {
-          "artist": "Hailu Mergia",
-          "album": "Lala Belu",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-28T23:25:14Z"
-        },
-        {
           "artist": "Taeko Onuki",
           "album": "Mignonne (Mastered by Bernie Grundman)",
           "listen_count": 4,
@@ -295,20 +257,6 @@
           "last_listened_at_utc": "2026-10-30T18:22:59Z"
         },
         {
-          "artist": "Ginger Root",
-          "album": "SHINBANGUMI",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-28T22:18:20Z"
-        },
-        {
-          "artist": "Allen Toussaint",
-          "album": "Southern Nights (2003 Remaster)",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-28T22:15:58Z"
-        },
-        {
           "artist": "Anouar Brahem",
           "album": "The Astounding Eyes Of Rita",
           "listen_count": 1,
@@ -321,13 +269,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-03T00:15:55Z"
-        },
-        {
-          "artist": "Childish Gambino",
-          "album": "Bando Stone and The New World",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-28T23:00:58Z"
         },
         {
           "artist": "Chuck Redd with John Di Martino, Nicki Parrott, Lewis Nash and Jerry Weldon",
@@ -430,11 +371,15 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 874,
-      "unique_artists": 142,
-      "unique_albums": 159,
+      "listen_count": 879,
+      "unique_artists": 136,
+      "unique_albums": 154,
       "listens_without_album": 0,
       "artists": [
+        {
+          "artist": "Morphine",
+          "listen_count": 44
+        },
         {
           "artist": "טונה",
           "listen_count": 39
@@ -460,8 +405,8 @@
           "listen_count": 25
         },
         {
-          "artist": "Morphine",
-          "listen_count": 25
+          "artist": "Diana Krall",
+          "listen_count": 23
         },
         {
           "artist": "Djo",
@@ -492,10 +437,6 @@
           "listen_count": 18
         },
         {
-          "artist": "Ahmad Jamal Trio",
-          "listen_count": 14
-        },
-        {
           "artist": "Sonny Rollins",
           "listen_count": 14
         },
@@ -513,10 +454,6 @@
         },
         {
           "artist": "Admas",
-          "listen_count": 12
-        },
-        {
-          "artist": "Diana Krall",
           "listen_count": 12
         },
         {
@@ -562,6 +499,10 @@
         {
           "artist": "Destroyer",
           "listen_count": 9
+        },
+        {
+          "artist": "Ahmad Jamal Trio",
+          "listen_count": 8
         },
         {
           "artist": "Arooj Aftab",
@@ -672,10 +613,6 @@
           "listen_count": 4
         },
         {
-          "artist": "Ryuichi Sakamoto",
-          "listen_count": 4
-        },
-        {
           "artist": "Sababa 5",
           "listen_count": 4
         },
@@ -685,10 +622,6 @@
         },
         {
           "artist": "Taeko Onuki",
-          "listen_count": 4
-        },
-        {
-          "artist": "Tinashe",
           "listen_count": 4
         },
         {
@@ -704,14 +637,6 @@
           "listen_count": 3
         },
         {
-          "artist": "Emily A. Sprague",
-          "listen_count": 3
-        },
-        {
-          "artist": "Helado Negro",
-          "listen_count": 3
-        },
-        {
           "artist": "Hiatus Kaiyote",
           "listen_count": 3
         },
@@ -724,19 +649,11 @@
           "listen_count": 3
         },
         {
-          "artist": "Squid",
-          "listen_count": 3
-        },
-        {
           "artist": "Sven Wunder",
           "listen_count": 3
         },
         {
           "artist": "The Beatles",
-          "listen_count": 3
-        },
-        {
-          "artist": "The Smile",
           "listen_count": 3
         },
         {
@@ -764,6 +681,10 @@
           "listen_count": 2
         },
         {
+          "artist": "Emily A. Sprague",
+          "listen_count": 2
+        },
+        {
           "artist": "Emmet Cohen",
           "listen_count": 2
         },
@@ -777,10 +698,6 @@
         },
         {
           "artist": "Hugh Masekela",
-          "listen_count": 2
-        },
-        {
-          "artist": "Jeff Parker ETA IVtet",
           "listen_count": 2
         },
         {
@@ -801,6 +718,10 @@
         },
         {
           "artist": "Shye Ben-Tzur, Jonny Greenwood and The Rajasthan Express",
+          "listen_count": 2
+        },
+        {
+          "artist": "Squid",
           "listen_count": 2
         },
         {
@@ -876,10 +797,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Floating Points",
-          "listen_count": 1
-        },
-        {
           "artist": "Foals",
           "listen_count": 1
         },
@@ -897,6 +814,10 @@
         },
         {
           "artist": "Janko Nilović",
+          "listen_count": 1
+        },
+        {
+          "artist": "Jeff Parker ETA IVtet",
           "listen_count": 1
         },
         {
@@ -992,10 +913,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Ty Segall",
-          "listen_count": 1
-        },
-        {
           "artist": "Wolf Alice",
           "listen_count": 1
         },
@@ -1005,6 +922,13 @@
         }
       ],
       "albums": [
+        {
+          "artist": "Morphine",
+          "album": "Cure for Pain (Deluxe Edition)",
+          "listen_count": 44,
+          "unique_tracks": 20,
+          "last_listened_at_utc": "2026-11-04T22:07:48Z"
+        },
         {
           "artist": "Parquet Courts",
           "album": "Wide Awake!",
@@ -1041,13 +965,6 @@
           "last_listened_at_utc": "2026-10-31T15:54:26Z"
         },
         {
-          "artist": "Morphine",
-          "album": "Cure for Pain (Deluxe Edition)",
-          "listen_count": 25,
-          "unique_tracks": 20,
-          "last_listened_at_utc": "2026-11-04T16:47:39Z"
-        },
-        {
           "artist": "טונה",
           "album": "מזרח פרוע",
           "listen_count": 22,
@@ -1081,13 +998,6 @@
           "listen_count": 16,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-10-22T20:49:22Z"
-        },
-        {
-          "artist": "Ahmad Jamal Trio",
-          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
-          "listen_count": 14,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-24T23:17:44Z"
         },
         {
           "artist": "The Raconteurs",
@@ -1144,6 +1054,13 @@
           "listen_count": 12,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-10-28T22:57:32Z"
+        },
+        {
+          "artist": "Diana Krall",
+          "album": "The Girl In The Other Room",
+          "listen_count": 11,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-11-04T23:40:01Z"
         },
         {
           "artist": "Kikagaku Moyo",
@@ -1235,6 +1152,13 @@
           "listen_count": 9,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-10-10T19:10:57Z"
+        },
+        {
+          "artist": "Ahmad Jamal Trio",
+          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-24T23:17:44Z"
         },
         {
           "artist": "Arooj Aftab",
@@ -1461,13 +1385,6 @@
           "last_listened_at_utc": "2026-10-24T23:38:51Z"
         },
         {
-          "artist": "Ryuichi Sakamoto",
-          "album": "async",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-05T23:06:48Z"
-        },
-        {
           "artist": "Sababa 5",
           "album": "Nadir",
           "listen_count": 4,
@@ -1487,13 +1404,6 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-31T16:09:54Z"
-        },
-        {
-          "artist": "Tinashe",
-          "album": "Popstar",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-05T20:43:36Z"
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -1529,20 +1439,6 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-23T19:47:47Z"
-        },
-        {
-          "artist": "Emily A. Sprague",
-          "album": "Cyano",
-          "listen_count": 3,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-19T23:13:40Z"
-        },
-        {
-          "artist": "Helado Negro",
-          "album": "PHASOR",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-05T20:52:26Z"
         },
         {
           "artist": "Hiatus Kaiyote",
@@ -1587,13 +1483,6 @@
           "last_listened_at_utc": "2026-10-15T21:43:47Z"
         },
         {
-          "artist": "The Smile",
-          "album": "Wall Of Eyes",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-05T22:31:55Z"
-        },
-        {
           "artist": "Tortoise",
           "album": "Touch",
           "listen_count": 3,
@@ -1636,6 +1525,13 @@
           "last_listened_at_utc": "2026-10-13T20:21:32Z"
         },
         {
+          "artist": "Emily A. Sprague",
+          "album": "Cyano",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-19T23:13:40Z"
+        },
+        {
           "artist": "Emmet Cohen",
           "album": "Future Stride",
           "listen_count": 2,
@@ -1662,13 +1558,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-11-03T00:23:30Z"
-        },
-        {
-          "artist": "Jeff Parker ETA IVtet",
-          "album": "The Way Out of Easy",
-          "listen_count": 2,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-06T22:35:54Z"
         },
         {
           "artist": "Jlin",
@@ -1704,13 +1593,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-11T17:00:57Z"
-        },
-        {
-          "artist": "Squid",
-          "album": "Cowards",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-07T12:38:30Z"
         },
         {
           "artist": "Young Fathers",
@@ -1846,13 +1728,6 @@
           "last_listened_at_utc": "2026-10-06T23:51:40Z"
         },
         {
-          "artist": "Floating Points",
-          "album": "Cascade",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-06T12:50:36Z"
-        },
-        {
           "artist": "Foals",
           "album": "Collected Reworks",
           "listen_count": 1,
@@ -1886,6 +1761,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-25T13:01:26Z"
+        },
+        {
+          "artist": "Jeff Parker ETA IVtet",
+          "album": "The Way Out of Easy",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-06T22:35:54Z"
         },
         {
           "artist": "Jeffery Smith",
@@ -1984,6 +1866,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-14T23:38:09Z"
+        },
+        {
+          "artist": "Squid",
+          "album": "Cowards",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-07T12:38:30Z"
         },
         {
           "artist": "Squid",
@@ -2091,13 +1980,6 @@
           "last_listened_at_utc": "2026-10-12T18:43:37Z"
         },
         {
-          "artist": "Ty Segall",
-          "album": "Chrome",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-06T12:34:33Z"
-        },
-        {
           "artist": "Wolf Alice",
           "album": "Blue Weekend",
           "listen_count": 1,
@@ -2121,9 +2003,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1553,
+      "listen_count": 1583,
       "unique_artists": 226,
-      "unique_albums": 269,
+      "unique_albums": 270,
       "listens_without_album": 0,
       "artists": [
         {
@@ -2136,6 +2018,10 @@
         },
         {
           "artist": "Haruomi Hosono",
+          "listen_count": 44
+        },
+        {
+          "artist": "Morphine",
           "listen_count": 44
         },
         {
@@ -2179,12 +2065,12 @@
           "listen_count": 25
         },
         {
-          "artist": "Morphine",
-          "listen_count": 25
-        },
-        {
           "artist": "Sonny Rollins",
           "listen_count": 24
+        },
+        {
+          "artist": "Diana Krall",
+          "listen_count": 23
         },
         {
           "artist": "Djo",
@@ -2256,10 +2142,6 @@
         },
         {
           "artist": "Admas",
-          "listen_count": 12
-        },
-        {
-          "artist": "Diana Krall",
           "listen_count": 12
         },
         {
@@ -3040,6 +2922,13 @@
           "last_listened_at_utc": "2026-10-30T19:08:12Z"
         },
         {
+          "artist": "Morphine",
+          "album": "Cure for Pain (Deluxe Edition)",
+          "listen_count": 44,
+          "unique_tracks": 20,
+          "last_listened_at_utc": "2026-11-04T22:07:48Z"
+        },
+        {
           "artist": "Parquet Courts",
           "album": "Wide Awake!",
           "listen_count": 38,
@@ -3108,13 +2997,6 @@
           "listen_count": 25,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-31T15:54:26Z"
-        },
-        {
-          "artist": "Morphine",
-          "album": "Cure for Pain (Deluxe Edition)",
-          "listen_count": 25,
-          "unique_tracks": 20,
-          "last_listened_at_utc": "2026-11-04T16:47:39Z"
         },
         {
           "artist": "נצ׳י נצ׳",
@@ -3311,6 +3193,13 @@
           "listen_count": 11,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-03T12:08:00Z"
+        },
+        {
+          "artist": "Diana Krall",
+          "album": "The Girl In The Other Room",
+          "listen_count": 11,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-11-04T23:40:01Z"
         },
         {
           "artist": "Erykah Badu",
@@ -4919,6 +4808,568 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1793835601,
+      "listened_at_utc": "2026-11-04T23:40:01Z",
+      "artist": "Diana Krall",
+      "track": "Departure Bay",
+      "album": "The Girl In The Other Room",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "recording_mbid": "6c6d6edd-6556-4230-a165-81dfbc91f1d2",
+        "release_mbid": "14a4a70d-8a85-4861-a415-35933837e3cb",
+        "release_group_mbid": "b7d8dca0-6748-470c-9eb0-eb6d72091273"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793835290,
+      "listened_at_utc": "2026-11-04T23:34:50Z",
+      "artist": "Diana Krall",
+      "track": "I'm Coming Through",
+      "album": "The Girl In The Other Room",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "recording_mbid": "11aaaa00-bb97-4554-8a72-505c577acc7f",
+        "release_mbid": "d022fffc-e545-4cf0-8e5e-e1aa9fe6fd21",
+        "release_group_mbid": "6dfdcee4-e97c-3485-80e0-3f54b6e54991"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793834977,
+      "listened_at_utc": "2026-11-04T23:29:37Z",
+      "artist": "Diana Krall",
+      "track": "Abandoned Masquerade",
+      "album": "The Girl In The Other Room",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "recording_mbid": "f1530f18-920a-4ac6-99b6-bb7851814e46",
+        "release_mbid": "d022fffc-e545-4cf0-8e5e-e1aa9fe6fd21",
+        "release_group_mbid": "6dfdcee4-e97c-3485-80e0-3f54b6e54991"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793834764,
+      "listened_at_utc": "2026-11-04T23:26:04Z",
+      "artist": "Diana Krall",
+      "track": "Narrow Daylight",
+      "album": "The Girl In The Other Room",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "recording_mbid": "deab08ae-4605-48b1-b808-f110c14cf4f0",
+        "release_mbid": "d022fffc-e545-4cf0-8e5e-e1aa9fe6fd21",
+        "release_group_mbid": "6dfdcee4-e97c-3485-80e0-3f54b6e54991"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793834466,
+      "listened_at_utc": "2026-11-04T23:21:06Z",
+      "artist": "Diana Krall",
+      "track": "Black Crow",
+      "album": "The Girl In The Other Room",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "recording_mbid": "da451a11-6a3f-4960-806e-e342eea264ae",
+        "release_mbid": "d022fffc-e545-4cf0-8e5e-e1aa9fe6fd21",
+        "release_group_mbid": "6dfdcee4-e97c-3485-80e0-3f54b6e54991"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793834221,
+      "listened_at_utc": "2026-11-04T23:17:01Z",
+      "artist": "Diana Krall",
+      "track": "I'm Pulling Through",
+      "album": "The Girl In The Other Room",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "recording_mbid": "55b61ca6-ea0d-47df-ab6a-9027fed221df",
+        "release_mbid": "d022fffc-e545-4cf0-8e5e-e1aa9fe6fd21",
+        "release_group_mbid": "6dfdcee4-e97c-3485-80e0-3f54b6e54991"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793833868,
+      "listened_at_utc": "2026-11-04T23:11:08Z",
+      "artist": "Diana Krall",
+      "track": "Love Me Like A Man",
+      "album": "The Girl In The Other Room",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "recording_mbid": "f0aac136-5aa0-4f27-9517-7206d5383151",
+        "release_mbid": "d022fffc-e545-4cf0-8e5e-e1aa9fe6fd21",
+        "release_group_mbid": "6dfdcee4-e97c-3485-80e0-3f54b6e54991"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793833579,
+      "listened_at_utc": "2026-11-04T23:06:19Z",
+      "artist": "Diana Krall",
+      "track": "I've Changed My Address",
+      "album": "The Girl In The Other Room",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "recording_mbid": "2cc702c4-8c6f-480e-9686-dff7bb765535",
+        "release_mbid": "d022fffc-e545-4cf0-8e5e-e1aa9fe6fd21",
+        "release_group_mbid": "6dfdcee4-e97c-3485-80e0-3f54b6e54991"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793833305,
+      "listened_at_utc": "2026-11-04T23:01:45Z",
+      "artist": "Diana Krall",
+      "track": "Temptation",
+      "album": "The Girl In The Other Room",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "recording_mbid": "856a3318-2e30-4281-986a-cda3c1cf1b54",
+        "release_mbid": "14a4a70d-8a85-4861-a415-35933837e3cb",
+        "release_group_mbid": "b7d8dca0-6748-470c-9eb0-eb6d72091273"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793833058,
+      "listened_at_utc": "2026-11-04T22:57:38Z",
+      "artist": "Diana Krall",
+      "track": "The Girl In The Other Room",
+      "album": "The Girl In The Other Room",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "recording_mbid": "8f60ce32-8970-40cf-964a-96f766b354a1",
+        "release_mbid": "14a4a70d-8a85-4861-a415-35933837e3cb",
+        "release_group_mbid": "b7d8dca0-6748-470c-9eb0-eb6d72091273"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793832819,
+      "listened_at_utc": "2026-11-04T22:53:39Z",
+      "artist": "Diana Krall",
+      "track": "Stop This World",
+      "album": "The Girl In The Other Room",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "recording_mbid": "367a4540-6afa-48c8-928a-fffc1954d73b",
+        "release_mbid": "d022fffc-e545-4cf0-8e5e-e1aa9fe6fd21",
+        "release_group_mbid": "6dfdcee4-e97c-3485-80e0-3f54b6e54991"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793830068,
+      "listened_at_utc": "2026-11-04T22:07:48Z",
+      "artist": "Morphine",
+      "track": "Miles Davis' Funeral (Alternate Fast Version)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "recording_mbid": "ff5ec86d-0edb-4253-82a5-154966e9852c",
+        "release_mbid": "5c129c33-ccd9-4f9c-b800-38f913b9df59",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793829573,
+      "listened_at_utc": "2026-11-04T21:59:33Z",
+      "artist": "Morphine",
+      "track": "Down Love's Tributaries",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "recording_mbid": "33c730ca-a81c-4620-ac03-f4cef5e03e46",
+        "release_mbid": "5c129c33-ccd9-4f9c-b800-38f913b9df59",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793829474,
+      "listened_at_utc": "2026-11-04T21:57:54Z",
+      "artist": "Morphine",
+      "track": "Third Stone From The Sun",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "recording_mbid": "06257451-99ec-40df-9223-6208a6db8063",
+        "release_mbid": "5c129c33-ccd9-4f9c-b800-38f913b9df59",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793829268,
+      "listened_at_utc": "2026-11-04T21:54:28Z",
+      "artist": "Morphine",
+      "track": "All Wrong (Alternate Early Version)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "recording_mbid": "ea238c1b-dd0b-4187-af02-6cabde8e6ad3",
+        "release_mbid": "5c129c33-ccd9-4f9c-b800-38f913b9df59",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793829073,
+      "listened_at_utc": "2026-11-04T21:51:13Z",
+      "artist": "Morphine",
+      "track": "Bo's Veranda",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "recording_mbid": "c395f430-c049-44ad-99d0-07e3c50ecc7a",
+        "release_mbid": "5c129c33-ccd9-4f9c-b800-38f913b9df59",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793825948,
+      "listened_at_utc": "2026-11-04T20:59:08Z",
+      "artist": "Morphine",
+      "track": "Mile High",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "recording_mbid": "5563cdbf-9384-482b-8c30-d035a2c4c08b",
+        "release_mbid": "5c129c33-ccd9-4f9c-b800-38f913b9df59",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793825843,
+      "listened_at_utc": "2026-11-04T20:57:23Z",
+      "artist": "Morphine",
+      "track": "Miles Davis' Funeral (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793825674,
+      "listened_at_utc": "2026-11-04T20:54:34Z",
+      "artist": "Morphine",
+      "track": "Sheila (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793825493,
+      "listened_at_utc": "2026-11-04T20:51:33Z",
+      "artist": "Morphine",
+      "track": "Let's Take a Trip Together (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "dee1d32d-27a5-4faf-9883-c73f9d32d547",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793825344,
+      "listened_at_utc": "2026-11-04T20:49:04Z",
+      "artist": "Morphine",
+      "track": "Mary Won't You Call My Name? (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793825149,
+      "listened_at_utc": "2026-11-04T20:45:49Z",
+      "artist": "Morphine",
+      "track": "Cure for Pain (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "a2d2aa7a-174c-432b-8d68-bc5f5839301d",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793824943,
+      "listened_at_utc": "2026-11-04T20:42:23Z",
+      "artist": "Morphine",
+      "track": "Thursday (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "63b6dcb6-20b8-488f-b4c0-e3c84d7aaff5",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793824777,
+      "listened_at_utc": "2026-11-04T20:39:37Z",
+      "artist": "Morphine",
+      "track": "In Spite of Me (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793824552,
+      "listened_at_utc": "2026-11-04T20:35:52Z",
+      "artist": "Morphine",
+      "track": "A Head With Wings (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "10eb4556-d29d-4d43-aadf-fde66c6c5606",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793824357,
+      "listened_at_utc": "2026-11-04T20:32:37Z",
+      "artist": "Morphine",
+      "track": "Candy (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "2c51564b-8771-4882-93c9-1add2016324c",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793824136,
+      "listened_at_utc": "2026-11-04T20:28:56Z",
+      "artist": "Morphine",
+      "track": "All Wrong (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "cbc36137-6de1-48d6-bfef-c70715aa9c6d",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793823932,
+      "listened_at_utc": "2026-11-04T20:25:32Z",
+      "artist": "Morphine",
+      "track": "I'm Free Now (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "9064ff7e-3686-40af-82b0-90fa0585d58b",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793823732,
+      "listened_at_utc": "2026-11-04T20:22:12Z",
+      "artist": "Morphine",
+      "track": "Buena (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "8c502831-3eab-43c0-afc1-b340b53b6a58",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1793823677,
+      "listened_at_utc": "2026-11-04T20:21:17Z",
+      "artist": "Morphine",
+      "track": "Dawna (2022 Remaster)",
+      "album": "Cure for Pain (Deluxe Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "42689657-cbec-4f66-a9ed-80f939ea23ed"
+        ],
+        "release_mbid": "c6f2297e-4083-439e-b141-f947de988576",
+        "recording_mbid": "70b2821a-fc4d-4a89-b164-9c4c5c801407",
+        "release_group_mbid": "c27c4bc3-98da-33ea-ad7a-5a765ccf9580"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1793810859,
       "listened_at_utc": "2026-11-04T16:47:39Z",
