@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-05T17:28:46Z",
+  "generated_at_utc": "2026-11-06T16:49:36Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-07T17:28:46Z",
-    "through_utc": "2026-11-05T17:28:46Z",
+    "from_utc": "2026-08-08T16:49:36Z",
+    "through_utc": "2026-11-06T16:49:36Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
-    "raw_listen_count": 2638,
-    "deduplicated_listen_count": 1583,
+    "raw_listen_count": 2663,
+    "deduplicated_listen_count": 1608,
     "duplicates_removed": 1055,
     "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-11-04T23:40:01Z"
+    "newest_listen_utc": "2026-11-05T23:15:52Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,9 +28,9 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 176,
-      "unique_artists": 29,
-      "unique_albums": 31,
+      "listen_count": 193,
+      "unique_artists": 34,
+      "unique_albums": 36,
       "listens_without_album": 0,
       "artists": [
         {
@@ -39,7 +39,7 @@
         },
         {
           "artist": "Diana Krall",
-          "listen_count": 23
+          "listen_count": 32
         },
         {
           "artist": "Talk Talk",
@@ -48,10 +48,6 @@
         {
           "artist": "Fine",
           "listen_count": 12
-        },
-        {
-          "artist": "Funkadelic",
-          "listen_count": 10
         },
         {
           "artist": "Arooj Aftab",
@@ -82,12 +78,36 @@
           "listen_count": 5
         },
         {
+          "artist": "the olllam",
+          "listen_count": 5
+        },
+        {
           "artist": "Taeko Onuki",
           "listen_count": 4
         },
         {
+          "artist": "Thelonious Monk Septet",
+          "listen_count": 4
+        },
+        {
+          "artist": "Japan",
+          "listen_count": 3
+        },
+        {
           "artist": "Tracy Chapman",
           "listen_count": 3
+        },
+        {
+          "artist": "Beth Orton",
+          "listen_count": 2
+        },
+        {
+          "artist": "Funkadelic",
+          "listen_count": 2
+        },
+        {
+          "artist": "Soul Coughing",
+          "listen_count": 2
         },
         {
           "artist": "Anouar Brahem",
@@ -159,18 +179,18 @@
           "last_listened_at_utc": "2026-11-04T22:07:48Z"
         },
         {
+          "artist": "Diana Krall",
+          "album": "Live in Paris",
+          "listen_count": 21,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-11-05T23:15:52Z"
+        },
+        {
           "artist": "Talk Talk",
           "album": "The Colour Of Spring (Remastered Hi-Res Version)",
           "listen_count": 21,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-11-02T21:46:48Z"
-        },
-        {
-          "artist": "Diana Krall",
-          "album": "Live in Paris",
-          "listen_count": 12,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-11-02T23:54:36Z"
         },
         {
           "artist": "Fine",
@@ -185,13 +205,6 @@
           "listen_count": 11,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-11-04T23:40:01Z"
-        },
-        {
-          "artist": "Funkadelic",
-          "album": "Cosmic Slop",
-          "listen_count": 10,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-31T18:11:35Z"
         },
         {
           "artist": "Arooj Aftab",
@@ -243,6 +256,13 @@
           "last_listened_at_utc": "2026-10-30T19:33:36Z"
         },
         {
+          "artist": "the olllam",
+          "album": "elllegy",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-11-05T19:47:52Z"
+        },
+        {
           "artist": "Taeko Onuki",
           "album": "Mignonne (Mastered by Bernie Grundman)",
           "listen_count": 4,
@@ -250,11 +270,46 @@
           "last_listened_at_utc": "2026-10-31T16:09:54Z"
         },
         {
+          "artist": "Thelonious Monk Septet",
+          "album": "Monk's Music",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-11-05T18:23:13Z"
+        },
+        {
+          "artist": "Japan",
+          "album": "Tin Drum",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-11-05T17:43:40Z"
+        },
+        {
           "artist": "Tracy Chapman",
           "album": "Tracy Chapman",
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-30T18:22:59Z"
+        },
+        {
+          "artist": "Beth Orton",
+          "album": "Weather Alive",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-05T17:56:14Z"
+        },
+        {
+          "artist": "Funkadelic",
+          "album": "Cosmic Slop",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-31T18:11:35Z"
+        },
+        {
+          "artist": "Soul Coughing",
+          "album": "Ruby Vroom (30th Anniversary Edition)",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-05T19:58:54Z"
         },
         {
           "artist": "Anouar Brahem",
@@ -371,9 +426,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 879,
-      "unique_artists": 136,
-      "unique_albums": 154,
+      "listen_count": 901,
+      "unique_artists": 139,
+      "unique_albums": 156,
       "listens_without_album": 0,
       "artists": [
         {
@@ -393,6 +448,10 @@
           "listen_count": 33
         },
         {
+          "artist": "Diana Krall",
+          "listen_count": 32
+        },
+        {
           "artist": "Miles Davis",
           "listen_count": 28
         },
@@ -403,10 +462,6 @@
         {
           "artist": "Fine",
           "listen_count": 25
-        },
-        {
-          "artist": "Diana Krall",
-          "listen_count": 23
         },
         {
           "artist": "Djo",
@@ -593,6 +648,10 @@
           "listen_count": 5
         },
         {
+          "artist": "the olllam",
+          "listen_count": 5
+        },
+        {
           "artist": "ג'יגה ג'וס",
           "listen_count": 5
         },
@@ -625,6 +684,10 @@
           "listen_count": 4
         },
         {
+          "artist": "Thelonious Monk Septet",
+          "listen_count": 4
+        },
+        {
           "artist": "Akusmi",
           "listen_count": 3
         },
@@ -638,6 +701,10 @@
         },
         {
           "artist": "Hiatus Kaiyote",
+          "listen_count": 3
+        },
+        {
+          "artist": "Japan",
           "listen_count": 3
         },
         {
@@ -674,6 +741,10 @@
         },
         {
           "artist": "Beth Gibbons",
+          "listen_count": 2
+        },
+        {
+          "artist": "Beth Orton",
           "listen_count": 2
         },
         {
@@ -721,7 +792,7 @@
           "listen_count": 2
         },
         {
-          "artist": "Squid",
+          "artist": "Soul Coughing",
           "listen_count": 2
         },
         {
@@ -793,10 +864,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Fishmans",
-          "listen_count": 1
-        },
-        {
           "artist": "Foals",
           "listen_count": 1
         },
@@ -814,10 +881,6 @@
         },
         {
           "artist": "Janko Nilović",
-          "listen_count": 1
-        },
-        {
-          "artist": "Jeff Parker ETA IVtet",
           "listen_count": 1
         },
         {
@@ -870,6 +933,10 @@
         },
         {
           "artist": "Sokratis Sinopoulos Quartet",
+          "listen_count": 1
+        },
+        {
+          "artist": "Squid",
           "listen_count": 1
         },
         {
@@ -972,6 +1039,13 @@
           "last_listened_at_utc": "2026-10-30T19:08:12Z"
         },
         {
+          "artist": "Diana Krall",
+          "album": "Live in Paris",
+          "listen_count": 21,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-11-05T23:15:52Z"
+        },
+        {
           "artist": "Talk Talk",
           "album": "The Colour Of Spring (Remastered Hi-Res Version)",
           "listen_count": 21,
@@ -1026,13 +1100,6 @@
           "listen_count": 12,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-10-20T23:19:38Z"
-        },
-        {
-          "artist": "Diana Krall",
-          "album": "Live in Paris",
-          "listen_count": 12,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-11-02T23:54:36Z"
         },
         {
           "artist": "Fontaines D.C.",
@@ -1343,6 +1410,13 @@
           "last_listened_at_utc": "2026-10-30T19:33:36Z"
         },
         {
+          "artist": "the olllam",
+          "album": "elllegy",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-11-05T19:47:52Z"
+        },
+        {
           "artist": "ג'יגה ג'וס",
           "album": "מיץ למקס",
           "listen_count": 5,
@@ -1406,6 +1480,13 @@
           "last_listened_at_utc": "2026-10-31T16:09:54Z"
         },
         {
+          "artist": "Thelonious Monk Septet",
+          "album": "Monk's Music",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-11-05T18:23:13Z"
+        },
+        {
           "artist": "Tsuyoshi Yamamoto Trio",
           "album": "Blues for Tee",
           "listen_count": 4,
@@ -1446,6 +1527,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-15T23:41:48Z"
+        },
+        {
+          "artist": "Japan",
+          "album": "Tin Drum",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-11-05T17:43:40Z"
         },
         {
           "artist": "John Coltrane",
@@ -1516,6 +1604,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-22T00:05:26Z"
+        },
+        {
+          "artist": "Beth Orton",
+          "album": "Weather Alive",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-05T17:56:14Z"
         },
         {
           "artist": "Dhafer Youssef",
@@ -1593,6 +1688,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-11T17:00:57Z"
+        },
+        {
+          "artist": "Soul Coughing",
+          "album": "Ruby Vroom (30th Anniversary Edition)",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-05T19:58:54Z"
         },
         {
           "artist": "Young Fathers",
@@ -1721,13 +1823,6 @@
           "last_listened_at_utc": "2026-10-13T22:59:57Z"
         },
         {
-          "artist": "Fishmans",
-          "album": "Long Season",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-06T23:51:40Z"
-        },
-        {
           "artist": "Foals",
           "album": "Collected Reworks",
           "listen_count": 1,
@@ -1761,13 +1856,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-25T13:01:26Z"
-        },
-        {
-          "artist": "Jeff Parker ETA IVtet",
-          "album": "The Way Out of Easy",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-06T22:35:54Z"
         },
         {
           "artist": "Jeffery Smith",
@@ -1866,13 +1954,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-14T23:38:09Z"
-        },
-        {
-          "artist": "Squid",
-          "album": "Cowards",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-07T12:38:30Z"
         },
         {
           "artist": "Squid",
@@ -2003,9 +2084,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1583,
-      "unique_artists": 226,
-      "unique_albums": 270,
+      "listen_count": 1608,
+      "unique_artists": 231,
+      "unique_albums": 275,
       "listens_without_album": 0,
       "artists": [
         {
@@ -2049,6 +2130,10 @@
           "listen_count": 33
         },
         {
+          "artist": "Diana Krall",
+          "listen_count": 32
+        },
+        {
           "artist": "Miles Davis",
           "listen_count": 31
         },
@@ -2067,10 +2152,6 @@
         {
           "artist": "Sonny Rollins",
           "listen_count": 24
-        },
-        {
-          "artist": "Diana Krall",
-          "listen_count": 23
         },
         {
           "artist": "Djo",
@@ -2333,6 +2414,10 @@
           "listen_count": 5
         },
         {
+          "artist": "the olllam",
+          "listen_count": 5
+        },
+        {
           "artist": "Cornelius",
           "listen_count": 4
         },
@@ -2373,6 +2458,10 @@
           "listen_count": 4
         },
         {
+          "artist": "Thelonious Monk Septet",
+          "listen_count": 4
+        },
+        {
           "artist": "Tinashe",
           "listen_count": 4
         },
@@ -2398,6 +2487,10 @@
         },
         {
           "artist": "Hiatus Kaiyote",
+          "listen_count": 3
+        },
+        {
+          "artist": "Japan",
           "listen_count": 3
         },
         {
@@ -2465,6 +2558,10 @@
           "listen_count": 2
         },
         {
+          "artist": "Beth Orton",
+          "listen_count": 2
+        },
+        {
           "artist": "Bill Evans Trio",
           "listen_count": 2
         },
@@ -2518,6 +2615,10 @@
         },
         {
           "artist": "Shye Ben-Tzur, Jonny Greenwood and The Rajasthan Express",
+          "listen_count": 2
+        },
+        {
+          "artist": "Soul Coughing",
           "listen_count": 2
         },
         {
@@ -3020,6 +3121,13 @@
           "last_listened_at_utc": "2026-09-13T16:16:38Z"
         },
         {
+          "artist": "Diana Krall",
+          "album": "Live in Paris",
+          "listen_count": 21,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-11-05T23:15:52Z"
+        },
+        {
           "artist": "Norah Jones",
           "album": "Come Away with Me",
           "listen_count": 21,
@@ -3151,13 +3259,6 @@
           "listen_count": 12,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-10-20T23:19:38Z"
-        },
-        {
-          "artist": "Diana Krall",
-          "album": "Live in Paris",
-          "listen_count": 12,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-11-02T23:54:36Z"
         },
         {
           "artist": "Fontaines D.C.",
@@ -3594,6 +3695,13 @@
           "last_listened_at_utc": "2026-09-29T20:16:34Z"
         },
         {
+          "artist": "the olllam",
+          "album": "elllegy",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-11-05T19:47:52Z"
+        },
+        {
           "artist": "Hailu Mergia",
           "album": "Lala Belu",
           "listen_count": 4,
@@ -3657,6 +3765,13 @@
           "last_listened_at_utc": "2026-10-31T16:09:54Z"
         },
         {
+          "artist": "Thelonious Monk Septet",
+          "album": "Monk's Music",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-11-05T18:23:13Z"
+        },
+        {
           "artist": "Tinashe",
           "album": "Popstar",
           "listen_count": 4,
@@ -3718,6 +3833,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-15T23:41:48Z"
+        },
+        {
+          "artist": "Japan",
+          "album": "Tin Drum",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-11-05T17:43:40Z"
         },
         {
           "artist": "John Coltrane",
@@ -3846,6 +3968,13 @@
           "last_listened_at_utc": "2026-10-22T00:05:26Z"
         },
         {
+          "artist": "Beth Orton",
+          "album": "Weather Alive",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-05T17:56:14Z"
+        },
+        {
           "artist": "Bill Evans & Jim Hall",
           "album": "Intermodulation",
           "listen_count": 2,
@@ -3949,6 +4078,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-11T17:00:57Z"
+        },
+        {
+          "artist": "Soul Coughing",
+          "album": "Ruby Vroom (30th Anniversary Edition)",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-05T19:58:54Z"
         },
         {
           "artist": "Squid",
@@ -4808,6 +4944,434 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1793920552,
+      "listened_at_utc": "2026-11-05T23:15:52Z",
+      "artist": "Diana Krall",
+      "track": "'S Wonderful (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793920199,
+      "listened_at_utc": "2026-11-05T23:09:59Z",
+      "artist": "Diana Krall",
+      "track": "Maybe You'll Be There (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793919787,
+      "listened_at_utc": "2026-11-05T23:03:07Z",
+      "artist": "Diana Krall",
+      "track": "Devil May Care (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793919344,
+      "listened_at_utc": "2026-11-05T22:55:44Z",
+      "artist": "Diana Krall",
+      "track": "I've Got You Under My Skin (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793918985,
+      "listened_at_utc": "2026-11-05T22:49:45Z",
+      "artist": "Diana Krall",
+      "track": "East Of The Sun (West Of The Moon) [Live In Paris, France/2001]",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793918684,
+      "listened_at_utc": "2026-11-05T22:44:44Z",
+      "artist": "Diana Krall",
+      "track": "The Look Of Love (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793918367,
+      "listened_at_utc": "2026-11-05T22:39:27Z",
+      "artist": "Diana Krall",
+      "track": "Deed I Do (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793918092,
+      "listened_at_utc": "2026-11-05T22:34:52Z",
+      "artist": "Diana Krall",
+      "track": "Let's Fall In Love (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793917780,
+      "listened_at_utc": "2026-11-05T22:29:40Z",
+      "artist": "Diana Krall",
+      "track": "I Love Being Here With You (Live In Paris, France/2001)",
+      "album": "Live in Paris",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793908734,
+      "listened_at_utc": "2026-11-05T19:58:54Z",
+      "artist": "Soul Coughing",
+      "track": "Sugar Free Jazz",
+      "album": "Ruby Vroom (30th Anniversary Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8067c102-4996-42bc-9980-06ce2e644eae"
+        ],
+        "recording_mbid": "a2fcabcd-6066-41cd-ade2-1287c24c4e14",
+        "release_mbid": "abc49b59-0c11-4651-9262-7316bda4c158",
+        "release_group_mbid": "377ce0f3-d963-3372-b030-d83be76f8a5d"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793908496,
+      "listened_at_utc": "2026-11-05T19:54:56Z",
+      "artist": "Soul Coughing",
+      "track": "Is Chicago Is Not Chicago",
+      "album": "Ruby Vroom (30th Anniversary Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8067c102-4996-42bc-9980-06ce2e644eae"
+        ],
+        "recording_mbid": "09317eaf-25cd-4beb-a58a-db54c96ecae4",
+        "release_mbid": "abc49b59-0c11-4651-9262-7316bda4c158",
+        "release_group_mbid": "377ce0f3-d963-3372-b030-d83be76f8a5d"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793908072,
+      "listened_at_utc": "2026-11-05T19:47:52Z",
+      "artist": "the olllam",
+      "track": "with pure crystalll teeth",
+      "album": "elllegy",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b7380fd6-fa6f-47cb-8c20-41f4c801c357"
+        ],
+        "recording_mbid": "2f367f15-f4ee-4ca5-9af0-1a1ab4933a7f",
+        "release_mbid": "fcaa7aad-a64c-4a7f-83b1-f619965de6b5",
+        "release_group_mbid": "0a781dd6-b710-41e8-8684-b7b9ec205712"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793907187,
+      "listened_at_utc": "2026-11-05T19:33:07Z",
+      "artist": "the olllam",
+      "track": "the burialll stone",
+      "album": "elllegy",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b7380fd6-fa6f-47cb-8c20-41f4c801c357"
+        ],
+        "recording_mbid": "47610dca-bb24-4954-8e7e-c98be5ca215a",
+        "release_mbid": "fcaa7aad-a64c-4a7f-83b1-f619965de6b5",
+        "release_group_mbid": "0a781dd6-b710-41e8-8684-b7b9ec205712"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793906785,
+      "listened_at_utc": "2026-11-05T19:26:25Z",
+      "artist": "the olllam",
+      "track": "stream of silllver",
+      "album": "elllegy",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b7380fd6-fa6f-47cb-8c20-41f4c801c357"
+        ],
+        "recording_mbid": "e46e342e-9012-4531-ae17-5740b71986ab",
+        "release_mbid": "fcaa7aad-a64c-4a7f-83b1-f619965de6b5",
+        "release_group_mbid": "0a781dd6-b710-41e8-8684-b7b9ec205712"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793906234,
+      "listened_at_utc": "2026-11-05T19:17:14Z",
+      "artist": "the olllam",
+      "track": "an exillle's dream",
+      "album": "elllegy",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b7380fd6-fa6f-47cb-8c20-41f4c801c357"
+        ],
+        "recording_mbid": "b51871c0-eb50-47db-a412-8a82ff5e3388",
+        "release_mbid": "fcaa7aad-a64c-4a7f-83b1-f619965de6b5",
+        "release_group_mbid": "0a781dd6-b710-41e8-8684-b7b9ec205712"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793905735,
+      "listened_at_utc": "2026-11-05T19:08:55Z",
+      "artist": "the olllam",
+      "track": "lllow the sun",
+      "album": "elllegy",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b7380fd6-fa6f-47cb-8c20-41f4c801c357"
+        ],
+        "recording_mbid": "52658057-c5bd-43e5-ace6-70aaa1f59319",
+        "release_mbid": "fcaa7aad-a64c-4a7f-83b1-f619965de6b5",
+        "release_group_mbid": "0a781dd6-b710-41e8-8684-b7b9ec205712"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793902993,
+      "listened_at_utc": "2026-11-05T18:23:13Z",
+      "artist": "Thelonious Monk Septet",
+      "track": "Off Minor (take 5)",
+      "album": "Monk's Music",
+      "musicbrainz": {
+        "artist_mbids": [
+          "51fe321e-5ad0-4dd1-a5c3-3e773688cdf8"
+        ],
+        "recording_mbid": "7400af67-33ee-4f4a-8afd-2e80c08d2a37",
+        "release_mbid": "4b83e116-e53d-47cc-a217-4a447856b4f5",
+        "release_group_mbid": "1ffc3f4e-0d85-35d0-bb4f-b58f7a576e10"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793902668,
+      "listened_at_utc": "2026-11-05T18:17:48Z",
+      "artist": "Thelonious Monk Septet",
+      "track": "Ruby, My Dear",
+      "album": "Monk's Music",
+      "musicbrainz": {
+        "artist_mbids": [
+          "51fe321e-5ad0-4dd1-a5c3-3e773688cdf8"
+        ],
+        "recording_mbid": "e5ac79f4-3215-48d2-9296-ec92757ab718",
+        "release_mbid": "4b83e116-e53d-47cc-a217-4a447856b4f5",
+        "release_group_mbid": "1ffc3f4e-0d85-35d0-bb4f-b58f7a576e10"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793901989,
+      "listened_at_utc": "2026-11-05T18:06:29Z",
+      "artist": "Thelonious Monk Septet",
+      "track": "Well, You Needn't",
+      "album": "Monk's Music",
+      "musicbrainz": {
+        "artist_mbids": [
+          "51fe321e-5ad0-4dd1-a5c3-3e773688cdf8"
+        ],
+        "recording_mbid": "29563239-f0f1-41d8-84c6-f94c75c89d3a",
+        "release_mbid": "86dad246-dc8f-4f91-a50e-7c6151865ded",
+        "release_group_mbid": "1ffc3f4e-0d85-35d0-bb4f-b58f7a576e10"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793901934,
+      "listened_at_utc": "2026-11-05T18:05:34Z",
+      "artist": "Thelonious Monk Septet",
+      "track": "Abide with Me",
+      "album": "Monk's Music",
+      "musicbrainz": {
+        "artist_mbids": [
+          "51fe321e-5ad0-4dd1-a5c3-3e773688cdf8"
+        ],
+        "recording_mbid": "30e0f76e-b0e3-45c3-8c19-3963e5b19e2f",
+        "release_mbid": "86dad246-dc8f-4f91-a50e-7c6151865ded",
+        "release_group_mbid": "1ffc3f4e-0d85-35d0-bb4f-b58f7a576e10"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793901374,
+      "listened_at_utc": "2026-11-05T17:56:14Z",
+      "artist": "Beth Orton",
+      "track": "Friday Night",
+      "album": "Weather Alive",
+      "musicbrainz": {
+        "artist_mbids": [
+          "214d84a5-e9e5-4432-af95-8c84da7ba4c0"
+        ],
+        "recording_mbid": "e81e77c1-ab5e-4466-ba0a-7022d566f3a7",
+        "release_mbid": "56c0654d-3f42-47fa-b18e-b2a03997286c",
+        "release_group_mbid": "b33cc23b-1fcd-483e-b379-a0282c9219a8"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793900949,
+      "listened_at_utc": "2026-11-05T17:49:09Z",
+      "artist": "Beth Orton",
+      "track": "Weather Alive",
+      "album": "Weather Alive",
+      "musicbrainz": {
+        "artist_mbids": [
+          "214d84a5-e9e5-4432-af95-8c84da7ba4c0"
+        ],
+        "recording_mbid": "398004e7-9eed-459d-aa86-56645bd2bdc8",
+        "release_mbid": "56c0654d-3f42-47fa-b18e-b2a03997286c",
+        "release_group_mbid": "b33cc23b-1fcd-483e-b379-a0282c9219a8"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793900620,
+      "listened_at_utc": "2026-11-05T17:43:40Z",
+      "artist": "Japan",
+      "track": "Ghosts (2003 Digital Remaster)",
+      "album": "Tin Drum",
+      "musicbrainz": {
+        "artist_mbids": [
+          "697e7111-5630-4c77-83f3-39821bacc61a"
+        ],
+        "release_mbid": "ee3dd2d0-2aa2-318a-b69c-68f55d10df78"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793900405,
+      "listened_at_utc": "2026-11-05T17:40:05Z",
+      "artist": "Japan",
+      "track": "Talking Drum (2003 Digital Remaster)",
+      "album": "Tin Drum",
+      "musicbrainz": {
+        "artist_mbids": [
+          "697e7111-5630-4c77-83f3-39821bacc61a"
+        ],
+        "release_mbid": "ee3dd2d0-2aa2-318a-b69c-68f55d10df78"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1793900152,
+      "listened_at_utc": "2026-11-05T17:35:52Z",
+      "artist": "Japan",
+      "track": "The Art of Parties (2003 - Remaster)",
+      "album": "Tin Drum",
+      "musicbrainz": {
+        "artist_mbids": [
+          "697e7111-5630-4c77-83f3-39821bacc61a"
+        ],
+        "recording_mbid": "01ebee04-4447-4566-b044-b6a1406a4b80",
+        "release_mbid": "df4ddfb5-2db2-48c3-9679-b0c060c7fe7f",
+        "release_group_mbid": "c7a6784e-e1de-3480-b744-b5ed6d5cb6ca"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
     {
       "listened_at": 1793835601,
       "listened_at_utc": "2026-11-04T23:40:01Z",
