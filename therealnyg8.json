@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-07T15:45:26Z",
+  "generated_at_utc": "2026-11-08T16:05:13Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-09T15:45:26Z",
-    "through_utc": "2026-11-07T15:45:26Z",
+    "from_utc": "2026-08-10T16:05:13Z",
+    "through_utc": "2026-11-08T16:05:13Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
-    "raw_listen_count": 2682,
-    "deduplicated_listen_count": 1627,
-    "duplicates_removed": 1055,
+    "raw_listen_count": 2756,
+    "deduplicated_listen_count": 1643,
+    "duplicates_removed": 1113,
     "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-11-06T21:51:08Z"
+    "newest_listen_utc": "2026-11-08T01:40:51Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -43,7 +43,7 @@
         },
         {
           "artist": "Talk Talk",
-          "listen_count": 22
+          "listen_count": 19
         },
         {
           "artist": "Anouar Brahem",
@@ -58,11 +58,11 @@
           "listen_count": 8
         },
         {
-          "artist": "Cassandra Jenkins",
-          "listen_count": 6
+          "artist": "Mikiko Sato",
+          "listen_count": 7
         },
         {
-          "artist": "Clairo",
+          "artist": "Cassandra Jenkins",
           "listen_count": 6
         },
         {
@@ -74,7 +74,7 @@
           "listen_count": 5
         },
         {
-          "artist": "Taeko Onuki",
+          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
           "listen_count": 4
         },
         {
@@ -86,6 +86,10 @@
           "listen_count": 3
         },
         {
+          "artist": "Kimiko Kasai & Kosuke Mine Quartet",
+          "listen_count": 3
+        },
+        {
           "artist": "Soul Coughing",
           "listen_count": 3
         },
@@ -94,7 +98,7 @@
           "listen_count": 2
         },
         {
-          "artist": "Funkadelic",
+          "artist": "Julian Lage",
           "listen_count": 2
         },
         {
@@ -115,10 +119,6 @@
         },
         {
           "artist": "Dizzy Gillespie",
-          "listen_count": 1
-        },
-        {
-          "artist": "Fine",
           "listen_count": 1
         },
         {
@@ -180,7 +180,7 @@
         {
           "artist": "Talk Talk",
           "album": "The Colour Of Spring (Remastered Hi-Res Version)",
-          "listen_count": 21,
+          "listen_count": 18,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-11-02T21:46:48Z"
         },
@@ -213,18 +213,18 @@
           "last_listened_at_utc": "2026-11-04T14:30:27Z"
         },
         {
+          "artist": "Mikiko Sato",
+          "album": "Mikiko's World",
+          "listen_count": 7,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-11-07T23:30:58Z"
+        },
+        {
           "artist": "Cassandra Jenkins",
           "album": "An Overview on Phenomenal Nature",
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-11-06T21:51:08Z"
-        },
-        {
-          "artist": "Clairo",
-          "album": "Charm",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-31T16:33:39Z"
         },
         {
           "artist": "Charlie Hunter Quartet",
@@ -241,11 +241,11 @@
           "last_listened_at_utc": "2026-11-05T19:47:52Z"
         },
         {
-          "artist": "Taeko Onuki",
-          "album": "Mignonne (Mastered by Bernie Grundman)",
+          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+          "album": "Getz/Gilberto",
           "listen_count": 4,
           "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-31T16:09:54Z"
+          "last_listened_at_utc": "2026-11-08T01:04:48Z"
         },
         {
           "artist": "Thelonious Monk Septet",
@@ -262,6 +262,13 @@
           "last_listened_at_utc": "2026-11-05T17:43:40Z"
         },
         {
+          "artist": "Kimiko Kasai & Kosuke Mine Quartet",
+          "album": "Yellow Carcass in the Blue Sky",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-11-07T23:45:36Z"
+        },
+        {
           "artist": "Soul Coughing",
           "album": "Ruby Vroom (30th Anniversary Edition)",
           "listen_count": 3,
@@ -276,11 +283,11 @@
           "last_listened_at_utc": "2026-11-05T17:56:14Z"
         },
         {
-          "artist": "Funkadelic",
-          "album": "Cosmic Slop",
+          "artist": "Julian Lage",
+          "album": "Scenes From Above",
           "listen_count": 2,
           "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-31T18:11:35Z"
+          "last_listened_at_utc": "2026-11-08T01:40:51Z"
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
@@ -316,13 +323,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-03T00:44:31Z"
-        },
-        {
-          "artist": "Fine",
-          "album": "Jazz dreams",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-31T15:54:26Z"
         },
         {
           "artist": "Fripp & Eno",
@@ -404,9 +404,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 916,
-      "unique_artists": 139,
-      "unique_albums": 156,
+      "listen_count": 906,
+      "unique_artists": 136,
+      "unique_albums": 153,
       "listens_without_album": 0,
       "artists": [
         {
@@ -434,10 +434,6 @@
           "listen_count": 33
         },
         {
-          "artist": "Miles Davis",
-          "listen_count": 28
-        },
-        {
           "artist": "Fine",
           "listen_count": 25
         },
@@ -456,6 +452,10 @@
         {
           "artist": "Bob Dylan",
           "listen_count": 21
+        },
+        {
+          "artist": "Miles Davis",
+          "listen_count": 20
         },
         {
           "artist": "Norah Jones",
@@ -503,6 +503,10 @@
         },
         {
           "artist": "Kikagaku Moyo",
+          "listen_count": 11
+        },
+        {
+          "artist": "Mikiko Sato",
           "listen_count": 11
         },
         {
@@ -606,10 +610,6 @@
           "listen_count": 6
         },
         {
-          "artist": "Shabaka",
-          "listen_count": 6
-        },
-        {
           "artist": "Anouar Brahem, Dave Holland, Jack DeJohnette, Django Bates",
           "listen_count": 5
         },
@@ -619,10 +619,6 @@
         },
         {
           "artist": "Charlie Hunter Quartet",
-          "listen_count": 5
-        },
-        {
-          "artist": "J Dilla",
           "listen_count": 5
         },
         {
@@ -646,10 +642,6 @@
           "listen_count": 4
         },
         {
-          "artist": "Mikiko Sato",
-          "listen_count": 4
-        },
-        {
           "artist": "Olivia Rodrigo",
           "listen_count": 4
         },
@@ -659,6 +651,10 @@
         },
         {
           "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
+          "listen_count": 4
+        },
+        {
+          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
           "listen_count": 4
         },
         {
@@ -686,6 +682,14 @@
           "listen_count": 3
         },
         {
+          "artist": "Julian Lage",
+          "listen_count": 3
+        },
+        {
+          "artist": "Kimiko Kasai & Kosuke Mine Quartet",
+          "listen_count": 3
+        },
+        {
           "artist": "Nala Sinephro",
           "listen_count": 3
         },
@@ -706,15 +710,7 @@
           "listen_count": 3
         },
         {
-          "artist": "Tortoise",
-          "listen_count": 3
-        },
-        {
           "artist": "Tracy Chapman",
-          "listen_count": 3
-        },
-        {
-          "artist": "YĪN YĪN",
           "listen_count": 3
         },
         {
@@ -854,19 +850,15 @@
           "listen_count": 1
         },
         {
+          "artist": "J Dilla",
+          "listen_count": 1
+        },
+        {
           "artist": "Janko Nilović",
           "listen_count": 1
         },
         {
           "artist": "Jeffery Smith",
-          "listen_count": 1
-        },
-        {
-          "artist": "Jlin",
-          "listen_count": 1
-        },
-        {
-          "artist": "Julian Lage",
           "listen_count": 1
         },
         {
@@ -883,10 +875,6 @@
         },
         {
           "artist": "Madeleine Peyroux",
-          "listen_count": 1
-        },
-        {
-          "artist": "Marcus Miller",
           "listen_count": 1
         },
         {
@@ -996,13 +984,6 @@
           "last_listened_at_utc": "2026-10-24T23:23:35Z"
         },
         {
-          "artist": "Miles Davis",
-          "album": "Kind of Blue",
-          "listen_count": 28,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-28T21:03:10Z"
-        },
-        {
           "artist": "Fine",
           "album": "Jazz dreams",
           "listen_count": 25,
@@ -1036,6 +1017,13 @@
           "listen_count": 20,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-10-27T21:25:32Z"
+        },
+        {
+          "artist": "Miles Davis",
+          "album": "Kind of Blue",
+          "listen_count": 20,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-28T21:03:10Z"
         },
         {
           "artist": "Norah Jones",
@@ -1127,6 +1115,13 @@
           "listen_count": 11,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-10-24T18:26:33Z"
+        },
+        {
+          "artist": "Mikiko Sato",
+          "album": "Mikiko's World",
+          "listen_count": 11,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-11-07T23:30:58Z"
         },
         {
           "artist": "The Zombies",
@@ -1346,13 +1341,6 @@
           "last_listened_at_utc": "2026-10-13T23:32:56Z"
         },
         {
-          "artist": "Shabaka",
-          "album": "Of The Earth",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-08T22:34:12Z"
-        },
-        {
           "artist": "Anouar Brahem, Dave Holland, Jack DeJohnette, Django Bates",
           "album": "Blue Maqams",
           "listen_count": 5,
@@ -1372,13 +1360,6 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-11-03T19:23:20Z"
-        },
-        {
-          "artist": "J Dilla",
-          "album": "Donuts",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-09T21:19:08Z"
         },
         {
           "artist": "Sonny Rollins",
@@ -1430,13 +1411,6 @@
           "last_listened_at_utc": "2026-10-19T21:06:03Z"
         },
         {
-          "artist": "Mikiko Sato",
-          "album": "Mikiko's World",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-10T12:18:37Z"
-        },
-        {
           "artist": "Olivia Rodrigo",
           "album": "SOUR",
           "listen_count": 4,
@@ -1456,6 +1430,13 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-12T21:34:28Z"
+        },
+        {
+          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+          "album": "Getz/Gilberto",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-11-08T01:04:48Z"
         },
         {
           "artist": "Taeko Onuki",
@@ -1528,6 +1509,20 @@
           "last_listened_at_utc": "2026-10-11T17:36:00Z"
         },
         {
+          "artist": "Julian Lage",
+          "album": "Scenes From Above",
+          "listen_count": 3,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-08T01:40:51Z"
+        },
+        {
+          "artist": "Kimiko Kasai & Kosuke Mine Quartet",
+          "album": "Yellow Carcass in the Blue Sky",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-11-07T23:45:36Z"
+        },
+        {
           "artist": "Nala Sinephro",
           "album": "Endlessness",
           "listen_count": 3,
@@ -1556,25 +1551,11 @@
           "last_listened_at_utc": "2026-10-15T21:43:47Z"
         },
         {
-          "artist": "Tortoise",
-          "album": "Touch",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-08T21:18:35Z"
-        },
-        {
           "artist": "Tracy Chapman",
           "album": "Tracy Chapman",
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-30T18:22:59Z"
-        },
-        {
-          "artist": "YĪN YĪN",
-          "album": "Mount Matsu",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-09T12:33:53Z"
         },
         {
           "artist": "Arctic Monkeys",
@@ -1822,6 +1803,13 @@
           "last_listened_at_utc": "2026-11-03T00:08:03Z"
         },
         {
+          "artist": "J Dilla",
+          "album": "Donuts",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-09T21:19:08Z"
+        },
+        {
           "artist": "Janko Nilović",
           "album": "Chorus",
           "listen_count": 1,
@@ -1834,20 +1822,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-03T00:03:13Z"
-        },
-        {
-          "artist": "Jlin",
-          "album": "Akoma",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-08T18:17:16Z"
-        },
-        {
-          "artist": "Julian Lage",
-          "album": "Scenes From Above",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-24T23:43:09Z"
         },
         {
           "artist": "Kurt Elling & Yellowjackets",
@@ -1876,13 +1850,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-02T23:59:41Z"
-        },
-        {
-          "artist": "Marcus Miller",
-          "album": "Marshall (Original Motion Picture Soundtrack)",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-09T00:23:09Z"
         },
         {
           "artist": "Metric",
@@ -2062,9 +2029,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1627,
-      "unique_artists": 232,
-      "unique_albums": 276,
+      "listen_count": 1643,
+      "unique_artists": 234,
+      "unique_albums": 278,
       "listens_without_album": 0,
       "artists": [
         {
@@ -2224,6 +2191,10 @@
           "listen_count": 11
         },
         {
+          "artist": "Mikiko Sato",
+          "listen_count": 11
+        },
+        {
           "artist": "The Zombies",
           "listen_count": 11
         },
@@ -2352,6 +2323,10 @@
           "listen_count": 6
         },
         {
+          "artist": "Julian Lage",
+          "listen_count": 6
+        },
+        {
           "artist": "Sampha",
           "listen_count": 6
         },
@@ -2408,15 +2383,7 @@
           "listen_count": 4
         },
         {
-          "artist": "Julian Lage",
-          "listen_count": 4
-        },
-        {
           "artist": "Liraz",
-          "listen_count": 4
-        },
-        {
-          "artist": "Mikiko Sato",
           "listen_count": 4
         },
         {
@@ -2433,6 +2400,10 @@
         },
         {
           "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
+          "listen_count": 4
+        },
+        {
+          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
           "listen_count": 4
         },
         {
@@ -2473,6 +2444,10 @@
         },
         {
           "artist": "Japan",
+          "listen_count": 3
+        },
+        {
+          "artist": "Kimiko Kasai & Kosuke Mine Quartet",
           "listen_count": 3
         },
         {
@@ -3306,6 +3281,13 @@
           "last_listened_at_utc": "2026-10-24T18:26:33Z"
         },
         {
+          "artist": "Mikiko Sato",
+          "album": "Mikiko's World",
+          "listen_count": 11,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-11-07T23:30:58Z"
+        },
+        {
           "artist": "The Zombies",
           "album": "Odessey and Oracle (Mono Remastered)",
           "listen_count": 11,
@@ -3705,13 +3687,6 @@
           "last_listened_at_utc": "2026-10-19T21:06:03Z"
         },
         {
-          "artist": "Mikiko Sato",
-          "album": "Mikiko's World",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-10T12:18:37Z"
-        },
-        {
           "artist": "NuNu",
           "album": "הגנוז",
           "listen_count": 4,
@@ -3745,6 +3720,13 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-12T21:34:28Z"
+        },
+        {
+          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+          "album": "Getz/Gilberto",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-11-08T01:04:48Z"
         },
         {
           "artist": "Taeko Onuki",
@@ -3846,10 +3828,24 @@
         },
         {
           "artist": "Julian Lage",
+          "album": "Scenes From Above",
+          "listen_count": 3,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-08T01:40:51Z"
+        },
+        {
+          "artist": "Julian Lage",
           "album": "Speak To Me",
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-09-16T23:11:55Z"
+        },
+        {
+          "artist": "Kimiko Kasai & Kosuke Mine Quartet",
+          "album": "Yellow Carcass in the Blue Sky",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-11-07T23:45:36Z"
         },
         {
           "artist": "Kutiman & DEKEL",
@@ -4440,13 +4436,6 @@
           "last_listened_at_utc": "2026-09-20T22:37:09Z"
         },
         {
-          "artist": "Julian Lage",
-          "album": "Scenes From Above",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-24T23:43:09Z"
-        },
-        {
           "artist": "Kurt Elling & Yellowjackets",
           "album": "Play Weather Report: Alive in Europe + Bonus Studio Recordings",
           "listen_count": 1,
@@ -4934,6 +4923,270 @@
   },
   "recent_listens": [
     {
+      "listened_at": 1794102051,
+      "listened_at_utc": "2026-11-08T01:40:51Z",
+      "artist": "Julian Lage",
+      "track": "Red Elm",
+      "album": "Scenes From Above",
+      "musicbrainz": {
+        "artist_mbids": [
+          "c116b504-ce24-4264-96dc-d10a7458236f",
+          "b57bec34-8aec-44fe-b920-203e09a88dc1",
+          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
+          "80341f8d-808e-4b2e-a029-661b224577dd"
+        ],
+        "recording_mbid": "6d7c3754-94f0-432e-83a9-3cc509ef7abd",
+        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
+        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794101797,
+      "listened_at_utc": "2026-11-08T01:36:37Z",
+      "artist": "Julian Lage",
+      "track": "Opal",
+      "album": "Scenes From Above",
+      "musicbrainz": {
+        "artist_mbids": [
+          "c116b504-ce24-4264-96dc-d10a7458236f",
+          "b57bec34-8aec-44fe-b920-203e09a88dc1",
+          "fa0ebbfc-42b0-493f-9f9b-fc30c5222639",
+          "80341f8d-808e-4b2e-a029-661b224577dd"
+        ],
+        "recording_mbid": "22f76943-da55-41d1-b3ed-0aac28a2dfb8",
+        "release_mbid": "e4903bc4-e3b0-48da-b4b6-b9e23d947a52",
+        "release_group_mbid": "ac691de4-2fd1-4e71-ba4e-ce415929a880"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794099888,
+      "listened_at_utc": "2026-11-08T01:04:48Z",
+      "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+      "track": "Desafinado (Off Key)",
+      "album": "Getz/Gilberto",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
+          "286ec4c2-b5ca-4f85-b331-280a6d73dd14",
+          "7a8dbe84-f4c0-4457-bfa3-edced1f8cde0"
+        ],
+        "recording_mbid": "27306761-31ac-4c12-b03e-ce2e93483e10",
+        "release_mbid": "9641b096-dd93-4fa2-a9da-e760621d2383",
+        "release_group_mbid": "b248d212-aace-3c3e-a23d-e13aaac1f87a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794099576,
+      "listened_at_utc": "2026-11-08T00:59:36Z",
+      "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+      "track": "P'ra Machucar Meu Coracao",
+      "album": "Getz/Gilberto",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
+          "286ec4c2-b5ca-4f85-b331-280a6d73dd14",
+          "7a8dbe84-f4c0-4457-bfa3-edced1f8cde0"
+        ],
+        "release_mbid": "d04a9b95-65a7-4da3-9cb4-2b035629d9dc",
+        "recording_mbid": "690c7f7d-ab20-46f6-af03-6177409f3f2b",
+        "release_group_mbid": "b248d212-aace-3c3e-a23d-e13aaac1f87a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794099410,
+      "listened_at_utc": "2026-11-08T00:56:50Z",
+      "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+      "track": "Doralice",
+      "album": "Getz/Gilberto",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
+          "286ec4c2-b5ca-4f85-b331-280a6d73dd14",
+          "7a8dbe84-f4c0-4457-bfa3-edced1f8cde0"
+        ],
+        "recording_mbid": "04c1263e-ff58-40e1-b89b-731e88b606ed",
+        "release_mbid": "9641b096-dd93-4fa2-a9da-e760621d2383",
+        "release_group_mbid": "b248d212-aace-3c3e-a23d-e13aaac1f87a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794099090,
+      "listened_at_utc": "2026-11-08T00:51:30Z",
+      "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+      "track": "The Girl from Ipanema",
+      "album": "Getz/Gilberto",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
+          "286ec4c2-b5ca-4f85-b331-280a6d73dd14",
+          "7a8dbe84-f4c0-4457-bfa3-edced1f8cde0"
+        ],
+        "recording_mbid": "fd889e33-a067-498f-bbf8-9ffe305bde16",
+        "release_mbid": "9641b096-dd93-4fa2-a9da-e760621d2383",
+        "release_group_mbid": "b248d212-aace-3c3e-a23d-e13aaac1f87a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794095136,
+      "listened_at_utc": "2026-11-07T23:45:36Z",
+      "artist": "Kimiko Kasai & Kosuke Mine Quartet",
+      "track": "River Dry",
+      "album": "Yellow Carcass in the Blue Sky",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8da40f85-ce14-4a24-ad83-287c83313403",
+          "cd767b70-a2a7-4499-abc6-d5bafa4e1880"
+        ],
+        "release_mbid": "46051201-e1c6-45f8-925d-15002470b658"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794094765,
+      "listened_at_utc": "2026-11-07T23:39:25Z",
+      "artist": "Kimiko Kasai & Kosuke Mine Quartet",
+      "track": "Blues in C Minor",
+      "album": "Yellow Carcass in the Blue Sky",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8da40f85-ce14-4a24-ad83-287c83313403",
+          "cd767b70-a2a7-4499-abc6-d5bafa4e1880"
+        ],
+        "release_mbid": "46051201-e1c6-45f8-925d-15002470b658"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794094568,
+      "listened_at_utc": "2026-11-07T23:36:08Z",
+      "artist": "Kimiko Kasai & Kosuke Mine Quartet",
+      "track": "Alone Together",
+      "album": "Yellow Carcass in the Blue Sky",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8da40f85-ce14-4a24-ad83-287c83313403",
+          "cd767b70-a2a7-4499-abc6-d5bafa4e1880"
+        ],
+        "release_mbid": "46051201-e1c6-45f8-925d-15002470b658"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794094258,
+      "listened_at_utc": "2026-11-07T23:30:58Z",
+      "artist": "Mikiko Sato",
+      "track": "Keep Your Smile",
+      "album": "Mikiko's World",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794093990,
+      "listened_at_utc": "2026-11-07T23:26:30Z",
+      "artist": "Mikiko Sato",
+      "track": "Just Spare Me a Little of Your Time",
+      "album": "Mikiko's World",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794093718,
+      "listened_at_utc": "2026-11-07T23:21:58Z",
+      "artist": "Mikiko Sato",
+      "track": "Waltz in the Harvest Moonlight",
+      "album": "Mikiko's World",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794093416,
+      "listened_at_utc": "2026-11-07T23:16:56Z",
+      "artist": "Mikiko Sato",
+      "track": "Once Again",
+      "album": "Mikiko's World",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794093214,
+      "listened_at_utc": "2026-11-07T23:13:34Z",
+      "artist": "Mikiko Sato",
+      "track": "I Miss the Boston You Were In",
+      "album": "Mikiko's World",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794092978,
+      "listened_at_utc": "2026-11-07T23:09:38Z",
+      "artist": "Mikiko Sato",
+      "track": "I Wonder If I Can Fly",
+      "album": "Mikiko's World",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794092690,
+      "listened_at_utc": "2026-11-07T23:04:50Z",
+      "artist": "Mikiko Sato",
+      "track": "Daydream",
+      "album": "Mikiko's World",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
       "listened_at": 1794001868,
       "listened_at_utc": "2026-11-06T21:51:08Z",
       "artist": "Cassandra Jenkins",
@@ -4948,7 +5201,8 @@
         "release_group_mbid": "f27e47f4-86b0-42cf-a8f5-0d5c5ffe44b8"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4966,7 +5220,8 @@
         "release_group_mbid": "f27e47f4-86b0-42cf-a8f5-0d5c5ffe44b8"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -4984,7 +5239,8 @@
         "release_group_mbid": "f27e47f4-86b0-42cf-a8f5-0d5c5ffe44b8"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5002,7 +5258,8 @@
         "release_group_mbid": "f27e47f4-86b0-42cf-a8f5-0d5c5ffe44b8"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5020,7 +5277,8 @@
         "release_group_mbid": "f27e47f4-86b0-42cf-a8f5-0d5c5ffe44b8"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5038,7 +5296,8 @@
         "release_group_mbid": "f27e47f4-86b0-42cf-a8f5-0d5c5ffe44b8"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5056,7 +5315,8 @@
         "release_group_mbid": "b7d8dca0-6748-470c-9eb0-eb6d72091273"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5073,7 +5333,8 @@
         "release_mbid": "e8f4dbd6-5e4b-496d-8847-57c531558af5"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5091,7 +5352,8 @@
         "release_group_mbid": "d2a91dd3-cb71-40b0-81ca-ad4bee8d25eb"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5109,7 +5371,8 @@
         "release_group_mbid": "4890f61a-9b84-42e9-aaf3-c0899c019bcf"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5127,7 +5390,8 @@
         "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5145,7 +5409,8 @@
         "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5163,7 +5428,8 @@
         "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5181,7 +5447,8 @@
         "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5199,7 +5466,8 @@
         "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5217,7 +5485,8 @@
         "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5235,7 +5504,8 @@
         "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5253,7 +5523,8 @@
         "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5271,7 +5542,8 @@
         "release_group_mbid": "6d1c47d2-2ad3-3c26-9184-3481b58615be"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5287,7 +5559,8 @@
         "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5300,10 +5573,13 @@
         "artist_mbids": [
           "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
         ],
-        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20",
+        "recording_mbid": "8b26ef5f-d50d-4074-8518-963f7dba19b9",
+        "release_group_mbid": "1e482680-d0b1-3ed1-9de7-2e3c7649f956"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5316,10 +5592,13 @@
         "artist_mbids": [
           "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
         ],
-        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20",
+        "recording_mbid": "77291399-2dfa-41f8-9427-b6b2e46e65b4",
+        "release_group_mbid": "02f1069d-bf57-312b-9d2e-519b0e4366f6"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5332,10 +5611,13 @@
         "artist_mbids": [
           "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
         ],
-        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20",
+        "recording_mbid": "ece00374-7c6d-44d7-a125-49f7cf283225",
+        "release_group_mbid": "b7d8dca0-6748-470c-9eb0-eb6d72091273"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5348,10 +5630,13 @@
         "artist_mbids": [
           "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
         ],
-        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
+        "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20",
+        "recording_mbid": "56120e7b-be17-4a37-9fb0-a387b7abeea8",
+        "release_group_mbid": "b954c8b6-7388-3c94-8c1e-216d0df1907b"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5367,7 +5652,8 @@
         "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5383,7 +5669,8 @@
         "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5399,7 +5686,8 @@
         "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5415,7 +5703,8 @@
         "release_mbid": "978c4e37-1eee-4ef3-aee3-81f98daf8a20"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5433,7 +5722,8 @@
         "release_group_mbid": "377ce0f3-d963-3372-b030-d83be76f8a5d"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5451,7 +5741,8 @@
         "release_group_mbid": "377ce0f3-d963-3372-b030-d83be76f8a5d"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5469,7 +5760,8 @@
         "release_group_mbid": "0a781dd6-b710-41e8-8684-b7b9ec205712"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5487,7 +5779,8 @@
         "release_group_mbid": "0a781dd6-b710-41e8-8684-b7b9ec205712"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5505,7 +5798,8 @@
         "release_group_mbid": "0a781dd6-b710-41e8-8684-b7b9ec205712"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5523,7 +5817,8 @@
         "release_group_mbid": "0a781dd6-b710-41e8-8684-b7b9ec205712"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5541,7 +5836,8 @@
         "release_group_mbid": "0a781dd6-b710-41e8-8684-b7b9ec205712"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5559,7 +5855,8 @@
         "release_group_mbid": "1ffc3f4e-0d85-35d0-bb4f-b58f7a576e10"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5577,7 +5874,8 @@
         "release_group_mbid": "1ffc3f4e-0d85-35d0-bb4f-b58f7a576e10"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5595,7 +5893,8 @@
         "release_group_mbid": "1ffc3f4e-0d85-35d0-bb4f-b58f7a576e10"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5613,7 +5912,8 @@
         "release_group_mbid": "1ffc3f4e-0d85-35d0-bb4f-b58f7a576e10"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5631,7 +5931,8 @@
         "release_group_mbid": "b33cc23b-1fcd-483e-b379-a0282c9219a8"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5649,7 +5950,8 @@
         "release_group_mbid": "b33cc23b-1fcd-483e-b379-a0282c9219a8"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5662,10 +5964,13 @@
         "artist_mbids": [
           "697e7111-5630-4c77-83f3-39821bacc61a"
         ],
-        "release_mbid": "ee3dd2d0-2aa2-318a-b69c-68f55d10df78"
+        "release_mbid": "ee3dd2d0-2aa2-318a-b69c-68f55d10df78",
+        "recording_mbid": "85f8df46-83bb-4b35-a976-357e834be517",
+        "release_group_mbid": "c7a6784e-e1de-3480-b744-b5ed6d5cb6ca"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5678,10 +5983,13 @@
         "artist_mbids": [
           "697e7111-5630-4c77-83f3-39821bacc61a"
         ],
-        "release_mbid": "ee3dd2d0-2aa2-318a-b69c-68f55d10df78"
+        "release_mbid": "ee3dd2d0-2aa2-318a-b69c-68f55d10df78",
+        "recording_mbid": "59d7f047-2ca1-4dae-aa0b-a7926afbd8d5",
+        "release_group_mbid": "c7a6784e-e1de-3480-b744-b5ed6d5cb6ca"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5699,7 +6007,8 @@
         "release_group_mbid": "c7a6784e-e1de-3480-b744-b5ed6d5cb6ca"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
