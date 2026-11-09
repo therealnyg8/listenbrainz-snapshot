@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-08T16:05:13Z",
+  "generated_at_utc": "2026-11-09T19:54:37Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-10T16:05:13Z",
-    "through_utc": "2026-11-08T16:05:13Z",
+    "from_utc": "2026-08-11T19:54:37Z",
+    "through_utc": "2026-11-09T19:54:37Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
@@ -28,9 +28,9 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 180,
-      "unique_artists": 32,
-      "unique_albums": 34,
+      "listen_count": 167,
+      "unique_artists": 31,
+      "unique_albums": 33,
       "listens_without_album": 0,
       "artists": [
         {
@@ -40,10 +40,6 @@
         {
           "artist": "Diana Krall",
           "listen_count": 33
-        },
-        {
-          "artist": "Talk Talk",
-          "listen_count": 19
         },
         {
           "artist": "Anouar Brahem",
@@ -59,6 +55,10 @@
         },
         {
           "artist": "Mikiko Sato",
+          "listen_count": 7
+        },
+        {
+          "artist": "Talk Talk",
           "listen_count": 7
         },
         {
@@ -122,10 +122,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Fripp & Eno",
-          "listen_count": 1
-        },
-        {
           "artist": "Harry Connick, Jr.",
           "listen_count": 1
         },
@@ -178,13 +174,6 @@
           "last_listened_at_utc": "2026-11-05T23:15:52Z"
         },
         {
-          "artist": "Talk Talk",
-          "album": "The Colour Of Spring (Remastered Hi-Res Version)",
-          "listen_count": 18,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-11-02T21:46:48Z"
-        },
-        {
           "artist": "Diana Krall",
           "album": "The Girl In The Other Room",
           "listen_count": 12,
@@ -225,6 +214,13 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-11-06T21:51:08Z"
+        },
+        {
+          "artist": "Talk Talk",
+          "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-11-02T21:46:48Z"
         },
         {
           "artist": "Charlie Hunter Quartet",
@@ -325,13 +321,6 @@
           "last_listened_at_utc": "2026-11-03T00:44:31Z"
         },
         {
-          "artist": "Fripp & Eno",
-          "album": "Evening Star",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-01T22:24:24Z"
-        },
-        {
           "artist": "Harry Connick, Jr.",
           "album": "Harry Connick, Jr. (Album Version)",
           "listen_count": 1,
@@ -404,9 +393,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 906,
-      "unique_artists": 136,
-      "unique_albums": 153,
+      "listen_count": 831,
+      "unique_artists": 132,
+      "unique_albums": 147,
       "listens_without_album": 0,
       "artists": [
         {
@@ -426,20 +415,12 @@
           "listen_count": 35
         },
         {
-          "artist": "Cameron Winter",
-          "listen_count": 33
-        },
-        {
           "artist": "Diana Krall",
           "listen_count": 33
         },
         {
           "artist": "Fine",
           "listen_count": 25
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "listen_count": 24
         },
         {
           "artist": "Djo",
@@ -466,12 +447,12 @@
           "listen_count": 19
         },
         {
-          "artist": "Michael Kiwanuka",
+          "artist": "Cameron Winter",
           "listen_count": 18
         },
         {
-          "artist": "Sonny Rollins",
-          "listen_count": 14
+          "artist": "Michael Kiwanuka",
+          "listen_count": 18
         },
         {
           "artist": "The Raconteurs",
@@ -498,6 +479,10 @@
           "listen_count": 12
         },
         {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "listen_count": 12
+        },
+        {
           "artist": "רביד פלוטניק",
           "listen_count": 12
         },
@@ -506,16 +491,8 @@
           "listen_count": 11
         },
         {
-          "artist": "Mikiko Sato",
-          "listen_count": 11
-        },
-        {
           "artist": "The Zombies",
           "listen_count": 11
-        },
-        {
-          "artist": "Chet Baker",
-          "listen_count": 10
         },
         {
           "artist": "Funkadelic",
@@ -562,19 +539,11 @@
           "listen_count": 8
         },
         {
-          "artist": "Charles Mingus",
-          "listen_count": 7
-        },
-        {
           "artist": "English Teacher",
           "listen_count": 7
         },
         {
-          "artist": "Isao Suzuki Trio / Quartet",
-          "listen_count": 7
-        },
-        {
-          "artist": "Kenny Burrell",
+          "artist": "Mikiko Sato",
           "listen_count": 7
         },
         {
@@ -802,6 +771,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Charles Mingus",
+          "listen_count": 1
+        },
+        {
           "artist": "Childish Gambino",
           "listen_count": 1
         },
@@ -850,7 +823,7 @@
           "listen_count": 1
         },
         {
-          "artist": "J Dilla",
+          "artist": "Isao Suzuki Trio / Quartet",
           "listen_count": 1
         },
         {
@@ -977,13 +950,6 @@
           "last_listened_at_utc": "2026-11-06T20:19:04Z"
         },
         {
-          "artist": "Cameron Winter",
-          "album": "Live at Carnegie Hall",
-          "listen_count": 33,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-24T23:23:35Z"
-        },
-        {
           "artist": "Fine",
           "album": "Jazz dreams",
           "listen_count": 25,
@@ -1033,6 +999,13 @@
           "last_listened_at_utc": "2026-10-30T18:38:05Z"
         },
         {
+          "artist": "Cameron Winter",
+          "album": "Live at Carnegie Hall",
+          "listen_count": 18,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-24T23:23:35Z"
+        },
+        {
           "artist": "טונה",
           "album": "ראפ מטורף",
           "listen_count": 16,
@@ -1059,13 +1032,6 @@
           "listen_count": 13,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-22T17:49:41Z"
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Midnight Sugar",
-          "listen_count": 13,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-11-06T21:01:54Z"
         },
         {
           "artist": "Admas",
@@ -1117,13 +1083,6 @@
           "last_listened_at_utc": "2026-10-24T18:26:33Z"
         },
         {
-          "artist": "Mikiko Sato",
-          "album": "Mikiko's World",
-          "listen_count": 11,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-11-07T23:30:58Z"
-        },
-        {
           "artist": "The Zombies",
           "album": "Odessey and Oracle (Mono Remastered)",
           "listen_count": 11,
@@ -1143,13 +1102,6 @@
           "listen_count": 10,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-10-19T22:48:33Z"
-        },
-        {
-          "artist": "Chet Baker",
-          "album": "Chet",
-          "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-10-10T17:57:54Z"
         },
         {
           "artist": "Funkadelic",
@@ -1185,13 +1137,6 @@
           "listen_count": 9,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-10-13T22:35:21Z"
-        },
-        {
-          "artist": "Sonny Rollins",
-          "album": "Way Out West",
-          "listen_count": 9,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-10T19:10:57Z"
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -1236,11 +1181,11 @@
           "last_listened_at_utc": "2026-11-04T14:30:27Z"
         },
         {
-          "artist": "Charles Mingus",
-          "album": "Oh Yeah",
-          "listen_count": 7,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-10-10T19:57:03Z"
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Midnight Sugar",
+          "listen_count": 8,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-11-06T21:01:54Z"
         },
         {
           "artist": "English Teacher",
@@ -1257,25 +1202,11 @@
           "last_listened_at_utc": "2026-10-20T21:43:32Z"
         },
         {
-          "artist": "Isao Suzuki Trio / Quartet",
-          "album": "Blow Up",
-          "listen_count": 7,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-11-06T21:14:30Z"
-        },
-        {
-          "artist": "Kenny Burrell",
-          "album": "Midnight Blue",
+          "artist": "Mikiko Sato",
+          "album": "Mikiko's World",
           "listen_count": 7,
           "unique_tracks": 7,
-          "last_listened_at_utc": "2026-10-10T17:09:44Z"
-        },
-        {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Misty",
-          "listen_count": 7,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-10-09T22:27:08Z"
+          "last_listened_at_utc": "2026-11-07T23:30:58Z"
         },
         {
           "artist": "Vampire Weekend",
@@ -1360,13 +1291,6 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-11-03T19:23:20Z"
-        },
-        {
-          "artist": "Sonny Rollins",
-          "album": "Saxophone Colossus",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-09T23:39:47Z"
         },
         {
           "artist": "TV on the Radio",
@@ -1719,6 +1643,13 @@
           "last_listened_at_utc": "2026-10-22T18:01:42Z"
         },
         {
+          "artist": "Charles Mingus",
+          "album": "Oh Yeah",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-10T19:57:03Z"
+        },
+        {
           "artist": "Childish Gambino",
           "album": "Bando Stone and The New World",
           "listen_count": 1,
@@ -1803,11 +1734,11 @@
           "last_listened_at_utc": "2026-11-03T00:08:03Z"
         },
         {
-          "artist": "J Dilla",
-          "album": "Donuts",
+          "artist": "Isao Suzuki Trio / Quartet",
+          "album": "Blow Up",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-09T21:19:08Z"
+          "last_listened_at_utc": "2026-11-06T21:14:30Z"
         },
         {
           "artist": "Janko Nilović",
