@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-09T19:54:37Z",
+  "generated_at_utc": "2026-11-10T17:08:32Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-11T19:54:37Z",
-    "through_utc": "2026-11-09T19:54:37Z",
+    "from_utc": "2026-08-12T17:08:32Z",
+    "through_utc": "2026-11-10T17:08:32Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
@@ -28,9 +28,9 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 167,
-      "unique_artists": 31,
-      "unique_albums": 33,
+      "listen_count": 137,
+      "unique_artists": 19,
+      "unique_albums": 20,
       "listens_without_album": 0,
       "artists": [
         {
@@ -39,7 +39,7 @@
         },
         {
           "artist": "Diana Krall",
-          "listen_count": 33
+          "listen_count": 21
         },
         {
           "artist": "Anouar Brahem",
@@ -55,10 +55,6 @@
         },
         {
           "artist": "Mikiko Sato",
-          "listen_count": 7
-        },
-        {
-          "artist": "Talk Talk",
           "listen_count": 7
         },
         {
@@ -106,51 +102,7 @@
           "listen_count": 2
         },
         {
-          "artist": "Chantal Chamberland",
-          "listen_count": 1
-        },
-        {
-          "artist": "Chuck Redd with John Di Martino, Nicki Parrott, Lewis Nash and Jerry Weldon",
-          "listen_count": 1
-        },
-        {
-          "artist": "David Sylvian",
-          "listen_count": 1
-        },
-        {
-          "artist": "Dizzy Gillespie",
-          "listen_count": 1
-        },
-        {
-          "artist": "Harry Connick, Jr.",
-          "listen_count": 1
-        },
-        {
-          "artist": "Hugh Masekela",
-          "listen_count": 1
-        },
-        {
           "artist": "Isao Suzuki Trio / Quartet",
-          "listen_count": 1
-        },
-        {
-          "artist": "Jeffery Smith",
-          "listen_count": 1
-        },
-        {
-          "artist": "Kurt Elling & Yellowjackets",
-          "listen_count": 1
-        },
-        {
-          "artist": "Leo Sidran",
-          "listen_count": 1
-        },
-        {
-          "artist": "Madeleine Peyroux",
-          "listen_count": 1
-        },
-        {
-          "artist": "Metropole Orkest/Vince Mendoza",
           "listen_count": 1
         },
         {
@@ -168,17 +120,17 @@
         },
         {
           "artist": "Diana Krall",
-          "album": "Live in Paris",
-          "listen_count": 21,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-11-05T23:15:52Z"
-        },
-        {
-          "artist": "Diana Krall",
           "album": "The Girl In The Other Room",
           "listen_count": 12,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-11-06T21:22:02Z"
+        },
+        {
+          "artist": "Diana Krall",
+          "album": "Live in Paris",
+          "listen_count": 9,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-11-05T23:15:52Z"
         },
         {
           "artist": "Anouar Brahem",
@@ -214,13 +166,6 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-11-06T21:51:08Z"
-        },
-        {
-          "artist": "Talk Talk",
-          "album": "The Colour Of Spring (Remastered Hi-Res Version)",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-11-02T21:46:48Z"
         },
         {
           "artist": "Charlie Hunter Quartet",
@@ -293,95 +238,11 @@
           "last_listened_at_utc": "2026-11-06T21:01:54Z"
         },
         {
-          "artist": "Chantal Chamberland",
-          "album": "Temptation",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-03T00:15:55Z"
-        },
-        {
-          "artist": "Chuck Redd with John Di Martino, Nicki Parrott, Lewis Nash and Jerry Weldon",
-          "album": "Groove City",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-03T00:28:43Z"
-        },
-        {
-          "artist": "David Sylvian",
-          "album": "Dead Bees On A Cake (Expanded Edition; Deluxe Edition)",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-02T21:58:48Z"
-        },
-        {
-          "artist": "Dizzy Gillespie",
-          "album": "Dizzy 100",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-03T00:44:31Z"
-        },
-        {
-          "artist": "Harry Connick, Jr.",
-          "album": "Harry Connick, Jr. (Album Version)",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-03T00:08:03Z"
-        },
-        {
-          "artist": "Hugh Masekela",
-          "album": "Hope",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-03T00:23:30Z"
-        },
-        {
           "artist": "Isao Suzuki Trio / Quartet",
           "album": "Blow Up",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-06T21:14:30Z"
-        },
-        {
-          "artist": "Jeffery Smith",
-          "album": "Reflections",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-03T00:03:13Z"
-        },
-        {
-          "artist": "Kurt Elling & Yellowjackets",
-          "album": "Play Weather Report: Alive in Europe + Bonus Studio Recordings",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-03T00:34:23Z"
-        },
-        {
-          "artist": "Leo Sidran",
-          "album": "The Art of Conversation",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-03T00:11:28Z"
-        },
-        {
-          "artist": "Madeleine Peyroux",
-          "album": "Dreamland",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-02T23:59:41Z"
-        },
-        {
-          "artist": "Metropole Orkest/Vince Mendoza",
-          "album": "Perfect Vision: The Esquivel Sound",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-03T00:20:54Z"
-        },
-        {
-          "artist": "Talk Talk",
-          "album": "Essential",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-02T21:52:41Z"
         },
         {
           "artist": "The Blue Nile",
@@ -393,9 +254,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 831,
-      "unique_artists": 132,
-      "unique_albums": 147,
+      "listen_count": 794,
+      "unique_artists": 128,
+      "unique_albums": 142,
       "listens_without_album": 0,
       "artists": [
         {
@@ -409,10 +270,6 @@
         {
           "artist": "Parquet Courts",
           "listen_count": 38
-        },
-        {
-          "artist": "Anouar Brahem",
-          "listen_count": 35
         },
         {
           "artist": "Diana Krall",
@@ -431,12 +288,12 @@
           "listen_count": 22
         },
         {
-          "artist": "Bob Dylan",
+          "artist": "Anouar Brahem",
           "listen_count": 21
         },
         {
-          "artist": "Miles Davis",
-          "listen_count": 20
+          "artist": "Bob Dylan",
+          "listen_count": 21
         },
         {
           "artist": "Norah Jones",
@@ -468,6 +325,10 @@
         },
         {
           "artist": "Admas",
+          "listen_count": 12
+        },
+        {
+          "artist": "Miles Davis",
           "listen_count": 12
         },
         {
@@ -531,10 +392,6 @@
           "listen_count": 8
         },
         {
-          "artist": "John Coltrane Quartet",
-          "listen_count": 8
-        },
-        {
           "artist": "Little Simz",
           "listen_count": 8
         },
@@ -568,10 +425,6 @@
         },
         {
           "artist": "Clairo",
-          "listen_count": 6
-        },
-        {
-          "artist": "John Coltrane",
           "listen_count": 6
         },
         {
@@ -648,6 +501,10 @@
         },
         {
           "artist": "Japan",
+          "listen_count": 3
+        },
+        {
+          "artist": "John Coltrane",
           "listen_count": 3
         },
         {
@@ -731,10 +588,6 @@
           "listen_count": 2
         },
         {
-          "artist": "Shye Ben-Tzur, Jonny Greenwood and The Rajasthan Express",
-          "listen_count": 2
-        },
-        {
           "artist": "Young Fathers",
           "listen_count": 2
         },
@@ -768,10 +621,6 @@
         },
         {
           "artist": "Charles Earland",
-          "listen_count": 1
-        },
-        {
-          "artist": "Charles Mingus",
           "listen_count": 1
         },
         {
@@ -903,10 +752,6 @@
           "listen_count": 1
         },
         {
-          "artist": "The Oscar Peterson Trio",
-          "listen_count": 1
-        },
-        {
           "artist": "The Weather Station",
           "listen_count": 1
         },
@@ -943,13 +788,6 @@
           "last_listened_at_utc": "2026-10-23T13:23:41Z"
         },
         {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 35,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-11-06T20:19:04Z"
-        },
-        {
           "artist": "Fine",
           "album": "Jazz dreams",
           "listen_count": 25,
@@ -962,6 +800,13 @@
           "listen_count": 22,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-30T19:08:12Z"
+        },
+        {
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
+          "listen_count": 21,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-06T20:19:04Z"
         },
         {
           "artist": "Diana Krall",
@@ -983,13 +828,6 @@
           "listen_count": 20,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-10-27T21:25:32Z"
-        },
-        {
-          "artist": "Miles Davis",
-          "album": "Kind of Blue",
-          "listen_count": 20,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-28T21:03:10Z"
         },
         {
           "artist": "Norah Jones",
@@ -1053,6 +891,13 @@
           "listen_count": 12,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-10-20T13:24:54Z"
+        },
+        {
+          "artist": "Miles Davis",
+          "album": "Kind of Blue",
+          "listen_count": 12,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-28T21:03:10Z"
         },
         {
           "artist": "The Roots",
@@ -1165,13 +1010,6 @@
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-19T13:50:18Z"
-        },
-        {
-          "artist": "John Coltrane Quartet",
-          "album": "Ballads",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-11T12:27:39Z"
         },
         {
           "artist": "Little Simz",
@@ -1420,13 +1258,6 @@
         },
         {
           "artist": "John Coltrane",
-          "album": "Giant Steps",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-10T22:15:50Z"
-        },
-        {
-          "artist": "John Coltrane",
           "album": "My Favorite Things",
           "listen_count": 3,
           "unique_tracks": 3,
@@ -1566,13 +1397,6 @@
           "last_listened_at_utc": "2026-10-23T21:47:59Z"
         },
         {
-          "artist": "Shye Ben-Tzur, Jonny Greenwood and The Rajasthan Express",
-          "album": "Junun",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-11T17:00:57Z"
-        },
-        {
           "artist": "Young Fathers",
           "album": "Heavy Heavy",
           "listen_count": 2,
@@ -1641,13 +1465,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-22T18:01:42Z"
-        },
-        {
-          "artist": "Charles Mingus",
-          "album": "Oh Yeah",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-10T19:57:03Z"
         },
         {
           "artist": "Childish Gambino",
@@ -1907,13 +1724,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-24T19:21:42Z"
-        },
-        {
-          "artist": "The Oscar Peterson Trio",
-          "album": "We Get Requests",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-11T12:30:50Z"
         },
         {
           "artist": "The Weather Station",
