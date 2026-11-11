@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-10T17:08:32Z",
+  "generated_at_utc": "2026-11-11T17:15:49Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-12T17:08:32Z",
-    "through_utc": "2026-11-10T17:08:32Z",
+    "from_utc": "2026-08-13T17:15:49Z",
+    "through_utc": "2026-11-11T17:15:49Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
-    "raw_listen_count": 2756,
-    "deduplicated_listen_count": 1643,
-    "duplicates_removed": 1113,
+    "raw_listen_count": 2792,
+    "deduplicated_listen_count": 1661,
+    "duplicates_removed": 1131,
     "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-11-08T01:40:51Z"
+    "newest_listen_utc": "2026-11-11T02:04:19Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,30 +28,30 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 137,
+      "listen_count": 108,
       "unique_artists": 19,
       "unique_albums": 20,
       "listens_without_album": 0,
       "artists": [
         {
-          "artist": "Morphine",
-          "listen_count": 44
-        },
-        {
           "artist": "Diana Krall",
           "listen_count": 21
+        },
+        {
+          "artist": "Morphine",
+          "listen_count": 19
+        },
+        {
+          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+          "listen_count": 12
         },
         {
           "artist": "Anouar Brahem",
           "listen_count": 8
         },
         {
-          "artist": "Arooj Aftab",
-          "listen_count": 8
-        },
-        {
-          "artist": "Little Simz",
-          "listen_count": 8
+          "artist": "John Coltrane",
+          "listen_count": 7
         },
         {
           "artist": "Mikiko Sato",
@@ -62,16 +62,8 @@
           "listen_count": 6
         },
         {
-          "artist": "Charlie Hunter Quartet",
-          "listen_count": 5
-        },
-        {
           "artist": "the olllam",
           "listen_count": 5
-        },
-        {
-          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
-          "listen_count": 4
         },
         {
           "artist": "Thelonious Monk Septet",
@@ -102,11 +94,19 @@
           "listen_count": 2
         },
         {
+          "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
+          "listen_count": 1
+        },
+        {
           "artist": "Isao Suzuki Trio / Quartet",
           "listen_count": 1
         },
         {
-          "artist": "The Blue Nile",
+          "artist": "Miles Davis Quintet",
+          "listen_count": 1
+        },
+        {
+          "artist": "Stephan Crump",
           "listen_count": 1
         }
       ],
@@ -114,8 +114,8 @@
         {
           "artist": "Morphine",
           "album": "Cure for Pain (Deluxe Edition)",
-          "listen_count": 44,
-          "unique_tracks": 20,
+          "listen_count": 19,
+          "unique_tracks": 19,
           "last_listened_at_utc": "2026-11-04T22:07:48Z"
         },
         {
@@ -124,6 +124,13 @@
           "listen_count": 12,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-11-06T21:22:02Z"
+        },
+        {
+          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+          "album": "Getz/Gilberto",
+          "listen_count": 12,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-11T00:47:35Z"
         },
         {
           "artist": "Diana Krall",
@@ -140,18 +147,11 @@
           "last_listened_at_utc": "2026-11-06T20:19:04Z"
         },
         {
-          "artist": "Arooj Aftab",
-          "album": "Vulture Prince (Deluxe Edition)",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-03T18:58:23Z"
-        },
-        {
-          "artist": "Little Simz",
-          "album": "GREY Area",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-04T14:30:27Z"
+          "artist": "John Coltrane",
+          "album": "Blue Train",
+          "listen_count": 7,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-11-11T01:43:26Z"
         },
         {
           "artist": "Mikiko Sato",
@@ -168,25 +168,11 @@
           "last_listened_at_utc": "2026-11-06T21:51:08Z"
         },
         {
-          "artist": "Charlie Hunter Quartet",
-          "album": "Songs From The Analog Playground",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-11-03T19:23:20Z"
-        },
-        {
           "artist": "the olllam",
           "album": "elllegy",
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-11-05T19:47:52Z"
-        },
-        {
-          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
-          "album": "Getz/Gilberto",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-11-08T01:04:48Z"
         },
         {
           "artist": "Thelonious Monk Septet",
@@ -238,6 +224,13 @@
           "last_listened_at_utc": "2026-11-06T21:01:54Z"
         },
         {
+          "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
+          "album": "Have you met... Barcelona?",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T02:01:08Z"
+        },
+        {
           "artist": "Isao Suzuki Trio / Quartet",
           "album": "Blow Up",
           "listen_count": 1,
@@ -245,16 +238,23 @@
           "last_listened_at_utc": "2026-11-06T21:14:30Z"
         },
         {
-          "artist": "The Blue Nile",
-          "album": "Hats (Deluxe Version)",
+          "artist": "Miles Davis Quintet",
+          "album": "Cookin' With The Miles Davis Quintet",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-04T02:46:41Z"
+          "last_listened_at_utc": "2026-11-11T01:50:46Z"
+        },
+        {
+          "artist": "Stephan Crump",
+          "album": "Passerine",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T02:04:19Z"
         }
       ]
     },
     "last_30_days": {
-      "listen_count": 794,
+      "listen_count": 789,
       "unique_artists": 128,
       "unique_albums": 142,
       "listens_without_album": 0,
@@ -332,6 +332,10 @@
           "listen_count": 12
         },
         {
+          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+          "listen_count": 12
+        },
+        {
           "artist": "The Roots",
           "listen_count": 12
         },
@@ -346,10 +350,6 @@
         {
           "artist": "רביד פלוטניק",
           "listen_count": 12
-        },
-        {
-          "artist": "Kikagaku Moyo",
-          "listen_count": 11
         },
         {
           "artist": "The Zombies",
@@ -400,6 +400,10 @@
           "listen_count": 7
         },
         {
+          "artist": "John Coltrane",
+          "listen_count": 7
+        },
+        {
           "artist": "Mikiko Sato",
           "listen_count": 7
         },
@@ -430,10 +434,6 @@
         {
           "artist": "Sampha",
           "listen_count": 6
-        },
-        {
-          "artist": "Anouar Brahem, Dave Holland, Jack DeJohnette, Django Bates",
-          "listen_count": 5
         },
         {
           "artist": "Avishai Cohen",
@@ -468,15 +468,7 @@
           "listen_count": 4
         },
         {
-          "artist": "Sababa 5",
-          "listen_count": 4
-        },
-        {
           "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
-          "listen_count": 4
-        },
-        {
-          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
           "listen_count": 4
         },
         {
@@ -501,10 +493,6 @@
         },
         {
           "artist": "Japan",
-          "listen_count": 3
-        },
-        {
-          "artist": "John Coltrane",
           "listen_count": 3
         },
         {
@@ -612,6 +600,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
+          "listen_count": 1
+        },
+        {
           "artist": "Cartoons",
           "listen_count": 1
         },
@@ -708,6 +700,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Miles Davis Quintet",
+          "listen_count": 1
+        },
+        {
           "artist": "Rajery, Ballaké Sissoko & Driss El Maloumi",
           "listen_count": 1
         },
@@ -729,6 +725,10 @@
         },
         {
           "artist": "Steely Dan",
+          "listen_count": 1
+        },
+        {
+          "artist": "Stephan Crump",
           "listen_count": 1
         },
         {
@@ -900,6 +900,13 @@
           "last_listened_at_utc": "2026-10-28T21:03:10Z"
         },
         {
+          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+          "album": "Getz/Gilberto",
+          "listen_count": 12,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-11T00:47:35Z"
+        },
+        {
           "artist": "The Roots",
           "album": "Things Fall Apart (Deluxe Edition)",
           "listen_count": 12,
@@ -912,13 +919,6 @@
           "listen_count": 12,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-10-28T22:57:32Z"
-        },
-        {
-          "artist": "Kikagaku Moyo",
-          "album": "Kumoyo Island",
-          "listen_count": 11,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-10-11T21:49:10Z"
         },
         {
           "artist": "Michael Kiwanuka",
@@ -1040,6 +1040,13 @@
           "last_listened_at_utc": "2026-10-20T21:43:32Z"
         },
         {
+          "artist": "John Coltrane",
+          "album": "Blue Train",
+          "listen_count": 7,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-11-11T01:43:26Z"
+        },
+        {
           "artist": "Mikiko Sato",
           "album": "Mikiko's World",
           "listen_count": 7,
@@ -1110,13 +1117,6 @@
           "last_listened_at_utc": "2026-10-13T23:32:56Z"
         },
         {
-          "artist": "Anouar Brahem, Dave Holland, Jack DeJohnette, Django Bates",
-          "album": "Blue Maqams",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-11T18:22:47Z"
-        },
-        {
           "artist": "Avishai Cohen",
           "album": "Shifting Sands",
           "listen_count": 5,
@@ -1180,25 +1180,11 @@
           "last_listened_at_utc": "2026-10-24T23:38:51Z"
         },
         {
-          "artist": "Sababa 5",
-          "album": "Nadir",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-11T22:11:54Z"
-        },
-        {
           "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
           "album": "Human",
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-12T21:34:28Z"
-        },
-        {
-          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
-          "album": "Getz/Gilberto",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-11-08T01:04:48Z"
         },
         {
           "artist": "Taeko Onuki",
@@ -1255,13 +1241,6 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-11-05T17:43:40Z"
-        },
-        {
-          "artist": "John Coltrane",
-          "album": "My Favorite Things",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-11T17:36:00Z"
         },
         {
           "artist": "Julian Lage",
@@ -1437,6 +1416,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-22T00:15:20Z"
+        },
+        {
+          "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
+          "album": "Have you met... Barcelona?",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T02:01:08Z"
         },
         {
           "artist": "Bob Dylan",
@@ -1621,6 +1607,13 @@
           "last_listened_at_utc": "2026-10-12T18:49:53Z"
         },
         {
+          "artist": "Miles Davis Quintet",
+          "album": "Cookin' With The Miles Davis Quintet",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T01:50:46Z"
+        },
+        {
           "artist": "Rajery, Ballaké Sissoko & Driss El Maloumi",
           "album": "3MA",
           "listen_count": 1,
@@ -1661,6 +1654,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-15T18:08:29Z"
+        },
+        {
+          "artist": "Stephan Crump",
+          "album": "Passerine",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T02:04:19Z"
         },
         {
           "artist": "Stephanie Stephanou",
@@ -1770,9 +1770,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1643,
-      "unique_artists": 234,
-      "unique_albums": 278,
+      "listen_count": 1661,
+      "unique_artists": 237,
+      "unique_albums": 282,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1896,6 +1896,10 @@
           "listen_count": 13
         },
         {
+          "artist": "John Coltrane",
+          "listen_count": 13
+        },
+        {
           "artist": "Richard & Linda Thompson",
           "listen_count": 13
         },
@@ -1909,6 +1913,10 @@
         },
         {
           "artist": "Admas",
+          "listen_count": 12
+        },
+        {
+          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
           "listen_count": 12
         },
         {
@@ -2060,10 +2068,6 @@
           "listen_count": 6
         },
         {
-          "artist": "John Coltrane",
-          "listen_count": 6
-        },
-        {
           "artist": "Julian Lage",
           "listen_count": 6
         },
@@ -2141,10 +2145,6 @@
         },
         {
           "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
-          "listen_count": 4
-        },
-        {
-          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
           "listen_count": 4
         },
         {
@@ -2352,6 +2352,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
+          "listen_count": 1
+        },
+        {
           "artist": "Bill Evans Trio Featuring Scott LaFaro",
           "listen_count": 1
         },
@@ -2536,6 +2540,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Miles Davis Quintet",
+          "listen_count": 1
+        },
+        {
           "artist": "Oliver Nelson",
           "listen_count": 1
         },
@@ -2589,6 +2597,10 @@
         },
         {
           "artist": "Steely Dan",
+          "listen_count": 1
+        },
+        {
+          "artist": "Stephan Crump",
           "listen_count": 1
         },
         {
@@ -2973,6 +2985,13 @@
           "last_listened_at_utc": "2026-10-20T13:24:54Z"
         },
         {
+          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+          "album": "Getz/Gilberto",
+          "listen_count": 12,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-11T00:47:35Z"
+        },
+        {
           "artist": "The Roots",
           "album": "Things Fall Apart (Deluxe Edition)",
           "listen_count": 12,
@@ -3225,6 +3244,13 @@
           "last_listened_at_utc": "2026-11-06T21:14:30Z"
         },
         {
+          "artist": "John Coltrane",
+          "album": "Blue Train",
+          "listen_count": 7,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-11-11T01:43:26Z"
+        },
+        {
           "artist": "Nujabes",
           "album": "Modal Soul",
           "listen_count": 7,
@@ -3461,13 +3487,6 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-10-12T21:34:28Z"
-        },
-        {
-          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
-          "album": "Getz/Gilberto",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-11-08T01:04:48Z"
         },
         {
           "artist": "Taeko Onuki",
@@ -3890,6 +3909,13 @@
           "last_listened_at_utc": "2026-10-22T17:56:31Z"
         },
         {
+          "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
+          "album": "Have you met... Barcelona?",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T02:01:08Z"
+        },
+        {
           "artist": "Bill Evans Trio",
           "album": "At Shelly's Manne-Hole  [Live in Hollywood, CA/May 14 & 19, 1963]",
           "listen_count": 1,
@@ -4275,6 +4301,13 @@
           "last_listened_at_utc": "2026-10-12T18:49:53Z"
         },
         {
+          "artist": "Miles Davis Quintet",
+          "album": "Cookin' With The Miles Davis Quintet",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T01:50:46Z"
+        },
+        {
           "artist": "Oliver Nelson",
           "album": "The Blues and the Abstract Truth",
           "listen_count": 1,
@@ -4399,6 +4432,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-15T18:08:29Z"
+        },
+        {
+          "artist": "Stephan Crump",
+          "album": "Passerine",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T02:04:19Z"
         },
         {
           "artist": "Stephanie Stephanou",
@@ -4663,6 +4703,360 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1794362659,
+      "listened_at_utc": "2026-11-11T02:04:19Z",
+      "artist": "Stephan Crump",
+      "track": "Glide",
+      "album": "Passerine",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5cbef1be-ed92-4395-ac63-c6b000096de6"
+        ],
+        "release_mbid": "90c6afd7-dd6d-442e-9c91-873f3b8de3ce"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794362468,
+      "listened_at_utc": "2026-11-11T02:01:08Z",
+      "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
+      "track": "Straight No Chaser",
+      "album": "Have you met... Barcelona?",
+      "musicbrainz": {
+        "artist_mbids": [
+          "2f84b66f-06c5-4f45-b19a-b8947ca5b0ba",
+          "f9625cf4-1436-4f2c-bd5e-743eba86808c",
+          "d25011ec-b308-4603-aa41-7f5e22d17732",
+          "c0770b83-c97d-4cf7-a882-2cdec158b711"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794361846,
+      "listened_at_utc": "2026-11-11T01:50:46Z",
+      "artist": "Miles Davis Quintet",
+      "track": "Blues By Five (Rudy Van Gelder Remaster)",
+      "album": "Cookin' With The Miles Davis Quintet",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fe7245e7-d734-4ca1-8e26-691883f58201",
+          "561d854a-6a28-4aa7-8c99-323e6ce46c2a"
+        ],
+        "release_mbid": "98e2580f-ed21-4321-9012-3e781cc5c9bb",
+        "recording_mbid": "8a88fe10-de8c-4689-9401-e845e1f784d5",
+        "release_group_mbid": "6482fdfd-5db6-3fd4-9db3-f0efbf169ced"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794361406,
+      "listened_at_utc": "2026-11-11T01:43:26Z",
+      "artist": "John Coltrane",
+      "track": "Lazy Bird [Alternate Take]",
+      "album": "Blue Train",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b625448e-bf4a-41c3-a421-72ad46cdb831"
+        ],
+        "recording_mbid": "90f474f8-7805-4022-a25f-46fa41ba77b6",
+        "release_mbid": "5ef79d37-46d3-4ea2-ad57-810a93d4a15e",
+        "release_group_mbid": "12349ce8-2087-3d16-93da-70cd65621774"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794360810,
+      "listened_at_utc": "2026-11-11T01:33:30Z",
+      "artist": "John Coltrane",
+      "track": "Blue Train [Alternate Take]",
+      "album": "Blue Train",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b625448e-bf4a-41c3-a421-72ad46cdb831"
+        ],
+        "recording_mbid": "f350e0d0-7c09-45d8-add2-04e3ceff2485",
+        "release_mbid": "62527f62-9755-3b13-82a6-caabe8f52e5c",
+        "release_group_mbid": "12349ce8-2087-3d16-93da-70cd65621774"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794360385,
+      "listened_at_utc": "2026-11-11T01:26:25Z",
+      "artist": "John Coltrane",
+      "track": "Lazy Bird",
+      "album": "Blue Train",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b625448e-bf4a-41c3-a421-72ad46cdb831"
+        ],
+        "recording_mbid": "6426daf4-340a-453f-8be3-7c60989e070a",
+        "release_mbid": "3b1206b6-2173-406f-bb92-213e2fcef63b",
+        "release_group_mbid": "12349ce8-2087-3d16-93da-70cd65621774"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794359909,
+      "listened_at_utc": "2026-11-11T01:18:29Z",
+      "artist": "John Coltrane",
+      "track": "I'm Old Fashioned",
+      "album": "Blue Train",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b625448e-bf4a-41c3-a421-72ad46cdb831"
+        ],
+        "recording_mbid": "6dc63505-78a7-4cd7-a59d-f26bbe2cf62d",
+        "release_mbid": "3b1206b6-2173-406f-bb92-213e2fcef63b",
+        "release_group_mbid": "12349ce8-2087-3d16-93da-70cd65621774"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794359478,
+      "listened_at_utc": "2026-11-11T01:11:18Z",
+      "artist": "John Coltrane",
+      "track": "Locomotion",
+      "album": "Blue Train",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b625448e-bf4a-41c3-a421-72ad46cdb831"
+        ],
+        "recording_mbid": "ca9af83b-ebe2-4e81-88d9-21a7ffe94bde",
+        "release_mbid": "3b1206b6-2173-406f-bb92-213e2fcef63b",
+        "release_group_mbid": "12349ce8-2087-3d16-93da-70cd65621774"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794358929,
+      "listened_at_utc": "2026-11-11T01:02:09Z",
+      "artist": "John Coltrane",
+      "track": "Moment's Notice",
+      "album": "Blue Train",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b625448e-bf4a-41c3-a421-72ad46cdb831"
+        ],
+        "recording_mbid": "6b2408c4-ced6-4c72-ba51-2d02f014f60a",
+        "release_mbid": "3b1206b6-2173-406f-bb92-213e2fcef63b",
+        "release_group_mbid": "12349ce8-2087-3d16-93da-70cd65621774"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794358290,
+      "listened_at_utc": "2026-11-11T00:51:30Z",
+      "artist": "John Coltrane",
+      "track": "Blue Train",
+      "album": "Blue Train",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b625448e-bf4a-41c3-a421-72ad46cdb831"
+        ],
+        "recording_mbid": "1f1fd94d-35f2-4ca4-8b29-01100caa2a19",
+        "release_mbid": "3b1206b6-2173-406f-bb92-213e2fcef63b",
+        "release_group_mbid": "12349ce8-2087-3d16-93da-70cd65621774"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794358055,
+      "listened_at_utc": "2026-11-11T00:47:35Z",
+      "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+      "track": "Vivo Sonhando (Dreamer)",
+      "album": "Getz/Gilberto",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
+          "286ec4c2-b5ca-4f85-b331-280a6d73dd14",
+          "7a8dbe84-f4c0-4457-bfa3-edced1f8cde0"
+        ],
+        "release_mbid": "d04a9b95-65a7-4da3-9cb4-2b035629d9dc",
+        "recording_mbid": "7bfc0c19-387f-4246-82f3-79c4a604f20f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794357729,
+      "listened_at_utc": "2026-11-11T00:42:09Z",
+      "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+      "track": "O Grande Amor",
+      "album": "Getz/Gilberto",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
+          "286ec4c2-b5ca-4f85-b331-280a6d73dd14",
+          "7a8dbe84-f4c0-4457-bfa3-edced1f8cde0"
+        ],
+        "recording_mbid": "48c13fad-258a-40b7-b7f8-eb3ff4bc189a",
+        "release_mbid": "9641b096-dd93-4fa2-a9da-e760621d2383",
+        "release_group_mbid": "b248d212-aace-3c3e-a23d-e13aaac1f87a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794357508,
+      "listened_at_utc": "2026-11-11T00:38:28Z",
+      "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+      "track": "So Danco Samba [Jazz Samba]",
+      "album": "Getz/Gilberto",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
+          "286ec4c2-b5ca-4f85-b331-280a6d73dd14",
+          "7a8dbe84-f4c0-4457-bfa3-edced1f8cde0"
+        ],
+        "release_mbid": "d04a9b95-65a7-4da3-9cb4-2b035629d9dc"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794357252,
+      "listened_at_utc": "2026-11-11T00:34:12Z",
+      "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+      "track": "Corcovado (Quiet Nights of Quiet Stars)",
+      "album": "Getz/Gilberto",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
+          "286ec4c2-b5ca-4f85-b331-280a6d73dd14",
+          "7a8dbe84-f4c0-4457-bfa3-edced1f8cde0"
+        ],
+        "recording_mbid": "8ddd0dbd-88af-4c3d-a4c5-e346bfee2e8d",
+        "release_mbid": "9641b096-dd93-4fa2-a9da-e760621d2383",
+        "release_group_mbid": "b248d212-aace-3c3e-a23d-e13aaac1f87a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794357005,
+      "listened_at_utc": "2026-11-11T00:30:05Z",
+      "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+      "track": "Desafinado (Off Key)",
+      "album": "Getz/Gilberto",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
+          "286ec4c2-b5ca-4f85-b331-280a6d73dd14",
+          "7a8dbe84-f4c0-4457-bfa3-edced1f8cde0"
+        ],
+        "recording_mbid": "27306761-31ac-4c12-b03e-ce2e93483e10",
+        "release_mbid": "9641b096-dd93-4fa2-a9da-e760621d2383",
+        "release_group_mbid": "b248d212-aace-3c3e-a23d-e13aaac1f87a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794356697,
+      "listened_at_utc": "2026-11-11T00:24:57Z",
+      "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+      "track": "P'ra Machucar Meu Coracao",
+      "album": "Getz/Gilberto",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
+          "286ec4c2-b5ca-4f85-b331-280a6d73dd14",
+          "7a8dbe84-f4c0-4457-bfa3-edced1f8cde0"
+        ],
+        "release_mbid": "d04a9b95-65a7-4da3-9cb4-2b035629d9dc",
+        "recording_mbid": "690c7f7d-ab20-46f6-af03-6177409f3f2b",
+        "release_group_mbid": "b248d212-aace-3c3e-a23d-e13aaac1f87a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794356531,
+      "listened_at_utc": "2026-11-11T00:22:11Z",
+      "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+      "track": "Doralice",
+      "album": "Getz/Gilberto",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
+          "286ec4c2-b5ca-4f85-b331-280a6d73dd14",
+          "7a8dbe84-f4c0-4457-bfa3-edced1f8cde0"
+        ],
+        "recording_mbid": "04c1263e-ff58-40e1-b89b-731e88b606ed",
+        "release_mbid": "9641b096-dd93-4fa2-a9da-e760621d2383",
+        "release_group_mbid": "b248d212-aace-3c3e-a23d-e13aaac1f87a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794356211,
+      "listened_at_utc": "2026-11-11T00:16:51Z",
+      "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+      "track": "The Girl from Ipanema",
+      "album": "Getz/Gilberto",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
+          "286ec4c2-b5ca-4f85-b331-280a6d73dd14",
+          "7a8dbe84-f4c0-4457-bfa3-edced1f8cde0"
+        ],
+        "recording_mbid": "fd889e33-a067-498f-bbf8-9ffe305bde16",
+        "release_mbid": "9641b096-dd93-4fa2-a9da-e760621d2383",
+        "release_group_mbid": "b248d212-aace-3c3e-a23d-e13aaac1f87a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1794102051,
       "listened_at_utc": "2026-11-08T01:40:51Z",
