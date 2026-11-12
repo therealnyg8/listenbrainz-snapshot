@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-11T17:15:49Z",
+  "generated_at_utc": "2026-11-12T17:38:41Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-13T17:15:49Z",
-    "through_utc": "2026-11-11T17:15:49Z",
+    "from_utc": "2026-08-14T17:38:41Z",
+    "through_utc": "2026-11-12T17:38:41Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
-    "raw_listen_count": 2792,
-    "deduplicated_listen_count": 1661,
-    "duplicates_removed": 1131,
+    "raw_listen_count": 2822,
+    "deduplicated_listen_count": 1676,
+    "duplicates_removed": 1146,
     "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-11-11T02:04:19Z"
+    "newest_listen_utc": "2026-11-11T22:23:54Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,26 +28,22 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 108,
-      "unique_artists": 19,
-      "unique_albums": 20,
+      "listen_count": 92,
+      "unique_artists": 25,
+      "unique_albums": 26,
       "listens_without_album": 0,
       "artists": [
         {
-          "artist": "Diana Krall",
-          "listen_count": 21
-        },
-        {
-          "artist": "Morphine",
-          "listen_count": 19
+          "artist": "Anouar Brahem",
+          "listen_count": 16
         },
         {
           "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
           "listen_count": 12
         },
         {
-          "artist": "Anouar Brahem",
-          "listen_count": 8
+          "artist": "Diana Krall",
+          "listen_count": 10
         },
         {
           "artist": "John Coltrane",
@@ -70,10 +66,6 @@
           "listen_count": 4
         },
         {
-          "artist": "Japan",
-          "listen_count": 3
-        },
-        {
           "artist": "Kimiko Kasai & Kosuke Mine Quartet",
           "listen_count": 3
         },
@@ -83,6 +75,10 @@
         },
         {
           "artist": "Beth Orton",
+          "listen_count": 2
+        },
+        {
+          "artist": "Japan",
           "listen_count": 2
         },
         {
@@ -102,28 +98,49 @@
           "listen_count": 1
         },
         {
+          "artist": "Joey Alexander",
+          "listen_count": 1
+        },
+        {
+          "artist": "Melissa Aldana / Gonzalo Rubalcaba",
+          "listen_count": 1
+        },
+        {
           "artist": "Miles Davis Quintet",
+          "listen_count": 1
+        },
+        {
+          "artist": "Patricia Barber",
+          "listen_count": 1
+        },
+        {
+          "artist": "Salvatore Bonafede Quintet",
           "listen_count": 1
         },
         {
           "artist": "Stephan Crump",
           "listen_count": 1
+        },
+        {
+          "artist": "Terence Blanchard",
+          "listen_count": 1
+        },
+        {
+          "artist": "Tingvall Trio",
+          "listen_count": 1
+        },
+        {
+          "artist": "Tomasz Stańko",
+          "listen_count": 1
         }
       ],
       "albums": [
         {
-          "artist": "Morphine",
-          "album": "Cure for Pain (Deluxe Edition)",
-          "listen_count": 19,
-          "unique_tracks": 19,
-          "last_listened_at_utc": "2026-11-04T22:07:48Z"
-        },
-        {
-          "artist": "Diana Krall",
-          "album": "The Girl In The Other Room",
-          "listen_count": 12,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-11-06T21:22:02Z"
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
+          "listen_count": 16,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-11T21:45:28Z"
         },
         {
           "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
@@ -138,13 +155,6 @@
           "listen_count": 9,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-11-05T23:15:52Z"
-        },
-        {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-06T20:19:04Z"
         },
         {
           "artist": "John Coltrane",
@@ -182,13 +192,6 @@
           "last_listened_at_utc": "2026-11-05T18:23:13Z"
         },
         {
-          "artist": "Japan",
-          "album": "Tin Drum",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-11-05T17:43:40Z"
-        },
-        {
           "artist": "Kimiko Kasai & Kosuke Mine Quartet",
           "album": "Yellow Carcass in the Blue Sky",
           "listen_count": 3,
@@ -208,6 +211,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-11-05T17:56:14Z"
+        },
+        {
+          "artist": "Japan",
+          "album": "Tin Drum",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-05T17:43:40Z"
         },
         {
           "artist": "Julian Lage",
@@ -231,11 +241,32 @@
           "last_listened_at_utc": "2026-11-11T02:01:08Z"
         },
         {
+          "artist": "Diana Krall",
+          "album": "The Girl In The Other Room",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-06T21:22:02Z"
+        },
+        {
           "artist": "Isao Suzuki Trio / Quartet",
           "album": "Blow Up",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-06T21:14:30Z"
+        },
+        {
+          "artist": "Joey Alexander",
+          "album": "A Joey Alexander Christmas",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T22:13:05Z"
+        },
+        {
+          "artist": "Melissa Aldana / Gonzalo Rubalcaba",
+          "album": "La Sentencia - Duo",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T21:59:37Z"
         },
         {
           "artist": "Miles Davis Quintet",
@@ -245,17 +276,52 @@
           "last_listened_at_utc": "2026-11-11T01:50:46Z"
         },
         {
+          "artist": "Patricia Barber",
+          "album": "Cafe Blue",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T22:18:30Z"
+        },
+        {
+          "artist": "Salvatore Bonafede Quintet",
+          "album": "Journey To Donnafugata",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T22:07:38Z"
+        },
+        {
           "artist": "Stephan Crump",
           "album": "Passerine",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-11T02:04:19Z"
+        },
+        {
+          "artist": "Terence Blanchard",
+          "album": "The Comedian (Original Motion Picture Soundtrack)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T22:23:54Z"
+        },
+        {
+          "artist": "Tingvall Trio",
+          "album": "Beat",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T21:52:03Z"
+        },
+        {
+          "artist": "Tomasz Stańko",
+          "album": "From The Green Hill",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T21:56:52Z"
         }
       ]
     },
     "last_30_days": {
-      "listen_count": 789,
-      "unique_artists": 128,
+      "listen_count": 783,
+      "unique_artists": 129,
       "unique_albums": 142,
       "listens_without_album": 0,
       "artists": [
@@ -276,6 +342,10 @@
           "listen_count": 33
         },
         {
+          "artist": "Anouar Brahem",
+          "listen_count": 29
+        },
+        {
           "artist": "Fine",
           "listen_count": 25
         },
@@ -286,10 +356,6 @@
         {
           "artist": "Talk Talk",
           "listen_count": 22
-        },
-        {
-          "artist": "Anouar Brahem",
-          "listen_count": 21
         },
         {
           "artist": "Bob Dylan",
@@ -305,11 +371,11 @@
         },
         {
           "artist": "Cameron Winter",
-          "listen_count": 18
+          "listen_count": 17
         },
         {
           "artist": "Michael Kiwanuka",
-          "listen_count": 18
+          "listen_count": 17
         },
         {
           "artist": "The Raconteurs",
@@ -366,10 +432,6 @@
         {
           "artist": "שב״ק ס׳",
           "listen_count": 10
-        },
-        {
-          "artist": "Ballaké Sissoko & Vincent Segal",
-          "listen_count": 9
         },
         {
           "artist": "Destroyer",
@@ -468,10 +530,6 @@
           "listen_count": 4
         },
         {
-          "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
-          "listen_count": 4
-        },
-        {
           "artist": "Taeko Onuki",
           "listen_count": 4
         },
@@ -505,10 +563,6 @@
         },
         {
           "artist": "Nala Sinephro",
-          "listen_count": 3
-        },
-        {
-          "artist": "Sissoko Segal Parisien Peirani",
           "listen_count": 3
         },
         {
@@ -676,6 +730,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Joey Alexander",
+          "listen_count": 1
+        },
+        {
           "artist": "Kurt Elling & Yellowjackets",
           "listen_count": 1
         },
@@ -692,6 +750,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Melissa Aldana / Gonzalo Rubalcaba",
+          "listen_count": 1
+        },
+        {
           "artist": "Metric",
           "listen_count": 1
         },
@@ -704,7 +766,7 @@
           "listen_count": 1
         },
         {
-          "artist": "Rajery, Ballaké Sissoko & Driss El Maloumi",
+          "artist": "Patricia Barber",
           "listen_count": 1
         },
         {
@@ -713,6 +775,10 @@
         },
         {
           "artist": "SPRINTS",
+          "listen_count": 1
+        },
+        {
+          "artist": "Salvatore Bonafede Quintet",
           "listen_count": 1
         },
         {
@@ -733,6 +799,10 @@
         },
         {
           "artist": "Stephanie Stephanou",
+          "listen_count": 1
+        },
+        {
+          "artist": "Terence Blanchard",
           "listen_count": 1
         },
         {
@@ -760,15 +830,15 @@
           "listen_count": 1
         },
         {
-          "artist": "Toumani Diabaté, Danny Thompson",
+          "artist": "Tingvall Trio",
+          "listen_count": 1
+        },
+        {
+          "artist": "Tomasz Stańko",
           "listen_count": 1
         },
         {
           "artist": "Wolf Alice",
-          "listen_count": 1
-        },
-        {
-          "artist": "Yosi Horikawa",
           "listen_count": 1
         }
       ],
@@ -788,6 +858,13 @@
           "last_listened_at_utc": "2026-10-23T13:23:41Z"
         },
         {
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
+          "listen_count": 29,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-11T21:45:28Z"
+        },
+        {
           "artist": "Fine",
           "album": "Jazz dreams",
           "listen_count": 25,
@@ -800,13 +877,6 @@
           "listen_count": 22,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-30T19:08:12Z"
-        },
-        {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 21,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-06T20:19:04Z"
         },
         {
           "artist": "Diana Krall",
@@ -839,7 +909,7 @@
         {
           "artist": "Cameron Winter",
           "album": "Live at Carnegie Hall",
-          "listen_count": 18,
+          "listen_count": 17,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-10-24T23:23:35Z"
         },
@@ -968,13 +1038,6 @@
           "listen_count": 10,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-10-17T19:44:12Z"
-        },
-        {
-          "artist": "Ballaké Sissoko & Vincent Segal",
-          "album": "Musique de nuit",
-          "listen_count": 9,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-12T18:41:03Z"
         },
         {
           "artist": "Destroyer",
@@ -1180,13 +1243,6 @@
           "last_listened_at_utc": "2026-10-24T23:38:51Z"
         },
         {
-          "artist": "Shai Maestro, Jorge Roeder, Ofri Nehemya & Philip Dizack",
-          "album": "Human",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-12T21:34:28Z"
-        },
-        {
           "artist": "Taeko Onuki",
           "album": "Mignonne (Mastered by Bernie Grundman)",
           "listen_count": 4,
@@ -1262,13 +1318,6 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-13T20:48:09Z"
-        },
-        {
-          "artist": "Sissoko Segal Parisien Peirani",
-          "album": "Les Égarés",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-12T21:14:59Z"
         },
         {
           "artist": "Soul Coughing",
@@ -1558,6 +1607,13 @@
           "last_listened_at_utc": "2026-11-03T00:03:13Z"
         },
         {
+          "artist": "Joey Alexander",
+          "album": "A Joey Alexander Christmas",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T22:13:05Z"
+        },
+        {
           "artist": "Kurt Elling & Yellowjackets",
           "album": "Play Weather Report: Alive in Europe + Bonus Studio Recordings",
           "listen_count": 1,
@@ -1586,6 +1642,13 @@
           "last_listened_at_utc": "2026-11-02T23:59:41Z"
         },
         {
+          "artist": "Melissa Aldana / Gonzalo Rubalcaba",
+          "album": "La Sentencia - Duo",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T21:59:37Z"
+        },
+        {
           "artist": "Metric",
           "album": "Live It Out",
           "listen_count": 1,
@@ -1600,13 +1663,6 @@
           "last_listened_at_utc": "2026-11-03T00:20:54Z"
         },
         {
-          "artist": "Michael Kiwanuka",
-          "album": "Small Changes",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-12T18:49:53Z"
-        },
-        {
           "artist": "Miles Davis Quintet",
           "album": "Cookin' With The Miles Davis Quintet",
           "listen_count": 1,
@@ -1614,11 +1670,11 @@
           "last_listened_at_utc": "2026-11-11T01:50:46Z"
         },
         {
-          "artist": "Rajery, Ballaké Sissoko & Driss El Maloumi",
-          "album": "3MA",
+          "artist": "Patricia Barber",
+          "album": "Cafe Blue",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-12T18:47:59Z"
+          "last_listened_at_utc": "2026-11-11T22:18:30Z"
         },
         {
           "artist": "Ricardo Marrero",
@@ -1633,6 +1689,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-22T12:51:16Z"
+        },
+        {
+          "artist": "Salvatore Bonafede Quintet",
+          "album": "Journey To Donnafugata",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T22:07:38Z"
         },
         {
           "artist": "Sokratis Sinopoulos Quartet",
@@ -1675,6 +1738,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-02T21:52:41Z"
+        },
+        {
+          "artist": "Terence Blanchard",
+          "album": "The Comedian (Original Motion Picture Soundtrack)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T22:23:54Z"
         },
         {
           "artist": "The Avalanches",
@@ -1740,11 +1810,18 @@
           "last_listened_at_utc": "2026-10-13T20:26:11Z"
         },
         {
-          "artist": "Toumani Diabaté, Danny Thompson",
-          "album": "Los Jóvenes Flamencos, Vol. 1",
+          "artist": "Tingvall Trio",
+          "album": "Beat",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-12T18:43:37Z"
+          "last_listened_at_utc": "2026-11-11T21:52:03Z"
+        },
+        {
+          "artist": "Tomasz Stańko",
+          "album": "From The Green Hill",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T21:56:52Z"
         },
         {
           "artist": "Wolf Alice",
@@ -1752,13 +1829,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-16T19:13:02Z"
-        },
-        {
-          "artist": "Yosi Horikawa",
-          "album": "Spaces",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-12T22:57:21Z"
         },
         {
           "artist": "טונה",
@@ -1770,9 +1840,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1661,
-      "unique_artists": 237,
-      "unique_albums": 282,
+      "listen_count": 1676,
+      "unique_artists": 244,
+      "unique_albums": 289,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1792,6 +1862,10 @@
           "listen_count": 44
         },
         {
+          "artist": "Anouar Brahem",
+          "listen_count": 43
+        },
+        {
           "artist": "Tsuyoshi Yamamoto Trio",
           "listen_count": 43
         },
@@ -1809,10 +1883,6 @@
         },
         {
           "artist": "Ahmad Jamal Trio",
-          "listen_count": 35
-        },
-        {
-          "artist": "Anouar Brahem",
           "listen_count": 35
         },
         {
@@ -2488,6 +2558,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Joey Alexander",
+          "listen_count": 1
+        },
+        {
           "artist": "John Carroll Kirby, Mizuhara Sisters",
           "listen_count": 1
         },
@@ -2532,6 +2606,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Melissa Aldana / Gonzalo Rubalcaba",
+          "listen_count": 1
+        },
+        {
           "artist": "Metric",
           "listen_count": 1
         },
@@ -2556,6 +2634,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Patricia Barber",
+          "listen_count": 1
+        },
+        {
           "artist": "Peter Gabriel",
           "listen_count": 1
         },
@@ -2573,6 +2655,10 @@
         },
         {
           "artist": "SPRINTS",
+          "listen_count": 1
+        },
+        {
+          "artist": "Salvatore Bonafede Quintet",
           "listen_count": 1
         },
         {
@@ -2616,6 +2702,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Terence Blanchard",
+          "listen_count": 1
+        },
+        {
           "artist": "The Ahmad Jamal Trio",
           "listen_count": 1
         },
@@ -2649,6 +2739,14 @@
         },
         {
           "artist": "Tigran Hamasyan",
+          "listen_count": 1
+        },
+        {
+          "artist": "Tingvall Trio",
+          "listen_count": 1
+        },
+        {
+          "artist": "Tomasz Stańko",
           "listen_count": 1
         },
         {
@@ -2740,6 +2838,13 @@
           "last_listened_at_utc": "2026-11-04T22:07:48Z"
         },
         {
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
+          "listen_count": 43,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-11-11T21:45:28Z"
+        },
+        {
           "artist": "Parquet Courts",
           "album": "Wide Awake!",
           "listen_count": 38,
@@ -2752,13 +2857,6 @@
           "listen_count": 35,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-24T23:17:44Z"
-        },
-        {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 35,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-11-06T20:19:04Z"
         },
         {
           "artist": "טונה",
@@ -4189,6 +4287,13 @@
           "last_listened_at_utc": "2026-09-27T21:55:29Z"
         },
         {
+          "artist": "Joey Alexander",
+          "album": "A Joey Alexander Christmas",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T22:13:05Z"
+        },
+        {
           "artist": "John Carroll Kirby, Mizuhara Sisters",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -4280,6 +4385,13 @@
           "last_listened_at_utc": "2026-09-27T21:42:40Z"
         },
         {
+          "artist": "Melissa Aldana / Gonzalo Rubalcaba",
+          "album": "La Sentencia - Duo",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T21:59:37Z"
+        },
+        {
           "artist": "Metric",
           "album": "Live It Out",
           "listen_count": 1,
@@ -4336,6 +4448,13 @@
           "last_listened_at_utc": "2026-09-27T22:29:46Z"
         },
         {
+          "artist": "Patricia Barber",
+          "album": "Cafe Blue",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T22:18:30Z"
+        },
+        {
           "artist": "Peter Gabriel",
           "album": "Peter Gabriel 3: Melt (Remastered Version)",
           "listen_count": 1,
@@ -4383,6 +4502,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-22T12:51:16Z"
+        },
+        {
+          "artist": "Salvatore Bonafede Quintet",
+          "album": "Journey To Donnafugata",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T22:07:38Z"
         },
         {
           "artist": "Sam Gendel",
@@ -4469,6 +4595,13 @@
           "last_listened_at_utc": "2026-11-02T21:52:41Z"
         },
         {
+          "artist": "Terence Blanchard",
+          "album": "The Comedian (Original Motion Picture Soundtrack)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T22:23:54Z"
+        },
+        {
           "artist": "The Ahmad Jamal Trio",
           "album": "The Complete Ahmad Jamal Trio Argo Sessions 1956-62",
           "listen_count": 1,
@@ -4551,6 +4684,20 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-13T20:26:11Z"
+        },
+        {
+          "artist": "Tingvall Trio",
+          "album": "Beat",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T21:52:03Z"
+        },
+        {
+          "artist": "Tomasz Stańko",
+          "album": "From The Green Hill",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-11T21:56:52Z"
         },
         {
           "artist": "Tommy Flanagan",
@@ -4703,6 +4850,292 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1794435834,
+      "listened_at_utc": "2026-11-11T22:23:54Z",
+      "artist": "Terence Blanchard",
+      "track": "Jackie Gets Out (From \"The Comedian\" Soundtrack)",
+      "album": "The Comedian (Original Motion Picture Soundtrack)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "f21be110-0169-45f5-b5e7-c64a71d218e5",
+          "6b2e6e7c-4289-447c-a3dc-120e386da267",
+          "74726252-66c4-4c00-bfba-039642175820",
+          "d2462829-ffdc-4925-8a1e-e07a265bc16d"
+        ],
+        "release_mbid": "b243aa0b-4e4b-4025-9b20-5b0041e7aef5"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794435510,
+      "listened_at_utc": "2026-11-11T22:18:30Z",
+      "artist": "Patricia Barber",
+      "track": "What a Shame",
+      "album": "Cafe Blue",
+      "musicbrainz": {
+        "artist_mbids": [
+          "3e078819-a36c-4e5c-93e1-9b21eb17796d"
+        ],
+        "recording_mbid": "8babcc31-02cb-4431-8694-a5eb97044af6",
+        "release_mbid": "892f9cfc-840c-45e5-a118-fe312bb471a2",
+        "release_group_mbid": "3bfcecef-1cf2-3c7f-957b-dd84043a035d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794435185,
+      "listened_at_utc": "2026-11-11T22:13:05Z",
+      "artist": "Joey Alexander",
+      "track": "O Come All Ye Faithful (Adeste Fideles)",
+      "album": "A Joey Alexander Christmas",
+      "musicbrainz": {
+        "artist_mbids": [
+          "ef0591bd-daef-4347-b62f-6d20b8f6dda3",
+          "f05360a9-63ab-4fb4-9a7f-fa7cd3f45c5a",
+          "0d0cb98f-dcc3-4499-9a1e-79870db75104"
+        ],
+        "release_mbid": "81d72015-d37f-4999-b2b1-74e0cd59db46",
+        "recording_mbid": "cd01a0a4-3a04-4976-866b-1f46df6077be",
+        "release_group_mbid": "0f2990c7-eabf-4c29-a9da-eeb8bc76a150"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794434858,
+      "listened_at_utc": "2026-11-11T22:07:38Z",
+      "artist": "Salvatore Bonafede Quintet",
+      "track": "Quadriglia",
+      "album": "Journey To Donnafugata",
+      "musicbrainz": {
+        "artist_mbids": [
+          "bf2346ed-5588-45f4-9967-5911021912cd"
+        ],
+        "recording_mbid": "0236a92a-cb7e-46ca-b003-201f211d8712",
+        "release_mbid": "efa77800-2581-45ab-b1d7-6440c97ee606",
+        "release_group_mbid": "45acf070-07a3-3b19-94ce-e36acbcbe1cc"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794434377,
+      "listened_at_utc": "2026-11-11T21:59:37Z",
+      "artist": "Melissa Aldana / Gonzalo Rubalcaba",
+      "track": "La Sentencia - Duo",
+      "album": "La Sentencia - Duo",
+      "musicbrainz": {
+        "artist_mbids": [
+          "faa21ccf-f0d3-4a84-95d4-ae596aa40744",
+          "70053535-a3ae-4aad-a6cd-68c55085b843"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794434212,
+      "listened_at_utc": "2026-11-11T21:56:52Z",
+      "artist": "Tomasz Stańko",
+      "track": "Litania (Part One)",
+      "album": "From The Green Hill",
+      "musicbrainz": {
+        "artist_mbids": [
+          "f5d729a4-66c0-4500-bd43-10de200372a3"
+        ],
+        "release_mbid": "dd7fb794-2288-4512-a122-9d0e4f52946b",
+        "recording_mbid": "1dbd6ea4-08d7-4204-a9f3-dfe3cbbfaf6e",
+        "release_group_mbid": "8bc08f0c-d749-35b7-a22b-ab6ab6a8991e"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794433923,
+      "listened_at_utc": "2026-11-11T21:52:03Z",
+      "artist": "Tingvall Trio",
+      "track": "Spöksteg",
+      "album": "Beat",
+      "musicbrainz": {
+        "artist_mbids": [
+          "51b553fa-1604-4110-ba48-f54e38f50678"
+        ],
+        "recording_mbid": "e0d3eb4d-15ed-4cf5-b9e2-a1bc9f83f3f9",
+        "release_mbid": "42457aae-8a90-45f2-8108-cb189d63771b",
+        "release_group_mbid": "7dceb243-b7e9-4688-a3ea-35f4d62d50a3"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794433528,
+      "listened_at_utc": "2026-11-11T21:45:28Z",
+      "artist": "Anouar Brahem",
+      "track": "For No Apparent Reason",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "6cd5c5cf-29e4-47cd-aed6-19c8c03707e6",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794433060,
+      "listened_at_utc": "2026-11-11T21:37:40Z",
+      "artist": "Anouar Brahem",
+      "track": "Waking State",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "b1cff85f-39e8-49d8-ba0a-12f4e9a0e10a",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794432622,
+      "listened_at_utc": "2026-11-11T21:30:22Z",
+      "artist": "Anouar Brahem",
+      "track": "Galilée mon amour",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "fe8c2a53-976c-4a25-8e45-d9e3b59eada4",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794432332,
+      "listened_at_utc": "2026-11-11T21:25:32Z",
+      "artist": "Anouar Brahem",
+      "track": "Al Birwa",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "5f86bf21-e688-4b1f-a930-94c682038d9c",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794431810,
+      "listened_at_utc": "2026-11-11T21:16:50Z",
+      "artist": "Anouar Brahem",
+      "track": "The Astounding Eyes Of Rita",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "32d4f9ab-1d72-449e-bb97-b281c47ba36e",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794431415,
+      "listened_at_utc": "2026-11-11T21:10:15Z",
+      "artist": "Anouar Brahem",
+      "track": "Stopover At Djibouti",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "4786bc09-f677-4617-94af-be73a5457897",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794431175,
+      "listened_at_utc": "2026-11-11T21:06:15Z",
+      "artist": "Anouar Brahem",
+      "track": "Dance With Waves",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "03f6efb6-ff76-418a-a3ff-db44963ba01a",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794430364,
+      "listened_at_utc": "2026-11-11T20:52:44Z",
+      "artist": "Anouar Brahem",
+      "track": "The Lover Of Beirut",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "93d00279-3eb5-4717-b2c8-041184c77138",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1794362659,
       "listened_at_utc": "2026-11-11T02:04:19Z",
