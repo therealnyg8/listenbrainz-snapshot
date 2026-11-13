@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-12T17:38:41Z",
+  "generated_at_utc": "2026-11-13T17:16:16Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-14T17:38:41Z",
-    "through_utc": "2026-11-12T17:38:41Z",
+    "from_utc": "2026-08-15T17:16:16Z",
+    "through_utc": "2026-11-13T17:16:16Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
-    "raw_listen_count": 2822,
-    "deduplicated_listen_count": 1676,
-    "duplicates_removed": 1146,
+    "raw_listen_count": 2898,
+    "deduplicated_listen_count": 1714,
+    "duplicates_removed": 1184,
     "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-11-11T22:23:54Z"
+    "newest_listen_utc": "2026-11-13T02:39:43Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,11 +28,15 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 92,
+      "listen_count": 106,
       "unique_artists": 25,
       "unique_albums": 26,
       "listens_without_album": 0,
       "artists": [
+        {
+          "artist": "Bob Dylan",
+          "listen_count": 28
+        },
         {
           "artist": "Anouar Brahem",
           "listen_count": 16
@@ -42,8 +46,8 @@
           "listen_count": 12
         },
         {
-          "artist": "Diana Krall",
-          "listen_count": 10
+          "artist": "Grace Jones",
+          "listen_count": 8
         },
         {
           "artist": "John Coltrane",
@@ -58,28 +62,8 @@
           "listen_count": 6
         },
         {
-          "artist": "the olllam",
-          "listen_count": 5
-        },
-        {
-          "artist": "Thelonious Monk Septet",
-          "listen_count": 4
-        },
-        {
           "artist": "Kimiko Kasai & Kosuke Mine Quartet",
           "listen_count": 3
-        },
-        {
-          "artist": "Soul Coughing",
-          "listen_count": 3
-        },
-        {
-          "artist": "Beth Orton",
-          "listen_count": 2
-        },
-        {
-          "artist": "Japan",
-          "listen_count": 2
         },
         {
           "artist": "Julian Lage",
@@ -91,6 +75,14 @@
         },
         {
           "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
+          "listen_count": 1
+        },
+        {
+          "artist": "Culture Club",
+          "listen_count": 1
+        },
+        {
+          "artist": "Diana Krall",
           "listen_count": 1
         },
         {
@@ -114,7 +106,15 @@
           "listen_count": 1
         },
         {
+          "artist": "Robert Palmer",
+          "listen_count": 1
+        },
+        {
           "artist": "Salvatore Bonafede Quintet",
+          "listen_count": 1
+        },
+        {
+          "artist": "Soul Coughing",
           "listen_count": 1
         },
         {
@@ -136,6 +136,13 @@
       ],
       "albums": [
         {
+          "artist": "Bob Dylan",
+          "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+          "listen_count": 19,
+          "unique_tracks": 19,
+          "last_listened_at_utc": "2026-11-13T02:39:43Z"
+        },
+        {
           "artist": "Anouar Brahem",
           "album": "The Astounding Eyes Of Rita",
           "listen_count": 16,
@@ -150,11 +157,18 @@
           "last_listened_at_utc": "2026-11-11T00:47:35Z"
         },
         {
-          "artist": "Diana Krall",
-          "album": "Live in Paris",
+          "artist": "Bob Dylan",
+          "album": "The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
           "listen_count": 9,
           "unique_tracks": 9,
-          "last_listened_at_utc": "2026-11-05T23:15:52Z"
+          "last_listened_at_utc": "2026-11-12T22:03:00Z"
+        },
+        {
+          "artist": "Grace Jones",
+          "album": "Nightclubbing",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-12T20:36:30Z"
         },
         {
           "artist": "John Coltrane",
@@ -178,46 +192,11 @@
           "last_listened_at_utc": "2026-11-06T21:51:08Z"
         },
         {
-          "artist": "the olllam",
-          "album": "elllegy",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-11-05T19:47:52Z"
-        },
-        {
-          "artist": "Thelonious Monk Septet",
-          "album": "Monk's Music",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-11-05T18:23:13Z"
-        },
-        {
           "artist": "Kimiko Kasai & Kosuke Mine Quartet",
           "album": "Yellow Carcass in the Blue Sky",
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-11-07T23:45:36Z"
-        },
-        {
-          "artist": "Soul Coughing",
-          "album": "Ruby Vroom (30th Anniversary Edition)",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-11-06T19:25:07Z"
-        },
-        {
-          "artist": "Beth Orton",
-          "album": "Weather Alive",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-11-05T17:56:14Z"
-        },
-        {
-          "artist": "Japan",
-          "album": "Tin Drum",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-11-05T17:43:40Z"
         },
         {
           "artist": "Julian Lage",
@@ -239,6 +218,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-11T02:01:08Z"
+        },
+        {
+          "artist": "Culture Club",
+          "album": "Kissing To Be Clever",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-12T20:45:16Z"
         },
         {
           "artist": "Diana Krall",
@@ -283,11 +269,25 @@
           "last_listened_at_utc": "2026-11-11T22:18:30Z"
         },
         {
+          "artist": "Robert Palmer",
+          "album": "Clues (Expanded Edition)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-12T20:40:23Z"
+        },
+        {
           "artist": "Salvatore Bonafede Quintet",
           "album": "Journey To Donnafugata",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-11T22:07:38Z"
+        },
+        {
+          "artist": "Soul Coughing",
+          "album": "Ruby Vroom (30th Anniversary Edition)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-06T19:25:07Z"
         },
         {
           "artist": "Stephan Crump",
@@ -320,11 +320,15 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 783,
-      "unique_artists": 129,
-      "unique_albums": 142,
+      "listen_count": 770,
+      "unique_artists": 122,
+      "unique_albums": 135,
       "listens_without_album": 0,
       "artists": [
+        {
+          "artist": "Bob Dylan",
+          "listen_count": 49
+        },
         {
           "artist": "Morphine",
           "listen_count": 44
@@ -358,20 +362,12 @@
           "listen_count": 22
         },
         {
-          "artist": "Bob Dylan",
-          "listen_count": 21
-        },
-        {
           "artist": "Norah Jones",
           "listen_count": 20
         },
         {
           "artist": "Fontaines D.C.",
           "listen_count": 19
-        },
-        {
-          "artist": "Cameron Winter",
-          "listen_count": 17
         },
         {
           "artist": "Michael Kiwanuka",
@@ -430,14 +426,6 @@
           "listen_count": 10
         },
         {
-          "artist": "שב״ק ס׳",
-          "listen_count": 10
-        },
-        {
-          "artist": "Destroyer",
-          "listen_count": 9
-        },
-        {
           "artist": "Ahmad Jamal Trio",
           "listen_count": 8
         },
@@ -447,6 +435,10 @@
         },
         {
           "artist": "Cymande",
+          "listen_count": 8
+        },
+        {
+          "artist": "Grace Jones",
           "listen_count": 8
         },
         {
@@ -494,10 +486,6 @@
           "listen_count": 6
         },
         {
-          "artist": "Sampha",
-          "listen_count": 6
-        },
-        {
           "artist": "Avishai Cohen",
           "listen_count": 5
         },
@@ -516,6 +504,10 @@
         {
           "artist": "ג'יגה ג'וס",
           "listen_count": 5
+        },
+        {
+          "artist": "Cameron Winter",
+          "listen_count": 4
         },
         {
           "artist": "Hailu Mergia",
@@ -562,19 +554,11 @@
           "listen_count": 3
         },
         {
-          "artist": "Nala Sinephro",
-          "listen_count": 3
-        },
-        {
           "artist": "Soul Coughing",
           "listen_count": 3
         },
         {
           "artist": "Sven Wunder",
-          "listen_count": 3
-        },
-        {
-          "artist": "The Beatles",
           "listen_count": 3
         },
         {
@@ -591,10 +575,6 @@
         },
         {
           "artist": "Beth Orton",
-          "listen_count": 2
-        },
-        {
-          "artist": "Dhafer Youssef",
           "listen_count": 2
         },
         {
@@ -619,10 +599,6 @@
         },
         {
           "artist": "Julia Holter",
-          "listen_count": 2
-        },
-        {
-          "artist": "Kiasmos",
           "listen_count": 2
         },
         {
@@ -678,6 +654,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Culture Club",
+          "listen_count": 1
+        },
+        {
           "artist": "David Sylvian",
           "listen_count": 1
         },
@@ -690,19 +670,7 @@
           "listen_count": 1
         },
         {
-          "artist": "Elliphant",
-          "listen_count": 1
-        },
-        {
           "artist": "Fatoumata Diawara",
-          "listen_count": 1
-        },
-        {
-          "artist": "Feist",
-          "listen_count": 1
-        },
-        {
-          "artist": "Foals",
           "listen_count": 1
         },
         {
@@ -774,6 +742,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Robert Palmer",
+          "listen_count": 1
+        },
+        {
           "artist": "SPRINTS",
           "listen_count": 1
         },
@@ -826,10 +798,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Tigran Hamasyan",
-          "listen_count": 1
-        },
-        {
           "artist": "Tingvall Trio",
           "listen_count": 1
         },
@@ -839,6 +807,10 @@
         },
         {
           "artist": "Wolf Alice",
+          "listen_count": 1
+        },
+        {
+          "artist": "שב״ק ס׳",
           "listen_count": 1
         }
       ],
@@ -907,11 +879,11 @@
           "last_listened_at_utc": "2026-10-30T18:38:05Z"
         },
         {
-          "artist": "Cameron Winter",
-          "album": "Live at Carnegie Hall",
-          "listen_count": 17,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-24T23:23:35Z"
+          "artist": "Bob Dylan",
+          "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+          "listen_count": 19,
+          "unique_tracks": 19,
+          "last_listened_at_utc": "2026-11-13T02:39:43Z"
         },
         {
           "artist": "טונה",
@@ -1033,18 +1005,11 @@
           "last_listened_at_utc": "2026-10-22T13:26:52Z"
         },
         {
-          "artist": "שב״ק ס׳",
-          "album": "שבק ס",
-          "listen_count": 10,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-17T19:44:12Z"
-        },
-        {
-          "artist": "Destroyer",
-          "album": "Kaputt",
+          "artist": "Bob Dylan",
+          "album": "The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
           "listen_count": 9,
           "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-13T22:35:21Z"
+          "last_listened_at_utc": "2026-11-12T22:03:00Z"
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -1066,6 +1031,13 @@
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-25T16:21:18Z"
+        },
+        {
+          "artist": "Grace Jones",
+          "album": "Nightclubbing",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-12T20:36:30Z"
         },
         {
           "artist": "JID",
@@ -1173,13 +1145,6 @@
           "last_listened_at_utc": "2026-10-22T00:49:03Z"
         },
         {
-          "artist": "Sampha",
-          "album": "Lahai",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-13T23:32:56Z"
-        },
-        {
           "artist": "Avishai Cohen",
           "album": "Shifting Sands",
           "listen_count": 5,
@@ -1220,6 +1185,13 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-10-19T23:32:45Z"
+        },
+        {
+          "artist": "Cameron Winter",
+          "album": "Live at Carnegie Hall",
+          "listen_count": 4,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-10-24T23:23:35Z"
         },
         {
           "artist": "Hailu Mergia",
@@ -1313,13 +1285,6 @@
           "last_listened_at_utc": "2026-11-07T23:45:36Z"
         },
         {
-          "artist": "Nala Sinephro",
-          "album": "Endlessness",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-13T20:48:09Z"
-        },
-        {
           "artist": "Soul Coughing",
           "album": "Ruby Vroom (30th Anniversary Edition)",
           "listen_count": 3,
@@ -1362,13 +1327,6 @@
           "last_listened_at_utc": "2026-11-05T17:56:14Z"
         },
         {
-          "artist": "Dhafer Youssef",
-          "album": "Birds Requiem",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-13T20:21:32Z"
-        },
-        {
           "artist": "Emily A. Sprague",
           "album": "Cyano",
           "listen_count": 2,
@@ -1409,13 +1367,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-24T21:08:55Z"
-        },
-        {
-          "artist": "Kiasmos",
-          "album": "II",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-13T23:12:36Z"
         },
         {
           "artist": "Mulatu Astatke",
@@ -1516,6 +1467,13 @@
           "last_listened_at_utc": "2026-11-03T00:28:43Z"
         },
         {
+          "artist": "Culture Club",
+          "album": "Kissing To Be Clever",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-12T20:45:16Z"
+        },
+        {
           "artist": "David Sylvian",
           "album": "Dead Bees On A Cake (Expanded Edition; Deluxe Edition)",
           "listen_count": 1,
@@ -1537,32 +1495,11 @@
           "last_listened_at_utc": "2026-11-03T00:44:31Z"
         },
         {
-          "artist": "Elliphant",
-          "album": "Living Life Golden",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-13T22:56:32Z"
-        },
-        {
           "artist": "Fatoumata Diawara",
           "album": "Fenfo",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-18T19:40:20Z"
-        },
-        {
-          "artist": "Feist",
-          "album": "One Evening",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-13T22:59:57Z"
-        },
-        {
-          "artist": "Foals",
-          "album": "Collected Reworks",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-13T22:46:38Z"
         },
         {
           "artist": "Fripp & Eno",
@@ -1684,6 +1621,13 @@
           "last_listened_at_utc": "2026-10-25T13:04:39Z"
         },
         {
+          "artist": "Robert Palmer",
+          "album": "Clues (Expanded Edition)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-12T20:40:23Z"
+        },
+        {
           "artist": "SPRINTS",
           "album": "Letter to Self",
           "listen_count": 1,
@@ -1754,27 +1698,6 @@
           "last_listened_at_utc": "2026-10-24T23:22:34Z"
         },
         {
-          "artist": "The Beatles",
-          "album": "Anthology 1",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-13T21:30:10Z"
-        },
-        {
-          "artist": "The Beatles",
-          "album": "The Beatles (White Album) (Super Deluxe; White Album / Super Deluxe)",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-13T21:36:43Z"
-        },
-        {
-          "artist": "The Beatles",
-          "album": "Yellow Submarine (Remastered 2009)",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-13T21:34:01Z"
-        },
-        {
           "artist": "The Blue Nile",
           "album": "Hats (Deluxe Version)",
           "listen_count": 1,
@@ -1803,13 +1726,6 @@
           "last_listened_at_utc": "2026-10-22T00:08:50Z"
         },
         {
-          "artist": "Tigran Hamasyan",
-          "album": "An Ancient Observer",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-13T20:26:11Z"
-        },
-        {
           "artist": "Tingvall Trio",
           "album": "Beat",
           "listen_count": 1,
@@ -1836,18 +1752,29 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-19T23:05:51Z"
+        },
+        {
+          "artist": "שב״ק ס׳",
+          "album": "שבק ס",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-17T19:44:12Z"
         }
       ]
     },
     "last_90_days": {
-      "listen_count": 1676,
-      "unique_artists": 244,
-      "unique_albums": 289,
+      "listen_count": 1714,
+      "unique_artists": 247,
+      "unique_albums": 294,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "טונה",
           "listen_count": 169
+        },
+        {
+          "artist": "Bob Dylan",
+          "listen_count": 69
         },
         {
           "artist": "רביד פלוטניק",
@@ -1868,10 +1795,6 @@
         {
           "artist": "Tsuyoshi Yamamoto Trio",
           "listen_count": 43
-        },
-        {
-          "artist": "Bob Dylan",
-          "listen_count": 41
         },
         {
           "artist": "Parquet Courts",
@@ -2067,6 +1990,10 @@
         },
         {
           "artist": "Cymande",
+          "listen_count": 8
+        },
+        {
+          "artist": "Grace Jones",
           "listen_count": 8
         },
         {
@@ -2458,6 +2385,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Culture Club",
+          "listen_count": 1
+        },
+        {
           "artist": "Dave Young",
           "listen_count": 1
         },
@@ -2647,6 +2578,10 @@
         },
         {
           "artist": "Ricardo Marrero",
+          "listen_count": 1
+        },
+        {
+          "artist": "Robert Palmer",
           "listen_count": 1
         },
         {
@@ -2957,6 +2892,13 @@
           "last_listened_at_utc": "2026-10-27T21:25:32Z"
         },
         {
+          "artist": "Bob Dylan",
+          "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+          "listen_count": 19,
+          "unique_tracks": 19,
+          "last_listened_at_utc": "2026-11-13T02:39:43Z"
+        },
+        {
           "artist": "Tsuyoshi Yamamoto Trio",
           "album": "Midnight Sugar",
           "listen_count": 19,
@@ -3237,6 +3179,13 @@
           "last_listened_at_utc": "2026-09-20T22:09:28Z"
         },
         {
+          "artist": "Bob Dylan",
+          "album": "The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+          "listen_count": 9,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-11-12T22:03:00Z"
+        },
+        {
           "artist": "Destroyer",
           "album": "Kaputt",
           "listen_count": 9,
@@ -3291,6 +3240,13 @@
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-25T16:21:18Z"
+        },
+        {
+          "artist": "Grace Jones",
+          "album": "Nightclubbing",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-12T20:36:30Z"
         },
         {
           "artist": "JID",
@@ -4105,6 +4061,13 @@
           "last_listened_at_utc": "2026-09-26T21:16:03Z"
         },
         {
+          "artist": "Culture Club",
+          "album": "Kissing To Be Clever",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-12T20:45:16Z"
+        },
+        {
           "artist": "Dave Young",
           "album": "Two by Two: Piano Bass Duets, Vol. I",
           "listen_count": 1,
@@ -4490,6 +4453,13 @@
           "last_listened_at_utc": "2026-10-25T13:04:39Z"
         },
         {
+          "artist": "Robert Palmer",
+          "album": "Clues (Expanded Edition)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-12T20:40:23Z"
+        },
+        {
           "artist": "SE SO NEON",
           "album": "Hosono House Revisited",
           "listen_count": 1,
@@ -4850,6 +4820,672 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1794537583,
+      "listened_at_utc": "2026-11-13T02:39:43Z",
+      "artist": "Bob Dylan",
+      "track": "Going, Going, Gone (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794537312,
+      "listened_at_utc": "2026-11-13T02:35:12Z",
+      "artist": "Bob Dylan",
+      "track": "Lay, Lady, Lay (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794537113,
+      "listened_at_utc": "2026-11-13T02:31:53Z",
+      "artist": "Bob Dylan",
+      "track": "You're Gonna Make Me Lonesome When You Go (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794536688,
+      "listened_at_utc": "2026-11-13T02:24:48Z",
+      "artist": "Bob Dylan",
+      "track": "You're a Big Girl Now (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794536135,
+      "listened_at_utc": "2026-11-13T02:15:35Z",
+      "artist": "Bob Dylan",
+      "track": "Tangled up in Blue (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794535887,
+      "listened_at_utc": "2026-11-13T02:11:27Z",
+      "artist": "Bob Dylan",
+      "track": "I Want You (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794535608,
+      "listened_at_utc": "2026-11-13T02:06:48Z",
+      "artist": "Bob Dylan",
+      "track": "Oh, Sister (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794535280,
+      "listened_at_utc": "2026-11-13T02:01:20Z",
+      "artist": "Bob Dylan",
+      "track": "Shelter from the Storm (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794535015,
+      "listened_at_utc": "2026-11-13T01:56:55Z",
+      "artist": "Bob Dylan",
+      "track": "I Pity the Poor Immigrant (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794534773,
+      "listened_at_utc": "2026-11-13T01:52:53Z",
+      "artist": "Bob Dylan",
+      "track": "Deportee (Plane Wreck at Los Gatos) (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794534601,
+      "listened_at_utc": "2026-11-13T01:50:01Z",
+      "artist": "Bob Dylan",
+      "track": "Railroad Boy (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794534386,
+      "listened_at_utc": "2026-11-13T01:46:26Z",
+      "artist": "Bob Dylan",
+      "track": "Blowin' in the Wind (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794532813,
+      "listened_at_utc": "2026-11-13T01:20:13Z",
+      "artist": "Bob Dylan",
+      "track": "Isis (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794532583,
+      "listened_at_utc": "2026-11-13T01:16:23Z",
+      "artist": "Bob Dylan",
+      "track": "Mozambique (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794532367,
+      "listened_at_utc": "2026-11-13T01:12:47Z",
+      "artist": "Bob Dylan",
+      "track": "One Too Many Mornings (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794532061,
+      "listened_at_utc": "2026-11-13T01:07:41Z",
+      "artist": "Bob Dylan",
+      "track": "Maggie's Farm (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794531853,
+      "listened_at_utc": "2026-11-13T01:04:13Z",
+      "artist": "Bob Dylan",
+      "track": "Vincent van Gogh (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794531639,
+      "listened_at_utc": "2026-11-13T01:00:39Z",
+      "artist": "Bob Dylan",
+      "track": "It Ain't Me Babe (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794531281,
+      "listened_at_utc": "2026-11-13T00:54:41Z",
+      "artist": "Bob Dylan",
+      "track": "Mr. Tambourine Man (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "6ef11349-72b6-4e9b-a497-a6e7c3746ab1"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794520980,
+      "listened_at_utc": "2026-11-12T22:03:00Z",
+      "artist": "Bob Dylan",
+      "track": "Railroad Boy (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "e6b3c9ee-adf5-4bb5-b5f3-8adef9c04e6f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794520761,
+      "listened_at_utc": "2026-11-12T21:59:21Z",
+      "artist": "Bob Dylan",
+      "track": "Blowin' in the Wind (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "e6b3c9ee-adf5-4bb5-b5f3-8adef9c04e6f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794520338,
+      "listened_at_utc": "2026-11-12T21:52:18Z",
+      "artist": "Bob Dylan",
+      "track": "Isis (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "e6b3c9ee-adf5-4bb5-b5f3-8adef9c04e6f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794520094,
+      "listened_at_utc": "2026-11-12T21:48:14Z",
+      "artist": "Bob Dylan",
+      "track": "Mozambique (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "e6b3c9ee-adf5-4bb5-b5f3-8adef9c04e6f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794517562,
+      "listened_at_utc": "2026-11-12T21:06:02Z",
+      "artist": "Bob Dylan",
+      "track": "One Too Many Mornings (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "e6b3c9ee-adf5-4bb5-b5f3-8adef9c04e6f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794517264,
+      "listened_at_utc": "2026-11-12T21:01:04Z",
+      "artist": "Bob Dylan",
+      "track": "Maggie's Farm (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "e6b3c9ee-adf5-4bb5-b5f3-8adef9c04e6f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794517084,
+      "listened_at_utc": "2026-11-12T20:58:04Z",
+      "artist": "Bob Dylan",
+      "track": "Vincent van Gogh (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "e6b3c9ee-adf5-4bb5-b5f3-8adef9c04e6f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794516826,
+      "listened_at_utc": "2026-11-12T20:53:46Z",
+      "artist": "Bob Dylan",
+      "track": "It Ain't Me Babe (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "e6b3c9ee-adf5-4bb5-b5f3-8adef9c04e6f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794516466,
+      "listened_at_utc": "2026-11-12T20:47:46Z",
+      "artist": "Bob Dylan",
+      "track": "Mr. Tambourine Man (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "album": "The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "72c536dc-7137-4477-a521-567eeb840fa8"
+        ],
+        "release_mbid": "e6b3c9ee-adf5-4bb5-b5f3-8adef9c04e6f"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794516316,
+      "listened_at_utc": "2026-11-12T20:45:16Z",
+      "artist": "Culture Club",
+      "track": "White Boy (Dance Mix)",
+      "album": "Kissing To Be Clever",
+      "musicbrainz": {
+        "artist_mbids": [
+          "81435053-e1a2-48a4-adfd-e89f310c7b38"
+        ],
+        "recording_mbid": "b8c5bc85-5273-440c-ad92-635d9f129577",
+        "release_mbid": "1b7e8e7d-5199-4f82-b450-9109ce10d61c",
+        "release_group_mbid": "06e3e31f-a79a-31d5-ad4e-cd4aef67ebd5"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794516023,
+      "listened_at_utc": "2026-11-12T20:40:23Z",
+      "artist": "Robert Palmer",
+      "track": "Looking For Clues",
+      "album": "Clues (Expanded Edition)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "96b1d906-0fda-406d-beb6-19c6758998df"
+        ],
+        "recording_mbid": "c108033c-b777-45e6-8206-a6f77fd18721",
+        "release_mbid": "8c2de60b-d118-43d5-915d-236db437f846",
+        "release_group_mbid": "870b14e0-dece-339d-b847-dd3bc28b14c8"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794515790,
+      "listened_at_utc": "2026-11-12T20:36:30Z",
+      "artist": "Grace Jones",
+      "track": "I've Done It Again",
+      "album": "Nightclubbing",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b1c124b3-cf60-41a6-8699-92728c8a3fe0"
+        ],
+        "recording_mbid": "6bf6ed2a-40c0-4c99-8b6e-04bdaf922664",
+        "release_mbid": "3b1a1dc1-6410-4ec7-b369-438d5b5aa7f3",
+        "release_group_mbid": "8a0fff99-479d-3fe3-849f-0ddc8d22d304"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794515545,
+      "listened_at_utc": "2026-11-12T20:32:25Z",
+      "artist": "Grace Jones",
+      "track": "Demolition Man",
+      "album": "Nightclubbing",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b1c124b3-cf60-41a6-8699-92728c8a3fe0"
+        ],
+        "recording_mbid": "23beaae1-ddc7-48b1-813c-9d65426fea4d",
+        "release_mbid": "3b1a1dc1-6410-4ec7-b369-438d5b5aa7f3",
+        "release_group_mbid": "8a0fff99-479d-3fe3-849f-0ddc8d22d304"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794515302,
+      "listened_at_utc": "2026-11-12T20:28:22Z",
+      "artist": "Grace Jones",
+      "track": "Feel Up",
+      "album": "Nightclubbing",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b1c124b3-cf60-41a6-8699-92728c8a3fe0"
+        ],
+        "recording_mbid": "d60390fb-520e-4a86-bb5f-f7e1e319b148",
+        "release_mbid": "3b1a1dc1-6410-4ec7-b369-438d5b5aa7f3",
+        "release_group_mbid": "8a0fff99-479d-3fe3-849f-0ddc8d22d304"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794515137,
+      "listened_at_utc": "2026-11-12T20:25:37Z",
+      "artist": "Grace Jones",
+      "track": "Art Groupie",
+      "album": "Nightclubbing",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b1c124b3-cf60-41a6-8699-92728c8a3fe0"
+        ],
+        "recording_mbid": "223264f6-b952-4c28-b08a-bcc75c8209e5",
+        "release_mbid": "3b1a1dc1-6410-4ec7-b369-438d5b5aa7f3",
+        "release_group_mbid": "8a0fff99-479d-3fe3-849f-0ddc8d22d304"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794514829,
+      "listened_at_utc": "2026-11-12T20:20:29Z",
+      "artist": "Grace Jones",
+      "track": "Nightclubbing",
+      "album": "Nightclubbing",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b1c124b3-cf60-41a6-8699-92728c8a3fe0"
+        ],
+        "recording_mbid": "2cfbe62c-3b56-4726-a9da-1070f8bb76a8",
+        "release_mbid": "3b1a1dc1-6410-4ec7-b369-438d5b5aa7f3",
+        "release_group_mbid": "8a0fff99-479d-3fe3-849f-0ddc8d22d304"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794514524,
+      "listened_at_utc": "2026-11-12T20:15:24Z",
+      "artist": "Grace Jones",
+      "track": "Use Me",
+      "album": "Nightclubbing",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b1c124b3-cf60-41a6-8699-92728c8a3fe0"
+        ],
+        "recording_mbid": "f43e4808-4368-4885-947a-3e08adc85403",
+        "release_mbid": "3b1a1dc1-6410-4ec7-b369-438d5b5aa7f3",
+        "release_group_mbid": "8a0fff99-479d-3fe3-849f-0ddc8d22d304"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794514242,
+      "listened_at_utc": "2026-11-12T20:10:42Z",
+      "artist": "Grace Jones",
+      "track": "Pull Up To The Bumper",
+      "album": "Nightclubbing",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b1c124b3-cf60-41a6-8699-92728c8a3fe0"
+        ],
+        "recording_mbid": "5a66758a-a5d6-4252-b1ae-69fc72c6ca46",
+        "release_mbid": "3b1a1dc1-6410-4ec7-b369-438d5b5aa7f3",
+        "release_group_mbid": "8a0fff99-479d-3fe3-849f-0ddc8d22d304"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794513983,
+      "listened_at_utc": "2026-11-12T20:06:23Z",
+      "artist": "Grace Jones",
+      "track": "Walking In The Rain",
+      "album": "Nightclubbing",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b1c124b3-cf60-41a6-8699-92728c8a3fe0"
+        ],
+        "recording_mbid": "bb2408f6-916b-499d-9920-801226a45d57",
+        "release_mbid": "3b1a1dc1-6410-4ec7-b369-438d5b5aa7f3",
+        "release_group_mbid": "8a0fff99-479d-3fe3-849f-0ddc8d22d304"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1794435834,
       "listened_at_utc": "2026-11-11T22:23:54Z",
