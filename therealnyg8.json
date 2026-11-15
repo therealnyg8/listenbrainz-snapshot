@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-14T15:52:56Z",
+  "generated_at_utc": "2026-11-15T16:27:17Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-16T15:52:56Z",
-    "through_utc": "2026-11-14T15:52:56Z",
+    "from_utc": "2026-08-17T16:27:17Z",
+    "through_utc": "2026-11-15T16:27:17Z",
     "complete": true,
     "pages_fetched": 3,
     "max_pages": 10,
-    "raw_listen_count": 2898,
-    "deduplicated_listen_count": 1714,
-    "duplicates_removed": 1184,
+    "raw_listen_count": 2906,
+    "deduplicated_listen_count": 1718,
+    "duplicates_removed": 1188,
     "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-11-13T02:39:43Z"
+    "newest_listen_utc": "2026-11-15T14:16:22Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,18 +28,14 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 87,
-      "unique_artists": 20,
-      "unique_albums": 21,
+      "listen_count": 75,
+      "unique_artists": 19,
+      "unique_albums": 20,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "Bob Dylan",
           "listen_count": 28
-        },
-        {
-          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
-          "listen_count": 12
         },
         {
           "artist": "Anouar Brahem",
@@ -50,19 +46,19 @@
           "listen_count": 8
         },
         {
+          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+          "listen_count": 8
+        },
+        {
           "artist": "John Coltrane",
           "listen_count": 7
         },
         {
-          "artist": "Mikiko Sato",
-          "listen_count": 7
+          "artist": "Amir Bresler",
+          "listen_count": 2
         },
         {
-          "artist": "Kimiko Kasai & Kosuke Mine Quartet",
-          "listen_count": 3
-        },
-        {
-          "artist": "Julian Lage",
+          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
           "listen_count": 2
         },
         {
@@ -123,13 +119,6 @@
           "last_listened_at_utc": "2026-11-13T02:39:43Z"
         },
         {
-          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
-          "album": "Getz/Gilberto",
-          "listen_count": 12,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-11T00:47:35Z"
-        },
-        {
           "artist": "Bob Dylan",
           "album": "The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
           "listen_count": 9,
@@ -151,6 +140,13 @@
           "last_listened_at_utc": "2026-11-12T20:36:30Z"
         },
         {
+          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
+          "album": "Getz/Gilberto",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-11T00:47:35Z"
+        },
+        {
           "artist": "John Coltrane",
           "album": "Blue Train",
           "listen_count": 7,
@@ -158,25 +154,18 @@
           "last_listened_at_utc": "2026-11-11T01:43:26Z"
         },
         {
-          "artist": "Mikiko Sato",
-          "album": "Mikiko's World",
-          "listen_count": 7,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-11-07T23:30:58Z"
-        },
-        {
-          "artist": "Kimiko Kasai & Kosuke Mine Quartet",
-          "album": "Yellow Carcass in the Blue Sky",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-11-07T23:45:36Z"
-        },
-        {
-          "artist": "Julian Lage",
-          "album": "Scenes From Above",
+          "artist": "Amir Bresler",
+          "album": "Tide & Time",
           "listen_count": 2,
           "unique_tracks": 2,
-          "last_listened_at_utc": "2026-11-08T01:40:51Z"
+          "last_listened_at_utc": "2026-11-15T14:16:22Z"
+        },
+        {
+          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+          "album": "Life & Fire",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-15T14:08:36Z"
         },
         {
           "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
@@ -265,18 +254,18 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 751,
-      "unique_artists": 121,
-      "unique_albums": 134,
+      "listen_count": 717,
+      "unique_artists": 118,
+      "unique_albums": 130,
       "listens_without_album": 0,
       "artists": [
         {
-          "artist": "Bob Dylan",
-          "listen_count": 49
-        },
-        {
           "artist": "Morphine",
           "listen_count": 44
+        },
+        {
+          "artist": "Bob Dylan",
+          "listen_count": 39
         },
         {
           "artist": "Parquet Courts",
@@ -295,10 +284,6 @@
           "listen_count": 25
         },
         {
-          "artist": "Anouar Brahem",
-          "listen_count": 23
-        },
-        {
           "artist": "Djo",
           "listen_count": 23
         },
@@ -307,12 +292,12 @@
           "listen_count": 22
         },
         {
-          "artist": "Norah Jones",
+          "artist": "Anouar Brahem",
           "listen_count": 20
         },
         {
-          "artist": "Fontaines D.C.",
-          "listen_count": 19
+          "artist": "Norah Jones",
+          "listen_count": 18
         },
         {
           "artist": "Michael Kiwanuka",
@@ -332,6 +317,10 @@
         },
         {
           "artist": "Admas",
+          "listen_count": 12
+        },
+        {
+          "artist": "Fontaines D.C.",
           "listen_count": 12
         },
         {
@@ -407,10 +396,6 @@
           "listen_count": 7
         },
         {
-          "artist": "Vampire Weekend",
-          "listen_count": 7
-        },
-        {
           "artist": "BADBADNOTGOOD",
           "listen_count": 6
         },
@@ -483,10 +468,6 @@
           "listen_count": 3
         },
         {
-          "artist": "Hiatus Kaiyote",
-          "listen_count": 3
-        },
-        {
           "artist": "Japan",
           "listen_count": 3
         },
@@ -503,12 +484,12 @@
           "listen_count": 3
         },
         {
-          "artist": "Sven Wunder",
+          "artist": "Tracy Chapman",
           "listen_count": 3
         },
         {
-          "artist": "Tracy Chapman",
-          "listen_count": 3
+          "artist": "Amir Bresler",
+          "listen_count": 2
         },
         {
           "artist": "Arctic Monkeys",
@@ -535,10 +516,6 @@
           "listen_count": 2
         },
         {
-          "artist": "Haruomi Hosono",
-          "listen_count": 2
-        },
-        {
           "artist": "Hugh Masekela",
           "listen_count": 2
         },
@@ -548,6 +525,10 @@
         },
         {
           "artist": "Mulatu Astatke",
+          "listen_count": 2
+        },
+        {
+          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
           "listen_count": 2
         },
         {
@@ -631,6 +612,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Haruomi Hosono",
+          "listen_count": 1
+        },
+        {
           "artist": "Isao Suzuki Trio / Quartet",
           "listen_count": 1
         },
@@ -652,10 +637,6 @@
         },
         {
           "artist": "Leo Sidran",
-          "listen_count": 1
-        },
-        {
-          "artist": "Lianne La Havas",
           "listen_count": 1
         },
         {
@@ -700,10 +681,6 @@
         },
         {
           "artist": "Squid",
-          "listen_count": 1
-        },
-        {
-          "artist": "Steely Dan",
           "listen_count": 1
         },
         {
@@ -778,13 +755,6 @@
           "last_listened_at_utc": "2026-10-31T15:54:26Z"
         },
         {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 23,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-11T21:45:28Z"
-        },
-        {
           "artist": "Diana Krall",
           "album": "Live in Paris",
           "listen_count": 21,
@@ -806,6 +776,13 @@
           "last_listened_at_utc": "2026-10-30T19:08:12Z"
         },
         {
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
+          "listen_count": 20,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-11T21:45:28Z"
+        },
+        {
           "artist": "Djo",
           "album": "The Crux Deluxe",
           "listen_count": 20,
@@ -813,18 +790,18 @@
           "last_listened_at_utc": "2026-10-27T21:25:32Z"
         },
         {
-          "artist": "Norah Jones",
-          "album": "Come Away with Me",
-          "listen_count": 20,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-30T18:38:05Z"
-        },
-        {
           "artist": "Bob Dylan",
           "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
           "listen_count": 19,
           "unique_tracks": 19,
           "last_listened_at_utc": "2026-11-13T02:39:43Z"
+        },
+        {
+          "artist": "Norah Jones",
+          "album": "Come Away with Me",
+          "listen_count": 18,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-10-30T18:38:05Z"
         },
         {
           "artist": "The Raconteurs",
@@ -860,13 +837,6 @@
           "listen_count": 12,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-11-06T21:22:02Z"
-        },
-        {
-          "artist": "Fontaines D.C.",
-          "album": "Romance",
-          "listen_count": 12,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-10-20T13:24:54Z"
         },
         {
           "artist": "Miles Davis",
@@ -909,13 +879,6 @@
           "listen_count": 11,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-10-26T23:29:34Z"
-        },
-        {
-          "artist": "Bob Dylan",
-          "album": "Blood on the Tracks",
-          "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-10-15T22:34:29Z"
         },
         {
           "artist": "Bob Dylan",
@@ -1023,13 +986,6 @@
           "last_listened_at_utc": "2026-11-07T23:30:58Z"
         },
         {
-          "artist": "Vampire Weekend",
-          "album": "Only God Was Above Us",
-          "listen_count": 7,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-10-15T23:35:26Z"
-        },
-        {
           "artist": "רביד פלוטניק",
           "album": "הדרך לשביל הזהב",
           "listen_count": 7,
@@ -1091,6 +1047,13 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-11-03T19:23:20Z"
+        },
+        {
+          "artist": "Fontaines D.C.",
+          "album": "Romance",
+          "listen_count": 5,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-20T13:24:54Z"
         },
         {
           "artist": "TV on the Radio",
@@ -1198,13 +1161,6 @@
           "last_listened_at_utc": "2026-10-23T19:47:47Z"
         },
         {
-          "artist": "Hiatus Kaiyote",
-          "album": "Mood Valiant",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-15T23:41:48Z"
-        },
-        {
           "artist": "Japan",
           "album": "Tin Drum",
           "listen_count": 3,
@@ -1233,18 +1189,18 @@
           "last_listened_at_utc": "2026-11-06T19:25:07Z"
         },
         {
-          "artist": "Sven Wunder",
-          "album": "Eastern Flowers",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-15T21:43:47Z"
-        },
-        {
           "artist": "Tracy Chapman",
           "album": "Tracy Chapman",
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-30T18:22:59Z"
+        },
+        {
+          "artist": "Amir Bresler",
+          "album": "Tide & Time",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-15T14:16:22Z"
         },
         {
           "artist": "Arctic Monkeys",
@@ -1289,13 +1245,6 @@
           "last_listened_at_utc": "2026-10-28T22:18:20Z"
         },
         {
-          "artist": "Haruomi Hosono",
-          "album": "Yours Sincerely",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-17T19:26:59Z"
-        },
-        {
           "artist": "Hugh Masekela",
           "album": "Hope",
           "listen_count": 2,
@@ -1315,6 +1264,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-23T21:47:59Z"
+        },
+        {
+          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+          "album": "Life & Fire",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-15T14:08:36Z"
         },
         {
           "artist": "Young Fathers",
@@ -1464,6 +1420,13 @@
           "last_listened_at_utc": "2026-11-03T00:08:03Z"
         },
         {
+          "artist": "Haruomi Hosono",
+          "album": "Yours Sincerely",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-17T19:26:59Z"
+        },
+        {
           "artist": "Isao Suzuki Trio / Quartet",
           "album": "Blow Up",
           "listen_count": 1,
@@ -1504,13 +1467,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-03T00:11:28Z"
-        },
-        {
-          "artist": "Lianne La Havas",
-          "album": "Lianne La Havas",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-15T23:44:40Z"
         },
         {
           "artist": "Madeleine Peyroux",
@@ -1588,13 +1544,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-21T20:23:22Z"
-        },
-        {
-          "artist": "Steely Dan",
-          "album": "Aja",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-15T18:08:29Z"
         },
         {
           "artist": "Stephan Crump",
@@ -1697,9 +1646,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1714,
-      "unique_artists": 247,
-      "unique_albums": 294,
+      "listen_count": 1718,
+      "unique_artists": 249,
+      "unique_albums": 296,
       "listens_without_album": 0,
       "artists": [
         {
@@ -2183,6 +2132,10 @@
           "listen_count": 2
         },
         {
+          "artist": "Amir Bresler",
+          "listen_count": 2
+        },
+        {
           "artist": "Arctic Monkeys",
           "listen_count": 2
         },
@@ -2236,6 +2189,10 @@
         },
         {
           "artist": "Mulatu Astatke",
+          "listen_count": 2
+        },
+        {
+          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
           "listen_count": 2
         },
         {
@@ -3694,6 +3651,13 @@
           "last_listened_at_utc": "2026-09-22T12:44:22Z"
         },
         {
+          "artist": "Amir Bresler",
+          "album": "Tide & Time",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-15T14:16:22Z"
+        },
+        {
           "artist": "Arctic Monkeys",
           "album": "Whatever People Say I Am, That's What I'm Not (Arctic Monkeys)",
           "listen_count": 2,
@@ -3804,6 +3768,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-23T21:47:59Z"
+        },
+        {
+          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+          "album": "Life & Fire",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-15T14:08:36Z"
         },
         {
           "artist": "Pearl & The Oysters",
@@ -4754,6 +4725,84 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1794752182,
+      "listened_at_utc": "2026-11-15T14:16:22Z",
+      "artist": "Amir Bresler",
+      "track": "Line Down",
+      "album": "Tide & Time",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "31825fc4-23e4-4031-8e5c-a1bb0a65b603",
+        "release_mbid": "c1f18f6f-8fc3-4c89-b943-ea460eff864a",
+        "release_group_mbid": "14a40f06-0c4f-45d9-a6ee-56a7bf7d2497"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794751910,
+      "listened_at_utc": "2026-11-15T14:11:50Z",
+      "artist": "Amir Bresler",
+      "track": "Song For Leon",
+      "album": "Tide & Time",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "bc6790e6-2ecc-43e6-ac83-caf4cecd6fd3",
+        "release_mbid": "c1f18f6f-8fc3-4c89-b943-ea460eff864a",
+        "release_group_mbid": "14a40f06-0c4f-45d9-a6ee-56a7bf7d2497"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794751716,
+      "listened_at_utc": "2026-11-15T14:08:36Z",
+      "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+      "track": "Song No 2",
+      "album": "Life & Fire",
+      "musicbrainz": {
+        "artist_mbids": [
+          "44b1a6e2-731e-4b94-a73b-336183fb4484",
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "02bea67b-5b52-40e4-895d-fedc83df6786"
+        ],
+        "release_mbid": "19f2f31d-7206-4c4d-9bbb-6a6a634e638d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794751337,
+      "listened_at_utc": "2026-11-15T14:02:17Z",
+      "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+      "track": "The Ravens",
+      "album": "Life & Fire",
+      "musicbrainz": {
+        "artist_mbids": [
+          "44b1a6e2-731e-4b94-a73b-336183fb4484",
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "02bea67b-5b52-40e4-895d-fedc83df6786"
+        ],
+        "release_mbid": "19f2f31d-7206-4c4d-9bbb-6a6a634e638d",
+        "recording_mbid": "b1856f3c-4bb9-47ff-ba04-e5a2ef2318c0",
+        "release_group_mbid": "d6d5709f-1aaf-4ffa-9c23-2f35143d5b8e"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1794537583,
       "listened_at_utc": "2026-11-13T02:39:43Z",
