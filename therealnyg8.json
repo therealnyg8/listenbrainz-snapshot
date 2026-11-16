@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-15T16:27:17Z",
+  "generated_at_utc": "2026-11-16T19:41:47Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-17T16:27:17Z",
-    "through_utc": "2026-11-15T16:27:17Z",
+    "from_utc": "2026-08-18T19:41:47Z",
+    "through_utc": "2026-11-16T19:41:47Z",
     "complete": true,
-    "pages_fetched": 3,
+    "pages_fetched": 4,
     "max_pages": 10,
-    "raw_listen_count": 2906,
-    "deduplicated_listen_count": 1718,
-    "duplicates_removed": 1188,
+    "raw_listen_count": 3078,
+    "deduplicated_listen_count": 1817,
+    "duplicates_removed": 1261,
     "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-11-15T14:16:22Z"
+    "newest_listen_utc": "2026-11-16T19:15:13Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,14 +28,26 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 75,
-      "unique_artists": 19,
-      "unique_albums": 20,
+      "listen_count": 174,
+      "unique_artists": 27,
+      "unique_albums": 32,
       "listens_without_album": 0,
       "artists": [
         {
+          "artist": "Amir Bresler",
+          "listen_count": 58
+        },
+        {
           "artist": "Bob Dylan",
           "listen_count": 28
+        },
+        {
+          "artist": "Rejoicer",
+          "listen_count": 27
+        },
+        {
+          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+          "listen_count": 11
         },
         {
           "artist": "Anouar Brahem",
@@ -54,14 +66,6 @@
           "listen_count": 7
         },
         {
-          "artist": "Amir Bresler",
-          "listen_count": 2
-        },
-        {
-          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
-          "listen_count": 2
-        },
-        {
           "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
           "listen_count": 1
         },
@@ -70,7 +74,15 @@
           "listen_count": 1
         },
         {
+          "artist": "Enzo Orefice Trio",
+          "listen_count": 1
+        },
+        {
           "artist": "Joey Alexander",
+          "listen_count": 1
+        },
+        {
+          "artist": "Kendrick Scott, Reuben Rogers, Walter Smith III",
           "listen_count": 1
         },
         {
@@ -82,11 +94,23 @@
           "listen_count": 1
         },
         {
+          "artist": "New Fossils",
+          "listen_count": 1
+        },
+        {
           "artist": "Patricia Barber",
           "listen_count": 1
         },
         {
+          "artist": "Peter Somuah",
+          "listen_count": 1
+        },
+        {
           "artist": "Robert Palmer",
+          "listen_count": 1
+        },
+        {
+          "artist": "Roni Eytan",
           "listen_count": 1
         },
         {
@@ -95,6 +119,10 @@
         },
         {
           "artist": "Stephan Crump",
+          "listen_count": 1
+        },
+        {
+          "artist": "Sultan Stevenson",
           "listen_count": 1
         },
         {
@@ -108,15 +136,54 @@
         {
           "artist": "Tomasz Stańko",
           "listen_count": 1
+        },
+        {
+          "artist": "Totalement Sublime",
+          "listen_count": 1
         }
       ],
       "albums": [
+        {
+          "artist": "Amir Bresler",
+          "album": "See What Happens",
+          "listen_count": 41,
+          "unique_tracks": 23,
+          "last_listened_at_utc": "2026-11-16T19:15:13Z"
+        },
         {
           "artist": "Bob Dylan",
           "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
           "listen_count": 19,
           "unique_tracks": 19,
           "last_listened_at_utc": "2026-11-13T02:39:43Z"
+        },
+        {
+          "artist": "Amir Bresler",
+          "album": "Tide & Time",
+          "listen_count": 15,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-11-16T18:36:46Z"
+        },
+        {
+          "artist": "Rejoicer",
+          "album": "This Is Reasonable",
+          "listen_count": 12,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-11-16T00:04:20Z"
+        },
+        {
+          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+          "album": "Life & Fire",
+          "listen_count": 11,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-11-15T20:58:33Z"
+        },
+        {
+          "artist": "Rejoicer",
+          "album": "California Space Craft",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-11-15T23:28:58Z"
         },
         {
           "artist": "Bob Dylan",
@@ -154,18 +221,18 @@
           "last_listened_at_utc": "2026-11-11T01:43:26Z"
         },
         {
-          "artist": "Amir Bresler",
-          "album": "Tide & Time",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-11-15T14:16:22Z"
+          "artist": "Rejoicer",
+          "album": "While You Are There",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-11-16T00:26:36Z"
         },
         {
-          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
-          "album": "Life & Fire",
+          "artist": "Amir Bresler",
+          "album": "House of Arches",
           "listen_count": 2,
           "unique_tracks": 2,
-          "last_listened_at_utc": "2026-11-15T14:08:36Z"
+          "last_listened_at_utc": "2026-11-15T20:08:25Z"
         },
         {
           "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
@@ -182,11 +249,25 @@
           "last_listened_at_utc": "2026-11-12T20:45:16Z"
         },
         {
+          "artist": "Enzo Orefice Trio",
+          "album": "On the Journey, Pt. 5",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-15T19:55:46Z"
+        },
+        {
           "artist": "Joey Alexander",
           "album": "A Joey Alexander Christmas",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-11T22:13:05Z"
+        },
+        {
+          "artist": "Kendrick Scott, Reuben Rogers, Walter Smith III",
+          "album": "Corridors",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-15T19:50:50Z"
         },
         {
           "artist": "Melissa Aldana / Gonzalo Rubalcaba",
@@ -203,6 +284,13 @@
           "last_listened_at_utc": "2026-11-11T01:50:46Z"
         },
         {
+          "artist": "New Fossils",
+          "album": "Ecosphere",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-16T18:42:10Z"
+        },
+        {
           "artist": "Patricia Barber",
           "album": "Cafe Blue",
           "listen_count": 1,
@@ -210,11 +298,25 @@
           "last_listened_at_utc": "2026-11-11T22:18:30Z"
         },
         {
+          "artist": "Peter Somuah",
+          "album": "Outer Space",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-15T22:27:17Z"
+        },
+        {
           "artist": "Robert Palmer",
           "album": "Clues (Expanded Edition)",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-12T20:40:23Z"
+        },
+        {
+          "artist": "Roni Eytan",
+          "album": "Melody People",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-15T22:32:56Z"
         },
         {
           "artist": "Salvatore Bonafede Quintet",
@@ -229,6 +331,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-11T02:04:19Z"
+        },
+        {
+          "artist": "Sultan Stevenson",
+          "album": "Faithful One",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-15T22:22:42Z"
         },
         {
           "artist": "Terence Blanchard",
@@ -250,15 +359,26 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-11T21:56:52Z"
+        },
+        {
+          "artist": "Totalement Sublime",
+          "album": "Parhélie",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-16T00:08:46Z"
         }
       ]
     },
     "last_30_days": {
-      "listen_count": 717,
-      "unique_artists": 118,
-      "unique_albums": 130,
+      "listen_count": 813,
+      "unique_artists": 124,
+      "unique_albums": 140,
       "listens_without_album": 0,
       "artists": [
+        {
+          "artist": "Amir Bresler",
+          "listen_count": 58
+        },
         {
           "artist": "Morphine",
           "listen_count": 44
@@ -274,6 +394,10 @@
         {
           "artist": "Diana Krall",
           "listen_count": 33
+        },
+        {
+          "artist": "Rejoicer",
+          "listen_count": 27
         },
         {
           "artist": "טונה",
@@ -293,7 +417,7 @@
         },
         {
           "artist": "Anouar Brahem",
-          "listen_count": 20
+          "listen_count": 19
         },
         {
           "artist": "Norah Jones",
@@ -346,6 +470,10 @@
         {
           "artist": "רביד פלוטניק",
           "listen_count": 12
+        },
+        {
+          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+          "listen_count": 11
         },
         {
           "artist": "The Zombies",
@@ -488,10 +616,6 @@
           "listen_count": 3
         },
         {
-          "artist": "Amir Bresler",
-          "listen_count": 2
-        },
-        {
           "artist": "Arctic Monkeys",
           "listen_count": 2
         },
@@ -525,10 +649,6 @@
         },
         {
           "artist": "Mulatu Astatke",
-          "listen_count": 2
-        },
-        {
-          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
           "listen_count": 2
         },
         {
@@ -596,6 +716,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Enzo Orefice Trio",
+          "listen_count": 1
+        },
+        {
           "artist": "Fatoumata Diawara",
           "listen_count": 1
         },
@@ -612,10 +736,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Haruomi Hosono",
-          "listen_count": 1
-        },
-        {
           "artist": "Isao Suzuki Trio / Quartet",
           "listen_count": 1
         },
@@ -629,6 +749,10 @@
         },
         {
           "artist": "Joey Alexander",
+          "listen_count": 1
+        },
+        {
+          "artist": "Kendrick Scott, Reuben Rogers, Walter Smith III",
           "listen_count": 1
         },
         {
@@ -660,7 +784,15 @@
           "listen_count": 1
         },
         {
+          "artist": "New Fossils",
+          "listen_count": 1
+        },
+        {
           "artist": "Patricia Barber",
+          "listen_count": 1
+        },
+        {
+          "artist": "Peter Somuah",
           "listen_count": 1
         },
         {
@@ -669,6 +801,10 @@
         },
         {
           "artist": "Robert Palmer",
+          "listen_count": 1
+        },
+        {
+          "artist": "Roni Eytan",
           "listen_count": 1
         },
         {
@@ -689,6 +825,10 @@
         },
         {
           "artist": "Stephanie Stephanou",
+          "listen_count": 1
+        },
+        {
+          "artist": "Sultan Stevenson",
           "listen_count": 1
         },
         {
@@ -724,7 +864,7 @@
           "listen_count": 1
         },
         {
-          "artist": "Wolf Alice",
+          "artist": "Totalement Sublime",
           "listen_count": 1
         },
         {
@@ -739,6 +879,13 @@
           "listen_count": 44,
           "unique_tracks": 20,
           "last_listened_at_utc": "2026-11-04T22:07:48Z"
+        },
+        {
+          "artist": "Amir Bresler",
+          "album": "See What Happens",
+          "listen_count": 41,
+          "unique_tracks": 23,
+          "last_listened_at_utc": "2026-11-16T19:15:13Z"
         },
         {
           "artist": "Parquet Courts",
@@ -776,18 +923,18 @@
           "last_listened_at_utc": "2026-10-30T19:08:12Z"
         },
         {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 20,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-11T21:45:28Z"
-        },
-        {
           "artist": "Djo",
           "album": "The Crux Deluxe",
           "listen_count": 20,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-10-27T21:25:32Z"
+        },
+        {
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
+          "listen_count": 19,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-11T21:45:28Z"
         },
         {
           "artist": "Bob Dylan",
@@ -802,6 +949,13 @@
           "listen_count": 18,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-30T18:38:05Z"
+        },
+        {
+          "artist": "Amir Bresler",
+          "album": "Tide & Time",
+          "listen_count": 15,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-11-16T18:36:46Z"
         },
         {
           "artist": "The Raconteurs",
@@ -846,6 +1000,13 @@
           "last_listened_at_utc": "2026-10-28T21:03:10Z"
         },
         {
+          "artist": "Rejoicer",
+          "album": "This Is Reasonable",
+          "listen_count": 12,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-11-16T00:04:20Z"
+        },
+        {
           "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
           "album": "Getz/Gilberto",
           "listen_count": 12,
@@ -874,6 +1035,13 @@
           "last_listened_at_utc": "2026-10-24T18:26:33Z"
         },
         {
+          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+          "album": "Life & Fire",
+          "listen_count": 11,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-11-15T20:58:33Z"
+        },
+        {
           "artist": "The Zombies",
           "album": "Odessey and Oracle (Mono Remastered)",
           "listen_count": 11,
@@ -893,6 +1061,13 @@
           "listen_count": 10,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-31T18:11:35Z"
+        },
+        {
+          "artist": "Rejoicer",
+          "album": "California Space Craft",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-11-15T23:28:58Z"
         },
         {
           "artist": "Songhoy Blues",
@@ -1056,6 +1231,13 @@
           "last_listened_at_utc": "2026-10-20T13:24:54Z"
         },
         {
+          "artist": "Rejoicer",
+          "album": "While You Are There",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-11-16T00:26:36Z"
+        },
+        {
           "artist": "TV on the Radio",
           "album": "Dear Science (Bonus Track Version)",
           "listen_count": 5,
@@ -1197,10 +1379,10 @@
         },
         {
           "artist": "Amir Bresler",
-          "album": "Tide & Time",
+          "album": "House of Arches",
           "listen_count": 2,
           "unique_tracks": 2,
-          "last_listened_at_utc": "2026-11-15T14:16:22Z"
+          "last_listened_at_utc": "2026-11-15T20:08:25Z"
         },
         {
           "artist": "Arctic Monkeys",
@@ -1264,13 +1446,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-23T21:47:59Z"
-        },
-        {
-          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
-          "album": "Life & Fire",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-11-15T14:08:36Z"
         },
         {
           "artist": "Young Fathers",
@@ -1392,6 +1567,13 @@
           "last_listened_at_utc": "2026-11-03T00:44:31Z"
         },
         {
+          "artist": "Enzo Orefice Trio",
+          "album": "On the Journey, Pt. 5",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-15T19:55:46Z"
+        },
+        {
           "artist": "Fatoumata Diawara",
           "album": "Fenfo",
           "listen_count": 1,
@@ -1420,13 +1602,6 @@
           "last_listened_at_utc": "2026-11-03T00:08:03Z"
         },
         {
-          "artist": "Haruomi Hosono",
-          "album": "Yours Sincerely",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-17T19:26:59Z"
-        },
-        {
           "artist": "Isao Suzuki Trio / Quartet",
           "album": "Blow Up",
           "listen_count": 1,
@@ -1453,6 +1628,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-11T22:13:05Z"
+        },
+        {
+          "artist": "Kendrick Scott, Reuben Rogers, Walter Smith III",
+          "album": "Corridors",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-15T19:50:50Z"
         },
         {
           "artist": "Kurt Elling & Yellowjackets",
@@ -1504,11 +1686,25 @@
           "last_listened_at_utc": "2026-11-11T01:50:46Z"
         },
         {
+          "artist": "New Fossils",
+          "album": "Ecosphere",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-16T18:42:10Z"
+        },
+        {
           "artist": "Patricia Barber",
           "album": "Cafe Blue",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-11T22:18:30Z"
+        },
+        {
+          "artist": "Peter Somuah",
+          "album": "Outer Space",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-15T22:27:17Z"
         },
         {
           "artist": "Ricardo Marrero",
@@ -1523,6 +1719,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-12T20:40:23Z"
+        },
+        {
+          "artist": "Roni Eytan",
+          "album": "Melody People",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-15T22:32:56Z"
         },
         {
           "artist": "SPRINTS",
@@ -1558,6 +1761,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-24T12:28:18Z"
+        },
+        {
+          "artist": "Sultan Stevenson",
+          "album": "Faithful One",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-15T22:22:42Z"
         },
         {
           "artist": "Talk Talk",
@@ -1623,11 +1833,11 @@
           "last_listened_at_utc": "2026-11-11T21:56:52Z"
         },
         {
-          "artist": "Wolf Alice",
-          "album": "Blue Weekend",
+          "artist": "Totalement Sublime",
+          "album": "Parhélie",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-16T19:13:02Z"
+          "last_listened_at_utc": "2026-11-16T00:08:46Z"
         },
         {
           "artist": "טונה",
@@ -1646,9 +1856,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1718,
-      "unique_artists": 249,
-      "unique_albums": 296,
+      "listen_count": 1817,
+      "unique_artists": 257,
+      "unique_albums": 308,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1658,6 +1868,10 @@
         {
           "artist": "Bob Dylan",
           "listen_count": 69
+        },
+        {
+          "artist": "Amir Bresler",
+          "listen_count": 58
         },
         {
           "artist": "רביד פלוטניק",
@@ -1702,6 +1916,10 @@
         {
           "artist": "Miles Davis",
           "listen_count": 31
+        },
+        {
+          "artist": "Rejoicer",
+          "listen_count": 27
         },
         {
           "artist": "נצ׳י נצ׳",
@@ -1817,6 +2035,10 @@
         },
         {
           "artist": "Mikiko Sato",
+          "listen_count": 11
+        },
+        {
+          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
           "listen_count": 11
         },
         {
@@ -2132,10 +2354,6 @@
           "listen_count": 2
         },
         {
-          "artist": "Amir Bresler",
-          "listen_count": 2
-        },
-        {
           "artist": "Arctic Monkeys",
           "listen_count": 2
         },
@@ -2189,10 +2407,6 @@
         },
         {
           "artist": "Mulatu Astatke",
-          "listen_count": 2
-        },
-        {
-          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
           "listen_count": 2
         },
         {
@@ -2300,6 +2514,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Enzo Orefice Trio",
+          "listen_count": 1
+        },
+        {
           "artist": "Eric Dolphy",
           "listen_count": 1
         },
@@ -2392,6 +2610,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Kendrick Scott, Reuben Rogers, Walter Smith III",
+          "listen_count": 1
+        },
+        {
           "artist": "Kurt Elling & Yellowjackets",
           "listen_count": 1
         },
@@ -2444,6 +2666,10 @@
           "listen_count": 1
         },
         {
+          "artist": "New Fossils",
+          "listen_count": 1
+        },
+        {
           "artist": "Oliver Nelson",
           "listen_count": 1
         },
@@ -2464,6 +2690,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Peter Somuah",
+          "listen_count": 1
+        },
+        {
           "artist": "Rajery, Ballaké Sissoko & Driss El Maloumi",
           "listen_count": 1
         },
@@ -2473,6 +2703,10 @@
         },
         {
           "artist": "Robert Palmer",
+          "listen_count": 1
+        },
+        {
+          "artist": "Roni Eytan",
           "listen_count": 1
         },
         {
@@ -2521,6 +2755,10 @@
         },
         {
           "artist": "Sting",
+          "listen_count": 1
+        },
+        {
+          "artist": "Sultan Stevenson",
           "listen_count": 1
         },
         {
@@ -2577,6 +2815,10 @@
         },
         {
           "artist": "Tommy Flanagan",
+          "listen_count": 1
+        },
+        {
+          "artist": "Totalement Sublime",
           "listen_count": 1
         },
         {
@@ -2669,6 +2911,13 @@
           "listen_count": 43,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-11-11T21:45:28Z"
+        },
+        {
+          "artist": "Amir Bresler",
+          "album": "See What Happens",
+          "listen_count": 41,
+          "unique_tracks": 23,
+          "last_listened_at_utc": "2026-11-16T19:15:13Z"
         },
         {
           "artist": "Parquet Courts",
@@ -2818,6 +3067,13 @@
           "last_listened_at_utc": "2026-10-11T12:27:39Z"
         },
         {
+          "artist": "Amir Bresler",
+          "album": "Tide & Time",
+          "listen_count": 15,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-11-16T18:36:46Z"
+        },
+        {
           "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
           "album": "Waltz for Debby [1962]",
           "listen_count": 15,
@@ -2916,6 +3172,13 @@
           "last_listened_at_utc": "2026-10-20T13:24:54Z"
         },
         {
+          "artist": "Rejoicer",
+          "album": "This Is Reasonable",
+          "listen_count": 12,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-11-16T00:04:20Z"
+        },
+        {
           "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
           "album": "Getz/Gilberto",
           "listen_count": 12,
@@ -2977,6 +3240,13 @@
           "listen_count": 11,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-11-07T23:30:58Z"
+        },
+        {
+          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+          "album": "Life & Fire",
+          "listen_count": 11,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-11-15T20:58:33Z"
         },
         {
           "artist": "The Zombies",
@@ -3047,6 +3317,13 @@
           "listen_count": 10,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-10-02T19:31:45Z"
+        },
+        {
+          "artist": "Rejoicer",
+          "album": "California Space Craft",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-11-15T23:28:58Z"
         },
         {
           "artist": "Songhoy Blues",
@@ -3357,6 +3634,13 @@
           "last_listened_at_utc": "2026-10-09T21:19:08Z"
         },
         {
+          "artist": "Rejoicer",
+          "album": "While You Are There",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-11-16T00:26:36Z"
+        },
+        {
           "artist": "TV on the Radio",
           "album": "Dear Science (Bonus Track Version)",
           "listen_count": 5,
@@ -3652,10 +3936,10 @@
         },
         {
           "artist": "Amir Bresler",
-          "album": "Tide & Time",
+          "album": "House of Arches",
           "listen_count": 2,
           "unique_tracks": 2,
-          "last_listened_at_utc": "2026-11-15T14:16:22Z"
+          "last_listened_at_utc": "2026-11-15T20:08:25Z"
         },
         {
           "artist": "Arctic Monkeys",
@@ -3768,13 +4052,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-23T21:47:59Z"
-        },
-        {
-          "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
-          "album": "Life & Fire",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-11-15T14:08:36Z"
         },
         {
           "artist": "Pearl & The Oysters",
@@ -4008,6 +4285,13 @@
           "last_listened_at_utc": "2026-10-13T22:56:32Z"
         },
         {
+          "artist": "Enzo Orefice Trio",
+          "album": "On the Journey, Pt. 5",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-15T19:55:46Z"
+        },
+        {
           "artist": "Eric Dolphy",
           "album": "Out To Lunch (96kHz/24bit)",
           "listen_count": 1,
@@ -4176,6 +4460,13 @@
           "last_listened_at_utc": "2026-09-20T22:37:09Z"
         },
         {
+          "artist": "Kendrick Scott, Reuben Rogers, Walter Smith III",
+          "album": "Corridors",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-15T19:50:50Z"
+        },
+        {
           "artist": "Kurt Elling & Yellowjackets",
           "album": "Play Weather Report: Alive in Europe + Bonus Studio Recordings",
           "listen_count": 1,
@@ -4288,6 +4579,13 @@
           "last_listened_at_utc": "2026-11-11T01:50:46Z"
         },
         {
+          "artist": "New Fossils",
+          "album": "Ecosphere",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-16T18:42:10Z"
+        },
+        {
           "artist": "Oliver Nelson",
           "album": "The Blues and the Abstract Truth",
           "listen_count": 1,
@@ -4330,6 +4628,13 @@
           "last_listened_at_utc": "2026-09-20T22:40:49Z"
         },
         {
+          "artist": "Peter Somuah",
+          "album": "Outer Space",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-15T22:27:17Z"
+        },
+        {
           "artist": "Queen",
           "album": "Jazz",
           "listen_count": 1,
@@ -4363,6 +4668,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-12T20:40:23Z"
+        },
+        {
+          "artist": "Roni Eytan",
+          "album": "Melody People",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-15T22:32:56Z"
         },
         {
           "artist": "SE SO NEON",
@@ -4454,6 +4766,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-09-20T22:29:44Z"
+        },
+        {
+          "artist": "Sultan Stevenson",
+          "album": "Faithful One",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-15T22:22:42Z"
         },
         {
           "artist": "TOWA TEI",
@@ -4580,6 +4899,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-04T21:43:48Z"
+        },
+        {
+          "artist": "Totalement Sublime",
+          "album": "Parhélie",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-16T00:08:46Z"
         },
         {
           "artist": "Toumani Diabaté, Danny Thompson",
@@ -4725,6 +5051,1847 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1794856513,
+      "listened_at_utc": "2026-11-16T19:15:13Z",
+      "artist": "Amir Bresler",
+      "track": "Lesoto",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794856448,
+      "listened_at_utc": "2026-11-16T19:14:08Z",
+      "artist": "Amir Bresler",
+      "track": "Swinging With The Fishes",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "7d76afb9-a920-4f6c-8e86-d0658752f9bd",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794856363,
+      "listened_at_utc": "2026-11-16T19:12:43Z",
+      "artist": "Amir Bresler",
+      "track": "Breath and Wind",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "32db8585-5d6f-47d2-9f43-ef6a84c2e005"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794856185,
+      "listened_at_utc": "2026-11-16T19:09:45Z",
+      "artist": "Amir Bresler",
+      "track": "Who Will Hold Your Hand",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "35566a0f-b44b-48f5-92c3-3f4a8d821c0a"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794856072,
+      "listened_at_utc": "2026-11-16T19:07:52Z",
+      "artist": "Amir Bresler",
+      "track": "Entryway",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "7fd8b0b7-2c3f-436b-b18d-17f7c1977d51",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794855962,
+      "listened_at_utc": "2026-11-16T19:06:02Z",
+      "artist": "Amir Bresler",
+      "track": "Bare Rock",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "e846f06c-c3a1-4281-947b-2643f38d9da7",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794855902,
+      "listened_at_utc": "2026-11-16T19:05:02Z",
+      "artist": "Amir Bresler",
+      "track": "In Between",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "883d50b1-6b4f-473a-89c2-da2c2e2f6924",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794855737,
+      "listened_at_utc": "2026-11-16T19:02:17Z",
+      "artist": "Amir Bresler",
+      "track": "KFznP5-8TLech33W",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "44dd83fb-ccf2-407d-8869-bf6fbcc113d6"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794855672,
+      "listened_at_utc": "2026-11-16T19:01:12Z",
+      "artist": "Amir Bresler",
+      "track": "Crushed Garlic",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "7853faab-6447-4b51-aa01-9167df3da951",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794855615,
+      "listened_at_utc": "2026-11-16T19:00:15Z",
+      "artist": "Amir Bresler",
+      "track": "Volvo",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "7b378898-8ef0-4fb7-9aac-7534eadaaf79",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794855495,
+      "listened_at_utc": "2026-11-16T18:58:15Z",
+      "artist": "Amir Bresler",
+      "track": "When The Clown Is Looking At You",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "b58ca432-eecc-470f-8380-0fccfdea4d81",
+          "5f9bac39-de3f-4d35-bbc9-0c43cb6bd47e"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794855428,
+      "listened_at_utc": "2026-11-16T18:57:08Z",
+      "artist": "Amir Bresler",
+      "track": "7am Dreams",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "ba99e9fe-c999-43e7-8a0d-22598b7d2ce0",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794855266,
+      "listened_at_utc": "2026-11-16T18:54:26Z",
+      "artist": "Amir Bresler",
+      "track": "Tri Tree",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794855205,
+      "listened_at_utc": "2026-11-16T18:53:25Z",
+      "artist": "Amir Bresler",
+      "track": "5am Train",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "f72a8f4d-e3e4-41b2-8db8-99c45494e5f0",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794855056,
+      "listened_at_utc": "2026-11-16T18:50:56Z",
+      "artist": "Amir Bresler",
+      "track": "See What Happens",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "35566a0f-b44b-48f5-92c3-3f4a8d821c0a"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794854984,
+      "listened_at_utc": "2026-11-16T18:49:44Z",
+      "artist": "Amir Bresler",
+      "track": "Going Good",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "8e52801e-56be-40fd-91d7-3bbc6a3d851d",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794854868,
+      "listened_at_utc": "2026-11-16T18:47:48Z",
+      "artist": "Amir Bresler",
+      "track": "Out Of The Frame",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "2e5b75e0-2df7-438b-8567-b9c16d24932d",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794854774,
+      "listened_at_utc": "2026-11-16T18:46:14Z",
+      "artist": "Amir Bresler",
+      "track": "Rise Up Light",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "4009cbfe-376b-4cde-950b-10cae584b7d4",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794854530,
+      "listened_at_utc": "2026-11-16T18:42:10Z",
+      "artist": "New Fossils",
+      "track": "ALLEY-OOP",
+      "album": "Ecosphere",
+      "musicbrainz": {
+        "artist_mbids": [
+          "ff1228bd-7c10-458f-8eab-2a1b4d9b59a1"
+        ]
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794854206,
+      "listened_at_utc": "2026-11-16T18:36:46Z",
+      "artist": "Amir Bresler",
+      "track": "A Fortune Road",
+      "album": "Tide & Time",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "1802b7d4-6fb3-47d1-8bb4-1d9bc553a158",
+        "release_mbid": "c1f18f6f-8fc3-4c89-b943-ea460eff864a",
+        "release_group_mbid": "14a40f06-0c4f-45d9-a6ee-56a7bf7d2497"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794853820,
+      "listened_at_utc": "2026-11-16T18:30:20Z",
+      "artist": "Amir Bresler",
+      "track": "Granny's Chair",
+      "album": "Tide & Time",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "218f29f5-a7f5-4663-ba27-d647db2ce237",
+        "release_mbid": "c1f18f6f-8fc3-4c89-b943-ea460eff864a",
+        "release_group_mbid": "14a40f06-0c4f-45d9-a6ee-56a7bf7d2497"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794853612,
+      "listened_at_utc": "2026-11-16T18:26:52Z",
+      "artist": "Amir Bresler",
+      "track": "Promise To Keep",
+      "album": "Tide & Time",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "b5932bca-dafd-42c8-b4cc-3a5a4f9563b8",
+        "release_mbid": "c1f18f6f-8fc3-4c89-b943-ea460eff864a",
+        "release_group_mbid": "14a40f06-0c4f-45d9-a6ee-56a7bf7d2497"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794853308,
+      "listened_at_utc": "2026-11-16T18:21:48Z",
+      "artist": "Amir Bresler",
+      "track": "Wéwé",
+      "album": "Tide & Time",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "3f498127-5e8d-4de1-9c2a-72a0aaa2cfc1",
+        "release_mbid": "c1f18f6f-8fc3-4c89-b943-ea460eff864a",
+        "release_group_mbid": "14a40f06-0c4f-45d9-a6ee-56a7bf7d2497"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794853081,
+      "listened_at_utc": "2026-11-16T18:18:01Z",
+      "artist": "Amir Bresler",
+      "track": "Pick One",
+      "album": "Tide & Time",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "8ed1af26-fe49-405d-8340-dc032980305d",
+        "release_mbid": "c1f18f6f-8fc3-4c89-b943-ea460eff864a",
+        "release_group_mbid": "14a40f06-0c4f-45d9-a6ee-56a7bf7d2497"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794852889,
+      "listened_at_utc": "2026-11-16T18:14:49Z",
+      "artist": "Amir Bresler",
+      "track": "Line Down",
+      "album": "Tide & Time",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "31825fc4-23e4-4031-8e5c-a1bb0a65b603",
+        "release_mbid": "c1f18f6f-8fc3-4c89-b943-ea460eff864a",
+        "release_group_mbid": "14a40f06-0c4f-45d9-a6ee-56a7bf7d2497"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794852614,
+      "listened_at_utc": "2026-11-16T18:10:14Z",
+      "artist": "Amir Bresler",
+      "track": "Song For Leon",
+      "album": "Tide & Time",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "bc6790e6-2ecc-43e6-ac83-caf4cecd6fd3",
+        "release_mbid": "c1f18f6f-8fc3-4c89-b943-ea460eff864a",
+        "release_group_mbid": "14a40f06-0c4f-45d9-a6ee-56a7bf7d2497"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1794788796,
+      "listened_at_utc": "2026-11-16T00:26:36Z",
+      "artist": "Rejoicer",
+      "track": "CS6 aka Red Acid Friend",
+      "album": "While You Are There",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "c0b05526-038e-4784-bc47-2707c89afe23",
+        "release_mbid": "28d1866d-659e-456b-ba4d-7c39daa9aef5",
+        "release_group_mbid": "c841928d-7abd-40ff-92a8-602fcb7655df"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794788619,
+      "listened_at_utc": "2026-11-16T00:23:39Z",
+      "artist": "Rejoicer",
+      "track": "Dont Mess with J",
+      "album": "While You Are There",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "c6a53066-5e13-43c9-87da-4014a389c9cd",
+        "release_mbid": "28d1866d-659e-456b-ba4d-7c39daa9aef5",
+        "release_group_mbid": "c841928d-7abd-40ff-92a8-602fcb7655df"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794788368,
+      "listened_at_utc": "2026-11-16T00:19:28Z",
+      "artist": "Rejoicer",
+      "track": "The Web's Fluids",
+      "album": "While You Are There",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "904a80f4-4870-4130-bcdf-95d51c541a8a",
+        "release_mbid": "28d1866d-659e-456b-ba4d-7c39daa9aef5",
+        "release_group_mbid": "c841928d-7abd-40ff-92a8-602fcb7655df"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794788111,
+      "listened_at_utc": "2026-11-16T00:15:11Z",
+      "artist": "Rejoicer",
+      "track": "Prism (for Children)",
+      "album": "While You Are There",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "b8bbb130-c554-4639-8ab5-568b6ad86762",
+        "release_mbid": "28d1866d-659e-456b-ba4d-7c39daa9aef5",
+        "release_group_mbid": "c841928d-7abd-40ff-92a8-602fcb7655df"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794787941,
+      "listened_at_utc": "2026-11-16T00:12:21Z",
+      "artist": "Rejoicer",
+      "track": "CS4 aka Firefall",
+      "album": "While You Are There",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "release_mbid": "28d1866d-659e-456b-ba4d-7c39daa9aef5",
+        "recording_mbid": "1d12f282-9006-484b-a4f3-acafffcdc435",
+        "release_group_mbid": "c841928d-7abd-40ff-92a8-602fcb7655df"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794787726,
+      "listened_at_utc": "2026-11-16T00:08:46Z",
+      "artist": "Totalement Sublime",
+      "track": "Soleil encabané",
+      "album": "Parhélie",
+      "musicbrainz": {
+        "artist_mbids": [
+          "f0babd3c-0f8f-42a8-9788-dddcf583e3d4"
+        ],
+        "recording_mbid": "05ea90fa-30ad-4de7-81ad-0ab9a0722751",
+        "release_mbid": "2a5ea3fc-ed5d-4ccf-816c-a6a3c60cef2f",
+        "release_group_mbid": "9a0504a9-8779-49a4-b651-bbf6aecd125d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794787460,
+      "listened_at_utc": "2026-11-16T00:04:20Z",
+      "artist": "Rejoicer",
+      "track": "Don't Forget to Not Remember Who",
+      "album": "This Is Reasonable",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "094bf8b9-7db6-4af0-81cb-c409acdea53c",
+        "release_mbid": "7840f5c2-1d18-4a86-8052-8f0c74c06a56",
+        "release_group_mbid": "26af69bc-14ad-435c-9329-2e3997a3885a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794787209,
+      "listened_at_utc": "2026-11-16T00:00:09Z",
+      "artist": "Rejoicer",
+      "track": "EZ PPL 4 TRTH",
+      "album": "This Is Reasonable",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "4ce2fec9-c5ad-4630-8d3a-cac6501d72ec",
+        "release_mbid": "7840f5c2-1d18-4a86-8052-8f0c74c06a56",
+        "release_group_mbid": "26af69bc-14ad-435c-9329-2e3997a3885a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794787031,
+      "listened_at_utc": "2026-11-15T23:57:11Z",
+      "artist": "Rejoicer",
+      "track": "OCNC XTR",
+      "album": "This Is Reasonable",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "f9c15e25-7e86-403f-8df7-93658366242a",
+        "release_mbid": "7840f5c2-1d18-4a86-8052-8f0c74c06a56",
+        "release_group_mbid": "26af69bc-14ad-435c-9329-2e3997a3885a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794786861,
+      "listened_at_utc": "2026-11-15T23:54:21Z",
+      "artist": "Rejoicer",
+      "track": "Dada's Bone",
+      "album": "This Is Reasonable",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "82689933-3a49-4bea-91e8-3ba8762a8403",
+        "release_mbid": "7840f5c2-1d18-4a86-8052-8f0c74c06a56",
+        "release_group_mbid": "26af69bc-14ad-435c-9329-2e3997a3885a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794786622,
+      "listened_at_utc": "2026-11-15T23:50:22Z",
+      "artist": "Rejoicer",
+      "track": "NOZPLZ",
+      "album": "This Is Reasonable",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "8c3dd059-ca50-42ce-9503-6f1cc3c6148a",
+        "release_mbid": "7840f5c2-1d18-4a86-8052-8f0c74c06a56",
+        "release_group_mbid": "26af69bc-14ad-435c-9329-2e3997a3885a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794786408,
+      "listened_at_utc": "2026-11-15T23:46:48Z",
+      "artist": "Rejoicer",
+      "track": "HRTSPC",
+      "album": "This Is Reasonable",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "8d935d76-8921-4f73-8932-6a6d624b9f3b",
+        "release_mbid": "7840f5c2-1d18-4a86-8052-8f0c74c06a56",
+        "release_group_mbid": "26af69bc-14ad-435c-9329-2e3997a3885a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794786185,
+      "listened_at_utc": "2026-11-15T23:43:05Z",
+      "artist": "Rejoicer",
+      "track": "I Think This Is Reasonable",
+      "album": "This Is Reasonable",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "723c331a-33de-4f57-b2d2-9d0f514f8d4b",
+        "release_mbid": "7840f5c2-1d18-4a86-8052-8f0c74c06a56",
+        "release_group_mbid": "26af69bc-14ad-435c-9329-2e3997a3885a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794786055,
+      "listened_at_utc": "2026-11-15T23:40:55Z",
+      "artist": "Rejoicer",
+      "track": "SNG PLSTN",
+      "album": "This Is Reasonable",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "5a0c440d-225f-4f85-8787-283287cef867",
+        "release_mbid": "7840f5c2-1d18-4a86-8052-8f0c74c06a56",
+        "release_group_mbid": "26af69bc-14ad-435c-9329-2e3997a3885a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794785888,
+      "listened_at_utc": "2026-11-15T23:38:08Z",
+      "artist": "Rejoicer",
+      "track": "Your Tissue SVP",
+      "album": "This Is Reasonable",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "0e1ec958-ba1a-4fee-af85-8b59d46bda2c",
+        "release_mbid": "7840f5c2-1d18-4a86-8052-8f0c74c06a56",
+        "release_group_mbid": "26af69bc-14ad-435c-9329-2e3997a3885a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794785703,
+      "listened_at_utc": "2026-11-15T23:35:03Z",
+      "artist": "Rejoicer",
+      "track": "Graveyard Party",
+      "album": "This Is Reasonable",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "b73601cf-ba25-4116-b75c-42b88532d3f7",
+        "release_mbid": "7840f5c2-1d18-4a86-8052-8f0c74c06a56",
+        "release_group_mbid": "26af69bc-14ad-435c-9329-2e3997a3885a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794785567,
+      "listened_at_utc": "2026-11-15T23:32:47Z",
+      "artist": "Rejoicer",
+      "track": "Jail Time with Mr. Murd",
+      "album": "This Is Reasonable",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "d6c51a79-1850-48bf-8e10-feb927240500"
+        ],
+        "release_mbid": "7840f5c2-1d18-4a86-8052-8f0c74c06a56",
+        "recording_mbid": "1483674e-4b79-4ffe-98c3-0eee599c8ae5",
+        "release_group_mbid": "26af69bc-14ad-435c-9329-2e3997a3885a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794785338,
+      "listened_at_utc": "2026-11-15T23:28:58Z",
+      "artist": "Rejoicer",
+      "track": "Oceanic Friends",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "cf4c08f3-6860-45b5-8831-66c9d45367b5",
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32",
+        "release_group_mbid": "a1448821-400d-4fda-b6ce-300fccf35629"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794785147,
+      "listened_at_utc": "2026-11-15T23:25:47Z",
+      "artist": "Rejoicer",
+      "track": "Early Porpoises",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "f6883e37-f246-4397-a054-c000e2d3982c",
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32",
+        "release_group_mbid": "a1448821-400d-4fda-b6ce-300fccf35629"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794784914,
+      "listened_at_utc": "2026-11-15T23:21:54Z",
+      "artist": "Rejoicer",
+      "track": "Her Hair in the Air (Sahtain)",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "d5d67ddd-ad67-44fc-9dc5-43385bb98071",
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32",
+        "release_group_mbid": "a1448821-400d-4fda-b6ce-300fccf35629"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794784649,
+      "listened_at_utc": "2026-11-15T23:17:29Z",
+      "artist": "Rejoicer",
+      "track": "Southern Cross",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "64309ec8-2768-4fc3-9252-fc6fe54ea3c8",
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32",
+        "release_group_mbid": "a1448821-400d-4fda-b6ce-300fccf35629"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794784493,
+      "listened_at_utc": "2026-11-15T23:14:53Z",
+      "artist": "Rejoicer",
+      "track": "Handle with Care (Ice-Cream)",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "fcb422b6-463e-4979-9746-9343a63213e8",
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32",
+        "release_group_mbid": "a1448821-400d-4fda-b6ce-300fccf35629"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794784293,
+      "listened_at_utc": "2026-11-15T23:11:33Z",
+      "artist": "Rejoicer",
+      "track": "Further (with you)",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "5f9bac39-de3f-4d35-bbc9-0c43cb6bd47e"
+        ],
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794784077,
+      "listened_at_utc": "2026-11-15T23:07:57Z",
+      "artist": "Rejoicer",
+      "track": "Grace Was Happy (I Found Nothing)",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "eb1c3895-2896-42f9-b4a2-143e8287b8f9",
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32",
+        "release_group_mbid": "a1448821-400d-4fda-b6ce-300fccf35629"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794783785,
+      "listened_at_utc": "2026-11-15T23:03:05Z",
+      "artist": "Rejoicer",
+      "track": "Lion Water",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "17d78170-7194-4603-8dbb-ca1108430882"
+        ],
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794783548,
+      "listened_at_utc": "2026-11-15T22:59:08Z",
+      "artist": "Rejoicer",
+      "track": "Ritual in G#",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "2b8f48e7-6e84-449c-a9d8-f04035570543",
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32",
+        "release_group_mbid": "a1448821-400d-4fda-b6ce-300fccf35629"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794782565,
+      "listened_at_utc": "2026-11-15T22:42:45Z",
+      "artist": "Rejoicer",
+      "track": "A Traveling Light",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "848bfd6e-b5c8-48be-984a-274b125952fb",
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32",
+        "release_group_mbid": "a1448821-400d-4fda-b6ce-300fccf35629"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794781976,
+      "listened_at_utc": "2026-11-15T22:32:56Z",
+      "artist": "Roni Eytan",
+      "track": "Elegy for Saba",
+      "album": "Melody People",
+      "musicbrainz": {
+        "artist_mbids": [
+          "da2a0f8d-329a-4aa2-bd86-8feb54b63af5",
+          "fe723bbb-47cc-4f42-830c-352f7b1fed81"
+        ],
+        "release_mbid": "93d7a423-314f-4505-aef9-db57b3bc35de"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794781637,
+      "listened_at_utc": "2026-11-15T22:27:17Z",
+      "artist": "Peter Somuah",
+      "track": "Chief Palace",
+      "album": "Outer Space",
+      "musicbrainz": {
+        "artist_mbids": [
+          "326271f8-b464-42f6-a047-69d037ccbf3b"
+        ],
+        "recording_mbid": "dd4d9904-274b-4127-b195-7c2ca32b8959",
+        "release_mbid": "289762da-77e1-4549-9690-39bbc25b1153",
+        "release_group_mbid": "dd81c8b1-9cc9-46bd-8414-907cd00cc72e"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794781362,
+      "listened_at_utc": "2026-11-15T22:22:42Z",
+      "artist": "Sultan Stevenson",
+      "track": "Summer Was Our Holy Place",
+      "album": "Faithful One",
+      "musicbrainz": {
+        "artist_mbids": [
+          "29bac820-0a2b-4f83-ac91-50ead647c0b4",
+          "a86de906-b963-464b-910c-c3044950e8ae",
+          "f423f82e-8f61-4563-952b-f4b7c05eb9f8"
+        ],
+        "recording_mbid": "5c6b6d63-dbf4-4b70-8df3-596966edf170",
+        "release_mbid": "02f1f4b7-4aa4-46da-95b4-20d0c36b6c8a",
+        "release_group_mbid": "292c0aa3-4816-44a5-81f2-b53125f0ac43"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794781307,
+      "listened_at_utc": "2026-11-15T22:21:47Z",
+      "artist": "Amir Bresler",
+      "track": "Sure, It's 2001",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "838809e6-6785-42a9-8f4d-b5b24ac5503c",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794781193,
+      "listened_at_utc": "2026-11-15T22:19:53Z",
+      "artist": "Amir Bresler",
+      "track": "Where and Why",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794781072,
+      "listened_at_utc": "2026-11-15T22:17:52Z",
+      "artist": "Amir Bresler",
+      "track": "Prince Of Seals",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "3ec802cf-0e56-42c2-90ba-6e378229d2a9",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794780971,
+      "listened_at_utc": "2026-11-15T22:16:11Z",
+      "artist": "Amir Bresler",
+      "track": "Hugs",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "460dd3c1-c1f0-47da-8dc6-c71ef6ac4884",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794780910,
+      "listened_at_utc": "2026-11-15T22:15:10Z",
+      "artist": "Amir Bresler",
+      "track": "Crispy Soda",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "44dd83fb-ccf2-407d-8869-bf6fbcc113d6"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794780729,
+      "listened_at_utc": "2026-11-15T22:12:09Z",
+      "artist": "Amir Bresler",
+      "track": "Lesoto",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794780669,
+      "listened_at_utc": "2026-11-15T22:11:09Z",
+      "artist": "Amir Bresler",
+      "track": "Swinging With The Fishes",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "7d76afb9-a920-4f6c-8e86-d0658752f9bd",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794780584,
+      "listened_at_utc": "2026-11-15T22:09:44Z",
+      "artist": "Amir Bresler",
+      "track": "Breath and Wind",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "32db8585-5d6f-47d2-9f43-ef6a84c2e005"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794780406,
+      "listened_at_utc": "2026-11-15T22:06:46Z",
+      "artist": "Amir Bresler",
+      "track": "Who Will Hold Your Hand",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "35566a0f-b44b-48f5-92c3-3f4a8d821c0a"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794780293,
+      "listened_at_utc": "2026-11-15T22:04:53Z",
+      "artist": "Amir Bresler",
+      "track": "Entryway",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "7fd8b0b7-2c3f-436b-b18d-17f7c1977d51",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794780183,
+      "listened_at_utc": "2026-11-15T22:03:03Z",
+      "artist": "Amir Bresler",
+      "track": "Bare Rock",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "e846f06c-c3a1-4281-947b-2643f38d9da7",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794780123,
+      "listened_at_utc": "2026-11-15T22:02:03Z",
+      "artist": "Amir Bresler",
+      "track": "In Between",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "883d50b1-6b4f-473a-89c2-da2c2e2f6924",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794779958,
+      "listened_at_utc": "2026-11-15T21:59:18Z",
+      "artist": "Amir Bresler",
+      "track": "KFznP5-8TLech33W",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "44dd83fb-ccf2-407d-8869-bf6fbcc113d6"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794779893,
+      "listened_at_utc": "2026-11-15T21:58:13Z",
+      "artist": "Amir Bresler",
+      "track": "Crushed Garlic",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "7853faab-6447-4b51-aa01-9167df3da951",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794779836,
+      "listened_at_utc": "2026-11-15T21:57:16Z",
+      "artist": "Amir Bresler",
+      "track": "Volvo",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "7b378898-8ef0-4fb7-9aac-7534eadaaf79",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794779716,
+      "listened_at_utc": "2026-11-15T21:55:16Z",
+      "artist": "Amir Bresler",
+      "track": "When The Clown Is Looking At You",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "b58ca432-eecc-470f-8380-0fccfdea4d81",
+          "5f9bac39-de3f-4d35-bbc9-0c43cb6bd47e"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794779649,
+      "listened_at_utc": "2026-11-15T21:54:09Z",
+      "artist": "Amir Bresler",
+      "track": "7am Dreams",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "ba99e9fe-c999-43e7-8a0d-22598b7d2ce0",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794779487,
+      "listened_at_utc": "2026-11-15T21:51:27Z",
+      "artist": "Amir Bresler",
+      "track": "Tri Tree",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794779426,
+      "listened_at_utc": "2026-11-15T21:50:26Z",
+      "artist": "Amir Bresler",
+      "track": "5am Train",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "f72a8f4d-e3e4-41b2-8db8-99c45494e5f0",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794779277,
+      "listened_at_utc": "2026-11-15T21:47:57Z",
+      "artist": "Amir Bresler",
+      "track": "See What Happens",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "35566a0f-b44b-48f5-92c3-3f4a8d821c0a"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794779205,
+      "listened_at_utc": "2026-11-15T21:46:45Z",
+      "artist": "Amir Bresler",
+      "track": "Going Good",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "8e52801e-56be-40fd-91d7-3bbc6a3d851d",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794779089,
+      "listened_at_utc": "2026-11-15T21:44:49Z",
+      "artist": "Amir Bresler",
+      "track": "Out Of The Frame",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "2e5b75e0-2df7-438b-8567-b9c16d24932d",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794778995,
+      "listened_at_utc": "2026-11-15T21:43:15Z",
+      "artist": "Amir Bresler",
+      "track": "Rise Up Light",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "4009cbfe-376b-4cde-950b-10cae584b7d4",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794778920,
+      "listened_at_utc": "2026-11-15T21:42:00Z",
+      "artist": "Rejoicer",
+      "track": "Jail Time with Mr. Murd",
+      "album": "This Is Reasonable",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "d6c51a79-1850-48bf-8e10-feb927240500"
+        ],
+        "release_mbid": "7840f5c2-1d18-4a86-8052-8f0c74c06a56",
+        "recording_mbid": "1483674e-4b79-4ffe-98c3-0eee599c8ae5",
+        "release_group_mbid": "26af69bc-14ad-435c-9329-2e3997a3885a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794776313,
+      "listened_at_utc": "2026-11-15T20:58:33Z",
+      "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+      "track": "Malchut",
+      "album": "Life & Fire",
+      "musicbrainz": {
+        "artist_mbids": [
+          "44b1a6e2-731e-4b94-a73b-336183fb4484",
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "02bea67b-5b52-40e4-895d-fedc83df6786"
+        ],
+        "release_mbid": "19f2f31d-7206-4c4d-9bbb-6a6a634e638d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794775950,
+      "listened_at_utc": "2026-11-15T20:52:30Z",
+      "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+      "track": "Spilt Milk",
+      "album": "Life & Fire",
+      "musicbrainz": {
+        "artist_mbids": [
+          "44b1a6e2-731e-4b94-a73b-336183fb4484",
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "02bea67b-5b52-40e4-895d-fedc83df6786"
+        ],
+        "release_mbid": "19f2f31d-7206-4c4d-9bbb-6a6a634e638d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794775486,
+      "listened_at_utc": "2026-11-15T20:44:46Z",
+      "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+      "track": "Niggun",
+      "album": "Life & Fire",
+      "musicbrainz": {
+        "artist_mbids": [
+          "44b1a6e2-731e-4b94-a73b-336183fb4484",
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "02bea67b-5b52-40e4-895d-fedc83df6786"
+        ],
+        "release_mbid": "19f2f31d-7206-4c4d-9bbb-6a6a634e638d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794774967,
+      "listened_at_utc": "2026-11-15T20:36:07Z",
+      "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+      "track": "One Step at a Time",
+      "album": "Life & Fire",
+      "musicbrainz": {
+        "artist_mbids": [
+          "44b1a6e2-731e-4b94-a73b-336183fb4484",
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "02bea67b-5b52-40e4-895d-fedc83df6786"
+        ],
+        "release_mbid": "19f2f31d-7206-4c4d-9bbb-6a6a634e638d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794774676,
+      "listened_at_utc": "2026-11-15T20:31:16Z",
+      "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+      "track": "Cantando",
+      "album": "Life & Fire",
+      "musicbrainz": {
+        "artist_mbids": [
+          "44b1a6e2-731e-4b94-a73b-336183fb4484",
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "02bea67b-5b52-40e4-895d-fedc83df6786"
+        ],
+        "release_mbid": "19f2f31d-7206-4c4d-9bbb-6a6a634e638d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794774439,
+      "listened_at_utc": "2026-11-15T20:27:19Z",
+      "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+      "track": "Tzuri",
+      "album": "Life & Fire",
+      "musicbrainz": {
+        "artist_mbids": [
+          "44b1a6e2-731e-4b94-a73b-336183fb4484",
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "02bea67b-5b52-40e4-895d-fedc83df6786"
+        ],
+        "release_mbid": "19f2f31d-7206-4c4d-9bbb-6a6a634e638d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794774221,
+      "listened_at_utc": "2026-11-15T20:23:41Z",
+      "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+      "track": "3/4 Mantra",
+      "album": "Life & Fire",
+      "musicbrainz": {
+        "artist_mbids": [
+          "44b1a6e2-731e-4b94-a73b-336183fb4484",
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "02bea67b-5b52-40e4-895d-fedc83df6786"
+        ],
+        "release_mbid": "19f2f31d-7206-4c4d-9bbb-6a6a634e638d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794773968,
+      "listened_at_utc": "2026-11-15T20:19:28Z",
+      "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+      "track": "Song No 2",
+      "album": "Life & Fire",
+      "musicbrainz": {
+        "artist_mbids": [
+          "44b1a6e2-731e-4b94-a73b-336183fb4484",
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "02bea67b-5b52-40e4-895d-fedc83df6786"
+        ],
+        "release_mbid": "19f2f31d-7206-4c4d-9bbb-6a6a634e638d"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794773589,
+      "listened_at_utc": "2026-11-15T20:13:09Z",
+      "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+      "track": "The Ravens",
+      "album": "Life & Fire",
+      "musicbrainz": {
+        "artist_mbids": [
+          "44b1a6e2-731e-4b94-a73b-336183fb4484",
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "02bea67b-5b52-40e4-895d-fedc83df6786"
+        ],
+        "release_mbid": "19f2f31d-7206-4c4d-9bbb-6a6a634e638d",
+        "recording_mbid": "b1856f3c-4bb9-47ff-ba04-e5a2ef2318c0",
+        "release_group_mbid": "d6d5709f-1aaf-4ffa-9c23-2f35143d5b8e"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794773305,
+      "listened_at_utc": "2026-11-15T20:08:25Z",
+      "artist": "Amir Bresler",
+      "track": "Landing and Parking",
+      "album": "House of Arches",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "release_mbid": "c54c4856-38ba-4e7d-90f2-bd6407c2220c",
+        "recording_mbid": "4e0c2e5f-e029-47d3-a9ff-9b590f8002f1",
+        "release_group_mbid": "ba18ecdb-974e-447a-a792-3542bd6b0251"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794772948,
+      "listened_at_utc": "2026-11-15T20:02:28Z",
+      "artist": "Amir Bresler",
+      "track": "Mole's Pirouette",
+      "album": "House of Arches",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "fe61510f-0edf-498a-88c5-05c90064c5e4",
+        "release_mbid": "c54c4856-38ba-4e7d-90f2-bd6407c2220c",
+        "release_group_mbid": "ba18ecdb-974e-447a-a792-3542bd6b0251"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794772546,
+      "listened_at_utc": "2026-11-15T19:55:46Z",
+      "artist": "Enzo Orefice Trio",
+      "track": "Lady Bird",
+      "album": "On the Journey, Pt. 5",
+      "musicbrainz": {
+        "artist_mbids": [
+          "e174d5ac-7937-4d3d-a7ef-519129aa7b61"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794772250,
+      "listened_at_utc": "2026-11-15T19:50:50Z",
+      "artist": "Kendrick Scott, Reuben Rogers, Walter Smith III",
+      "track": "One Door Closes, Another Opens",
+      "album": "Corridors",
+      "musicbrainz": {
+        "artist_mbids": [
+          "8a5d7bfd-e9b3-4e5d-a9fb-6581aba4e3ad",
+          "02ec8c42-b4a5-49be-98fa-fb8c47571bdb",
+          "0da19599-974e-4030-ae9e-7a62fd948935"
+        ],
+        "recording_mbid": "9d85b512-2939-4c3c-a675-d9293712816b",
+        "release_mbid": "bcfa7923-f9fb-4ca6-838b-8b1d76352294",
+        "release_group_mbid": "9cc6d662-ac45-4099-b994-b4403f39e730"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794771926,
+      "listened_at_utc": "2026-11-15T19:45:26Z",
+      "artist": "Amir Bresler",
+      "track": "A Fortune Road",
+      "album": "Tide & Time",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "1802b7d4-6fb3-47d1-8bb4-1d9bc553a158",
+        "release_mbid": "c1f18f6f-8fc3-4c89-b943-ea460eff864a",
+        "release_group_mbid": "14a40f06-0c4f-45d9-a6ee-56a7bf7d2497"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794771540,
+      "listened_at_utc": "2026-11-15T19:39:00Z",
+      "artist": "Amir Bresler",
+      "track": "Granny's Chair",
+      "album": "Tide & Time",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "218f29f5-a7f5-4663-ba27-d647db2ce237",
+        "release_mbid": "c1f18f6f-8fc3-4c89-b943-ea460eff864a",
+        "release_group_mbid": "14a40f06-0c4f-45d9-a6ee-56a7bf7d2497"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794771332,
+      "listened_at_utc": "2026-11-15T19:35:32Z",
+      "artist": "Amir Bresler",
+      "track": "Promise To Keep",
+      "album": "Tide & Time",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "b5932bca-dafd-42c8-b4cc-3a5a4f9563b8",
+        "release_mbid": "c1f18f6f-8fc3-4c89-b943-ea460eff864a",
+        "release_group_mbid": "14a40f06-0c4f-45d9-a6ee-56a7bf7d2497"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794771028,
+      "listened_at_utc": "2026-11-15T19:30:28Z",
+      "artist": "Amir Bresler",
+      "track": "Wéwé",
+      "album": "Tide & Time",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "3f498127-5e8d-4de1-9c2a-72a0aaa2cfc1",
+        "release_mbid": "c1f18f6f-8fc3-4c89-b943-ea460eff864a",
+        "release_group_mbid": "14a40f06-0c4f-45d9-a6ee-56a7bf7d2497"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794770801,
+      "listened_at_utc": "2026-11-15T19:26:41Z",
+      "artist": "Amir Bresler",
+      "track": "Pick One",
+      "album": "Tide & Time",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "8ed1af26-fe49-405d-8340-dc032980305d",
+        "release_mbid": "c1f18f6f-8fc3-4c89-b943-ea460eff864a",
+        "release_group_mbid": "14a40f06-0c4f-45d9-a6ee-56a7bf7d2497"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794770609,
+      "listened_at_utc": "2026-11-15T19:23:29Z",
+      "artist": "Amir Bresler",
+      "track": "Line Down",
+      "album": "Tide & Time",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "31825fc4-23e4-4031-8e5c-a1bb0a65b603",
+        "release_mbid": "c1f18f6f-8fc3-4c89-b943-ea460eff864a",
+        "release_group_mbid": "14a40f06-0c4f-45d9-a6ee-56a7bf7d2497"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1794752182,
       "listened_at_utc": "2026-11-15T14:16:22Z",
