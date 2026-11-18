@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-17T18:39:21Z",
+  "generated_at_utc": "2026-11-18T18:12:07Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-19T18:39:21Z",
-    "through_utc": "2026-11-17T18:39:21Z",
+    "from_utc": "2026-08-20T18:12:07Z",
+    "through_utc": "2026-11-18T18:12:07Z",
     "complete": true,
     "pages_fetched": 4,
     "max_pages": 10,
-    "raw_listen_count": 3124,
-    "deduplicated_listen_count": 1827,
-    "duplicates_removed": 1297,
+    "raw_listen_count": 3172,
+    "deduplicated_listen_count": 1851,
+    "duplicates_removed": 1321,
     "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-11-16T23:23:52Z"
+    "newest_listen_utc": "2026-11-17T21:56:42Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,22 +28,22 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 184,
-      "unique_artists": 28,
-      "unique_albums": 33,
+      "listen_count": 190,
+      "unique_artists": 24,
+      "unique_albums": 29,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "Amir Bresler",
-          "listen_count": 58
+          "listen_count": 63
+        },
+        {
+          "artist": "Rejoicer",
+          "listen_count": 45
         },
         {
           "artist": "Bob Dylan",
           "listen_count": 28
-        },
-        {
-          "artist": "Rejoicer",
-          "listen_count": 27
         },
         {
           "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
@@ -60,18 +60,6 @@
         {
           "artist": "Grace Jones",
           "listen_count": 8
-        },
-        {
-          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
-          "listen_count": 8
-        },
-        {
-          "artist": "John Coltrane",
-          "listen_count": 7
-        },
-        {
-          "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
-          "listen_count": 1
         },
         {
           "artist": "Culture Club",
@@ -91,10 +79,6 @@
         },
         {
           "artist": "Melissa Aldana / Gonzalo Rubalcaba",
-          "listen_count": 1
-        },
-        {
-          "artist": "Miles Davis Quintet",
           "listen_count": 1
         },
         {
@@ -122,10 +106,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Stephan Crump",
-          "listen_count": 1
-        },
-        {
           "artist": "Sultan Stevenson",
           "listen_count": 1
         },
@@ -144,15 +124,26 @@
         {
           "artist": "Totalement Sublime",
           "listen_count": 1
+        },
+        {
+          "artist": "אסף תלמודי / יונתן אלבלק / Shuli Rand / רביד כחלני / שי צברי",
+          "listen_count": 1
         }
       ],
       "albums": [
         {
           "artist": "Amir Bresler",
           "album": "See What Happens",
-          "listen_count": 41,
+          "listen_count": 46,
           "unique_tracks": 23,
-          "last_listened_at_utc": "2026-11-16T19:15:13Z"
+          "last_listened_at_utc": "2026-11-17T20:04:51Z"
+        },
+        {
+          "artist": "Rejoicer",
+          "album": "California Space Craft",
+          "listen_count": 20,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-11-17T21:20:59Z"
         },
         {
           "artist": "Bob Dylan",
@@ -170,6 +161,13 @@
         },
         {
           "artist": "Rejoicer",
+          "album": "While You Are There",
+          "listen_count": 13,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-17T21:56:42Z"
+        },
+        {
+          "artist": "Rejoicer",
           "album": "This Is Reasonable",
           "listen_count": 12,
           "unique_tracks": 11,
@@ -181,13 +179,6 @@
           "listen_count": 11,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-11-15T20:58:33Z"
-        },
-        {
-          "artist": "Rejoicer",
-          "album": "California Space Craft",
-          "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-11-15T23:28:58Z"
         },
         {
           "artist": "Rejoicer & Eyal Talmudi",
@@ -218,39 +209,11 @@
           "last_listened_at_utc": "2026-11-12T20:36:30Z"
         },
         {
-          "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
-          "album": "Getz/Gilberto",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-11T00:47:35Z"
-        },
-        {
-          "artist": "John Coltrane",
-          "album": "Blue Train",
-          "listen_count": 7,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-11-11T01:43:26Z"
-        },
-        {
-          "artist": "Rejoicer",
-          "album": "While You Are There",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-11-16T00:26:36Z"
-        },
-        {
           "artist": "Amir Bresler",
           "album": "House of Arches",
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-11-15T20:08:25Z"
-        },
-        {
-          "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
-          "album": "Have you met... Barcelona?",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-11T02:01:08Z"
         },
         {
           "artist": "Culture Club",
@@ -286,13 +249,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-11T21:59:37Z"
-        },
-        {
-          "artist": "Miles Davis Quintet",
-          "album": "Cookin' With The Miles Davis Quintet",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-11T01:50:46Z"
         },
         {
           "artist": "New Fossils",
@@ -337,13 +293,6 @@
           "last_listened_at_utc": "2026-11-11T22:07:38Z"
         },
         {
-          "artist": "Stephan Crump",
-          "album": "Passerine",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-11T02:04:19Z"
-        },
-        {
           "artist": "Sultan Stevenson",
           "album": "Faithful One",
           "listen_count": 1,
@@ -377,18 +326,29 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-16T00:08:46Z"
+        },
+        {
+          "artist": "אסף תלמודי / יונתן אלבלק / Shuli Rand / רביד כחלני / שי צברי",
+          "album": "הללו (מתוך הסרט \"אגדת חורבן\")",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-17T21:24:22Z"
         }
       ]
     },
     "last_30_days": {
-      "listen_count": 805,
-      "unique_artists": 124,
-      "unique_albums": 140,
+      "listen_count": 778,
+      "unique_artists": 121,
+      "unique_albums": 135,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "Amir Bresler",
-          "listen_count": 58
+          "listen_count": 63
+        },
+        {
+          "artist": "Rejoicer",
+          "listen_count": 45
         },
         {
           "artist": "Morphine",
@@ -396,7 +356,7 @@
         },
         {
           "artist": "Bob Dylan",
-          "listen_count": 39
+          "listen_count": 38
         },
         {
           "artist": "Parquet Courts",
@@ -405,14 +365,6 @@
         {
           "artist": "Diana Krall",
           "listen_count": 33
-        },
-        {
-          "artist": "Rejoicer",
-          "listen_count": 27
-        },
-        {
-          "artist": "טונה",
-          "listen_count": 27
         },
         {
           "artist": "Fine",
@@ -428,7 +380,7 @@
         },
         {
           "artist": "Anouar Brahem",
-          "listen_count": 19
+          "listen_count": 18
         },
         {
           "artist": "Michael Kiwanuka",
@@ -451,10 +403,6 @@
           "listen_count": 13
         },
         {
-          "artist": "Admas",
-          "listen_count": 12
-        },
-        {
           "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
           "listen_count": 12
         },
@@ -467,12 +415,12 @@
           "listen_count": 12
         },
         {
-          "artist": "רביד פלוטניק",
+          "artist": "טונה",
           "listen_count": 12
         },
         {
-          "artist": "Fontaines D.C.",
-          "listen_count": 11
+          "artist": "רביד פלוטניק",
+          "listen_count": 12
         },
         {
           "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
@@ -511,16 +459,8 @@
           "listen_count": 8
         },
         {
-          "artist": "JID",
-          "listen_count": 8
-        },
-        {
           "artist": "Little Simz",
           "listen_count": 8
-        },
-        {
-          "artist": "English Teacher",
-          "listen_count": 7
         },
         {
           "artist": "John Coltrane",
@@ -528,10 +468,6 @@
         },
         {
           "artist": "Mikiko Sato",
-          "listen_count": 7
-        },
-        {
-          "artist": "Miles Davis",
           "listen_count": 7
         },
         {
@@ -555,6 +491,14 @@
           "listen_count": 6
         },
         {
+          "artist": "Fontaines D.C.",
+          "listen_count": 6
+        },
+        {
+          "artist": "Miles Davis",
+          "listen_count": 6
+        },
+        {
           "artist": "Avishai Cohen",
           "listen_count": 5
         },
@@ -567,16 +511,16 @@
           "listen_count": 5
         },
         {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "listen_count": 5
-        },
-        {
           "artist": "the olllam",
           "listen_count": 5
         },
         {
           "artist": "ג'יגה ג'וס",
           "listen_count": 5
+        },
+        {
+          "artist": "Admas",
+          "listen_count": 4
         },
         {
           "artist": "Hailu Mergia",
@@ -596,6 +540,10 @@
         },
         {
           "artist": "Thelonious Monk Septet",
+          "listen_count": 4
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
           "listen_count": 4
         },
         {
@@ -639,10 +587,6 @@
           "listen_count": 2
         },
         {
-          "artist": "Cameron Winter",
-          "listen_count": 2
-        },
-        {
           "artist": "Emily A. Sprague",
           "listen_count": 2
         },
@@ -652,10 +596,6 @@
         },
         {
           "artist": "Ginger Root",
-          "listen_count": 2
-        },
-        {
-          "artist": "Hugh Masekela",
           "listen_count": 2
         },
         {
@@ -692,6 +632,10 @@
         },
         {
           "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
+          "listen_count": 1
+        },
+        {
+          "artist": "Cameron Winter",
           "listen_count": 1
         },
         {
@@ -735,10 +679,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Fatoumata Diawara",
-          "listen_count": 1
-        },
-        {
           "artist": "Fripp & Eno",
           "listen_count": 1
         },
@@ -748,6 +688,10 @@
         },
         {
           "artist": "Harry Connick, Jr.",
+          "listen_count": 1
+        },
+        {
+          "artist": "Hugh Masekela",
           "listen_count": 1
         },
         {
@@ -859,10 +803,6 @@
           "listen_count": 1
         },
         {
-          "artist": "The Jimi Hendrix Experience",
-          "listen_count": 1
-        },
-        {
           "artist": "The National",
           "listen_count": 1
         },
@@ -881,22 +821,26 @@
         {
           "artist": "Totalement Sublime",
           "listen_count": 1
+        },
+        {
+          "artist": "אסף תלמודי / יונתן אלבלק / Shuli Rand / רביד כחלני / שי צברי",
+          "listen_count": 1
         }
       ],
       "albums": [
+        {
+          "artist": "Amir Bresler",
+          "album": "See What Happens",
+          "listen_count": 46,
+          "unique_tracks": 23,
+          "last_listened_at_utc": "2026-11-17T20:04:51Z"
+        },
         {
           "artist": "Morphine",
           "album": "Cure for Pain (Deluxe Edition)",
           "listen_count": 44,
           "unique_tracks": 20,
           "last_listened_at_utc": "2026-11-04T22:07:48Z"
-        },
-        {
-          "artist": "Amir Bresler",
-          "album": "See What Happens",
-          "listen_count": 41,
-          "unique_tracks": 23,
-          "last_listened_at_utc": "2026-11-16T19:15:13Z"
         },
         {
           "artist": "Parquet Courts",
@@ -927,13 +871,6 @@
           "last_listened_at_utc": "2026-11-02T21:46:48Z"
         },
         {
-          "artist": "טונה",
-          "album": "מזרח פרוע",
-          "listen_count": 21,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-30T19:08:12Z"
-        },
-        {
           "artist": "Djo",
           "album": "The Crux Deluxe",
           "listen_count": 20,
@@ -941,11 +878,11 @@
           "last_listened_at_utc": "2026-10-27T21:25:32Z"
         },
         {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 19,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-11T21:45:28Z"
+          "artist": "Rejoicer",
+          "album": "California Space Craft",
+          "listen_count": 20,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-11-17T21:20:59Z"
         },
         {
           "artist": "Bob Dylan",
@@ -953,6 +890,13 @@
           "listen_count": 19,
           "unique_tracks": 19,
           "last_listened_at_utc": "2026-11-13T02:39:43Z"
+        },
+        {
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
+          "listen_count": 18,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-11T21:45:28Z"
         },
         {
           "artist": "Norah Jones",
@@ -983,18 +927,18 @@
           "last_listened_at_utc": "2026-10-25T12:58:33Z"
         },
         {
+          "artist": "Rejoicer",
+          "album": "While You Are There",
+          "listen_count": 13,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-17T21:56:42Z"
+        },
+        {
           "artist": "Roy Hargrove Quintet",
           "album": "Earfood",
           "listen_count": 13,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-22T17:49:41Z"
-        },
-        {
-          "artist": "Admas",
-          "album": "Sons of Ethiopia",
-          "listen_count": 12,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-10-20T23:19:38Z"
         },
         {
           "artist": "Diana Krall",
@@ -1067,13 +1011,6 @@
           "last_listened_at_utc": "2026-10-31T18:11:35Z"
         },
         {
-          "artist": "Rejoicer",
-          "album": "California Space Craft",
-          "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-11-15T23:28:58Z"
-        },
-        {
           "artist": "Rejoicer & Eyal Talmudi",
           "album": "The Audience",
           "listen_count": 10,
@@ -1123,32 +1060,11 @@
           "last_listened_at_utc": "2026-11-12T20:36:30Z"
         },
         {
-          "artist": "JID",
-          "album": "The Forever Story (Extended Version)",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-19T13:50:18Z"
-        },
-        {
           "artist": "Little Simz",
           "album": "GREY Area",
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-11-04T14:30:27Z"
-        },
-        {
-          "artist": "English Teacher",
-          "album": "This Could Be Texas",
-          "listen_count": 7,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-10-19T17:25:39Z"
-        },
-        {
-          "artist": "Fontaines D.C.",
-          "album": "Dopamine Chamber",
-          "listen_count": 7,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-20T21:43:32Z"
         },
         {
           "artist": "John Coltrane",
@@ -1163,13 +1079,6 @@
           "listen_count": 7,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-11-07T23:30:58Z"
-        },
-        {
-          "artist": "Miles Davis",
-          "album": "Kind of Blue",
-          "listen_count": 7,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-28T21:03:10Z"
         },
         {
           "artist": "רביד פלוטניק",
@@ -1221,6 +1130,20 @@
           "last_listened_at_utc": "2026-10-22T00:49:03Z"
         },
         {
+          "artist": "Miles Davis",
+          "album": "Kind of Blue",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-28T21:03:10Z"
+        },
+        {
+          "artist": "טונה",
+          "album": "מזרח פרוע",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-10-30T19:08:12Z"
+        },
+        {
           "artist": "Avishai Cohen",
           "album": "Shifting Sands",
           "listen_count": 5,
@@ -1233,13 +1156,6 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-11-03T19:23:20Z"
-        },
-        {
-          "artist": "Rejoicer",
-          "album": "While You Are There",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-11-16T00:26:36Z"
         },
         {
           "artist": "TV on the Radio",
@@ -1275,6 +1191,13 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-10-19T23:32:45Z"
+        },
+        {
+          "artist": "Admas",
+          "album": "Sons of Ethiopia",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-10-20T23:19:38Z"
         },
         {
           "artist": "Fontaines D.C.",
@@ -1410,13 +1333,6 @@
           "last_listened_at_utc": "2026-11-05T17:56:14Z"
         },
         {
-          "artist": "Cameron Winter",
-          "album": "Live at Carnegie Hall",
-          "listen_count": 2,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-24T23:23:35Z"
-        },
-        {
           "artist": "Emily A. Sprague",
           "album": "Cyano",
           "listen_count": 2,
@@ -1431,18 +1347,18 @@
           "last_listened_at_utc": "2026-10-24T14:13:36Z"
         },
         {
+          "artist": "Fontaines D.C.",
+          "album": "Dopamine Chamber",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-20T21:43:32Z"
+        },
+        {
           "artist": "Ginger Root",
           "album": "SHINBANGUMI",
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-28T22:18:20Z"
-        },
-        {
-          "artist": "Hugh Masekela",
-          "album": "Hope",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-11-03T00:23:30Z"
         },
         {
           "artist": "Julia Holter",
@@ -1508,11 +1424,11 @@
           "last_listened_at_utc": "2026-11-11T02:01:08Z"
         },
         {
-          "artist": "Bob Dylan",
-          "album": "Nashville Skyline",
+          "artist": "Cameron Winter",
+          "album": "Live at Carnegie Hall",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-18T19:44:10Z"
+          "last_listened_at_utc": "2026-10-24T23:23:35Z"
         },
         {
           "artist": "Cartoons",
@@ -1585,13 +1501,6 @@
           "last_listened_at_utc": "2026-11-15T19:55:46Z"
         },
         {
-          "artist": "Fatoumata Diawara",
-          "album": "Fenfo",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-18T19:40:20Z"
-        },
-        {
           "artist": "Fripp & Eno",
           "album": "Evening Star",
           "listen_count": 1,
@@ -1611,6 +1520,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-03T00:08:03Z"
+        },
+        {
+          "artist": "Hugh Masekela",
+          "album": "Hope",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-03T00:23:30Z"
         },
         {
           "artist": "Isao Suzuki Trio / Quartet",
@@ -1809,13 +1725,6 @@
           "last_listened_at_utc": "2026-11-04T02:46:41Z"
         },
         {
-          "artist": "The Jimi Hendrix Experience",
-          "album": "Axis: Bold As Love",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-19T02:15:11Z"
-        },
-        {
           "artist": "The National",
           "album": "Boxer",
           "listen_count": 1,
@@ -1851,11 +1760,11 @@
           "last_listened_at_utc": "2026-11-16T00:08:46Z"
         },
         {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Blues for Tee",
+          "artist": "אסף תלמודי / יונתן אלבלק / Shuli Rand / רביד כחלני / שי צברי",
+          "album": "הללו (מתוך הסרט \"אגדת חורבן\")",
           "listen_count": 1,
           "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-18T20:48:21Z"
+          "last_listened_at_utc": "2026-11-17T21:24:22Z"
         },
         {
           "artist": "טונה",
@@ -1867,9 +1776,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1827,
-      "unique_artists": 258,
-      "unique_albums": 309,
+      "listen_count": 1851,
+      "unique_artists": 259,
+      "unique_albums": 310,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1882,11 +1791,15 @@
         },
         {
           "artist": "Amir Bresler",
-          "listen_count": 58
+          "listen_count": 63
         },
         {
           "artist": "רביד פלוטניק",
           "listen_count": 57
+        },
+        {
+          "artist": "Rejoicer",
+          "listen_count": 45
         },
         {
           "artist": "Haruomi Hosono",
@@ -1927,10 +1840,6 @@
         {
           "artist": "Miles Davis",
           "listen_count": 31
-        },
-        {
-          "artist": "Rejoicer",
-          "listen_count": 27
         },
         {
           "artist": "נצ׳י נצ׳",
@@ -2873,6 +2782,10 @@
           "listen_count": 1
         },
         {
+          "artist": "אסף תלמודי / יונתן אלבלק / Shuli Rand / רביד כחלני / שי צברי",
+          "listen_count": 1
+        },
+        {
           "artist": "ברי סחרוף ודודו טסה",
           "listen_count": 1
         },
@@ -2914,6 +2827,13 @@
           "last_listened_at_utc": "2026-10-30T19:08:12Z"
         },
         {
+          "artist": "Amir Bresler",
+          "album": "See What Happens",
+          "listen_count": 46,
+          "unique_tracks": 23,
+          "last_listened_at_utc": "2026-11-17T20:04:51Z"
+        },
+        {
           "artist": "Morphine",
           "album": "Cure for Pain (Deluxe Edition)",
           "listen_count": 44,
@@ -2926,13 +2846,6 @@
           "listen_count": 43,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-11-11T21:45:28Z"
-        },
-        {
-          "artist": "Amir Bresler",
-          "album": "See What Happens",
-          "listen_count": 41,
-          "unique_tracks": 23,
-          "last_listened_at_utc": "2026-11-16T19:15:13Z"
         },
         {
           "artist": "Parquet Courts",
@@ -3047,6 +2960,13 @@
           "last_listened_at_utc": "2026-10-27T21:25:32Z"
         },
         {
+          "artist": "Rejoicer",
+          "album": "California Space Craft",
+          "listen_count": 20,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-11-17T21:20:59Z"
+        },
+        {
           "artist": "Bob Dylan",
           "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
           "listen_count": 19,
@@ -3150,6 +3070,13 @@
           "listen_count": 13,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-09-25T20:37:14Z"
+        },
+        {
+          "artist": "Rejoicer",
+          "album": "While You Are There",
+          "listen_count": 13,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-17T21:56:42Z"
         },
         {
           "artist": "Richard & Linda Thompson",
@@ -3332,13 +3259,6 @@
           "listen_count": 10,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-10-02T19:31:45Z"
-        },
-        {
-          "artist": "Rejoicer",
-          "album": "California Space Craft",
-          "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-11-15T23:28:58Z"
         },
         {
           "artist": "Rejoicer & Eyal Talmudi",
@@ -3654,13 +3574,6 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-10-09T21:19:08Z"
-        },
-        {
-          "artist": "Rejoicer",
-          "album": "While You Are There",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-11-16T00:26:36Z"
         },
         {
           "artist": "TV on the Radio",
@@ -5000,6 +4913,13 @@
           "last_listened_at_utc": "2026-09-16T12:37:55Z"
         },
         {
+          "artist": "אסף תלמודי / יונתן אלבלק / Shuli Rand / רביד כחלני / שי צברי",
+          "album": "הללו (מתוך הסרט \"אגדת חורבן\")",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-17T21:24:22Z"
+        },
+        {
           "artist": "ברי סחרוף ודודו טסה",
           "album": "Bdal Shel Or",
           "listen_count": 1,
@@ -5073,6 +4993,459 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1794952602,
+      "listened_at_utc": "2026-11-17T21:56:42Z",
+      "artist": "Rejoicer",
+      "track": "Quintennaissance (of Art and BS)",
+      "album": "While You Are There",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "385a766b-4df3-4953-9937-aa366b7aeb60",
+        "release_mbid": "28d1866d-659e-456b-ba4d-7c39daa9aef5",
+        "release_group_mbid": "c841928d-7abd-40ff-92a8-602fcb7655df"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794952421,
+      "listened_at_utc": "2026-11-17T21:53:41Z",
+      "artist": "Rejoicer",
+      "track": "RHDS and Sunset",
+      "album": "While You Are There",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "5c4bf251-b09a-4171-94a8-b092022308f9",
+        "release_mbid": "28d1866d-659e-456b-ba4d-7c39daa9aef5",
+        "release_group_mbid": "c841928d-7abd-40ff-92a8-602fcb7655df"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794952032,
+      "listened_at_utc": "2026-11-17T21:47:12Z",
+      "artist": "Rejoicer",
+      "track": "While you're there",
+      "album": "While You Are There",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "771810b9-c694-46e7-98ce-d0d1b8e42841",
+        "release_mbid": "28d1866d-659e-456b-ba4d-7c39daa9aef5",
+        "release_group_mbid": "c841928d-7abd-40ff-92a8-602fcb7655df"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794951718,
+      "listened_at_utc": "2026-11-17T21:41:58Z",
+      "artist": "Rejoicer",
+      "track": "CS6 aka Red Acid Friend",
+      "album": "While You Are There",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "c0b05526-038e-4784-bc47-2707c89afe23",
+        "release_mbid": "28d1866d-659e-456b-ba4d-7c39daa9aef5",
+        "release_group_mbid": "c841928d-7abd-40ff-92a8-602fcb7655df"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794951541,
+      "listened_at_utc": "2026-11-17T21:39:01Z",
+      "artist": "Rejoicer",
+      "track": "Dont Mess with J",
+      "album": "While You Are There",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "c6a53066-5e13-43c9-87da-4014a389c9cd",
+        "release_mbid": "28d1866d-659e-456b-ba4d-7c39daa9aef5",
+        "release_group_mbid": "c841928d-7abd-40ff-92a8-602fcb7655df"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794951290,
+      "listened_at_utc": "2026-11-17T21:34:50Z",
+      "artist": "Rejoicer",
+      "track": "The Web's Fluids",
+      "album": "While You Are There",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "904a80f4-4870-4130-bcdf-95d51c541a8a",
+        "release_mbid": "28d1866d-659e-456b-ba4d-7c39daa9aef5",
+        "release_group_mbid": "c841928d-7abd-40ff-92a8-602fcb7655df"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794951033,
+      "listened_at_utc": "2026-11-17T21:30:33Z",
+      "artist": "Rejoicer",
+      "track": "Prism (for Children)",
+      "album": "While You Are There",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "b8bbb130-c554-4639-8ab5-568b6ad86762",
+        "release_mbid": "28d1866d-659e-456b-ba4d-7c39daa9aef5",
+        "release_group_mbid": "c841928d-7abd-40ff-92a8-602fcb7655df"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794950862,
+      "listened_at_utc": "2026-11-17T21:27:42Z",
+      "artist": "Rejoicer",
+      "track": "CS4 aka Firefall",
+      "album": "While You Are There",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "release_mbid": "28d1866d-659e-456b-ba4d-7c39daa9aef5",
+        "recording_mbid": "1d12f282-9006-484b-a4f3-acafffcdc435",
+        "release_group_mbid": "c841928d-7abd-40ff-92a8-602fcb7655df"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794950662,
+      "listened_at_utc": "2026-11-17T21:24:22Z",
+      "artist": "אסף תלמודי / יונתן אלבלק / Shuli Rand / רביד כחלני / שי צברי",
+      "track": "הללו (מתוך הסרט \"אגדת חורבן\")",
+      "album": "הללו (מתוך הסרט \"אגדת חורבן\")",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dc8b4210-ca23-46fd-881b-c1d0cd1889e5",
+          "d6c51a79-1850-48bf-8e10-feb927240500",
+          "f14c3d52-879d-4509-a0d9-42bb4fdd5320",
+          "b8e3568e-9321-4001-bcea-b9a54127738a",
+          "f7b24bb3-d97c-421f-8a50-6b2dd23deecf"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794950459,
+      "listened_at_utc": "2026-11-17T21:20:59Z",
+      "artist": "Rejoicer",
+      "track": "Oceanic Friends",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "cf4c08f3-6860-45b5-8831-66c9d45367b5",
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32",
+        "release_group_mbid": "a1448821-400d-4fda-b6ce-300fccf35629"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794950268,
+      "listened_at_utc": "2026-11-17T21:17:48Z",
+      "artist": "Rejoicer",
+      "track": "Early Porpoises",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "f6883e37-f246-4397-a054-c000e2d3982c",
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32",
+        "release_group_mbid": "a1448821-400d-4fda-b6ce-300fccf35629"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794950035,
+      "listened_at_utc": "2026-11-17T21:13:55Z",
+      "artist": "Rejoicer",
+      "track": "Her Hair in the Air (Sahtain)",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "d5d67ddd-ad67-44fc-9dc5-43385bb98071",
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32",
+        "release_group_mbid": "a1448821-400d-4fda-b6ce-300fccf35629"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794949771,
+      "listened_at_utc": "2026-11-17T21:09:31Z",
+      "artist": "Rejoicer",
+      "track": "Southern Cross",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "64309ec8-2768-4fc3-9252-fc6fe54ea3c8",
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32",
+        "release_group_mbid": "a1448821-400d-4fda-b6ce-300fccf35629"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794947213,
+      "listened_at_utc": "2026-11-17T20:26:53Z",
+      "artist": "Rejoicer",
+      "track": "Handle with Care (Ice-Cream)",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "fcb422b6-463e-4979-9746-9343a63213e8",
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32",
+        "release_group_mbid": "a1448821-400d-4fda-b6ce-300fccf35629"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794947013,
+      "listened_at_utc": "2026-11-17T20:23:33Z",
+      "artist": "Rejoicer",
+      "track": "Further (with you)",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "5f9bac39-de3f-4d35-bbc9-0c43cb6bd47e"
+        ],
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794946797,
+      "listened_at_utc": "2026-11-17T20:19:57Z",
+      "artist": "Rejoicer",
+      "track": "Grace Was Happy (I Found Nothing)",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "eb1c3895-2896-42f9-b4a2-143e8287b8f9",
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32",
+        "release_group_mbid": "a1448821-400d-4fda-b6ce-300fccf35629"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794946505,
+      "listened_at_utc": "2026-11-17T20:15:05Z",
+      "artist": "Rejoicer",
+      "track": "Lion Water",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "17d78170-7194-4603-8dbb-ca1108430882"
+        ],
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794946268,
+      "listened_at_utc": "2026-11-17T20:11:08Z",
+      "artist": "Rejoicer",
+      "track": "Ritual in G#",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "2b8f48e7-6e84-449c-a9d8-f04035570543",
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32",
+        "release_group_mbid": "a1448821-400d-4fda-b6ce-300fccf35629"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794946056,
+      "listened_at_utc": "2026-11-17T20:07:36Z",
+      "artist": "Rejoicer",
+      "track": "A Traveling Light",
+      "album": "California Space Craft",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "848bfd6e-b5c8-48be-984a-274b125952fb",
+        "release_mbid": "e46dcb55-a3cd-4533-be60-1d6270f98b32",
+        "release_group_mbid": "a1448821-400d-4fda-b6ce-300fccf35629"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794945891,
+      "listened_at_utc": "2026-11-17T20:04:51Z",
+      "artist": "Amir Bresler",
+      "track": "Sure, It's 2001",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "838809e6-6785-42a9-8f4d-b5b24ac5503c",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794945777,
+      "listened_at_utc": "2026-11-17T20:02:57Z",
+      "artist": "Amir Bresler",
+      "track": "Where and Why",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794945657,
+      "listened_at_utc": "2026-11-17T20:00:57Z",
+      "artist": "Amir Bresler",
+      "track": "Prince Of Seals",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "3ec802cf-0e56-42c2-90ba-6e378229d2a9",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794945555,
+      "listened_at_utc": "2026-11-17T19:59:15Z",
+      "artist": "Amir Bresler",
+      "track": "Hugs",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b"
+        ],
+        "recording_mbid": "460dd3c1-c1f0-47da-8dc6-c71ef6ac4884",
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd",
+        "release_group_mbid": "d272e2cc-1773-4d6e-8c1d-00c0425cdf7a"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1794945494,
+      "listened_at_utc": "2026-11-17T19:58:14Z",
+      "artist": "Amir Bresler",
+      "track": "Crispy Soda",
+      "album": "See What Happens",
+      "musicbrainz": {
+        "artist_mbids": [
+          "549f72d7-4f0a-467f-b282-218fd39dd81b",
+          "44dd83fb-ccf2-407d-8869-bf6fbcc113d6"
+        ],
+        "release_mbid": "e6660468-3cc9-4bc2-bbd0-a9923c4904dd"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1794871432,
       "listened_at_utc": "2026-11-16T23:23:52Z",
