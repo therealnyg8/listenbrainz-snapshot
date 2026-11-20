@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-19T18:23:30Z",
+  "generated_at_utc": "2026-11-20T17:53:35Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-21T18:23:30Z",
-    "through_utc": "2026-11-19T18:23:30Z",
+    "from_utc": "2026-08-22T17:53:35Z",
+    "through_utc": "2026-11-20T17:53:35Z",
     "complete": true,
     "pages_fetched": 4,
     "max_pages": 10,
-    "raw_listen_count": 3172,
-    "deduplicated_listen_count": 1851,
-    "duplicates_removed": 1321,
+    "raw_listen_count": 3185,
+    "deduplicated_listen_count": 1858,
+    "duplicates_removed": 1327,
     "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-11-17T21:56:42Z"
+    "newest_listen_utc": "2026-11-19T22:00:52Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,9 +28,9 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 175,
-      "unique_artists": 16,
-      "unique_albums": 21,
+      "listen_count": 144,
+      "unique_artists": 13,
+      "unique_albums": 17,
       "listens_without_album": 0,
       "artists": [
         {
@@ -42,10 +42,6 @@
           "listen_count": 45
         },
         {
-          "artist": "Bob Dylan",
-          "listen_count": 28
-        },
-        {
           "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
           "listen_count": 11
         },
@@ -54,12 +50,8 @@
           "listen_count": 10
         },
         {
-          "artist": "Grace Jones",
-          "listen_count": 8
-        },
-        {
-          "artist": "Culture Club",
-          "listen_count": 1
+          "artist": "Ahmad Jamal Trio",
+          "listen_count": 7
         },
         {
           "artist": "Enzo Orefice Trio",
@@ -75,10 +67,6 @@
         },
         {
           "artist": "Peter Somuah",
-          "listen_count": 1
-        },
-        {
-          "artist": "Robert Palmer",
           "listen_count": 1
         },
         {
@@ -112,13 +100,6 @@
           "listen_count": 20,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-11-17T21:20:59Z"
-        },
-        {
-          "artist": "Bob Dylan",
-          "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd (Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976)",
-          "listen_count": 19,
-          "unique_tracks": 19,
-          "last_listened_at_utc": "2026-11-13T02:39:43Z"
         },
         {
           "artist": "Amir Bresler",
@@ -156,18 +137,11 @@
           "last_listened_at_utc": "2026-11-16T23:23:52Z"
         },
         {
-          "artist": "Bob Dylan",
-          "album": "The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
-          "listen_count": 9,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-11-12T22:03:00Z"
-        },
-        {
-          "artist": "Grace Jones",
-          "album": "Nightclubbing",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-12T20:36:30Z"
+          "artist": "Ahmad Jamal Trio",
+          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+          "listen_count": 7,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-11-19T22:00:52Z"
         },
         {
           "artist": "Amir Bresler",
@@ -175,13 +149,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-11-15T20:08:25Z"
-        },
-        {
-          "artist": "Culture Club",
-          "album": "Kissing To Be Clever",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-12T20:45:16Z"
         },
         {
           "artist": "Enzo Orefice Trio",
@@ -210,13 +177,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-15T22:27:17Z"
-        },
-        {
-          "artist": "Robert Palmer",
-          "album": "Clues (Expanded Edition)",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-12T20:40:23Z"
         },
         {
           "artist": "Roni Eytan",
@@ -249,9 +209,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 731,
-      "unique_artists": 116,
-      "unique_albums": 126,
+      "listen_count": 708,
+      "unique_artists": 110,
+      "unique_albums": 120,
       "listens_without_album": 0,
       "artists": [
         {
@@ -267,10 +227,6 @@
           "listen_count": 44
         },
         {
-          "artist": "Parquet Courts",
-          "listen_count": 38
-        },
-        {
           "artist": "Diana Krall",
           "listen_count": 33
         },
@@ -280,6 +236,10 @@
         },
         {
           "artist": "Fine",
+          "listen_count": 25
+        },
+        {
+          "artist": "Parquet Courts",
           "listen_count": 25
         },
         {
@@ -301,6 +261,10 @@
         {
           "artist": "Norah Jones",
           "listen_count": 16
+        },
+        {
+          "artist": "Ahmad Jamal Trio",
+          "listen_count": 15
         },
         {
           "artist": "The Raconteurs",
@@ -351,10 +315,6 @@
           "listen_count": 10
         },
         {
-          "artist": "Ahmad Jamal Trio",
-          "listen_count": 8
-        },
-        {
           "artist": "Arooj Aftab",
           "listen_count": 8
         },
@@ -377,10 +337,6 @@
         {
           "artist": "Mikiko Sato",
           "listen_count": 7
-        },
-        {
-          "artist": "BADBADNOTGOOD",
-          "listen_count": 6
         },
         {
           "artist": "Brad Mehldau Trio",
@@ -415,10 +371,6 @@
           "listen_count": 5
         },
         {
-          "artist": "Admas",
-          "listen_count": 4
-        },
-        {
           "artist": "Hailu Mergia",
           "listen_count": 4
         },
@@ -436,10 +388,6 @@
         },
         {
           "artist": "Alvvays",
-          "listen_count": 3
-        },
-        {
-          "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
           "listen_count": 3
         },
         {
@@ -465,10 +413,6 @@
         {
           "artist": "Tsuyoshi Yamamoto Trio",
           "listen_count": 3
-        },
-        {
-          "artist": "Arctic Monkeys",
-          "listen_count": 2
         },
         {
           "artist": "Beth Gibbons",
@@ -560,10 +504,6 @@
         },
         {
           "artist": "Enzo Orefice Trio",
-          "listen_count": 1
-        },
-        {
-          "artist": "Fontaines D.C.",
           "listen_count": 1
         },
         {
@@ -711,10 +651,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Young Fathers",
-          "listen_count": 1
-        },
-        {
           "artist": "אסף תלמודי / יונתן אלבלק / Shuli Rand / רביד כחלני / שי צברי",
           "listen_count": 1
         }
@@ -735,18 +671,18 @@
           "last_listened_at_utc": "2026-11-04T22:07:48Z"
         },
         {
-          "artist": "Parquet Courts",
-          "album": "Wide Awake!",
-          "listen_count": 38,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-23T13:23:41Z"
-        },
-        {
           "artist": "Fine",
           "album": "Jazz dreams",
           "listen_count": 25,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-31T15:54:26Z"
+        },
+        {
+          "artist": "Parquet Courts",
+          "album": "Wide Awake!",
+          "listen_count": 25,
+          "unique_tracks": 13,
+          "last_listened_at_utc": "2026-10-23T13:23:41Z"
         },
         {
           "artist": "Diana Krall",
@@ -796,6 +732,13 @@
           "listen_count": 16,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-30T18:38:05Z"
+        },
+        {
+          "artist": "Ahmad Jamal Trio",
+          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+          "listen_count": 15,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-19T22:00:52Z"
         },
         {
           "artist": "Amir Bresler",
@@ -917,13 +860,6 @@
           "last_listened_at_utc": "2026-11-12T22:03:00Z"
         },
         {
-          "artist": "Ahmad Jamal Trio",
-          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-24T23:17:44Z"
-        },
-        {
           "artist": "Arooj Aftab",
           "album": "Vulture Prince (Deluxe Edition)",
           "listen_count": 8,
@@ -964,13 +900,6 @@
           "listen_count": 7,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-11-07T23:30:58Z"
-        },
-        {
-          "artist": "BADBADNOTGOOD",
-          "album": "Mid Spiral",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-20T22:56:30Z"
         },
         {
           "artist": "Brad Mehldau Trio",
@@ -1050,13 +979,6 @@
           "last_listened_at_utc": "2026-10-22T20:49:22Z"
         },
         {
-          "artist": "Admas",
-          "album": "Sons of Ethiopia",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-20T23:19:38Z"
-        },
-        {
           "artist": "Hailu Mergia",
           "album": "Lala Belu",
           "listen_count": 4,
@@ -1090,13 +1012,6 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-10-22T20:32:17Z"
-        },
-        {
-          "artist": "Bill Evans Trio with Scott LaFaro, Paul Motian",
-          "album": "Waltz for Debby [1962]",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-20T21:55:07Z"
         },
         {
           "artist": "Djo",
@@ -1153,13 +1068,6 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-11-15T20:08:25Z"
-        },
-        {
-          "artist": "Arctic Monkeys",
-          "album": "Whatever People Say I Am, That's What I'm Not (Arctic Monkeys)",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-21T14:02:40Z"
         },
         {
           "artist": "Beth Gibbons",
@@ -1321,13 +1229,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-15T19:55:46Z"
-        },
-        {
-          "artist": "Fontaines D.C.",
-          "album": "Dopamine Chamber",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-20T21:43:32Z"
         },
         {
           "artist": "Fripp & Eno",
@@ -1589,13 +1490,6 @@
           "last_listened_at_utc": "2026-11-16T00:08:46Z"
         },
         {
-          "artist": "Young Fathers",
-          "album": "Heavy Heavy",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-20T21:38:34Z"
-        },
-        {
           "artist": "אסף תלמודי / יונתן אלבלק / Shuli Rand / רביד כחלני / שי צברי",
           "album": "הללו (מתוך הסרט \"אגדת חורבן\")",
           "listen_count": 1,
@@ -1605,7 +1499,7 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1851,
+      "listen_count": 1858,
       "unique_artists": 259,
       "unique_albums": 310,
       "listens_without_album": 0,
@@ -1647,16 +1541,16 @@
           "listen_count": 43
         },
         {
+          "artist": "Ahmad Jamal Trio",
+          "listen_count": 42
+        },
+        {
           "artist": "Parquet Courts",
           "listen_count": 38
         },
         {
           "artist": "Cameron Winter",
           "listen_count": 36
-        },
-        {
-          "artist": "Ahmad Jamal Trio",
-          "listen_count": 35
         },
         {
           "artist": "Diana Krall",
@@ -2677,18 +2571,18 @@
           "last_listened_at_utc": "2026-11-11T21:45:28Z"
         },
         {
+          "artist": "Ahmad Jamal Trio",
+          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+          "listen_count": 42,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-19T22:00:52Z"
+        },
+        {
           "artist": "Parquet Courts",
           "album": "Wide Awake!",
           "listen_count": 38,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-23T13:23:41Z"
-        },
-        {
-          "artist": "Ahmad Jamal Trio",
-          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
-          "listen_count": 35,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-24T23:17:44Z"
         },
         {
           "artist": "טונה",
@@ -4822,6 +4716,136 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1795125652,
+      "listened_at_utc": "2026-11-19T22:00:52Z",
+      "artist": "Ahmad Jamal Trio",
+      "track": "Wood'yn You (Live At The Pershing, Chicago, 1958)",
+      "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9e7ca87b-4e3d-4d14-90f1-a74acb645fe2",
+          "cf816800-4e0e-4d80-9cca-50a725e93787",
+          "60f32468-07df-408f-a3d7-622af9271da6"
+        ],
+        "release_mbid": "0008f765-032b-46cd-ab69-2220edab1837",
+        "recording_mbid": "fa16734f-2e51-4679-83b7-0d5b2f1a887f",
+        "release_group_mbid": "0a8e97fd-457c-30bc-938a-2fba79cb04e7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795125134,
+      "listened_at_utc": "2026-11-19T21:52:14Z",
+      "artist": "Ahmad Jamal Trio",
+      "track": "Poinciana (Live At The Pershing, Chicago, 1958)",
+      "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9e7ca87b-4e3d-4d14-90f1-a74acb645fe2",
+          "cf816800-4e0e-4d80-9cca-50a725e93787",
+          "60f32468-07df-408f-a3d7-622af9271da6"
+        ],
+        "release_mbid": "0008f765-032b-46cd-ab69-2220edab1837",
+        "recording_mbid": "13865e51-b11e-43d2-a9e2-ce40a255d92b",
+        "release_group_mbid": "0a8e97fd-457c-30bc-938a-2fba79cb04e7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795124917,
+      "listened_at_utc": "2026-11-19T21:48:37Z",
+      "artist": "Ahmad Jamal Trio",
+      "track": "No Greater Love (Live At The Pershing, Chicago, 1958)",
+      "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9e7ca87b-4e3d-4d14-90f1-a74acb645fe2",
+          "cf816800-4e0e-4d80-9cca-50a725e93787"
+        ],
+        "release_mbid": "0008f765-032b-46cd-ab69-2220edab1837"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795124739,
+      "listened_at_utc": "2026-11-19T21:45:39Z",
+      "artist": "Ahmad Jamal Trio",
+      "track": "Music, Music, Music (Live At The Pershing, Chicago, 1958)",
+      "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9e7ca87b-4e3d-4d14-90f1-a74acb645fe2",
+          "cf816800-4e0e-4d80-9cca-50a725e93787",
+          "60f32468-07df-408f-a3d7-622af9271da6"
+        ],
+        "release_mbid": "0008f765-032b-46cd-ab69-2220edab1837"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795124549,
+      "listened_at_utc": "2026-11-19T21:42:29Z",
+      "artist": "Ahmad Jamal Trio",
+      "track": "Moonlight In Vermont (Live At The Pershing, Chicago, 1958)",
+      "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9e7ca87b-4e3d-4d14-90f1-a74acb645fe2",
+          "cf816800-4e0e-4d80-9cca-50a725e93787",
+          "60f32468-07df-408f-a3d7-622af9271da6"
+        ],
+        "release_mbid": "0008f765-032b-46cd-ab69-2220edab1837",
+        "recording_mbid": "04963036-4468-4e93-8842-7508ecafd800",
+        "release_group_mbid": "0a8e97fd-457c-30bc-938a-2fba79cb04e7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795124393,
+      "listened_at_utc": "2026-11-19T21:39:53Z",
+      "artist": "Ahmad Jamal Trio",
+      "track": "Surrey With The Fringe On The Top (Live At The Pershing, Chicago, 1958)",
+      "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+      "musicbrainz": {},
+      "submission_clients": [
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795124181,
+      "listened_at_utc": "2026-11-19T21:36:21Z",
+      "artist": "Ahmad Jamal Trio",
+      "track": "But Not For Me (Live At The Pershing, Chicago, 1958)",
+      "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9e7ca87b-4e3d-4d14-90f1-a74acb645fe2",
+          "cf816800-4e0e-4d80-9cca-50a725e93787",
+          "60f32468-07df-408f-a3d7-622af9271da6"
+        ],
+        "release_mbid": "0008f765-032b-46cd-ab69-2220edab1837"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1794952602,
       "listened_at_utc": "2026-11-17T21:56:42Z",
