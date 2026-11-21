@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-20T17:53:35Z",
+  "generated_at_utc": "2026-11-21T16:50:44Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-22T17:53:35Z",
-    "through_utc": "2026-11-20T17:53:35Z",
+    "from_utc": "2026-08-23T16:50:44Z",
+    "through_utc": "2026-11-21T16:50:44Z",
     "complete": true,
     "pages_fetched": 4,
     "max_pages": 10,
-    "raw_listen_count": 3185,
-    "deduplicated_listen_count": 1858,
-    "duplicates_removed": 1327,
-    "oldest_listen_utc": "2026-08-23T15:49:31Z",
-    "newest_listen_utc": "2026-11-19T22:00:52Z"
+    "raw_listen_count": 3223,
+    "deduplicated_listen_count": 1877,
+    "duplicates_removed": 1346,
+    "oldest_listen_utc": "2026-09-01T18:40:11Z",
+    "newest_listen_utc": "2026-11-21T15:09:51Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,9 +28,9 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 144,
-      "unique_artists": 13,
-      "unique_albums": 17,
+      "listen_count": 164,
+      "unique_artists": 16,
+      "unique_albums": 20,
       "listens_without_album": 0,
       "artists": [
         {
@@ -42,16 +42,24 @@
           "listen_count": 45
         },
         {
+          "artist": "Rejoicer & Eyal Talmudi",
+          "listen_count": 15
+        },
+        {
           "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
           "listen_count": 11
         },
         {
-          "artist": "Rejoicer & Eyal Talmudi",
-          "listen_count": 10
+          "artist": "Ahmad Jamal Trio",
+          "listen_count": 8
         },
         {
-          "artist": "Ahmad Jamal Trio",
+          "artist": "Yehezkel Raz / Claudio Constantini",
           "listen_count": 7
+        },
+        {
+          "artist": "Dan Mayo / Yehezkel Raz",
+          "listen_count": 6
         },
         {
           "artist": "Enzo Orefice Trio",
@@ -59,6 +67,10 @@
         },
         {
           "artist": "Kendrick Scott, Reuben Rogers, Walter Smith III",
+          "listen_count": 1
+        },
+        {
+          "artist": "Kurt Rosenwinkel",
           "listen_count": 1
         },
         {
@@ -109,6 +121,13 @@
           "last_listened_at_utc": "2026-11-16T18:36:46Z"
         },
         {
+          "artist": "Rejoicer & Eyal Talmudi",
+          "album": "The Audience",
+          "listen_count": 15,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-11-21T15:09:51Z"
+        },
+        {
           "artist": "Rejoicer",
           "album": "While You Are There",
           "listen_count": 13,
@@ -130,18 +149,25 @@
           "last_listened_at_utc": "2026-11-15T20:58:33Z"
         },
         {
-          "artist": "Rejoicer & Eyal Talmudi",
-          "album": "The Audience",
-          "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-11-16T23:23:52Z"
-        },
-        {
           "artist": "Ahmad Jamal Trio",
           "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-20T20:19:21Z"
+        },
+        {
+          "artist": "Yehezkel Raz / Claudio Constantini",
+          "album": "Elsewhere",
           "listen_count": 7,
           "unique_tracks": 7,
-          "last_listened_at_utc": "2026-11-19T22:00:52Z"
+          "last_listened_at_utc": "2026-11-20T20:44:18Z"
+        },
+        {
+          "artist": "Dan Mayo / Yehezkel Raz",
+          "album": "ZU",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-11-20T21:32:23Z"
         },
         {
           "artist": "Amir Bresler",
@@ -163,6 +189,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-15T19:50:50Z"
+        },
+        {
+          "artist": "Kurt Rosenwinkel",
+          "album": "The Next Step Band (Live at Smalls, 1996)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-20T20:23:30Z"
         },
         {
           "artist": "New Fossils",
@@ -209,9 +242,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 708,
-      "unique_artists": 110,
-      "unique_albums": 120,
+      "listen_count": 686,
+      "unique_artists": 105,
+      "unique_albums": 114,
       "listens_without_album": 0,
       "artists": [
         {
@@ -239,10 +272,6 @@
           "listen_count": 25
         },
         {
-          "artist": "Parquet Courts",
-          "listen_count": 25
-        },
-        {
           "artist": "Djo",
           "listen_count": 23
         },
@@ -255,15 +284,15 @@
           "listen_count": 18
         },
         {
-          "artist": "Michael Kiwanuka",
-          "listen_count": 17
+          "artist": "Ahmad Jamal Trio",
+          "listen_count": 16
         },
         {
           "artist": "Norah Jones",
           "listen_count": 16
         },
         {
-          "artist": "Ahmad Jamal Trio",
+          "artist": "Rejoicer & Eyal Talmudi",
           "listen_count": 15
         },
         {
@@ -275,8 +304,8 @@
           "listen_count": 13
         },
         {
-          "artist": "Roy Hargrove Quintet",
-          "listen_count": 13
+          "artist": "Parquet Courts",
+          "listen_count": 12
         },
         {
           "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
@@ -289,6 +318,10 @@
         {
           "artist": "Thee Sacred Souls",
           "listen_count": 12
+        },
+        {
+          "artist": "Michael Kiwanuka",
+          "listen_count": 11
         },
         {
           "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
@@ -307,11 +340,7 @@
           "listen_count": 10
         },
         {
-          "artist": "Rejoicer & Eyal Talmudi",
-          "listen_count": 10
-        },
-        {
-          "artist": "Songhoy Blues",
+          "artist": "Roy Hargrove Quintet",
           "listen_count": 10
         },
         {
@@ -339,6 +368,10 @@
           "listen_count": 7
         },
         {
+          "artist": "Yehezkel Raz / Claudio Constantini",
+          "listen_count": 7
+        },
+        {
           "artist": "Brad Mehldau Trio",
           "listen_count": 6
         },
@@ -348,6 +381,10 @@
         },
         {
           "artist": "Clairo",
+          "listen_count": 6
+        },
+        {
+          "artist": "Dan Mayo / Yehezkel Raz",
           "listen_count": 6
         },
         {
@@ -415,15 +452,7 @@
           "listen_count": 3
         },
         {
-          "artist": "Beth Gibbons",
-          "listen_count": 2
-        },
-        {
           "artist": "Beth Orton",
-          "listen_count": 2
-        },
-        {
-          "artist": "Emmet Cohen",
           "listen_count": 2
         },
         {
@@ -443,19 +472,11 @@
           "listen_count": 2
         },
         {
-          "artist": "中村照夫",
-          "listen_count": 2
-        },
-        {
           "artist": "Allen Toussaint",
           "listen_count": 1
         },
         {
           "artist": "Ambrose Akinmusire",
-          "listen_count": 1
-        },
-        {
-          "artist": "Avishai Cohen Trio",
           "listen_count": 1
         },
         {
@@ -495,11 +516,11 @@
           "listen_count": 1
         },
         {
-          "artist": "Deerhunter",
+          "artist": "Dizzy Gillespie",
           "listen_count": 1
         },
         {
-          "artist": "Dizzy Gillespie",
+          "artist": "Emmet Cohen",
           "listen_count": 1
         },
         {
@@ -544,6 +565,10 @@
         },
         {
           "artist": "Kurt Elling & Yellowjackets",
+          "listen_count": 1
+        },
+        {
+          "artist": "Kurt Rosenwinkel",
           "listen_count": 1
         },
         {
@@ -595,15 +620,7 @@
           "listen_count": 1
         },
         {
-          "artist": "SPRINTS",
-          "listen_count": 1
-        },
-        {
           "artist": "Salvatore Bonafede Quintet",
-          "listen_count": 1
-        },
-        {
-          "artist": "Squid",
           "listen_count": 1
         },
         {
@@ -632,10 +649,6 @@
         },
         {
           "artist": "The National",
-          "listen_count": 1
-        },
-        {
-          "artist": "The Weather Station",
           "listen_count": 1
         },
         {
@@ -676,13 +689,6 @@
           "listen_count": 25,
           "unique_tracks": 13,
           "last_listened_at_utc": "2026-10-31T15:54:26Z"
-        },
-        {
-          "artist": "Parquet Courts",
-          "album": "Wide Awake!",
-          "listen_count": 25,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-23T13:23:41Z"
         },
         {
           "artist": "Diana Krall",
@@ -727,6 +733,13 @@
           "last_listened_at_utc": "2026-11-11T21:45:28Z"
         },
         {
+          "artist": "Ahmad Jamal Trio",
+          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+          "listen_count": 16,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-20T20:19:21Z"
+        },
+        {
           "artist": "Norah Jones",
           "album": "Come Away with Me",
           "listen_count": 16,
@@ -734,18 +747,18 @@
           "last_listened_at_utc": "2026-10-30T18:38:05Z"
         },
         {
-          "artist": "Ahmad Jamal Trio",
-          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
-          "listen_count": 15,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-19T22:00:52Z"
-        },
-        {
           "artist": "Amir Bresler",
           "album": "Tide & Time",
           "listen_count": 15,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-11-16T18:36:46Z"
+        },
+        {
+          "artist": "Rejoicer & Eyal Talmudi",
+          "album": "The Audience",
+          "listen_count": 15,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-11-21T15:09:51Z"
         },
         {
           "artist": "The Raconteurs",
@@ -769,18 +782,18 @@
           "last_listened_at_utc": "2026-11-17T21:56:42Z"
         },
         {
-          "artist": "Roy Hargrove Quintet",
-          "album": "Earfood",
-          "listen_count": 13,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-22T17:49:41Z"
-        },
-        {
           "artist": "Diana Krall",
           "album": "The Girl In The Other Room",
           "listen_count": 12,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-11-06T21:22:02Z"
+        },
+        {
+          "artist": "Parquet Courts",
+          "album": "Wide Awake!",
+          "listen_count": 12,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-23T13:23:41Z"
         },
         {
           "artist": "Rejoicer",
@@ -839,18 +852,11 @@
           "last_listened_at_utc": "2026-10-31T18:11:35Z"
         },
         {
-          "artist": "Rejoicer & Eyal Talmudi",
-          "album": "The Audience",
+          "artist": "Roy Hargrove Quintet",
+          "album": "Earfood",
           "listen_count": 10,
           "unique_tracks": 10,
-          "last_listened_at_utc": "2026-11-16T23:23:52Z"
-        },
-        {
-          "artist": "Songhoy Blues",
-          "album": "Résistance",
-          "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-10-22T13:26:52Z"
+          "last_listened_at_utc": "2026-10-22T17:49:41Z"
         },
         {
           "artist": "Bob Dylan",
@@ -902,6 +908,13 @@
           "last_listened_at_utc": "2026-11-07T23:30:58Z"
         },
         {
+          "artist": "Yehezkel Raz / Claudio Constantini",
+          "album": "Elsewhere",
+          "listen_count": 7,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-11-20T20:44:18Z"
+        },
+        {
           "artist": "Brad Mehldau Trio",
           "album": "Blues and Ballads",
           "listen_count": 6,
@@ -923,11 +936,11 @@
           "last_listened_at_utc": "2026-10-31T16:33:39Z"
         },
         {
-          "artist": "Michael Kiwanuka",
-          "album": "Love & Hate",
+          "artist": "Dan Mayo / Yehezkel Raz",
+          "album": "ZU",
           "listen_count": 6,
           "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-22T00:49:03Z"
+          "last_listened_at_utc": "2026-11-20T21:32:23Z"
         },
         {
           "artist": "Miles Davis",
@@ -1070,25 +1083,11 @@
           "last_listened_at_utc": "2026-11-15T20:08:25Z"
         },
         {
-          "artist": "Beth Gibbons",
-          "album": "Lives Outgrown",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-22T00:05:26Z"
-        },
-        {
           "artist": "Beth Orton",
           "album": "Weather Alive",
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-11-05T17:56:14Z"
-        },
-        {
-          "artist": "Emmet Cohen",
-          "album": "Future Stride",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-24T14:13:36Z"
         },
         {
           "artist": "Ginger Root",
@@ -1119,13 +1118,6 @@
           "last_listened_at_utc": "2026-10-24T13:38:13Z"
         },
         {
-          "artist": "中村照夫",
-          "album": "Unicorn",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-21T22:14:32Z"
-        },
-        {
           "artist": "Allen Toussaint",
           "album": "Southern Nights (2003 Remaster)",
           "listen_count": 1,
@@ -1138,13 +1130,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-22T17:56:31Z"
-        },
-        {
-          "artist": "Avishai Cohen Trio",
-          "album": "Gently Disturbed",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-22T00:15:20Z"
         },
         {
           "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
@@ -1210,18 +1195,18 @@
           "last_listened_at_utc": "2026-11-02T21:58:48Z"
         },
         {
-          "artist": "Deerhunter",
-          "album": "Monomania",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-21T20:26:57Z"
-        },
-        {
           "artist": "Dizzy Gillespie",
           "album": "Dizzy 100",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-03T00:44:31Z"
+        },
+        {
+          "artist": "Emmet Cohen",
+          "album": "Future Stride",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-24T14:13:36Z"
         },
         {
           "artist": "Enzo Orefice Trio",
@@ -1299,6 +1284,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-03T00:34:23Z"
+        },
+        {
+          "artist": "Kurt Rosenwinkel",
+          "album": "The Next Step Band (Live at Smalls, 1996)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-20T20:23:30Z"
         },
         {
           "artist": "Leo Sidran",
@@ -1385,25 +1377,11 @@
           "last_listened_at_utc": "2026-11-15T22:32:56Z"
         },
         {
-          "artist": "SPRINTS",
-          "album": "Letter to Self",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-22T12:51:16Z"
-        },
-        {
           "artist": "Salvatore Bonafede Quintet",
           "album": "Journey To Donnafugata",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-11T22:07:38Z"
-        },
-        {
-          "artist": "Squid",
-          "album": "Town Centre",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-21T20:23:22Z"
         },
         {
           "artist": "Stephan Crump",
@@ -1462,13 +1440,6 @@
           "last_listened_at_utc": "2026-10-24T19:21:42Z"
         },
         {
-          "artist": "The Weather Station",
-          "album": "How Is It That I Should Look At The Stars",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-22T00:08:50Z"
-        },
-        {
           "artist": "Tingvall Trio",
           "album": "Beat",
           "listen_count": 1,
@@ -1499,9 +1470,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1858,
-      "unique_artists": 259,
-      "unique_albums": 310,
+      "listen_count": 1877,
+      "unique_artists": 262,
+      "unique_albums": 313,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1533,15 +1504,15 @@
           "listen_count": 44
         },
         {
+          "artist": "Ahmad Jamal Trio",
+          "listen_count": 43
+        },
+        {
           "artist": "Anouar Brahem",
           "listen_count": 43
         },
         {
           "artist": "Tsuyoshi Yamamoto Trio",
-          "listen_count": 43
-        },
-        {
-          "artist": "Ahmad Jamal Trio",
           "listen_count": 42
         },
         {
@@ -1610,6 +1581,10 @@
         },
         {
           "artist": "Kenny Burrell",
+          "listen_count": 15
+        },
+        {
+          "artist": "Rejoicer & Eyal Talmudi",
           "listen_count": 15
         },
         {
@@ -1709,10 +1684,6 @@
           "listen_count": 10
         },
         {
-          "artist": "Rejoicer & Eyal Talmudi",
-          "listen_count": 10
-        },
-        {
           "artist": "Songhoy Blues",
           "listen_count": 10
         },
@@ -1789,6 +1760,10 @@
           "listen_count": 7
         },
         {
+          "artist": "Yehezkel Raz / Claudio Constantini",
+          "listen_count": 7
+        },
+        {
           "artist": "מוקי",
           "listen_count": 7
         },
@@ -1806,6 +1781,10 @@
         },
         {
           "artist": "Clairo",
+          "listen_count": 6
+        },
+        {
+          "artist": "Dan Mayo / Yehezkel Raz",
           "listen_count": 6
         },
         {
@@ -2265,6 +2244,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Kurt Rosenwinkel",
+          "listen_count": 1
+        },
+        {
           "artist": "Lee Konitz, Brad Mehldau, Charlie Haden & Paul Motian",
           "listen_count": 1
         },
@@ -2564,18 +2547,18 @@
           "last_listened_at_utc": "2026-11-04T22:07:48Z"
         },
         {
+          "artist": "Ahmad Jamal Trio",
+          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+          "listen_count": 43,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-20T20:19:21Z"
+        },
+        {
           "artist": "Anouar Brahem",
           "album": "The Astounding Eyes Of Rita",
           "listen_count": 43,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-11-11T21:45:28Z"
-        },
-        {
-          "artist": "Ahmad Jamal Trio",
-          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
-          "listen_count": 42,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-19T22:00:52Z"
         },
         {
           "artist": "Parquet Courts",
@@ -2711,18 +2694,18 @@
           "last_listened_at_utc": "2026-10-19T23:05:51Z"
         },
         {
-          "artist": "Tsuyoshi Yamamoto Trio",
-          "album": "Misty",
-          "listen_count": 17,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-09T22:27:08Z"
-        },
-        {
           "artist": "John Coltrane Quartet",
           "album": "Ballads",
           "listen_count": 16,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-11T12:27:39Z"
+        },
+        {
+          "artist": "Tsuyoshi Yamamoto Trio",
+          "album": "Misty",
+          "listen_count": 16,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-10-09T22:27:08Z"
         },
         {
           "artist": "Amir Bresler",
@@ -2744,6 +2727,13 @@
           "listen_count": 15,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-10T17:09:44Z"
+        },
+        {
+          "artist": "Rejoicer & Eyal Talmudi",
+          "album": "The Audience",
+          "listen_count": 15,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-11-21T15:09:51Z"
         },
         {
           "artist": "Sonny Rollins",
@@ -2984,13 +2974,6 @@
           "last_listened_at_utc": "2026-10-02T19:31:45Z"
         },
         {
-          "artist": "Rejoicer & Eyal Talmudi",
-          "album": "The Audience",
-          "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-11-16T23:23:52Z"
-        },
-        {
           "artist": "Songhoy Blues",
           "album": "Résistance",
           "listen_count": 10,
@@ -3159,6 +3142,13 @@
           "last_listened_at_utc": "2026-10-15T23:35:26Z"
         },
         {
+          "artist": "Yehezkel Raz / Claudio Constantini",
+          "album": "Elsewhere",
+          "listen_count": 7,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-11-20T20:44:18Z"
+        },
+        {
           "artist": "מוקי",
           "album": "Shema Israel (Album)",
           "listen_count": 7,
@@ -3199,6 +3189,13 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-31T16:33:39Z"
+        },
+        {
+          "artist": "Dan Mayo / Yehezkel Raz",
+          "album": "ZU",
+          "listen_count": 6,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-11-20T21:32:23Z"
         },
         {
           "artist": "Hank Mobley",
@@ -4132,6 +4129,13 @@
           "last_listened_at_utc": "2026-11-03T00:34:23Z"
         },
         {
+          "artist": "Kurt Rosenwinkel",
+          "album": "The Next Step Band (Live at Smalls, 1996)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-20T20:23:30Z"
+        },
+        {
           "artist": "Lee Konitz, Brad Mehldau, Charlie Haden & Paul Motian",
           "album": "Live At Birdland",
           "listen_count": 1,
@@ -4716,6 +4720,382 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1795273791,
+      "listened_at_utc": "2026-11-21T15:09:51Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "Apollo 57",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "69542b7d-941c-4bb4-ab94-f2286a1c8ffc",
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079",
+        "release_group_mbid": "a414297d-8c9e-4f2a-b638-e864f17674be"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795216449,
+      "listened_at_utc": "2026-11-20T23:14:09Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "Green Parrots",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "14919500-7e17-4296-9738-d42c509ba489",
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079",
+        "release_group_mbid": "a414297d-8c9e-4f2a-b638-e864f17674be"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795216182,
+      "listened_at_utc": "2026-11-20T23:09:42Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "blp blp away",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795215950,
+      "listened_at_utc": "2026-11-20T23:05:50Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "Will The Wheel",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "a3ba35b2-0bcc-4a07-b377-268b5865bae2",
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079",
+        "release_group_mbid": "a414297d-8c9e-4f2a-b638-e864f17674be"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795215713,
+      "listened_at_utc": "2026-11-20T23:01:53Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "Naftulik",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "67d1de0c-1668-4565-b831-5176f0f54967",
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079",
+        "release_group_mbid": "a414297d-8c9e-4f2a-b638-e864f17674be"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795210343,
+      "listened_at_utc": "2026-11-20T21:32:23Z",
+      "artist": "Dan Mayo / Yehezkel Raz",
+      "track": "Vulture",
+      "album": "ZU",
+      "musicbrainz": {
+        "artist_mbids": [
+          "bda4d18b-9c2e-4354-9a52-51ebec019232",
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a"
+        ],
+        "recording_mbid": "871aea05-8b2b-4a45-a524-f590668c5aaa",
+        "release_mbid": "b7c69214-2a54-4ce1-b6b5-76df66db3b25",
+        "release_group_mbid": "3cc00647-b230-4bfe-a731-41c62b42b8c7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795210090,
+      "listened_at_utc": "2026-11-20T21:28:10Z",
+      "artist": "Dan Mayo / Yehezkel Raz",
+      "track": "Praying Mantis",
+      "album": "ZU",
+      "musicbrainz": {
+        "artist_mbids": [
+          "bda4d18b-9c2e-4354-9a52-51ebec019232",
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a"
+        ],
+        "recording_mbid": "d384a649-c543-4f83-97ed-be4685008355",
+        "release_mbid": "b7c69214-2a54-4ce1-b6b5-76df66db3b25",
+        "release_group_mbid": "3cc00647-b230-4bfe-a731-41c62b42b8c7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795209220,
+      "listened_at_utc": "2026-11-20T21:13:40Z",
+      "artist": "Dan Mayo / Yehezkel Raz",
+      "track": "White Whale",
+      "album": "ZU",
+      "musicbrainz": {
+        "artist_mbids": [
+          "bda4d18b-9c2e-4354-9a52-51ebec019232",
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a"
+        ],
+        "recording_mbid": "beae2297-f7c9-487b-bf62-6c64434b2a6a",
+        "release_mbid": "b7c69214-2a54-4ce1-b6b5-76df66db3b25",
+        "release_group_mbid": "3cc00647-b230-4bfe-a731-41c62b42b8c7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795208836,
+      "listened_at_utc": "2026-11-20T21:07:16Z",
+      "artist": "Dan Mayo / Yehezkel Raz",
+      "track": "Wasp",
+      "album": "ZU",
+      "musicbrainz": {
+        "artist_mbids": [
+          "bda4d18b-9c2e-4354-9a52-51ebec019232",
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a"
+        ],
+        "recording_mbid": "eae7607c-9296-4b22-8efd-42f82ce81557",
+        "release_mbid": "b7c69214-2a54-4ce1-b6b5-76df66db3b25",
+        "release_group_mbid": "3cc00647-b230-4bfe-a731-41c62b42b8c7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795208483,
+      "listened_at_utc": "2026-11-20T21:01:23Z",
+      "artist": "Dan Mayo / Yehezkel Raz",
+      "track": "Ant",
+      "album": "ZU",
+      "musicbrainz": {
+        "artist_mbids": [
+          "bda4d18b-9c2e-4354-9a52-51ebec019232",
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a"
+        ],
+        "recording_mbid": "e1911ad7-b6bd-4d95-98a7-1b11a5d496af",
+        "release_mbid": "b7c69214-2a54-4ce1-b6b5-76df66db3b25",
+        "release_group_mbid": "3cc00647-b230-4bfe-a731-41c62b42b8c7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795208062,
+      "listened_at_utc": "2026-11-20T20:54:22Z",
+      "artist": "Dan Mayo / Yehezkel Raz",
+      "track": "Cobra",
+      "album": "ZU",
+      "musicbrainz": {
+        "artist_mbids": [
+          "bda4d18b-9c2e-4354-9a52-51ebec019232",
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a"
+        ],
+        "recording_mbid": "7952e1cb-87d2-4939-8185-e7c42e26b57e",
+        "release_mbid": "b7c69214-2a54-4ce1-b6b5-76df66db3b25",
+        "release_group_mbid": "3cc00647-b230-4bfe-a731-41c62b42b8c7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795207458,
+      "listened_at_utc": "2026-11-20T20:44:18Z",
+      "artist": "Yehezkel Raz / Claudio Constantini",
+      "track": "Aether",
+      "album": "Elsewhere",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a",
+          "e59c542e-3aa7-4d3b-9322-bdc2cc0d099a"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795207336,
+      "listened_at_utc": "2026-11-20T20:42:16Z",
+      "artist": "Yehezkel Raz / Claudio Constantini",
+      "track": "Elsewhere",
+      "album": "Elsewhere",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a",
+          "e59c542e-3aa7-4d3b-9322-bdc2cc0d099a"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795207118,
+      "listened_at_utc": "2026-11-20T20:38:38Z",
+      "artist": "Yehezkel Raz / Claudio Constantini",
+      "track": "Soar",
+      "album": "Elsewhere",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a",
+          "e59c542e-3aa7-4d3b-9322-bdc2cc0d099a"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795207029,
+      "listened_at_utc": "2026-11-20T20:37:09Z",
+      "artist": "Yehezkel Raz / Claudio Constantini",
+      "track": "Ascent",
+      "album": "Elsewhere",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a",
+          "e59c542e-3aa7-4d3b-9322-bdc2cc0d099a"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795206894,
+      "listened_at_utc": "2026-11-20T20:34:54Z",
+      "artist": "Yehezkel Raz / Claudio Constantini",
+      "track": "Silent Moon",
+      "album": "Elsewhere",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a",
+          "e59c542e-3aa7-4d3b-9322-bdc2cc0d099a"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795206682,
+      "listened_at_utc": "2026-11-20T20:31:22Z",
+      "artist": "Yehezkel Raz / Claudio Constantini",
+      "track": "A Kind of Light",
+      "album": "Elsewhere",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a",
+          "e59c542e-3aa7-4d3b-9322-bdc2cc0d099a"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795206564,
+      "listened_at_utc": "2026-11-20T20:29:24Z",
+      "artist": "Yehezkel Raz / Claudio Constantini",
+      "track": "Respiro",
+      "album": "Elsewhere",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a",
+          "e59c542e-3aa7-4d3b-9322-bdc2cc0d099a"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795206210,
+      "listened_at_utc": "2026-11-20T20:23:30Z",
+      "artist": "Kurt Rosenwinkel",
+      "track": "Zhivago (Live at Smalls, 1996)",
+      "album": "The Next Step Band (Live at Smalls, 1996)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fc43556b-9657-4680-8809-e50295380f98",
+          "b0d147ff-a203-4b1c-9818-00028e47c5af",
+          "b7723b3f-9a35-438d-bc42-8ad8b5e027ae",
+          "3eec64cd-02d3-4bde-9837-0e1305517e3e",
+          "b07793f0-bf47-4e3a-9655-f6d673479c17"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795205961,
+      "listened_at_utc": "2026-11-20T20:19:21Z",
+      "artist": "Ahmad Jamal Trio",
+      "track": "What's New (Live At The Pershing, Chicago, 1958)",
+      "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9e7ca87b-4e3d-4d14-90f1-a74acb645fe2",
+          "cf816800-4e0e-4d80-9cca-50a725e93787"
+        ],
+        "release_mbid": "0008f765-032b-46cd-ab69-2220edab1837",
+        "recording_mbid": "14c54935-16f9-46ab-b57b-ad5ad4ee81cb",
+        "release_group_mbid": "0a8e97fd-457c-30bc-938a-2fba79cb04e7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1795125652,
       "listened_at_utc": "2026-11-19T22:00:52Z",
@@ -38521,24 +38901,6 @@
         "recording_mbid": "ee1bf768-41ab-4d7b-bf0d-dfeee5c8236f",
         "release_mbid": "c489e6b3-83ef-43d3-a2f7-86af6b685785",
         "release_group_mbid": "0056ed9b-73dd-40cf-8419-e5eaf02c150f"
-      },
-      "submission_clients": [
-        "ListenBrainz lastfm importer v2"
-      ]
-    },
-    {
-      "listened_at": 1787500171,
-      "listened_at_utc": "2026-08-23T15:49:31Z",
-      "artist": "Tsuyoshi Yamamoto Trio",
-      "track": "Misty",
-      "album": "Misty",
-      "musicbrainz": {
-        "artist_mbids": [
-          "d636b8cb-0b14-41ef-aaf7-71e2b9087ae5"
-        ],
-        "recording_mbid": "9949c10d-1eeb-4abe-ab43-19cae32dfceb",
-        "release_mbid": "e18fbebe-e08a-4d87-be4d-ff2be241f14a",
-        "release_group_mbid": "a4d201ab-bf93-3682-81ef-ddc706b60e5b"
       },
       "submission_clients": [
         "ListenBrainz lastfm importer v2"
