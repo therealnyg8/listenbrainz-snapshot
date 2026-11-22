@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-21T16:50:44Z",
+  "generated_at_utc": "2026-11-22T17:13:49Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-23T16:50:44Z",
-    "through_utc": "2026-11-21T16:50:44Z",
+    "from_utc": "2026-08-24T17:13:49Z",
+    "through_utc": "2026-11-22T17:13:49Z",
     "complete": true,
     "pages_fetched": 4,
     "max_pages": 10,
-    "raw_listen_count": 3223,
-    "deduplicated_listen_count": 1877,
-    "duplicates_removed": 1346,
+    "raw_listen_count": 3312,
+    "deduplicated_listen_count": 1933,
+    "duplicates_removed": 1379,
     "oldest_listen_utc": "2026-09-01T18:40:11Z",
-    "newest_listen_utc": "2026-11-21T15:09:51Z"
+    "newest_listen_utc": "2026-11-22T14:50:44Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,14 +28,14 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 164,
-      "unique_artists": 16,
-      "unique_albums": 20,
+      "listen_count": 216,
+      "unique_artists": 27,
+      "unique_albums": 32,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "Amir Bresler",
-          "listen_count": 63
+          "listen_count": 61
         },
         {
           "artist": "Rejoicer",
@@ -43,11 +43,19 @@
         },
         {
           "artist": "Rejoicer & Eyal Talmudi",
-          "listen_count": 15
+          "listen_count": 28
+        },
+        {
+          "artist": "Eyal Talmudi/ Roy Chen",
+          "listen_count": 11
+        },
+        {
+          "artist": "Alon Aboutboul",
+          "listen_count": 10
         },
         {
           "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
-          "listen_count": 11
+          "listen_count": 9
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -55,11 +63,39 @@
         },
         {
           "artist": "Yehezkel Raz / Claudio Constantini",
-          "listen_count": 7
+          "listen_count": 8
         },
         {
           "artist": "Dan Mayo / Yehezkel Raz",
-          "listen_count": 6
+          "listen_count": 7
+        },
+        {
+          "artist": "Eyal Talmudi",
+          "listen_count": 4
+        },
+        {
+          "artist": "Diana Krall",
+          "listen_count": 3
+        },
+        {
+          "artist": "Joshua Redman",
+          "listen_count": 3
+        },
+        {
+          "artist": "Anouar Brahem",
+          "listen_count": 2
+        },
+        {
+          "artist": "Dan Mayo & Yehezkel Raz",
+          "listen_count": 2
+        },
+        {
+          "artist": "Jimi Prasad Orchestra",
+          "listen_count": 2
+        },
+        {
+          "artist": "Tatran & Eyal Talmudi",
+          "listen_count": 2
         },
         {
           "artist": "Enzo Orefice Trio",
@@ -90,7 +126,15 @@
           "listen_count": 1
         },
         {
+          "artist": "Time Grove",
+          "listen_count": 1
+        },
+        {
           "artist": "Totalement Sublime",
+          "listen_count": 1
+        },
+        {
+          "artist": "Youssou N'Dour & Le Super Étoile de Dakar",
           "listen_count": 1
         },
         {
@@ -107,6 +151,13 @@
           "last_listened_at_utc": "2026-11-17T20:04:51Z"
         },
         {
+          "artist": "Rejoicer & Eyal Talmudi",
+          "album": "The Audience",
+          "listen_count": 28,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-11-22T13:46:08Z"
+        },
+        {
           "artist": "Rejoicer",
           "album": "California Space Craft",
           "listen_count": 20,
@@ -116,16 +167,9 @@
         {
           "artist": "Amir Bresler",
           "album": "Tide & Time",
-          "listen_count": 15,
+          "listen_count": 13,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-11-16T18:36:46Z"
-        },
-        {
-          "artist": "Rejoicer & Eyal Talmudi",
-          "album": "The Audience",
-          "listen_count": 15,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-11-21T15:09:51Z"
         },
         {
           "artist": "Rejoicer",
@@ -142,9 +186,23 @@
           "last_listened_at_utc": "2026-11-16T00:04:20Z"
         },
         {
+          "artist": "Eyal Talmudi/ Roy Chen",
+          "album": "Saved My Eyes From Tears",
+          "listen_count": 11,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-11-21T19:38:48Z"
+        },
+        {
+          "artist": "Alon Aboutboul",
+          "album": "Footprints on Water",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-11-22T14:45:23Z"
+        },
+        {
           "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
           "album": "Life & Fire",
-          "listen_count": 11,
+          "listen_count": 9,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-11-15T20:58:33Z"
         },
@@ -158,16 +216,30 @@
         {
           "artist": "Yehezkel Raz / Claudio Constantini",
           "album": "Elsewhere",
-          "listen_count": 7,
+          "listen_count": 8,
           "unique_tracks": 7,
-          "last_listened_at_utc": "2026-11-20T20:44:18Z"
+          "last_listened_at_utc": "2026-11-21T18:12:17Z"
         },
         {
           "artist": "Dan Mayo / Yehezkel Raz",
           "album": "ZU",
-          "listen_count": 6,
+          "listen_count": 7,
           "unique_tracks": 6,
-          "last_listened_at_utc": "2026-11-20T21:32:23Z"
+          "last_listened_at_utc": "2026-11-21T21:34:28Z"
+        },
+        {
+          "artist": "Diana Krall",
+          "album": "The Girl In The Other Room",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-11-21T20:45:59Z"
+        },
+        {
+          "artist": "Joshua Redman",
+          "album": "If Ever You Would Leave Us (we play for Rollins)",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-11-22T13:55:09Z"
         },
         {
           "artist": "Amir Bresler",
@@ -175,6 +247,48 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-11-15T20:08:25Z"
+        },
+        {
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
+          "listen_count": 2,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-21T20:51:56Z"
+        },
+        {
+          "artist": "Dan Mayo & Yehezkel Raz",
+          "album": "Session 1",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-21T21:50:43Z"
+        },
+        {
+          "artist": "Eyal Talmudi",
+          "album": "Sonolodge",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-21T19:00:08Z"
+        },
+        {
+          "artist": "Eyal Talmudi",
+          "album": "Sonolodge II",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-21T21:29:01Z"
+        },
+        {
+          "artist": "Jimi Prasad Orchestra",
+          "album": "Help With Your Heart",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-22T14:07:34Z"
+        },
+        {
+          "artist": "Tatran & Eyal Talmudi",
+          "album": "Two Days",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-21T19:44:28Z"
         },
         {
           "artist": "Enzo Orefice Trio",
@@ -226,11 +340,25 @@
           "last_listened_at_utc": "2026-11-15T22:22:42Z"
         },
         {
+          "artist": "Time Grove",
+          "album": "More Than One Thing",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-22T14:50:44Z"
+        },
+        {
           "artist": "Totalement Sublime",
           "album": "Parhélie",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-16T00:08:46Z"
+        },
+        {
+          "artist": "Youssou N'Dour & Le Super Étoile de Dakar",
+          "album": "Immigrés",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-22T13:58:44Z"
         },
         {
           "artist": "אסף תלמודי / יונתן אלבלק / Shuli Rand / רביד כחלני / שי צברי",
@@ -242,9 +370,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 686,
-      "unique_artists": 105,
-      "unique_albums": 114,
+      "listen_count": 689,
+      "unique_artists": 107,
+      "unique_albums": 116,
       "listens_without_album": 0,
       "artists": [
         {
@@ -261,10 +389,14 @@
         },
         {
           "artist": "Diana Krall",
-          "listen_count": 33
+          "listen_count": 36
         },
         {
           "artist": "Bob Dylan",
+          "listen_count": 28
+        },
+        {
+          "artist": "Rejoicer & Eyal Talmudi",
           "listen_count": 28
         },
         {
@@ -272,28 +404,20 @@
           "listen_count": 25
         },
         {
-          "artist": "Djo",
-          "listen_count": 23
-        },
-        {
           "artist": "Talk Talk",
           "listen_count": 22
         },
         {
           "artist": "Anouar Brahem",
-          "listen_count": 18
+          "listen_count": 20
+        },
+        {
+          "artist": "Djo",
+          "listen_count": 19
         },
         {
           "artist": "Ahmad Jamal Trio",
           "listen_count": 16
-        },
-        {
-          "artist": "Norah Jones",
-          "listen_count": 16
-        },
-        {
-          "artist": "Rejoicer & Eyal Talmudi",
-          "listen_count": 15
         },
         {
           "artist": "The Raconteurs",
@@ -302,10 +426,6 @@
         {
           "artist": "Cortex",
           "listen_count": 13
-        },
-        {
-          "artist": "Parquet Courts",
-          "listen_count": 12
         },
         {
           "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
@@ -320,6 +440,10 @@
           "listen_count": 12
         },
         {
+          "artist": "Eyal Talmudi/ Roy Chen",
+          "listen_count": 11
+        },
+        {
           "artist": "Michael Kiwanuka",
           "listen_count": 11
         },
@@ -332,15 +456,11 @@
           "listen_count": 11
         },
         {
-          "artist": "טונה",
-          "listen_count": 11
-        },
-        {
-          "artist": "Funkadelic",
+          "artist": "Alon Aboutboul",
           "listen_count": 10
         },
         {
-          "artist": "Roy Hargrove Quintet",
+          "artist": "Funkadelic",
           "listen_count": 10
         },
         {
@@ -360,15 +480,19 @@
           "listen_count": 8
         },
         {
+          "artist": "Yehezkel Raz / Claudio Constantini",
+          "listen_count": 8
+        },
+        {
+          "artist": "Dan Mayo / Yehezkel Raz",
+          "listen_count": 7
+        },
+        {
           "artist": "John Coltrane",
           "listen_count": 7
         },
         {
           "artist": "Mikiko Sato",
-          "listen_count": 7
-        },
-        {
-          "artist": "Yehezkel Raz / Claudio Constantini",
           "listen_count": 7
         },
         {
@@ -384,15 +508,19 @@
           "listen_count": 6
         },
         {
-          "artist": "Dan Mayo / Yehezkel Raz",
-          "listen_count": 6
-        },
-        {
           "artist": "Miles Davis",
           "listen_count": 6
         },
         {
+          "artist": "טונה",
+          "listen_count": 6
+        },
+        {
           "artist": "Charlie Hunter Quartet",
+          "listen_count": 5
+        },
+        {
+          "artist": "Norah Jones",
           "listen_count": 5
         },
         {
@@ -404,8 +532,8 @@
           "listen_count": 5
         },
         {
-          "artist": "ג'יגה ג'וס",
-          "listen_count": 5
+          "artist": "Eyal Talmudi",
+          "listen_count": 4
         },
         {
           "artist": "Hailu Mergia",
@@ -424,11 +552,11 @@
           "listen_count": 4
         },
         {
-          "artist": "Alvvays",
+          "artist": "Japan",
           "listen_count": 3
         },
         {
-          "artist": "Japan",
+          "artist": "Joshua Redman",
           "listen_count": 3
         },
         {
@@ -456,7 +584,15 @@
           "listen_count": 2
         },
         {
+          "artist": "Dan Mayo & Yehezkel Raz",
+          "listen_count": 2
+        },
+        {
           "artist": "Ginger Root",
+          "listen_count": 2
+        },
+        {
+          "artist": "Jimi Prasad Orchestra",
           "listen_count": 2
         },
         {
@@ -468,15 +604,15 @@
           "listen_count": 2
         },
         {
+          "artist": "Tatran & Eyal Talmudi",
+          "listen_count": 2
+        },
+        {
           "artist": "shame",
           "listen_count": 2
         },
         {
           "artist": "Allen Toussaint",
-          "listen_count": 1
-        },
-        {
-          "artist": "Ambrose Akinmusire",
           "listen_count": 1
         },
         {
@@ -493,10 +629,6 @@
         },
         {
           "artist": "Chantal Chamberland",
-          "listen_count": 1
-        },
-        {
-          "artist": "Charles Earland",
           "listen_count": 1
         },
         {
@@ -529,10 +661,6 @@
         },
         {
           "artist": "Fripp & Eno",
-          "listen_count": 1
-        },
-        {
-          "artist": "Greg Abate",
           "listen_count": 1
         },
         {
@@ -652,6 +780,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Time Grove",
+          "listen_count": 1
+        },
+        {
           "artist": "Tingvall Trio",
           "listen_count": 1
         },
@@ -661,6 +793,10 @@
         },
         {
           "artist": "Totalement Sublime",
+          "listen_count": 1
+        },
+        {
+          "artist": "Youssou N'Dour & Le Super Étoile de Dakar",
           "listen_count": 1
         },
         {
@@ -684,6 +820,13 @@
           "last_listened_at_utc": "2026-11-04T22:07:48Z"
         },
         {
+          "artist": "Rejoicer & Eyal Talmudi",
+          "album": "The Audience",
+          "listen_count": 28,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-11-22T13:46:08Z"
+        },
+        {
           "artist": "Fine",
           "album": "Jazz dreams",
           "listen_count": 25,
@@ -705,11 +848,11 @@
           "last_listened_at_utc": "2026-11-02T21:46:48Z"
         },
         {
-          "artist": "Djo",
-          "album": "The Crux Deluxe",
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
           "listen_count": 20,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-27T21:25:32Z"
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-21T20:51:56Z"
         },
         {
           "artist": "Rejoicer",
@@ -726,13 +869,6 @@
           "last_listened_at_utc": "2026-11-13T02:39:43Z"
         },
         {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 18,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-11T21:45:28Z"
-        },
-        {
           "artist": "Ahmad Jamal Trio",
           "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
           "listen_count": 16,
@@ -740,11 +876,11 @@
           "last_listened_at_utc": "2026-11-20T20:19:21Z"
         },
         {
-          "artist": "Norah Jones",
-          "album": "Come Away with Me",
+          "artist": "Djo",
+          "album": "The Crux Deluxe",
           "listen_count": 16,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-30T18:38:05Z"
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-10-27T21:25:32Z"
         },
         {
           "artist": "Amir Bresler",
@@ -754,11 +890,11 @@
           "last_listened_at_utc": "2026-11-16T18:36:46Z"
         },
         {
-          "artist": "Rejoicer & Eyal Talmudi",
-          "album": "The Audience",
+          "artist": "Diana Krall",
+          "album": "The Girl In The Other Room",
           "listen_count": 15,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-11-21T15:09:51Z"
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-11-21T20:45:59Z"
         },
         {
           "artist": "The Raconteurs",
@@ -780,20 +916,6 @@
           "listen_count": 13,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-11-17T21:56:42Z"
-        },
-        {
-          "artist": "Diana Krall",
-          "album": "The Girl In The Other Room",
-          "listen_count": 12,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-11-06T21:22:02Z"
-        },
-        {
-          "artist": "Parquet Courts",
-          "album": "Wide Awake!",
-          "listen_count": 12,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-23T13:23:41Z"
         },
         {
           "artist": "Rejoicer",
@@ -824,6 +946,13 @@
           "last_listened_at_utc": "2026-10-28T22:57:32Z"
         },
         {
+          "artist": "Eyal Talmudi/ Roy Chen",
+          "album": "Saved My Eyes From Tears",
+          "listen_count": 11,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-11-21T19:38:48Z"
+        },
+        {
           "artist": "Michael Kiwanuka",
           "album": "FUDGE",
           "listen_count": 11,
@@ -845,18 +974,18 @@
           "last_listened_at_utc": "2026-10-26T23:29:34Z"
         },
         {
+          "artist": "Alon Aboutboul",
+          "album": "Footprints on Water",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-11-22T14:45:23Z"
+        },
+        {
           "artist": "Funkadelic",
           "album": "Cosmic Slop",
           "listen_count": 10,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-31T18:11:35Z"
-        },
-        {
-          "artist": "Roy Hargrove Quintet",
-          "album": "Earfood",
-          "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-10-22T17:49:41Z"
         },
         {
           "artist": "Bob Dylan",
@@ -894,6 +1023,20 @@
           "last_listened_at_utc": "2026-11-04T14:30:27Z"
         },
         {
+          "artist": "Yehezkel Raz / Claudio Constantini",
+          "album": "Elsewhere",
+          "listen_count": 8,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-11-21T18:12:17Z"
+        },
+        {
+          "artist": "Dan Mayo / Yehezkel Raz",
+          "album": "ZU",
+          "listen_count": 7,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-11-21T21:34:28Z"
+        },
+        {
           "artist": "John Coltrane",
           "album": "Blue Train",
           "listen_count": 7,
@@ -906,13 +1049,6 @@
           "listen_count": 7,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-11-07T23:30:58Z"
-        },
-        {
-          "artist": "Yehezkel Raz / Claudio Constantini",
-          "album": "Elsewhere",
-          "listen_count": 7,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-11-20T20:44:18Z"
         },
         {
           "artist": "Brad Mehldau Trio",
@@ -936,13 +1072,6 @@
           "last_listened_at_utc": "2026-10-31T16:33:39Z"
         },
         {
-          "artist": "Dan Mayo / Yehezkel Raz",
-          "album": "ZU",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-11-20T21:32:23Z"
-        },
-        {
           "artist": "Miles Davis",
           "album": "Kind of Blue",
           "listen_count": 6,
@@ -964,6 +1093,13 @@
           "last_listened_at_utc": "2026-11-03T19:23:20Z"
         },
         {
+          "artist": "Norah Jones",
+          "album": "Come Away with Me",
+          "listen_count": 5,
+          "unique_tracks": 5,
+          "last_listened_at_utc": "2026-10-30T18:38:05Z"
+        },
+        {
           "artist": "TV on the Radio",
           "album": "Dear Science (Bonus Track Version)",
           "listen_count": 5,
@@ -976,20 +1112,6 @@
           "listen_count": 5,
           "unique_tracks": 5,
           "last_listened_at_utc": "2026-11-05T19:47:52Z"
-        },
-        {
-          "artist": "ג'יגה ג'וס",
-          "album": "מיץ למקס",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-22T21:08:20Z"
-        },
-        {
-          "artist": "טונה",
-          "album": "ראפ מטורף",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-10-22T20:49:22Z"
         },
         {
           "artist": "Hailu Mergia",
@@ -1020,13 +1142,6 @@
           "last_listened_at_utc": "2026-11-05T18:23:13Z"
         },
         {
-          "artist": "Alvvays",
-          "album": "Blue Rev",
-          "listen_count": 3,
-          "unique_tracks": 3,
-          "last_listened_at_utc": "2026-10-22T20:32:17Z"
-        },
-        {
           "artist": "Djo",
           "album": "DECIDE",
           "listen_count": 3,
@@ -1039,6 +1154,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-11-05T17:43:40Z"
+        },
+        {
+          "artist": "Joshua Redman",
+          "album": "If Ever You Would Leave Us (we play for Rollins)",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-11-22T13:55:09Z"
         },
         {
           "artist": "Julian Lage",
@@ -1090,11 +1212,39 @@
           "last_listened_at_utc": "2026-11-05T17:56:14Z"
         },
         {
+          "artist": "Dan Mayo & Yehezkel Raz",
+          "album": "Session 1",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-21T21:50:43Z"
+        },
+        {
+          "artist": "Eyal Talmudi",
+          "album": "Sonolodge",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-21T19:00:08Z"
+        },
+        {
+          "artist": "Eyal Talmudi",
+          "album": "Sonolodge II",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-21T21:29:01Z"
+        },
+        {
           "artist": "Ginger Root",
           "album": "SHINBANGUMI",
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-28T22:18:20Z"
+        },
+        {
+          "artist": "Jimi Prasad Orchestra",
+          "album": "Help With Your Heart",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-22T14:07:34Z"
         },
         {
           "artist": "Julia Holter",
@@ -1111,6 +1261,13 @@
           "last_listened_at_utc": "2026-10-23T21:47:59Z"
         },
         {
+          "artist": "Tatran & Eyal Talmudi",
+          "album": "Two Days",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-21T19:44:28Z"
+        },
+        {
           "artist": "shame",
           "album": "Food for Worms",
           "listen_count": 2,
@@ -1123,13 +1280,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-28T22:15:58Z"
-        },
-        {
-          "artist": "Ambrose Akinmusire",
-          "album": "Owl Song",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-22T17:56:31Z"
         },
         {
           "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
@@ -1158,13 +1308,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-03T00:15:55Z"
-        },
-        {
-          "artist": "Charles Earland",
-          "album": "Leaving This Planet",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-22T18:01:42Z"
         },
         {
           "artist": "Childish Gambino",
@@ -1221,13 +1364,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-01T22:24:24Z"
-        },
-        {
-          "artist": "Greg Abate",
-          "album": "Magic Dance: The Music of Kenny Barron",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-22T17:52:43Z"
         },
         {
           "artist": "Harry Connick, Jr.",
@@ -1440,6 +1576,13 @@
           "last_listened_at_utc": "2026-10-24T19:21:42Z"
         },
         {
+          "artist": "Time Grove",
+          "album": "More Than One Thing",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-22T14:50:44Z"
+        },
+        {
           "artist": "Tingvall Trio",
           "album": "Beat",
           "listen_count": 1,
@@ -1461,6 +1604,13 @@
           "last_listened_at_utc": "2026-11-16T00:08:46Z"
         },
         {
+          "artist": "Youssou N'Dour & Le Super Étoile de Dakar",
+          "album": "Immigrés",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-22T13:58:44Z"
+        },
+        {
           "artist": "אסף תלמודי / יונתן אלבלק / Shuli Rand / רביד כחלני / שי צברי",
           "album": "הללו (מתוך הסרט \"אגדת חורבן\")",
           "listen_count": 1,
@@ -1470,9 +1620,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1877,
-      "unique_artists": 262,
-      "unique_albums": 313,
+      "listen_count": 1933,
+      "unique_artists": 271,
+      "unique_albums": 323,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1492,6 +1642,10 @@
           "listen_count": 57
         },
         {
+          "artist": "Anouar Brahem",
+          "listen_count": 45
+        },
+        {
           "artist": "Rejoicer",
           "listen_count": 45
         },
@@ -1508,10 +1662,6 @@
           "listen_count": 43
         },
         {
-          "artist": "Anouar Brahem",
-          "listen_count": 43
-        },
-        {
           "artist": "Tsuyoshi Yamamoto Trio",
           "listen_count": 42
         },
@@ -1525,7 +1675,7 @@
         },
         {
           "artist": "Diana Krall",
-          "listen_count": 33
+          "listen_count": 36
         },
         {
           "artist": "Mac DeMarco",
@@ -1534,6 +1684,10 @@
         {
           "artist": "Miles Davis",
           "listen_count": 31
+        },
+        {
+          "artist": "Rejoicer & Eyal Talmudi",
+          "listen_count": 28
         },
         {
           "artist": "נצ׳י נצ׳",
@@ -1581,10 +1735,6 @@
         },
         {
           "artist": "Kenny Burrell",
-          "listen_count": 15
-        },
-        {
-          "artist": "Rejoicer & Eyal Talmudi",
           "listen_count": 15
         },
         {
@@ -1648,6 +1798,10 @@
           "listen_count": 11
         },
         {
+          "artist": "Eyal Talmudi/ Roy Chen",
+          "listen_count": 11
+        },
+        {
           "artist": "Kikagaku Moyo",
           "listen_count": 11
         },
@@ -1666,6 +1820,10 @@
         {
           "artist": "עדן דרסו",
           "listen_count": 11
+        },
+        {
+          "artist": "Alon Aboutboul",
+          "listen_count": 10
         },
         {
           "artist": "Chet Baker",
@@ -1732,6 +1890,10 @@
           "listen_count": 8
         },
         {
+          "artist": "Yehezkel Raz / Claudio Constantini",
+          "listen_count": 8
+        },
+        {
           "artist": "Bill Evans & Jim Hall",
           "listen_count": 7
         },
@@ -1741,6 +1903,10 @@
         },
         {
           "artist": "Charles Mingus",
+          "listen_count": 7
+        },
+        {
+          "artist": "Dan Mayo / Yehezkel Raz",
           "listen_count": 7
         },
         {
@@ -1757,10 +1923,6 @@
         },
         {
           "artist": "Vampire Weekend",
-          "listen_count": 7
-        },
-        {
-          "artist": "Yehezkel Raz / Claudio Constantini",
           "listen_count": 7
         },
         {
@@ -1781,10 +1943,6 @@
         },
         {
           "artist": "Clairo",
-          "listen_count": 6
-        },
-        {
-          "artist": "Dan Mayo / Yehezkel Raz",
           "listen_count": 6
         },
         {
@@ -1852,6 +2010,10 @@
           "listen_count": 4
         },
         {
+          "artist": "Eyal Talmudi",
+          "listen_count": 4
+        },
+        {
           "artist": "Hailu Mergia",
           "listen_count": 4
         },
@@ -1913,6 +2075,10 @@
         },
         {
           "artist": "Japan",
+          "listen_count": 3
+        },
+        {
+          "artist": "Joshua Redman",
           "listen_count": 3
         },
         {
@@ -2000,6 +2166,10 @@
           "listen_count": 2
         },
         {
+          "artist": "Dan Mayo & Yehezkel Raz",
+          "listen_count": 2
+        },
+        {
           "artist": "Dhafer Youssef",
           "listen_count": 2
         },
@@ -2017,6 +2187,10 @@
         },
         {
           "artist": "Jeff Parker ETA IVtet",
+          "listen_count": 2
+        },
+        {
+          "artist": "Jimi Prasad Orchestra",
           "listen_count": 2
         },
         {
@@ -2045,6 +2219,10 @@
         },
         {
           "artist": "Shye Ben-Tzur, Jonny Greenwood and The Rajasthan Express",
+          "listen_count": 2
+        },
+        {
+          "artist": "Tatran & Eyal Talmudi",
           "listen_count": 2
         },
         {
@@ -2436,6 +2614,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Time Grove",
+          "listen_count": 1
+        },
+        {
           "artist": "Tingvall Trio",
           "listen_count": 1
         },
@@ -2473,6 +2655,10 @@
         },
         {
           "artist": "Yosi Horikawa",
+          "listen_count": 1
+        },
+        {
+          "artist": "Youssou N'Dour & Le Super Étoile de Dakar",
           "listen_count": 1
         },
         {
@@ -2540,6 +2726,13 @@
           "last_listened_at_utc": "2026-11-17T20:04:51Z"
         },
         {
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
+          "listen_count": 45,
+          "unique_tracks": 12,
+          "last_listened_at_utc": "2026-11-21T20:51:56Z"
+        },
+        {
           "artist": "Morphine",
           "album": "Cure for Pain (Deluxe Edition)",
           "listen_count": 44,
@@ -2552,13 +2745,6 @@
           "listen_count": 43,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-11-20T20:19:21Z"
-        },
-        {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 43,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-11-11T21:45:28Z"
         },
         {
           "artist": "Parquet Courts",
@@ -2601,6 +2787,13 @@
           "listen_count": 31,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-10-28T21:03:10Z"
+        },
+        {
+          "artist": "Rejoicer & Eyal Talmudi",
+          "album": "The Audience",
+          "listen_count": 28,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-11-22T13:46:08Z"
         },
         {
           "artist": "רביד פלוטניק",
@@ -2722,18 +2915,18 @@
           "last_listened_at_utc": "2026-10-20T21:55:07Z"
         },
         {
+          "artist": "Diana Krall",
+          "album": "The Girl In The Other Room",
+          "listen_count": 15,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-11-21T20:45:59Z"
+        },
+        {
           "artist": "Kenny Burrell",
           "album": "Midnight Blue",
           "listen_count": 15,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-10T17:09:44Z"
-        },
-        {
-          "artist": "Rejoicer & Eyal Talmudi",
-          "album": "The Audience",
-          "listen_count": 15,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-11-21T15:09:51Z"
         },
         {
           "artist": "Sonny Rollins",
@@ -2813,13 +3006,6 @@
           "last_listened_at_utc": "2026-10-20T23:19:38Z"
         },
         {
-          "artist": "Diana Krall",
-          "album": "The Girl In The Other Room",
-          "listen_count": 12,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-11-06T21:22:02Z"
-        },
-        {
           "artist": "Fontaines D.C.",
           "album": "Romance",
           "listen_count": 12,
@@ -2876,6 +3062,13 @@
           "last_listened_at_utc": "2026-10-03T22:00:58Z"
         },
         {
+          "artist": "Eyal Talmudi/ Roy Chen",
+          "album": "Saved My Eyes From Tears",
+          "listen_count": 11,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-11-21T19:38:48Z"
+        },
+        {
           "artist": "Kikagaku Moyo",
           "album": "Kumoyo Island",
           "listen_count": 11,
@@ -2923,6 +3116,13 @@
           "listen_count": 11,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-09-09T12:45:02Z"
+        },
+        {
+          "artist": "Alon Aboutboul",
+          "album": "Footprints on Water",
+          "listen_count": 10,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-11-22T14:45:23Z"
         },
         {
           "artist": "Bob Dylan",
@@ -3086,11 +3286,25 @@
           "last_listened_at_utc": "2026-09-26T20:14:19Z"
         },
         {
+          "artist": "Yehezkel Raz / Claudio Constantini",
+          "album": "Elsewhere",
+          "listen_count": 8,
+          "unique_tracks": 7,
+          "last_listened_at_utc": "2026-11-21T18:12:17Z"
+        },
+        {
           "artist": "Charles Mingus",
           "album": "Oh Yeah",
           "listen_count": 7,
           "unique_tracks": 7,
           "last_listened_at_utc": "2026-10-10T19:57:03Z"
+        },
+        {
+          "artist": "Dan Mayo / Yehezkel Raz",
+          "album": "ZU",
+          "listen_count": 7,
+          "unique_tracks": 6,
+          "last_listened_at_utc": "2026-11-21T21:34:28Z"
         },
         {
           "artist": "English Teacher",
@@ -3142,13 +3356,6 @@
           "last_listened_at_utc": "2026-10-15T23:35:26Z"
         },
         {
-          "artist": "Yehezkel Raz / Claudio Constantini",
-          "album": "Elsewhere",
-          "listen_count": 7,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-11-20T20:44:18Z"
-        },
-        {
           "artist": "מוקי",
           "album": "Shema Israel (Album)",
           "listen_count": 7,
@@ -3189,13 +3396,6 @@
           "listen_count": 6,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-10-31T16:33:39Z"
-        },
-        {
-          "artist": "Dan Mayo / Yehezkel Raz",
-          "album": "ZU",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-11-20T21:32:23Z"
         },
         {
           "artist": "Hank Mobley",
@@ -3471,6 +3671,13 @@
           "last_listened_at_utc": "2026-10-11T17:36:00Z"
         },
         {
+          "artist": "Joshua Redman",
+          "album": "If Ever You Would Leave Us (we play for Rollins)",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-11-22T13:55:09Z"
+        },
+        {
           "artist": "Julian Lage",
           "album": "Scenes From Above",
           "listen_count": 3,
@@ -3646,6 +3853,13 @@
           "last_listened_at_utc": "2026-09-05T22:22:21Z"
         },
         {
+          "artist": "Dan Mayo & Yehezkel Raz",
+          "album": "Session 1",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-21T21:50:43Z"
+        },
+        {
           "artist": "Dhafer Youssef",
           "album": "Birds Requiem",
           "listen_count": 2,
@@ -3658,6 +3872,20 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-24T14:13:36Z"
+        },
+        {
+          "artist": "Eyal Talmudi",
+          "album": "Sonolodge",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-21T19:00:08Z"
+        },
+        {
+          "artist": "Eyal Talmudi",
+          "album": "Sonolodge II",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-21T21:29:01Z"
         },
         {
           "artist": "Ginger Root",
@@ -3679,6 +3907,13 @@
           "listen_count": 2,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-06T22:35:54Z"
+        },
+        {
+          "artist": "Jimi Prasad Orchestra",
+          "album": "Help With Your Heart",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-22T14:07:34Z"
         },
         {
           "artist": "Jlin",
@@ -3728,6 +3963,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-10-07T12:38:30Z"
+        },
+        {
+          "artist": "Tatran & Eyal Talmudi",
+          "album": "Two Days",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-21T19:44:28Z"
         },
         {
           "artist": "Young Fathers",
@@ -4542,6 +4784,13 @@
           "last_listened_at_utc": "2026-10-13T20:26:11Z"
         },
         {
+          "artist": "Time Grove",
+          "album": "More Than One Thing",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-22T14:50:44Z"
+        },
+        {
           "artist": "Tingvall Trio",
           "album": "Beat",
           "listen_count": 1,
@@ -4617,6 +4866,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-10-12T22:57:21Z"
+        },
+        {
+          "artist": "Youssou N'Dour & Le Super Étoile de Dakar",
+          "album": "Immigrés",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-22T13:58:44Z"
         },
         {
           "artist": "kukuku",
@@ -4721,6 +4977,938 @@
   },
   "recent_listens": [
     {
+      "listened_at": 1795359044,
+      "listened_at_utc": "2026-11-22T14:50:44Z",
+      "artist": "Time Grove",
+      "track": "TG Theme",
+      "album": "More Than One Thing",
+      "musicbrainz": {
+        "artist_mbids": [
+          "75327924-74e1-404b-abef-93c45727964b"
+        ],
+        "recording_mbid": "37beefbb-0ee0-45b3-802f-34efa1a61a29",
+        "release_mbid": "549edfb1-ccb3-475d-bfca-ae9fd89b767b",
+        "release_group_mbid": "3b5e28a5-d63d-4272-a937-e886e07bc41c"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795358723,
+      "listened_at_utc": "2026-11-22T14:45:23Z",
+      "artist": "Alon Aboutboul",
+      "track": "Comfort in the Rain",
+      "album": "Footprints on Water",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795358470,
+      "listened_at_utc": "2026-11-22T14:41:10Z",
+      "artist": "Alon Aboutboul",
+      "track": "Gently Emerging From Concrete",
+      "album": "Footprints on Water",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795358236,
+      "listened_at_utc": "2026-11-22T14:37:16Z",
+      "artist": "Alon Aboutboul",
+      "track": "Without Socks",
+      "album": "Footprints on Water",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795357992,
+      "listened_at_utc": "2026-11-22T14:33:12Z",
+      "artist": "Alon Aboutboul",
+      "track": "Don't Look at Me",
+      "album": "Footprints on Water",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795357798,
+      "listened_at_utc": "2026-11-22T14:29:58Z",
+      "artist": "Alon Aboutboul",
+      "track": "Potion of Love",
+      "album": "Footprints on Water",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795357517,
+      "listened_at_utc": "2026-11-22T14:25:17Z",
+      "artist": "Alon Aboutboul",
+      "track": "Meet You There",
+      "album": "Footprints on Water",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795357307,
+      "listened_at_utc": "2026-11-22T14:21:47Z",
+      "artist": "Alon Aboutboul",
+      "track": "My Time will Come",
+      "album": "Footprints on Water",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795356998,
+      "listened_at_utc": "2026-11-22T14:16:38Z",
+      "artist": "Alon Aboutboul",
+      "track": "Table for One",
+      "album": "Footprints on Water",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795356809,
+      "listened_at_utc": "2026-11-22T14:13:29Z",
+      "artist": "Alon Aboutboul",
+      "track": "Unpredictable Tomorrows",
+      "album": "Footprints on Water",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795356585,
+      "listened_at_utc": "2026-11-22T14:09:45Z",
+      "artist": "Alon Aboutboul",
+      "track": "Wounds of an Angel",
+      "album": "Footprints on Water",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795356454,
+      "listened_at_utc": "2026-11-22T14:07:34Z",
+      "artist": "Jimi Prasad Orchestra",
+      "track": "Hunting Unicorns",
+      "album": "Help With Your Heart",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795356236,
+      "listened_at_utc": "2026-11-22T14:03:56Z",
+      "artist": "Jimi Prasad Orchestra",
+      "track": "Water Moves",
+      "album": "Help With Your Heart",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795355924,
+      "listened_at_utc": "2026-11-22T13:58:44Z",
+      "artist": "Youssou N'Dour & Le Super Étoile de Dakar",
+      "track": "Immigrés/Bitim Rew",
+      "album": "Immigrés",
+      "musicbrainz": {
+        "artist_mbids": [
+          "7add9a91-fa46-49de-870d-0a7c7b04c1db"
+        ],
+        "recording_mbid": "73f1ecc6-9268-4d7a-899e-672019b1e889",
+        "release_mbid": "6032cd27-2000-4766-81ca-6b07f9804b78",
+        "release_group_mbid": "9fa65a39-630b-4953-be27-ecb462bb9d8d"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795355709,
+      "listened_at_utc": "2026-11-22T13:55:09Z",
+      "artist": "Joshua Redman",
+      "track": "The Last Time I Saw Paris",
+      "album": "If Ever You Would Leave Us (we play for Rollins)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b00a17c3-72b2-4e39-96f9-770ba6cf4573",
+          "6035000d-b53b-4b01-b5a0-a7572c34e806",
+          "d3694b9d-a6e0-4b2a-ac39-c38a3a774412"
+        ],
+        "release_mbid": "34e17504-4130-4277-a8da-a52c5bac0b62"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795355465,
+      "listened_at_utc": "2026-11-22T13:51:05Z",
+      "artist": "Joshua Redman",
+      "track": "Doxy",
+      "album": "If Ever You Would Leave Us (we play for Rollins)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b00a17c3-72b2-4e39-96f9-770ba6cf4573",
+          "6035000d-b53b-4b01-b5a0-a7572c34e806"
+        ],
+        "release_mbid": "34e17504-4130-4277-a8da-a52c5bac0b62"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795355390,
+      "listened_at_utc": "2026-11-22T13:49:50Z",
+      "artist": "Joshua Redman",
+      "track": "There Will Never Be Another You",
+      "album": "If Ever You Would Leave Us (we play for Rollins)",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b00a17c3-72b2-4e39-96f9-770ba6cf4573"
+        ],
+        "release_mbid": "34e17504-4130-4277-a8da-a52c5bac0b62"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795355168,
+      "listened_at_utc": "2026-11-22T13:46:08Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "Drunk & Donkey",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "74eef6ab-3951-44f7-a313-dea368d1b0a1",
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079",
+        "release_group_mbid": "a414297d-8c9e-4f2a-b638-e864f17674be"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795354821,
+      "listened_at_utc": "2026-11-22T13:40:21Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "Without Gas",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795354627,
+      "listened_at_utc": "2026-11-22T13:37:07Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "The Audience",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "36de9dff-95d4-471f-8169-634cdc579798",
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079",
+        "release_group_mbid": "a414297d-8c9e-4f2a-b638-e864f17674be"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795297843,
+      "listened_at_utc": "2026-11-21T21:50:43Z",
+      "artist": "Dan Mayo & Yehezkel Raz",
+      "track": "Two",
+      "album": "Session 1",
+      "musicbrainz": {
+        "artist_mbids": [
+          "bda4d18b-9c2e-4354-9a52-51ebec019232",
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a"
+        ],
+        "recording_mbid": "50fd1ee8-49fa-49c4-9717-2f5ea259e79f",
+        "release_mbid": "97c7416a-7123-49d4-b161-78035b60b24a",
+        "release_group_mbid": "4855533d-4aff-4a85-98de-6266f93235c9"
+      },
+      "submission_clients": [
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795297588,
+      "listened_at_utc": "2026-11-21T21:46:28Z",
+      "artist": "Dan Mayo & Yehezkel Raz",
+      "track": "One",
+      "album": "Session 1",
+      "musicbrainz": {
+        "artist_mbids": [
+          "bda4d18b-9c2e-4354-9a52-51ebec019232",
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a"
+        ],
+        "recording_mbid": "fdec322d-9550-4724-9ce1-798987ce3f95",
+        "release_mbid": "97c7416a-7123-49d4-b161-78035b60b24a",
+        "release_group_mbid": "4855533d-4aff-4a85-98de-6266f93235c9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795296868,
+      "listened_at_utc": "2026-11-21T21:34:28Z",
+      "artist": "Dan Mayo / Yehezkel Raz",
+      "track": "Cobra",
+      "album": "ZU",
+      "musicbrainz": {
+        "artist_mbids": [
+          "bda4d18b-9c2e-4354-9a52-51ebec019232",
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a"
+        ],
+        "recording_mbid": "7952e1cb-87d2-4939-8185-e7c42e26b57e",
+        "release_mbid": "b7c69214-2a54-4ce1-b6b5-76df66db3b25",
+        "release_group_mbid": "3cc00647-b230-4bfe-a731-41c62b42b8c7"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795296541,
+      "listened_at_utc": "2026-11-21T21:29:01Z",
+      "artist": "Eyal Talmudi",
+      "track": "Crossroad Blueprint",
+      "album": "Sonolodge II",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1",
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "release_mbid": "a00c02da-ede8-4b01-9f39-4990968ccfb6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795296386,
+      "listened_at_utc": "2026-11-21T21:26:26Z",
+      "artist": "Eyal Talmudi",
+      "track": "When You Arrive",
+      "album": "Sonolodge II",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "55ea6abe-e36e-41ab-a3ca-78f029424479",
+        "release_mbid": "a00c02da-ede8-4b01-9f39-4990968ccfb6",
+        "release_group_mbid": "21a211d6-1d21-42e4-ad66-5382897d5029"
+      },
+      "submission_clients": [
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795294316,
+      "listened_at_utc": "2026-11-21T20:51:56Z",
+      "artist": "Anouar Brahem",
+      "track": "The Lover Of Beirut",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "93d00279-3eb5-4717-b2c8-041184c77138",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon"
+      ]
+    },
+    {
+      "listened_at": 1795294314,
+      "listened_at_utc": "2026-11-21T20:51:54Z",
+      "artist": "Anouar Brahem",
+      "track": "The Lover Of Beirut",
+      "album": "The Astounding Eyes Of Rita",
+      "musicbrainz": {
+        "artist_mbids": [
+          "1ffab459-9b77-488d-b224-49a9e730a41f"
+        ],
+        "recording_mbid": "93d00279-3eb5-4717-b2c8-041184c77138",
+        "release_mbid": "55d49c39-6b79-4a26-8108-8bdb987928aa",
+        "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795293959,
+      "listened_at_utc": "2026-11-21T20:45:59Z",
+      "artist": "Diana Krall",
+      "track": "I've Changed My Address",
+      "album": "The Girl In The Other Room",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "recording_mbid": "2cc702c4-8c6f-480e-9686-dff7bb765535",
+        "release_mbid": "d022fffc-e545-4cf0-8e5e-e1aa9fe6fd21",
+        "release_group_mbid": "6dfdcee4-e97c-3485-80e0-3f54b6e54991"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795293684,
+      "listened_at_utc": "2026-11-21T20:41:24Z",
+      "artist": "Diana Krall",
+      "track": "Temptation",
+      "album": "The Girl In The Other Room",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "recording_mbid": "856a3318-2e30-4281-986a-cda3c1cf1b54",
+        "release_mbid": "14a4a70d-8a85-4861-a415-35933837e3cb",
+        "release_group_mbid": "b7d8dca0-6748-470c-9eb0-eb6d72091273"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795293437,
+      "listened_at_utc": "2026-11-21T20:37:17Z",
+      "artist": "Diana Krall",
+      "track": "The Girl In The Other Room",
+      "album": "The Girl In The Other Room",
+      "musicbrainz": {
+        "artist_mbids": [
+          "67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98"
+        ],
+        "recording_mbid": "8f60ce32-8970-40cf-964a-96f766b354a1",
+        "release_mbid": "14a4a70d-8a85-4861-a415-35933837e3cb",
+        "release_group_mbid": "b7d8dca0-6748-470c-9eb0-eb6d72091273"
+      },
+      "submission_clients": [
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795290268,
+      "listened_at_utc": "2026-11-21T19:44:28Z",
+      "artist": "Tatran & Eyal Talmudi",
+      "track": "Hippo Mountain",
+      "album": "Two Days",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5573f9f2-584d-45fb-8bc4-06207154072b",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "86c584b1-739b-4fe0-bb1c-059ecaeb2616",
+        "release_mbid": "2f16cbd0-72ba-4de0-80ea-738e505a73b4",
+        "release_group_mbid": "526432ad-950c-49ff-8c76-662f416ad650"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795290110,
+      "listened_at_utc": "2026-11-21T19:41:50Z",
+      "artist": "Tatran & Eyal Talmudi",
+      "track": "Land",
+      "album": "Two Days",
+      "musicbrainz": {
+        "artist_mbids": [
+          "5573f9f2-584d-45fb-8bc4-06207154072b",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "94ee90b8-ad16-4726-b16f-0bd25ec92d7e",
+        "release_mbid": "2f16cbd0-72ba-4de0-80ea-738e505a73b4",
+        "release_group_mbid": "526432ad-950c-49ff-8c76-662f416ad650"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795289928,
+      "listened_at_utc": "2026-11-21T19:38:48Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Grebass",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795289607,
+      "listened_at_utc": "2026-11-21T19:33:27Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "BLA BLA",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795289474,
+      "listened_at_utc": "2026-11-21T19:31:14Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Number 4",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795289307,
+      "listened_at_utc": "2026-11-21T19:28:27Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Pitch Baloon",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795289015,
+      "listened_at_utc": "2026-11-21T19:23:35Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Zargesh",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795288795,
+      "listened_at_utc": "2026-11-21T19:19:55Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Whale Love",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795288594,
+      "listened_at_utc": "2026-11-21T19:16:34Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Dancing to Nothing",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795288389,
+      "listened_at_utc": "2026-11-21T19:13:09Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "MoonLight",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795288207,
+      "listened_at_utc": "2026-11-21T19:10:07Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Feelin' It",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795288001,
+      "listened_at_utc": "2026-11-21T19:06:41Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Saved My Eyes From Tears",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795287810,
+      "listened_at_utc": "2026-11-21T19:03:30Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Weed Break",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1",
+          "170e99e6-8c85-4508-a176-8ee56b1b545d"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795287608,
+      "listened_at_utc": "2026-11-21T19:00:08Z",
+      "artist": "Eyal Talmudi",
+      "track": "Bliss Kiss",
+      "album": "Sonolodge",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1",
+          "d27dddde-c5a8-4865-970b-2f7cf080ecbe"
+        ],
+        "recording_mbid": "119e98d6-0db1-4974-9c25-9b749573f67e",
+        "release_mbid": "836e58a3-1a4c-4d69-86c0-8817235d61a1",
+        "release_group_mbid": "2cc8649d-cb63-4227-8d8d-e95fac41f398"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795287248,
+      "listened_at_utc": "2026-11-21T18:54:08Z",
+      "artist": "Eyal Talmudi",
+      "track": "Dawn Swan",
+      "album": "Sonolodge",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1",
+          "9a0e4534-1839-465d-ba6b-1184ede7f618"
+        ],
+        "recording_mbid": "9197aebc-39b8-44c4-ab14-f4495663aff9",
+        "release_mbid": "836e58a3-1a4c-4d69-86c0-8817235d61a1",
+        "release_group_mbid": "2cc8649d-cb63-4227-8d8d-e95fac41f398"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795287016,
+      "listened_at_utc": "2026-11-21T18:50:16Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "67-73",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "a4744110-e767-43ac-be22-bf04a53d88d8",
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079",
+        "release_group_mbid": "a414297d-8c9e-4f2a-b638-e864f17674be"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795286744,
+      "listened_at_utc": "2026-11-21T18:45:44Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "Polo Rider",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "b0b2b044-57b1-44cd-b34a-013cb5edf439",
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079",
+        "release_group_mbid": "a414297d-8c9e-4f2a-b638-e864f17674be"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795286494,
+      "listened_at_utc": "2026-11-21T18:41:34Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "Drunk & Donkey",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "74eef6ab-3951-44f7-a313-dea368d1b0a1",
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079",
+        "release_group_mbid": "a414297d-8c9e-4f2a-b638-e864f17674be"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795286147,
+      "listened_at_utc": "2026-11-21T18:35:47Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "Without Gas",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795285954,
+      "listened_at_utc": "2026-11-21T18:32:34Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "The Audience",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "36de9dff-95d4-471f-8169-634cdc579798",
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079",
+        "release_group_mbid": "a414297d-8c9e-4f2a-b638-e864f17674be"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795285721,
+      "listened_at_utc": "2026-11-21T18:28:41Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "Apollo 57",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "69542b7d-941c-4bb4-ab94-f2286a1c8ffc",
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079",
+        "release_group_mbid": "a414297d-8c9e-4f2a-b638-e864f17674be"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795285569,
+      "listened_at_utc": "2026-11-21T18:26:09Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "Green Parrots",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "14919500-7e17-4296-9738-d42c509ba489",
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079",
+        "release_group_mbid": "a414297d-8c9e-4f2a-b638-e864f17674be"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795285302,
+      "listened_at_utc": "2026-11-21T18:21:42Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "blp blp away",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795285070,
+      "listened_at_utc": "2026-11-21T18:17:50Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "Will The Wheel",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "a3ba35b2-0bcc-4a07-b377-268b5865bae2",
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079",
+        "release_group_mbid": "a414297d-8c9e-4f2a-b638-e864f17674be"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795284834,
+      "listened_at_utc": "2026-11-21T18:13:54Z",
+      "artist": "Rejoicer & Eyal Talmudi",
+      "track": "Naftulik",
+      "album": "The Audience",
+      "musicbrainz": {
+        "artist_mbids": [
+          "9a0e4534-1839-465d-ba6b-1184ede7f618",
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ],
+        "recording_mbid": "67d1de0c-1668-4565-b831-5176f0f54967",
+        "release_mbid": "7711156b-c871-4ed7-a111-87e09cf39079",
+        "release_group_mbid": "a414297d-8c9e-4f2a-b638-e864f17674be"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795284737,
+      "listened_at_utc": "2026-11-21T18:12:17Z",
+      "artist": "Yehezkel Raz / Claudio Constantini",
+      "track": "Respiro",
+      "album": "Elsewhere",
+      "musicbrainz": {
+        "artist_mbids": [
+          "b3bfa541-563a-4ff4-83d8-dac152a7ce1a",
+          "e59c542e-3aa7-4d3b-9322-bdc2cc0d099a"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
       "listened_at": 1795273791,
       "listened_at_utc": "2026-11-21T15:09:51Z",
       "artist": "Rejoicer & Eyal Talmudi",
@@ -4736,7 +5924,8 @@
         "release_group_mbid": "a414297d-8c9e-4f2a-b638-e864f17674be"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
