@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-23T21:31:59Z",
+  "generated_at_utc": "2026-11-24T20:13:53Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-25T21:31:59Z",
-    "through_utc": "2026-11-23T21:31:59Z",
+    "from_utc": "2026-08-26T20:13:53Z",
+    "through_utc": "2026-11-24T20:13:53Z",
     "complete": true,
     "pages_fetched": 4,
     "max_pages": 10,
-    "raw_listen_count": 3428,
+    "raw_listen_count": 3440,
     "deduplicated_listen_count": 1987,
-    "duplicates_removed": 1441,
+    "duplicates_removed": 1453,
     "oldest_listen_utc": "2026-09-01T18:40:11Z",
     "newest_listen_utc": "2026-11-23T20:40:40Z"
   },
@@ -28,22 +28,22 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 171,
-      "unique_artists": 29,
-      "unique_albums": 32,
+      "listen_count": 154,
+      "unique_artists": 28,
+      "unique_albums": 31,
       "listens_without_album": 0,
       "artists": [
-        {
-          "artist": "Rejoicer & Eyal Talmudi",
-          "listen_count": 28
-        },
         {
           "artist": "Time Grove",
           "listen_count": 23
         },
         {
           "artist": "Rejoicer",
-          "listen_count": 20
+          "listen_count": 18
+        },
+        {
+          "artist": "Rejoicer & Eyal Talmudi",
+          "listen_count": 18
         },
         {
           "artist": "Buttering Trio",
@@ -72,10 +72,6 @@
         {
           "artist": "Dan Mayo / Yehezkel Raz",
           "listen_count": 7
-        },
-        {
-          "artist": "Amir Bresler",
-          "listen_count": 5
         },
         {
           "artist": "Eyal Talmudi",
@@ -152,18 +148,18 @@
       ],
       "albums": [
         {
-          "artist": "Rejoicer & Eyal Talmudi",
-          "album": "The Audience",
-          "listen_count": 28,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-11-22T13:46:08Z"
-        },
-        {
           "artist": "Time Grove",
           "album": "More Than One Thing",
           "listen_count": 23,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-11-23T20:40:40Z"
+        },
+        {
+          "artist": "Rejoicer & Eyal Talmudi",
+          "album": "The Audience",
+          "listen_count": 18,
+          "unique_tracks": 10,
+          "last_listened_at_utc": "2026-11-22T13:46:08Z"
         },
         {
           "artist": "Buttering Trio",
@@ -187,13 +183,6 @@
           "last_listened_at_utc": "2026-11-22T14:45:23Z"
         },
         {
-          "artist": "Rejoicer",
-          "album": "California Space Craft",
-          "listen_count": 10,
-          "unique_tracks": 10,
-          "last_listened_at_utc": "2026-11-17T21:20:59Z"
-        },
-        {
           "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
           "album": "New Moves",
           "listen_count": 9,
@@ -206,6 +195,13 @@
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-11-20T20:19:21Z"
+        },
+        {
+          "artist": "Rejoicer",
+          "album": "California Space Craft",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-17T21:20:59Z"
         },
         {
           "artist": "Rejoicer",
@@ -227,13 +223,6 @@
           "listen_count": 7,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-11-21T21:34:28Z"
-        },
-        {
-          "artist": "Amir Bresler",
-          "album": "See What Happens",
-          "listen_count": 5,
-          "unique_tracks": 5,
-          "last_listened_at_utc": "2026-11-17T20:04:51Z"
         },
         {
           "artist": "Anouar Brahem",
@@ -378,9 +367,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 679,
-      "unique_artists": 109,
-      "unique_albums": 118,
+      "listen_count": 647,
+      "unique_artists": 102,
+      "unique_albums": 111,
       "listens_without_album": 0,
       "artists": [
         {
@@ -420,10 +409,6 @@
           "listen_count": 21
         },
         {
-          "artist": "Cortex",
-          "listen_count": 13
-        },
-        {
           "artist": "Buttering Trio",
           "listen_count": 12
         },
@@ -456,10 +441,6 @@
           "listen_count": 11
         },
         {
-          "artist": "Ahmad Jamal Trio",
-          "listen_count": 10
-        },
-        {
           "artist": "Alon Aboutboul",
           "listen_count": 10
         },
@@ -476,11 +457,11 @@
           "listen_count": 9
         },
         {
-          "artist": "Arooj Aftab",
+          "artist": "Ahmad Jamal Trio",
           "listen_count": 8
         },
         {
-          "artist": "Cymande",
+          "artist": "Arooj Aftab",
           "listen_count": 8
         },
         {
@@ -552,10 +533,6 @@
           "listen_count": 4
         },
         {
-          "artist": "Olivia Rodrigo",
-          "listen_count": 4
-        },
-        {
           "artist": "Taeko Onuki",
           "listen_count": 4
         },
@@ -569,10 +546,6 @@
         },
         {
           "artist": "Joshua Redman",
-          "listen_count": 3
-        },
-        {
-          "artist": "Julian Lage",
           "listen_count": 3
         },
         {
@@ -608,6 +581,10 @@
           "listen_count": 2
         },
         {
+          "artist": "Julian Lage",
+          "listen_count": 2
+        },
+        {
           "artist": "Tatran & Eyal Talmudi",
           "listen_count": 2
         },
@@ -621,10 +598,6 @@
         },
         {
           "artist": "Ben Sidran / Johnny Griffin / Jimmy Woode / Ben Riley",
-          "listen_count": 1
-        },
-        {
-          "artist": "Cameron Winter",
           "listen_count": 1
         },
         {
@@ -677,10 +650,6 @@
         },
         {
           "artist": "JJ Whitefield",
-          "listen_count": 1
-        },
-        {
-          "artist": "Janko Nilović",
           "listen_count": 1
         },
         {
@@ -752,10 +721,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Ricardo Marrero",
-          "listen_count": 1
-        },
-        {
           "artist": "Robert Palmer",
           "listen_count": 1
         },
@@ -781,10 +746,6 @@
         },
         {
           "artist": "Terence Blanchard",
-          "listen_count": 1
-        },
-        {
-          "artist": "The Avalanches",
           "listen_count": 1
         },
         {
@@ -899,13 +860,6 @@
           "last_listened_at_utc": "2026-11-21T20:45:59Z"
         },
         {
-          "artist": "Cortex",
-          "album": "Troupeau bleu",
-          "listen_count": 13,
-          "unique_tracks": 13,
-          "last_listened_at_utc": "2026-10-25T12:58:33Z"
-        },
-        {
           "artist": "Rejoicer",
           "album": "While You Are There",
           "listen_count": 13,
@@ -976,13 +930,6 @@
           "last_listened_at_utc": "2026-10-26T23:29:34Z"
         },
         {
-          "artist": "Ahmad Jamal Trio",
-          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
-          "listen_count": 10,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-20T20:19:21Z"
-        },
-        {
           "artist": "Alon Aboutboul",
           "album": "Footprints on Water",
           "listen_count": 10,
@@ -1018,18 +965,18 @@
           "last_listened_at_utc": "2026-11-22T22:56:26Z"
         },
         {
+          "artist": "Ahmad Jamal Trio",
+          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+          "listen_count": 8,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-20T20:19:21Z"
+        },
+        {
           "artist": "Arooj Aftab",
           "album": "Vulture Prince (Deluxe Edition)",
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-11-03T18:58:23Z"
-        },
-        {
-          "artist": "Cymande",
-          "album": "Cymande",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-10-25T16:21:18Z"
         },
         {
           "artist": "Grace Jones",
@@ -1144,13 +1091,6 @@
           "last_listened_at_utc": "2026-10-28T23:25:14Z"
         },
         {
-          "artist": "Olivia Rodrigo",
-          "album": "SOUR",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-24T23:38:51Z"
-        },
-        {
           "artist": "Taeko Onuki",
           "album": "Mignonne (Mastered by Bernie Grundman)",
           "listen_count": 4,
@@ -1177,13 +1117,6 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-11-22T13:55:09Z"
-        },
-        {
-          "artist": "Julian Lage",
-          "album": "Scenes From Above",
-          "listen_count": 3,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-11-08T01:40:51Z"
         },
         {
           "artist": "Kimiko Kasai & Kosuke Mine Quartet",
@@ -1263,6 +1196,13 @@
           "last_listened_at_utc": "2026-11-22T14:07:34Z"
         },
         {
+          "artist": "Julian Lage",
+          "album": "Scenes From Above",
+          "listen_count": 2,
+          "unique_tracks": 2,
+          "last_listened_at_utc": "2026-11-08T01:40:51Z"
+        },
+        {
           "artist": "Rejoicer",
           "album": "Voodoo at Home",
           "listen_count": 2,
@@ -1296,13 +1236,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-11T02:01:08Z"
-        },
-        {
-          "artist": "Cameron Winter",
-          "album": "Live at Carnegie Hall",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-24T23:23:35Z"
         },
         {
           "artist": "Cartoons",
@@ -1394,13 +1327,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-23T00:06:53Z"
-        },
-        {
-          "artist": "Janko Nilović",
-          "album": "Chorus",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-25T13:01:26Z"
         },
         {
           "artist": "Jeffery Smith",
@@ -1522,13 +1448,6 @@
           "last_listened_at_utc": "2026-11-23T00:09:10Z"
         },
         {
-          "artist": "Ricardo Marrero",
-          "album": "Time",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-25T13:04:39Z"
-        },
-        {
           "artist": "Robert Palmer",
           "album": "Clues (Expanded Edition)",
           "listen_count": 1,
@@ -1583,13 +1502,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-11T22:23:54Z"
-        },
-        {
-          "artist": "The Avalanches",
-          "album": "No Bad Memories",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-24T23:22:34Z"
         },
         {
           "artist": "The Blue Nile",
@@ -5138,7 +5050,8 @@
         "release_group_mbid": "3b5e28a5-d63d-4272-a937-e886e07bc41c"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5156,7 +5069,8 @@
         "release_group_mbid": "3b5e28a5-d63d-4272-a937-e886e07bc41c"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5174,7 +5088,8 @@
         "release_group_mbid": "3b5e28a5-d63d-4272-a937-e886e07bc41c"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5192,7 +5107,8 @@
         "release_group_mbid": "3b5e28a5-d63d-4272-a937-e886e07bc41c"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5205,10 +5121,13 @@
         "artist_mbids": [
           "75327924-74e1-404b-abef-93c45727964b"
         ],
-        "release_mbid": "2f2d7ac6-0423-48f8-b63d-7abb371801a9"
+        "release_mbid": "2f2d7ac6-0423-48f8-b63d-7abb371801a9",
+        "recording_mbid": "39eadd4c-c12c-4f99-af6e-722d43c7f787",
+        "release_group_mbid": "3b5e28a5-d63d-4272-a937-e886e07bc41c"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5226,7 +5145,8 @@
         "release_group_mbid": "3b5e28a5-d63d-4272-a937-e886e07bc41c"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5244,7 +5164,8 @@
         "release_group_mbid": "3b5e28a5-d63d-4272-a937-e886e07bc41c"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5262,7 +5183,8 @@
         "release_group_mbid": "3b5e28a5-d63d-4272-a937-e886e07bc41c"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5280,7 +5202,8 @@
         "release_group_mbid": "3b5e28a5-d63d-4272-a937-e886e07bc41c"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5298,7 +5221,8 @@
         "release_group_mbid": "3b5e28a5-d63d-4272-a937-e886e07bc41c"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5316,7 +5240,8 @@
         "release_group_mbid": "3b5e28a5-d63d-4272-a937-e886e07bc41c"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
@@ -5334,7 +5259,8 @@
         "release_group_mbid": "a87e1a79-a005-41df-9e24-7b1b2306b8a6"
       },
       "submission_clients": [
-        "Roon"
+        "Roon",
+        "ListenBrainz lastfm importer v2"
       ]
     },
     {
