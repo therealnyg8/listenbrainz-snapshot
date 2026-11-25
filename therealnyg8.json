@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-24T20:13:53Z",
+  "generated_at_utc": "2026-11-25T19:25:40Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-26T20:13:53Z",
-    "through_utc": "2026-11-24T20:13:53Z",
+    "from_utc": "2026-08-27T19:25:40Z",
+    "through_utc": "2026-11-25T19:25:40Z",
     "complete": true,
     "pages_fetched": 4,
     "max_pages": 10,
-    "raw_listen_count": 3440,
-    "deduplicated_listen_count": 1987,
-    "duplicates_removed": 1453,
+    "raw_listen_count": 3450,
+    "deduplicated_listen_count": 1992,
+    "duplicates_removed": 1458,
     "oldest_listen_utc": "2026-09-01T18:40:11Z",
-    "newest_listen_utc": "2026-11-23T20:40:40Z"
+    "newest_listen_utc": "2026-11-24T21:38:26Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,18 +28,14 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 154,
-      "unique_artists": 28,
+      "listen_count": 142,
+      "unique_artists": 30,
       "unique_albums": 31,
       "listens_without_album": 0,
       "artists": [
         {
           "artist": "Time Grove",
           "listen_count": 23
-        },
-        {
-          "artist": "Rejoicer",
-          "listen_count": 18
         },
         {
           "artist": "Rejoicer & Eyal Talmudi",
@@ -54,12 +50,12 @@
           "listen_count": 11
         },
         {
-          "artist": "Alon Aboutboul",
-          "listen_count": 10
+          "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
+          "listen_count": 11
         },
         {
-          "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
-          "listen_count": 9
+          "artist": "Alon Aboutboul",
+          "listen_count": 10
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -98,11 +94,19 @@
           "listen_count": 2
         },
         {
+          "artist": "Rejoicer",
+          "listen_count": 2
+        },
+        {
           "artist": "Tatran & Eyal Talmudi",
           "listen_count": 2
         },
         {
           "artist": "Bacao Rhythm & Steel Band",
+          "listen_count": 1
+        },
+        {
+          "artist": "Ingrid Laubrock's Sleepthief",
           "listen_count": 1
         },
         {
@@ -122,6 +126,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Obradovic-Tixier Duo",
+          "listen_count": 1
+        },
+        {
           "artist": "Project Gemini",
           "listen_count": 1
         },
@@ -138,11 +146,11 @@
           "listen_count": 1
         },
         {
-          "artist": "Youssou N'Dour & Le Super Étoile de Dakar",
+          "artist": "Xavier Belin / Baptiste Poulin",
           "listen_count": 1
         },
         {
-          "artist": "אסף תלמודי / יונתן אלבלק / Shuli Rand / רביד כחלני / שי צברי",
+          "artist": "Youssou N'Dour & Le Super Étoile de Dakar",
           "listen_count": 1
         }
       ],
@@ -176,6 +184,13 @@
           "last_listened_at_utc": "2026-11-21T19:38:48Z"
         },
         {
+          "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
+          "album": "New Moves",
+          "listen_count": 11,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-11-24T21:38:26Z"
+        },
+        {
           "artist": "Alon Aboutboul",
           "album": "Footprints on Water",
           "listen_count": 10,
@@ -183,32 +198,11 @@
           "last_listened_at_utc": "2026-11-22T14:45:23Z"
         },
         {
-          "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
-          "album": "New Moves",
-          "listen_count": 9,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-11-22T22:56:26Z"
-        },
-        {
           "artist": "Ahmad Jamal Trio",
           "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
           "listen_count": 8,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-11-20T20:19:21Z"
-        },
-        {
-          "artist": "Rejoicer",
-          "album": "California Space Craft",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-17T21:20:59Z"
-        },
-        {
-          "artist": "Rejoicer",
-          "album": "While You Are There",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-17T21:56:42Z"
         },
         {
           "artist": "Yehezkel Raz / Claudio Constantini",
@@ -295,6 +289,13 @@
           "last_listened_at_utc": "2026-11-22T23:50:57Z"
         },
         {
+          "artist": "Ingrid Laubrock's Sleepthief",
+          "album": "Sleepthief",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-24T20:23:20Z"
+        },
+        {
           "artist": "JJ Whitefield",
           "album": "Brother All Alone",
           "listen_count": 1,
@@ -321,6 +322,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-22T23:45:27Z"
+        },
+        {
+          "artist": "Obradovic-Tixier Duo",
+          "album": "Jiggled Juggler",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-24T20:40:14Z"
         },
         {
           "artist": "Project Gemini",
@@ -351,25 +359,25 @@
           "last_listened_at_utc": "2026-11-23T00:03:54Z"
         },
         {
+          "artist": "Xavier Belin / Baptiste Poulin",
+          "album": "Crossing - Digression",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-24T20:33:52Z"
+        },
+        {
           "artist": "Youssou N'Dour & Le Super Étoile de Dakar",
           "album": "Immigrés",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-22T13:58:44Z"
-        },
-        {
-          "artist": "אסף תלמודי / יונתן אלבלק / Shuli Rand / רביד כחלני / שי צברי",
-          "album": "הללו (מתוך הסרט \"אגדת חורבן\")",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-17T21:24:22Z"
         }
       ]
     },
     "last_30_days": {
-      "listen_count": 647,
-      "unique_artists": 102,
-      "unique_albums": 111,
+      "listen_count": 638,
+      "unique_artists": 103,
+      "unique_albums": 112,
       "listens_without_album": 0,
       "artists": [
         {
@@ -406,7 +414,7 @@
         },
         {
           "artist": "Anouar Brahem",
-          "listen_count": 21
+          "listen_count": 20
         },
         {
           "artist": "Buttering Trio",
@@ -421,10 +429,6 @@
           "listen_count": 12
         },
         {
-          "artist": "The Roots",
-          "listen_count": 12
-        },
-        {
           "artist": "Thee Sacred Souls",
           "listen_count": 12
         },
@@ -434,6 +438,10 @@
         },
         {
           "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
+          "listen_count": 11
+        },
+        {
+          "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
           "listen_count": 11
         },
         {
@@ -451,10 +459,6 @@
         {
           "artist": "The Raconteurs",
           "listen_count": 10
-        },
-        {
-          "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
-          "listen_count": 9
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -601,10 +605,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Cartoons",
-          "listen_count": 1
-        },
-        {
           "artist": "Chantal Chamberland",
           "listen_count": 1
         },
@@ -642,6 +642,10 @@
         },
         {
           "artist": "Hugh Masekela",
+          "listen_count": 1
+        },
+        {
+          "artist": "Ingrid Laubrock's Sleepthief",
           "listen_count": 1
         },
         {
@@ -709,6 +713,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Obradovic-Tixier Duo",
+          "listen_count": 1
+        },
+        {
           "artist": "Patricia Barber",
           "listen_count": 1
         },
@@ -773,6 +781,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Xavier Belin / Baptiste Poulin",
+          "listen_count": 1
+        },
+        {
           "artist": "Youssou N'Dour & Le Super Étoile de Dakar",
           "listen_count": 1
         },
@@ -811,13 +823,6 @@
           "last_listened_at_utc": "2026-11-23T20:40:40Z"
         },
         {
-          "artist": "Anouar Brahem",
-          "album": "The Astounding Eyes Of Rita",
-          "listen_count": 21,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-23T18:29:14Z"
-        },
-        {
           "artist": "Diana Krall",
           "album": "Live in Paris",
           "listen_count": 21,
@@ -830,6 +835,13 @@
           "listen_count": 21,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-11-02T21:46:48Z"
+        },
+        {
+          "artist": "Anouar Brahem",
+          "album": "The Astounding Eyes Of Rita",
+          "listen_count": 20,
+          "unique_tracks": 8,
+          "last_listened_at_utc": "2026-11-23T18:29:14Z"
         },
         {
           "artist": "Rejoicer",
@@ -895,13 +907,6 @@
           "last_listened_at_utc": "2026-11-11T00:47:35Z"
         },
         {
-          "artist": "The Roots",
-          "album": "Things Fall Apart (Deluxe Edition)",
-          "listen_count": 12,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-26T13:39:15Z"
-        },
-        {
           "artist": "Thee Sacred Souls",
           "album": "Got a Story to Tell",
           "listen_count": 12,
@@ -921,6 +926,13 @@
           "listen_count": 11,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-11-15T20:58:33Z"
+        },
+        {
+          "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
+          "album": "New Moves",
+          "listen_count": 11,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-11-24T21:38:26Z"
         },
         {
           "artist": "The Zombies",
@@ -956,13 +968,6 @@
           "listen_count": 9,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-11-12T22:03:00Z"
-        },
-        {
-          "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
-          "album": "New Moves",
-          "listen_count": 9,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-11-22T22:56:26Z"
         },
         {
           "artist": "Ahmad Jamal Trio",
@@ -1238,13 +1243,6 @@
           "last_listened_at_utc": "2026-11-11T02:01:08Z"
         },
         {
-          "artist": "Cartoons",
-          "album": "Witch Doctor",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-25T23:11:30Z"
-        },
-        {
           "artist": "Chantal Chamberland",
           "album": "Temptation",
           "listen_count": 1,
@@ -1313,6 +1311,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-03T00:23:30Z"
+        },
+        {
+          "artist": "Ingrid Laubrock's Sleepthief",
+          "album": "Sleepthief",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-24T20:23:20Z"
         },
         {
           "artist": "Isao Suzuki Trio / Quartet",
@@ -1425,6 +1430,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-16T18:42:10Z"
+        },
+        {
+          "artist": "Obradovic-Tixier Duo",
+          "album": "Jiggled Juggler",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-24T20:40:14Z"
         },
         {
           "artist": "Patricia Barber",
@@ -1546,6 +1558,13 @@
           "last_listened_at_utc": "2026-11-23T00:03:54Z"
         },
         {
+          "artist": "Xavier Belin / Baptiste Poulin",
+          "album": "Crossing - Digression",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-24T20:33:52Z"
+        },
+        {
           "artist": "Youssou N'Dour & Le Super Étoile de Dakar",
           "album": "Immigrés",
           "listen_count": 1,
@@ -1562,9 +1581,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1987,
-      "unique_artists": 281,
-      "unique_albums": 334,
+      "listen_count": 1992,
+      "unique_artists": 284,
+      "unique_albums": 337,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1764,6 +1783,10 @@
           "listen_count": 11
         },
         {
+          "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
+          "listen_count": 11
+        },
+        {
           "artist": "The Zombies",
           "listen_count": 11
         },
@@ -1809,10 +1832,6 @@
         },
         {
           "artist": "Little Simz",
-          "listen_count": 9
-        },
-        {
-          "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
           "listen_count": 9
         },
         {
@@ -2328,6 +2347,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Ingrid Laubrock's Sleepthief",
+          "listen_count": 1
+        },
+        {
           "artist": "JJ Whitefield",
           "listen_count": 1
         },
@@ -2445,6 +2468,10 @@
         },
         {
           "artist": "New Fossils",
+          "listen_count": 1
+        },
+        {
+          "artist": "Obradovic-Tixier Duo",
           "listen_count": 1
         },
         {
@@ -2629,6 +2656,10 @@
         },
         {
           "artist": "Wolf Alice",
+          "listen_count": 1
+        },
+        {
+          "artist": "Xavier Belin / Baptiste Poulin",
           "listen_count": 1
         },
         {
@@ -3093,6 +3124,13 @@
           "last_listened_at_utc": "2026-11-15T20:58:33Z"
         },
         {
+          "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
+          "album": "New Moves",
+          "listen_count": 11,
+          "unique_tracks": 9,
+          "last_listened_at_utc": "2026-11-24T21:38:26Z"
+        },
+        {
           "artist": "The Zombies",
           "album": "Odessey and Oracle (Mono Remastered)",
           "listen_count": 11,
@@ -3210,13 +3248,6 @@
           "listen_count": 9,
           "unique_tracks": 9,
           "last_listened_at_utc": "2026-09-03T23:13:06Z"
-        },
-        {
-          "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
-          "album": "New Moves",
-          "listen_count": 9,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-11-22T22:56:26Z"
         },
         {
           "artist": "Sonny Rollins",
@@ -4297,6 +4328,13 @@
           "last_listened_at_utc": "2026-09-19T19:53:22Z"
         },
         {
+          "artist": "Ingrid Laubrock's Sleepthief",
+          "album": "Sleepthief",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-24T20:23:20Z"
+        },
+        {
           "artist": "JJ Whitefield",
           "album": "Brother All Alone",
           "listen_count": 1,
@@ -4526,6 +4564,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-16T18:42:10Z"
+        },
+        {
+          "artist": "Obradovic-Tixier Duo",
+          "album": "Jiggled Juggler",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-24T20:40:14Z"
         },
         {
           "artist": "Oliver Nelson",
@@ -4913,6 +4958,13 @@
           "last_listened_at_utc": "2026-10-16T19:13:02Z"
         },
         {
+          "artist": "Xavier Belin / Baptiste Poulin",
+          "album": "Crossing - Digression",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-24T20:33:52Z"
+        },
+        {
           "artist": "Yellow Magic Orchestra",
           "album": "Solid State Survivor",
           "listen_count": 1,
@@ -5036,6 +5088,91 @@
   },
   "recent_listens": [
     {
+      "listened_at": 1795556306,
+      "listened_at_utc": "2026-11-24T21:38:26Z",
+      "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
+      "track": "I Brought Some Charts",
+      "album": "New Moves",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a468d72e-0552-4836-8362-356e5d507592",
+          "26726dd7-cfd9-41c2-a0f5-b6207ad0d75e",
+          "c382715f-688c-430f-9fcf-da888714a080"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795553209,
+      "listened_at_utc": "2026-11-24T20:46:49Z",
+      "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
+      "track": "She Said",
+      "album": "New Moves",
+      "musicbrainz": {
+        "artist_mbids": [
+          "a468d72e-0552-4836-8362-356e5d507592",
+          "26726dd7-cfd9-41c2-a0f5-b6207ad0d75e",
+          "c382715f-688c-430f-9fcf-da888714a080"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795552814,
+      "listened_at_utc": "2026-11-24T20:40:14Z",
+      "artist": "Obradovic-Tixier Duo",
+      "track": "Delhi's Dream",
+      "album": "Jiggled Juggler",
+      "musicbrainz": {
+        "artist_mbids": [
+          "f6ae89e0-3173-463b-9b0f-eddd3a8741f3"
+        ],
+        "recording_mbid": "c655a543-6f0b-469c-9c67-904ed396a87b",
+        "release_mbid": "5442f5f1-f288-46d3-a26e-9a28df7585ef",
+        "release_group_mbid": "1c92f6f2-b34b-441f-be4c-170299f63cb9"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795552432,
+      "listened_at_utc": "2026-11-24T20:33:52Z",
+      "artist": "Xavier Belin / Baptiste Poulin",
+      "track": "Arquer bô lanmè",
+      "album": "Crossing - Digression",
+      "musicbrainz": {},
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795551800,
+      "listened_at_utc": "2026-11-24T20:23:20Z",
+      "artist": "Ingrid Laubrock's Sleepthief",
+      "track": "Sleepthief",
+      "album": "Sleepthief",
+      "musicbrainz": {
+        "artist_mbids": [
+          "dfcd737c-e03f-4739-9889-158ac34df367",
+          "699511ee-0e34-401c-b1d5-b6711e94db20",
+          "3f437693-4f12-4500-9859-55b1deebbf8b"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
       "listened_at": 1795466440,
       "listened_at_utc": "2026-11-23T20:40:40Z",
       "artist": "Time Grove",
@@ -5121,8 +5258,8 @@
         "artist_mbids": [
           "75327924-74e1-404b-abef-93c45727964b"
         ],
-        "release_mbid": "2f2d7ac6-0423-48f8-b63d-7abb371801a9",
         "recording_mbid": "39eadd4c-c12c-4f99-af6e-722d43c7f787",
+        "release_mbid": "549edfb1-ccb3-475d-bfca-ae9fd89b767b",
         "release_group_mbid": "3b5e28a5-d63d-4272-a937-e886e07bc41c"
       },
       "submission_clients": [
