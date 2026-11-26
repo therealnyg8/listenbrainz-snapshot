@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-25T19:25:40Z",
+  "generated_at_utc": "2026-11-26T19:08:39Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-27T19:25:40Z",
-    "through_utc": "2026-11-25T19:25:40Z",
+    "from_utc": "2026-08-28T19:08:39Z",
+    "through_utc": "2026-11-26T19:08:39Z",
     "complete": true,
     "pages_fetched": 4,
     "max_pages": 10,
@@ -375,9 +375,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 638,
-      "unique_artists": 103,
-      "unique_albums": 112,
+      "listen_count": 617,
+      "unique_artists": 101,
+      "unique_albums": 110,
       "listens_without_album": 0,
       "artists": [
         {
@@ -445,19 +445,11 @@
           "listen_count": 11
         },
         {
-          "artist": "The Zombies",
-          "listen_count": 11
-        },
-        {
           "artist": "Alon Aboutboul",
           "listen_count": 10
         },
         {
           "artist": "Funkadelic",
-          "listen_count": 10
-        },
-        {
-          "artist": "The Raconteurs",
           "listen_count": 10
         },
         {
@@ -693,10 +685,6 @@
           "listen_count": 1
         },
         {
-          "artist": "Metric",
-          "listen_count": 1
-        },
-        {
           "artist": "Metropole Orkest/Vince Mendoza",
           "listen_count": 1
         },
@@ -762,6 +750,10 @@
         },
         {
           "artist": "The Breathing Effect",
+          "listen_count": 1
+        },
+        {
+          "artist": "The Raconteurs",
           "listen_count": 1
         },
         {
@@ -935,13 +927,6 @@
           "last_listened_at_utc": "2026-11-24T21:38:26Z"
         },
         {
-          "artist": "The Zombies",
-          "album": "Odessey and Oracle (Mono Remastered)",
-          "listen_count": 11,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-10-26T23:29:34Z"
-        },
-        {
           "artist": "Alon Aboutboul",
           "album": "Footprints on Water",
           "listen_count": 10,
@@ -954,13 +939,6 @@
           "listen_count": 10,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-10-31T18:11:35Z"
-        },
-        {
-          "artist": "The Raconteurs",
-          "album": "Consolers of the Lonely",
-          "listen_count": 10,
-          "unique_tracks": 9,
-          "last_listened_at_utc": "2026-10-27T19:50:08Z"
         },
         {
           "artist": "Bob Dylan",
@@ -1397,13 +1375,6 @@
           "last_listened_at_utc": "2026-11-11T21:59:37Z"
         },
         {
-          "artist": "Metric",
-          "album": "Live It Out",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-27T13:00:42Z"
-        },
-        {
           "artist": "Metropole Orkest/Vince Mendoza",
           "album": "Perfect Vision: The Esquivel Sound",
           "listen_count": 1,
@@ -1528,6 +1499,13 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-22T23:54:47Z"
+        },
+        {
+          "artist": "The Raconteurs",
+          "album": "Consolers of the Lonely",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-10-27T19:50:08Z"
         },
         {
           "artist": "Tingvall Trio",
