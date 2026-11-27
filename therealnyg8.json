@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-26T19:08:39Z",
+  "generated_at_utc": "2026-11-27T19:03:41Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-28T19:08:39Z",
-    "through_utc": "2026-11-26T19:08:39Z",
+    "from_utc": "2026-08-29T19:03:41Z",
+    "through_utc": "2026-11-27T19:03:41Z",
     "complete": true,
     "pages_fetched": 4,
     "max_pages": 10,
-    "raw_listen_count": 3450,
-    "deduplicated_listen_count": 1992,
-    "duplicates_removed": 1458,
+    "raw_listen_count": 3464,
+    "deduplicated_listen_count": 1999,
+    "duplicates_removed": 1465,
     "oldest_listen_utc": "2026-09-01T18:40:11Z",
-    "newest_listen_utc": "2026-11-24T21:38:26Z"
+    "newest_listen_utc": "2026-11-27T13:27:49Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -29,8 +29,8 @@
   "aggregates": {
     "last_7_days": {
       "listen_count": 142,
-      "unique_artists": 30,
-      "unique_albums": 31,
+      "unique_artists": 31,
+      "unique_albums": 33,
       "listens_without_album": 0,
       "artists": [
         {
@@ -43,7 +43,7 @@
         },
         {
           "artist": "Buttering Trio",
-          "listen_count": 12
+          "listen_count": 16
         },
         {
           "artist": "Eyal Talmudi/ Roy Chen",
@@ -56,10 +56,6 @@
         {
           "artist": "Alon Aboutboul",
           "listen_count": 10
-        },
-        {
-          "artist": "Ahmad Jamal Trio",
-          "listen_count": 8
         },
         {
           "artist": "Yehezkel Raz / Claudio Constantini",
@@ -86,6 +82,10 @@
           "listen_count": 3
         },
         {
+          "artist": "Nahokimama",
+          "listen_count": 3
+        },
+        {
           "artist": "Dan Mayo & Yehezkel Raz",
           "listen_count": 2
         },
@@ -100,6 +100,10 @@
         {
           "artist": "Tatran & Eyal Talmudi",
           "listen_count": 2
+        },
+        {
+          "artist": "Ahmad Jamal Trio",
+          "listen_count": 1
         },
         {
           "artist": "Bacao Rhythm & Steel Band",
@@ -198,13 +202,6 @@
           "last_listened_at_utc": "2026-11-22T14:45:23Z"
         },
         {
-          "artist": "Ahmad Jamal Trio",
-          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
-          "listen_count": 8,
-          "unique_tracks": 8,
-          "last_listened_at_utc": "2026-11-20T20:19:21Z"
-        },
-        {
           "artist": "Yehezkel Raz / Claudio Constantini",
           "album": "Elsewhere",
           "listen_count": 8,
@@ -217,6 +214,13 @@
           "listen_count": 7,
           "unique_tracks": 6,
           "last_listened_at_utc": "2026-11-21T21:34:28Z"
+        },
+        {
+          "artist": "Buttering Trio",
+          "album": "Threesome",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-11-27T13:27:49Z"
         },
         {
           "artist": "Anouar Brahem",
@@ -238,6 +242,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-11-22T13:55:09Z"
+        },
+        {
+          "artist": "Nahokimama",
+          "album": "Kyōdō, Pt. 2",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-11-27T13:14:14Z"
         },
         {
           "artist": "Dan Mayo & Yehezkel Raz",
@@ -280,6 +291,13 @@
           "listen_count": 2,
           "unique_tracks": 2,
           "last_listened_at_utc": "2026-11-21T19:44:28Z"
+        },
+        {
+          "artist": "Ahmad Jamal Trio",
+          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-20T20:19:21Z"
         },
         {
           "artist": "Bacao Rhythm & Steel Band",
@@ -375,8 +393,8 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 617,
-      "unique_artists": 101,
+      "listen_count": 619,
+      "unique_artists": 100,
       "unique_albums": 110,
       "listens_without_album": 0,
       "artists": [
@@ -418,7 +436,7 @@
         },
         {
           "artist": "Buttering Trio",
-          "listen_count": 12
+          "listen_count": 16
         },
         {
           "artist": "Fine",
@@ -517,10 +535,6 @@
           "listen_count": 5
         },
         {
-          "artist": "Djo",
-          "listen_count": 4
-        },
-        {
           "artist": "Eyal Talmudi",
           "listen_count": 4
         },
@@ -546,6 +560,10 @@
         },
         {
           "artist": "Kimiko Kasai & Kosuke Mine Quartet",
+          "listen_count": 3
+        },
+        {
+          "artist": "Nahokimama",
           "listen_count": 3
         },
         {
@@ -750,10 +768,6 @@
         },
         {
           "artist": "The Breathing Effect",
-          "listen_count": 1
-        },
-        {
-          "artist": "The Raconteurs",
           "listen_count": 1
         },
         {
@@ -1060,11 +1074,11 @@
           "last_listened_at_utc": "2026-11-05T19:47:52Z"
         },
         {
-          "artist": "Djo",
-          "album": "The Crux Deluxe",
+          "artist": "Buttering Trio",
+          "album": "Threesome",
           "listen_count": 4,
           "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-27T21:25:32Z"
+          "last_listened_at_utc": "2026-11-27T13:27:49Z"
         },
         {
           "artist": "Hailu Mergia",
@@ -1107,6 +1121,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-11-07T23:45:36Z"
+        },
+        {
+          "artist": "Nahokimama",
+          "album": "Kyōdō, Pt. 2",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-11-27T13:14:14Z"
         },
         {
           "artist": "Soul Coughing",
@@ -1501,13 +1522,6 @@
           "last_listened_at_utc": "2026-11-22T23:54:47Z"
         },
         {
-          "artist": "The Raconteurs",
-          "album": "Consolers of the Lonely",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-27T19:50:08Z"
-        },
-        {
           "artist": "Tingvall Trio",
           "album": "Beat",
           "listen_count": 1,
@@ -1559,9 +1573,9 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1992,
-      "unique_artists": 284,
-      "unique_albums": 337,
+      "listen_count": 1999,
+      "unique_artists": 285,
+      "unique_albums": 339,
       "listens_without_album": 0,
       "artists": [
         {
@@ -1669,6 +1683,10 @@
           "listen_count": 17
         },
         {
+          "artist": "Buttering Trio",
+          "listen_count": 16
+        },
+        {
           "artist": "John Coltrane Quartet",
           "listen_count": 16
         },
@@ -1718,10 +1736,6 @@
         },
         {
           "artist": "Admas",
-          "listen_count": 12
-        },
-        {
-          "artist": "Buttering Trio",
           "listen_count": 12
         },
         {
@@ -2038,6 +2052,10 @@
         },
         {
           "artist": "Kutiman & DEKEL",
+          "listen_count": 3
+        },
+        {
+          "artist": "Nahokimama",
           "listen_count": 3
         },
         {
@@ -3536,6 +3554,13 @@
           "last_listened_at_utc": "2026-11-05T19:47:52Z"
         },
         {
+          "artist": "Buttering Trio",
+          "album": "Threesome",
+          "listen_count": 4,
+          "unique_tracks": 4,
+          "last_listened_at_utc": "2026-11-27T13:27:49Z"
+        },
+        {
           "artist": "Hailu Mergia",
           "album": "Lala Belu",
           "listen_count": 4,
@@ -3716,6 +3741,13 @@
           "listen_count": 3,
           "unique_tracks": 3,
           "last_listened_at_utc": "2026-09-13T20:46:39Z"
+        },
+        {
+          "artist": "Nahokimama",
+          "album": "Kyōdō, Pt. 2",
+          "listen_count": 3,
+          "unique_tracks": 3,
+          "last_listened_at_utc": "2026-11-27T13:14:14Z"
         },
         {
           "artist": "Nala Sinephro",
@@ -5065,6 +5097,130 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1795786069,
+      "listened_at_utc": "2026-11-27T13:27:49Z",
+      "artist": "Buttering Trio",
+      "track": "Unexperienced",
+      "album": "Threesome",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd2120d3-7c64-4390-aafb-ad31ccaaa207"
+        ],
+        "recording_mbid": "eb665193-6c9e-4159-927d-86239fe1b1fd",
+        "release_mbid": "39b3e4ac-4ecb-465b-a1b6-7948aebf3d79",
+        "release_group_mbid": "efc91934-13ef-4180-b9ac-5873a841d2ab"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795785890,
+      "listened_at_utc": "2026-11-27T13:24:50Z",
+      "artist": "Buttering Trio",
+      "track": "Star Shroom",
+      "album": "Threesome",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd2120d3-7c64-4390-aafb-ad31ccaaa207"
+        ],
+        "recording_mbid": "a7b4f224-c13b-4f53-bda9-b2caf7e95f54",
+        "release_mbid": "39b3e4ac-4ecb-465b-a1b6-7948aebf3d79",
+        "release_group_mbid": "efc91934-13ef-4180-b9ac-5873a841d2ab"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795785739,
+      "listened_at_utc": "2026-11-27T13:22:19Z",
+      "artist": "Buttering Trio",
+      "track": "Refugee Song",
+      "album": "Threesome",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd2120d3-7c64-4390-aafb-ad31ccaaa207"
+        ],
+        "recording_mbid": "000ad251-7b7f-41f3-bde0-6c4fd2c9ef0d",
+        "release_mbid": "39b3e4ac-4ecb-465b-a1b6-7948aebf3d79",
+        "release_group_mbid": "efc91934-13ef-4180-b9ac-5873a841d2ab"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795785517,
+      "listened_at_utc": "2026-11-27T13:18:37Z",
+      "artist": "Buttering Trio",
+      "track": "Love in Music",
+      "album": "Threesome",
+      "musicbrainz": {
+        "artist_mbids": [
+          "fd2120d3-7c64-4390-aafb-ad31ccaaa207"
+        ],
+        "recording_mbid": "af12167e-469d-4681-8532-ed0e12e2d602",
+        "release_mbid": "39b3e4ac-4ecb-465b-a1b6-7948aebf3d79",
+        "release_group_mbid": "efc91934-13ef-4180-b9ac-5873a841d2ab"
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795785254,
+      "listened_at_utc": "2026-11-27T13:14:14Z",
+      "artist": "Nahokimama",
+      "track": "Gold 200",
+      "album": "Kyōdō, Pt. 2",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d84c7f51-f8de-4bda-9953-0b950aaf3ec2"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795785094,
+      "listened_at_utc": "2026-11-27T13:11:34Z",
+      "artist": "Nahokimama",
+      "track": "Pale Azure",
+      "album": "Kyōdō, Pt. 2",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d84c7f51-f8de-4bda-9953-0b950aaf3ec2"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795784963,
+      "listened_at_utc": "2026-11-27T13:09:23Z",
+      "artist": "Nahokimama",
+      "track": "Still There",
+      "album": "Kyōdō, Pt. 2",
+      "musicbrainz": {
+        "artist_mbids": [
+          "d84c7f51-f8de-4bda-9953-0b950aaf3ec2"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1795556306,
       "listened_at_utc": "2026-11-24T21:38:26Z",
@@ -27269,8 +27425,8 @@
         "artist_mbids": [
           "f3b8e107-abe8-4743-b6a3-4a4ee995e71f"
         ],
-        "release_mbid": "ca698173-cff6-4532-880a-2b0b704bd44f",
-        "recording_mbid": "0261c1b1-bdc5-4821-8554-a4df6a5a7a7e",
+        "recording_mbid": "86d0fc29-f8b2-437c-a251-ffa53b2d6de5",
+        "release_mbid": "92ec71bf-740d-31a4-84fe-911b316271ba",
         "release_group_mbid": "c31a5e2b-0bf8-32e0-8aeb-ef4ba9973932"
       },
       "submission_clients": [
