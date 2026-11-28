@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
   "user": "therealnyg8",
-  "generated_at_utc": "2026-11-27T19:03:41Z",
+  "generated_at_utc": "2026-11-28T17:39:15Z",
   "source": {
     "profile_url": "https://listenbrainz.org/user/therealnyg8/",
     "api_url": "https://api.listenbrainz.org/1/user/therealnyg8/listens"
   },
   "coverage": {
     "requested_days": 90,
-    "from_utc": "2026-08-29T19:03:41Z",
-    "through_utc": "2026-11-27T19:03:41Z",
+    "from_utc": "2026-08-30T17:39:15Z",
+    "through_utc": "2026-11-28T17:39:15Z",
     "complete": true,
     "pages_fetched": 4,
     "max_pages": 10,
-    "raw_listen_count": 3464,
-    "deduplicated_listen_count": 1999,
-    "duplicates_removed": 1465,
+    "raw_listen_count": 3486,
+    "deduplicated_listen_count": 2010,
+    "duplicates_removed": 1476,
     "oldest_listen_utc": "2026-09-01T18:40:11Z",
-    "newest_listen_utc": "2026-11-27T13:27:49Z"
+    "newest_listen_utc": "2026-11-27T23:07:36Z"
   },
   "counting_notes": [
     "Counts represent track listens, not completed album plays.",
@@ -28,9 +28,9 @@
   ],
   "aggregates": {
     "last_7_days": {
-      "listen_count": 142,
-      "unique_artists": 31,
-      "unique_albums": 33,
+      "listen_count": 133,
+      "unique_artists": 29,
+      "unique_albums": 31,
       "listens_without_album": 0,
       "artists": [
         {
@@ -38,16 +38,16 @@
           "listen_count": 23
         },
         {
-          "artist": "Rejoicer & Eyal Talmudi",
-          "listen_count": 18
+          "artist": "Eyal Talmudi/ Roy Chen",
+          "listen_count": 22
         },
         {
           "artist": "Buttering Trio",
           "listen_count": 16
         },
         {
-          "artist": "Eyal Talmudi/ Roy Chen",
-          "listen_count": 11
+          "artist": "Rejoicer & Eyal Talmudi",
+          "listen_count": 13
         },
         {
           "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
@@ -56,14 +56,6 @@
         {
           "artist": "Alon Aboutboul",
           "listen_count": 10
-        },
-        {
-          "artist": "Yehezkel Raz / Claudio Constantini",
-          "listen_count": 8
-        },
-        {
-          "artist": "Dan Mayo / Yehezkel Raz",
-          "listen_count": 7
         },
         {
           "artist": "Eyal Talmudi",
@@ -102,11 +94,11 @@
           "listen_count": 2
         },
         {
-          "artist": "Ahmad Jamal Trio",
+          "artist": "Bacao Rhythm & Steel Band",
           "listen_count": 1
         },
         {
-          "artist": "Bacao Rhythm & Steel Band",
+          "artist": "Dan Mayo / Yehezkel Raz",
           "listen_count": 1
         },
         {
@@ -115,10 +107,6 @@
         },
         {
           "artist": "JJ Whitefield",
-          "listen_count": 1
-        },
-        {
-          "artist": "Kurt Rosenwinkel",
           "listen_count": 1
         },
         {
@@ -154,6 +142,10 @@
           "listen_count": 1
         },
         {
+          "artist": "Yehezkel Raz / Claudio Constantini",
+          "listen_count": 1
+        },
+        {
           "artist": "Youssou N'Dour & Le Super Étoile de Dakar",
           "listen_count": 1
         }
@@ -167,9 +159,16 @@
           "last_listened_at_utc": "2026-11-23T20:40:40Z"
         },
         {
+          "artist": "Eyal Talmudi/ Roy Chen",
+          "album": "Saved My Eyes From Tears",
+          "listen_count": 22,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-11-27T23:07:36Z"
+        },
+        {
           "artist": "Rejoicer & Eyal Talmudi",
           "album": "The Audience",
-          "listen_count": 18,
+          "listen_count": 13,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-11-22T13:46:08Z"
         },
@@ -179,13 +178,6 @@
           "listen_count": 12,
           "unique_tracks": 12,
           "last_listened_at_utc": "2026-11-22T23:41:52Z"
-        },
-        {
-          "artist": "Eyal Talmudi/ Roy Chen",
-          "album": "Saved My Eyes From Tears",
-          "listen_count": 11,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-11-21T19:38:48Z"
         },
         {
           "artist": "Sol Monk / Tamuz Dekel / Dor Sam",
@@ -200,20 +192,6 @@
           "listen_count": 10,
           "unique_tracks": 10,
           "last_listened_at_utc": "2026-11-22T14:45:23Z"
-        },
-        {
-          "artist": "Yehezkel Raz / Claudio Constantini",
-          "album": "Elsewhere",
-          "listen_count": 8,
-          "unique_tracks": 7,
-          "last_listened_at_utc": "2026-11-21T18:12:17Z"
-        },
-        {
-          "artist": "Dan Mayo / Yehezkel Raz",
-          "album": "ZU",
-          "listen_count": 7,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-11-21T21:34:28Z"
         },
         {
           "artist": "Buttering Trio",
@@ -293,18 +271,18 @@
           "last_listened_at_utc": "2026-11-21T19:44:28Z"
         },
         {
-          "artist": "Ahmad Jamal Trio",
-          "album": "Ahmad Jamal At The Pershing: But Not For Me (Live At The Pershing, Chicago, 1958)",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-20T20:19:21Z"
-        },
-        {
           "artist": "Bacao Rhythm & Steel Band",
           "album": "Expansions",
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-22T23:50:57Z"
+        },
+        {
+          "artist": "Dan Mayo / Yehezkel Raz",
+          "album": "ZU",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-21T21:34:28Z"
         },
         {
           "artist": "Ingrid Laubrock's Sleepthief",
@@ -319,13 +297,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-23T00:06:53Z"
-        },
-        {
-          "artist": "Kurt Rosenwinkel",
-          "album": "The Next Step Band (Live at Smalls, 1996)",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-11-20T20:23:30Z"
         },
         {
           "artist": "Kutiman",
@@ -384,6 +355,13 @@
           "last_listened_at_utc": "2026-11-24T20:33:52Z"
         },
         {
+          "artist": "Yehezkel Raz / Claudio Constantini",
+          "album": "Elsewhere",
+          "listen_count": 1,
+          "unique_tracks": 1,
+          "last_listened_at_utc": "2026-11-21T18:12:17Z"
+        },
+        {
           "artist": "Youssou N'Dour & Le Super Étoile de Dakar",
           "album": "Immigrés",
           "listen_count": 1,
@@ -393,9 +371,9 @@
       ]
     },
     "last_30_days": {
-      "listen_count": 619,
-      "unique_artists": 100,
-      "unique_albums": 110,
+      "listen_count": 604,
+      "unique_artists": 94,
+      "unique_albums": 104,
       "listens_without_album": 0,
       "artists": [
         {
@@ -427,6 +405,10 @@
           "listen_count": 23
         },
         {
+          "artist": "Eyal Talmudi/ Roy Chen",
+          "listen_count": 22
+        },
+        {
           "artist": "Talk Talk",
           "listen_count": 22
         },
@@ -445,14 +427,6 @@
         {
           "artist": "Stan Getz / João Gilberto featuring Antônio Carlos Jobim",
           "listen_count": 12
-        },
-        {
-          "artist": "Thee Sacred Souls",
-          "listen_count": 12
-        },
-        {
-          "artist": "Eyal Talmudi/ Roy Chen",
-          "listen_count": 11
         },
         {
           "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
@@ -511,10 +485,6 @@
           "listen_count": 6
         },
         {
-          "artist": "Miles Davis",
-          "listen_count": 6
-        },
-        {
           "artist": "טונה",
           "listen_count": 6
         },
@@ -536,10 +506,6 @@
         },
         {
           "artist": "Eyal Talmudi",
-          "listen_count": 4
-        },
-        {
-          "artist": "Hailu Mergia",
           "listen_count": 4
         },
         {
@@ -587,10 +553,6 @@
           "listen_count": 2
         },
         {
-          "artist": "Ginger Root",
-          "listen_count": 2
-        },
-        {
           "artist": "Jimi Prasad Orchestra",
           "listen_count": 2
         },
@@ -603,10 +565,6 @@
           "listen_count": 2
         },
         {
-          "artist": "Allen Toussaint",
-          "listen_count": 1
-        },
-        {
           "artist": "Bacao Rhythm & Steel Band",
           "listen_count": 1
         },
@@ -616,10 +574,6 @@
         },
         {
           "artist": "Chantal Chamberland",
-          "listen_count": 1
-        },
-        {
-          "artist": "Childish Gambino",
           "listen_count": 1
         },
         {
@@ -829,6 +783,13 @@
           "last_listened_at_utc": "2026-11-23T20:40:40Z"
         },
         {
+          "artist": "Eyal Talmudi/ Roy Chen",
+          "album": "Saved My Eyes From Tears",
+          "listen_count": 22,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-11-27T23:07:36Z"
+        },
+        {
           "artist": "Diana Krall",
           "album": "Live in Paris",
           "listen_count": 21,
@@ -911,20 +872,6 @@
           "listen_count": 12,
           "unique_tracks": 8,
           "last_listened_at_utc": "2026-11-11T00:47:35Z"
-        },
-        {
-          "artist": "Thee Sacred Souls",
-          "album": "Got a Story to Tell",
-          "listen_count": 12,
-          "unique_tracks": 12,
-          "last_listened_at_utc": "2026-10-28T22:57:32Z"
-        },
-        {
-          "artist": "Eyal Talmudi/ Roy Chen",
-          "album": "Saved My Eyes From Tears",
-          "listen_count": 11,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-11-21T19:38:48Z"
         },
         {
           "artist": "Omer Klein, Haggai Cohen-Milo, Amir Bresler & Omer Klein Trio",
@@ -1032,13 +979,6 @@
           "last_listened_at_utc": "2026-10-31T16:33:39Z"
         },
         {
-          "artist": "Miles Davis",
-          "album": "Kind of Blue",
-          "listen_count": 6,
-          "unique_tracks": 6,
-          "last_listened_at_utc": "2026-10-28T21:03:10Z"
-        },
-        {
           "artist": "טונה",
           "album": "מזרח פרוע",
           "listen_count": 6,
@@ -1079,13 +1019,6 @@
           "listen_count": 4,
           "unique_tracks": 4,
           "last_listened_at_utc": "2026-11-27T13:27:49Z"
-        },
-        {
-          "artist": "Hailu Mergia",
-          "album": "Lala Belu",
-          "listen_count": 4,
-          "unique_tracks": 4,
-          "last_listened_at_utc": "2026-10-28T23:25:14Z"
         },
         {
           "artist": "Taeko Onuki",
@@ -1186,13 +1119,6 @@
           "last_listened_at_utc": "2026-11-21T21:29:01Z"
         },
         {
-          "artist": "Ginger Root",
-          "album": "SHINBANGUMI",
-          "listen_count": 2,
-          "unique_tracks": 2,
-          "last_listened_at_utc": "2026-10-28T22:18:20Z"
-        },
-        {
           "artist": "Jimi Prasad Orchestra",
           "album": "Help With Your Heart",
           "listen_count": 2,
@@ -1221,13 +1147,6 @@
           "last_listened_at_utc": "2026-11-21T19:44:28Z"
         },
         {
-          "artist": "Allen Toussaint",
-          "album": "Southern Nights (2003 Remaster)",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-28T22:15:58Z"
-        },
-        {
           "artist": "Bacao Rhythm & Steel Band",
           "album": "Expansions",
           "listen_count": 1,
@@ -1247,13 +1166,6 @@
           "listen_count": 1,
           "unique_tracks": 1,
           "last_listened_at_utc": "2026-11-03T00:15:55Z"
-        },
-        {
-          "artist": "Childish Gambino",
-          "album": "Bando Stone and The New World",
-          "listen_count": 1,
-          "unique_tracks": 1,
-          "last_listened_at_utc": "2026-10-28T23:00:58Z"
         },
         {
           "artist": "Chuck Redd with John Di Martino, Nicki Parrott, Lewis Nash and Jerry Weldon",
@@ -1573,7 +1485,7 @@
       ]
     },
     "last_90_days": {
-      "listen_count": 1999,
+      "listen_count": 2010,
       "unique_artists": 285,
       "unique_albums": 339,
       "listens_without_album": 0,
@@ -1661,6 +1573,10 @@
         {
           "artist": "Time Grove",
           "listen_count": 23
+        },
+        {
+          "artist": "Eyal Talmudi/ Roy Chen",
+          "listen_count": 22
         },
         {
           "artist": "Talk Talk",
@@ -1756,10 +1672,6 @@
         },
         {
           "artist": "Erykah Badu",
-          "listen_count": 11
-        },
-        {
-          "artist": "Eyal Talmudi/ Roy Chen",
           "listen_count": 11
         },
         {
@@ -2840,6 +2752,13 @@
           "last_listened_at_utc": "2026-09-13T15:27:19Z"
         },
         {
+          "artist": "Eyal Talmudi/ Roy Chen",
+          "album": "Saved My Eyes From Tears",
+          "listen_count": 22,
+          "unique_tracks": 11,
+          "last_listened_at_utc": "2026-11-27T23:07:36Z"
+        },
+        {
           "artist": "טונה",
           "album": "ועכשיו לחלק האינטרגלקטי",
           "listen_count": 22,
@@ -3083,13 +3002,6 @@
           "listen_count": 11,
           "unique_tracks": 11,
           "last_listened_at_utc": "2026-10-03T22:00:58Z"
-        },
-        {
-          "artist": "Eyal Talmudi/ Roy Chen",
-          "album": "Saved My Eyes From Tears",
-          "listen_count": 11,
-          "unique_tracks": 11,
-          "last_listened_at_utc": "2026-11-21T19:38:48Z"
         },
         {
           "artist": "Kikagaku Moyo",
@@ -5097,6 +5009,183 @@
     }
   },
   "recent_listens": [
+    {
+      "listened_at": 1795820856,
+      "listened_at_utc": "2026-11-27T23:07:36Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Grebass",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795820646,
+      "listened_at_utc": "2026-11-27T23:04:06Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "BLA BLA",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795820513,
+      "listened_at_utc": "2026-11-27T23:01:53Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Number 4",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795820346,
+      "listened_at_utc": "2026-11-27T22:59:06Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Pitch Baloon",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795820137,
+      "listened_at_utc": "2026-11-27T22:55:37Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Zargesh",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795818086,
+      "listened_at_utc": "2026-11-27T22:21:26Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Whale Love",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795816351,
+      "listened_at_utc": "2026-11-27T21:52:31Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Dancing to Nothing",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795815513,
+      "listened_at_utc": "2026-11-27T21:38:33Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "MoonLight",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795815326,
+      "listened_at_utc": "2026-11-27T21:35:26Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Feelin' It",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795815120,
+      "listened_at_utc": "2026-11-27T21:32:00Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Saved My Eyes From Tears",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
+    {
+      "listened_at": 1795814929,
+      "listened_at_utc": "2026-11-27T21:28:49Z",
+      "artist": "Eyal Talmudi/ Roy Chen",
+      "track": "Weed Break",
+      "album": "Saved My Eyes From Tears",
+      "musicbrainz": {
+        "artist_mbids": [
+          "11a1a97e-477f-47d2-acf1-56ab98372fe1",
+          "170e99e6-8c85-4508-a176-8ee56b1b545d"
+        ]
+      },
+      "submission_clients": [
+        "Roon",
+        "ListenBrainz lastfm importer v2"
+      ]
+    },
     {
       "listened_at": 1795786069,
       "listened_at_utc": "2026-11-27T13:27:49Z",
@@ -26222,8 +26311,8 @@
           "da8ac8ac-2155-4baa-8605-973175bab92b",
           "e6af0dec-8d2b-47b1-b2fe-6b490f4745d5"
         ],
-        "release_mbid": "0c9f48e8-f79f-427b-b5c4-1d94e84a8625",
         "recording_mbid": "15afb7ed-a390-4dbe-971b-2918e45c9f06",
+        "release_mbid": "9f7f80b7-079e-4b72-af39-aef3402846a8",
         "release_group_mbid": "67bbe328-5544-43cc-930b-9d4f511aafa7"
       },
       "submission_clients": [
